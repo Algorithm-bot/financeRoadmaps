@@ -1,0 +1,87 @@
+{
+  "title": "Trade Finance Specialist",
+  "description": "Roadmap to a career in trade finance: letters of credit, collections, guarantees, and risk.",
+  "category": "Banking & Financial Services",
+  "slug": "trade-finance-specialist",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "trade-basics",
+          "label": "International Trade Basics",
+          "description": "Incoterms, shipping documents, trade cycles.",
+          "bulletPoints": []
+        },
+        {
+          "id": "icc-rules",
+          "label": "ICC Rules",
+          "description": "UCP 600, URC, URDG, ISP98 overview.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Products & Processes",
+      "nodes": [
+        {
+          "id": "letters-of-credit",
+          "label": "Letters of Credit",
+          "description": "Issuance, advising, confirmation, discrepancies.",
+          "bulletPoints": []
+        },
+        {
+          "id": "collections-guarantees",
+          "label": "Collections & Guarantees",
+          "description": "DC/DA, SBLCs, performance & financial guarantees.",
+          "bulletPoints": []
+        },
+        {
+          "id": "supply-chain-finance",
+          "label": "Supply Chain Finance",
+          "description": "Factoring, forfaiting, payables finance.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Risk & Compliance",
+      "nodes": [
+        {
+          "id": "sanctions-aml",
+          "label": "Sanctions & AML",
+          "description": "Screening, red flags, dual-use goods, documentation checks.",
+          "bulletPoints": []
+        },
+        {
+          "id": "country-counterparty-risk",
+          "label": "Country & Counterparty Risk",
+          "description": "Confirming banks, risk participation, insurance (ECAs).",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Digital & Ops",
+      "nodes": [
+        {
+          "id": "digital-trade",
+          "label": "Digital Trade & Fintech",
+          "description": "eBL, blockchain pilots, interoperability.",
+          "bulletPoints": []
+        },
+        {
+          "id": "ops-efficiency",
+          "label": "Operations Efficiency",
+          "description": "STP, SWIFT, exceptions handling, reconciliations.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

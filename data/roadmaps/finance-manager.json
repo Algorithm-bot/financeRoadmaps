@@ -1,0 +1,54 @@
+{
+    "title": "Finance manager",
+    "description": "Pathway to a career in investment banking: skills, tools, and milestones.",
+    "category": "Corporate Finance Roles",
+    "slug": "finance-manager",
+    "stages": [
+      {
+        "title": "Foundations",
+        "nodes": [
+          {
+            "id": "accounting-basics",
+            "label": "Accounting Basics",
+            "description": "Debits/credits, statements, GAAP/IFRS.",
+            "completed": true,
+            "resources": [
+              { "type": "course", "title": "Introduction to Financial Accounting", "url": "https://www.coursera.org/learn/wharton-accounting" }
+            ]
+          },
+          {
+            "id": "excel-and-powerpoint",
+            "label": "Excel & PowerPoint",
+            "description": "Shortcuts, modeling, pitch decks.",
+            "completed": false,
+            "resources": [
+              { "type": "article", "title": "Excel for Finance", "url": "https://www.wallstreetoasis.com/resources/excel/overview" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Core IB Skills",
+        "nodes": [
+          {
+            "id": "valuation-methods",
+            "label": "Valuation Methods",
+            "description": "DCF, comps, precedents.",
+            "resources": [
+              { "type": "article", "title": "Valuation Overview", "url": "https://www.investopedia.com/terms/v/valuation.asp" }
+            ]
+          },
+          {
+            "id": "deal-process",
+            "label": "Deal Process",
+            "description": "M&A lifecycle, IPO basics, due diligence.",
+            "resources": [
+              { "type": "article", "title": "Mergers and Acquisitions", "url": "https://www.investopedia.com/terms/m/mergersandacquisitions.asp" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+  

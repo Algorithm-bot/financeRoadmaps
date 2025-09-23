@@ -1,0 +1,67 @@
+{
+  "title": "Equity Research Analyst",
+  "description": "Roadmap to a career in equity research: industry analysis, valuation, and modeling.",
+  "category": "Capital Markets & Investment",
+  "slug": "equity-research-analyst",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "industry-overview",
+          "label": "Industry Overview",
+          "description": "Sell-side vs buy-side research, coverage universe, research process.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "article", "title": "What Is Equity Research?", "url": "https://www.investopedia.com/articles/financialcareers/08/equity-research.asp" }
+          ]
+        },
+        {
+          "id": "accounting-and-modeling",
+          "label": "Accounting & Modeling",
+          "description": "Linking 3 statements, forecasting drivers, margin analysis.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Valuation & Coverage",
+      "nodes": [
+        {
+          "id": "valuation-techniques",
+          "label": "Valuation Techniques",
+          "description": "DCF, comparables, precedent transactions, sum-of-the-parts.",
+          "bulletPoints": []
+        },
+        {
+          "id": "industry-research",
+          "label": "Industry & Company Research",
+          "description": "TAM/SAM/SOM, competitive analysis, channel checks, management calls.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Publishing & Compliance",
+      "nodes": [
+        {
+          "id": "publishing-reports",
+          "label": "Publishing Research",
+          "description": "Initiation reports, updates, catalysts, investment theses.",
+          "bulletPoints": []
+        },
+        {
+          "id": "compliance-and-chinese-walls",
+          "label": "Compliance & Chinese Walls",
+          "description": "Disclosures, conflicts management, restricted lists.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

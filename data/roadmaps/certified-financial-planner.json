@@ -1,0 +1,90 @@
+{
+  "title": "Certified Financial Planner (CFP)",
+  "description": "Roadmap to becoming a CFP: holistic financial planning, tax, retirement, and ethics.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "certified-financial-planner",
+  "stages": [
+    {
+      "title": "Program Overview",
+      "nodes": [
+        {
+          "id": "cfp-overview",
+          "label": "CFP Certification Overview",
+          "description": "Education, exam, experience, ethics (4Es).",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "CFP Board", "url": "https://www.cfp.net/" }
+          ]
+        },
+        {
+          "id": "planner-ethics",
+          "label": "Ethics & Practice Standards",
+          "description": "Fiduciary duty, client engagement, documentation.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Planning Domains",
+      "nodes": [
+        {
+          "id": "retirement-planning",
+          "label": "Retirement Planning",
+          "description": "Retirement needs analysis, Social Security, annuities.",
+          "bulletPoints": []
+        },
+        {
+          "id": "tax-planning",
+          "label": "Tax Planning",
+          "description": "Taxable vs tax-advantaged accounts, deductions, credits.",
+          "bulletPoints": []
+        },
+        {
+          "id": "estate-insurance",
+          "label": "Estate & Insurance Planning",
+          "description": "Wills, trusts, life/disability insurance, long-term care.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Investing & Client Work",
+      "nodes": [
+        {
+          "id": "investment-plans",
+          "label": "Investment Policy & Allocation",
+          "description": "Risk profiling, IPS, asset allocation, rebalancing.",
+          "bulletPoints": []
+        },
+        {
+          "id": "client-communication",
+          "label": "Client Communication",
+          "description": "Discovery, goals-based planning, behavioral finance.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Exam & Practice",
+      "nodes": [
+        {
+          "id": "exam-prep-cfp",
+          "label": "Exam Preparation",
+          "description": "Study plan, case studies, mocks.",
+          "bulletPoints": []
+        },
+        {
+          "id": "practice-management",
+          "label": "Practice Management",
+          "description": "Compliance, CRM, fee models, onboarding.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

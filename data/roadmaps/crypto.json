@@ -1,0 +1,143 @@
+{
+    "title": "Understanding Cryptocurrency: Step-by-Step Guide",
+    "description": "A beginner-friendly guide to understanding cryptocurrency, from the basics of blockchain to wallets, exchanges, and the future of digital money.",
+    "category": "Finance Topics",
+    "slug": "crypto",
+    "stages": [
+      {
+        "title": "Foundations of Cryptocurrency",
+        "nodes": [
+          {
+            "id": "what-is-crypto",
+            "label": "What is Cryptocurrency?",
+            "description": "Cryptocurrency is a digital form of money that uses cryptography for security. It operates on decentralized networks called blockchains, making it different from traditional money controlled by banks or governments.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "Cryptocurrency Explained",
+                "url": "https://www.investopedia.com/terms/c/cryptocurrency.asp"
+              },
+              {
+                "type": "video",
+                "title": "What is Cryptocurrency?",
+                "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4"
+              }
+            ]
+          },
+          {
+            "id": "blockchain-basics",
+            "label": "What is Blockchain?",
+            "description": "Blockchain is a digital ledger technology that records transactions across many computers. It ensures transparency, security, and immutability of cryptocurrency transactions.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "Blockchain Basics",
+                "url": "https://www.ibm.com/topics/what-is-blockchain"
+              },
+              {
+                "type": "video",
+                "title": "Blockchain Explained Simply",
+                "url": "https://www.youtube.com/watch?v=YIVAluSL9SU"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Types of Cryptocurrencies",
+        "nodes": [
+          {
+            "id": "bitcoin",
+            "label": "Bitcoin (BTC)",
+            "description": "Bitcoin is the first and most well-known cryptocurrency, created in 2009 by Satoshi Nakamoto. It is often referred to as 'digital gold' and is widely used as a store of value.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "What is Bitcoin?",
+                "url": "https://www.investopedia.com/terms/b/bitcoin.asp"
+              }
+            ]
+          },
+          {
+            "id": "altcoins",
+            "label": "Altcoins",
+            "description": "Altcoins are cryptocurrencies other than Bitcoin, such as Ethereum, Litecoin, and Ripple. Many altcoins focus on smart contracts, faster transactions, or specific use cases.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "What Are Altcoins?",
+                "url": "https://www.coinbase.com/learn/crypto-basics/what-are-altcoins"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Using Cryptocurrency",
+        "nodes": [
+          {
+            "id": "wallets",
+            "label": "Crypto Wallets",
+            "description": "A wallet is a digital tool to store your cryptocurrency. Hot wallets are connected to the internet (e.g., apps), while cold wallets are offline and safer from hacking.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "Types of Crypto Wallets",
+                "url": "https://www.investopedia.com/terms/b/bitcoin-wallet.asp"
+              }
+            ]
+          },
+          {
+            "id": "exchanges",
+            "label": "Crypto Exchanges",
+            "description": "Exchanges are platforms where you can buy, sell, and trade cryptocurrencies. Popular ones include Binance, Coinbase, and Kraken. They charge fees for transactions.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "What is a Crypto Exchange?",
+                "url": "https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-exchange"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Risks and Future",
+        "nodes": [
+          {
+            "id": "risks",
+            "label": "Risks of Cryptocurrency",
+            "description": "Crypto markets are highly volatile. Risks include hacking, scams, regulatory changes, and losing private keys. Always research before investing.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "video",
+                "title": "The Risks of Cryptocurrency",
+                "url": "https://www.youtube.com/watch?v=jw28lCvTNhk"
+              }
+            ]
+          },
+          {
+            "id": "future-of-crypto",
+            "label": "Future of Cryptocurrency",
+            "description": "Cryptocurrencies may shape the future of finance through decentralized finance (DeFi), central bank digital currencies (CBDCs), and blockchain adoption across industries.",
+            "completed": false,
+            "resources": [
+              {
+                "type": "article",
+                "title": "The Future of Cryptocurrency",
+                "url": "https://www.weforum.org/agenda/2021/11/what-is-the-future-of-cryptocurrencies/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

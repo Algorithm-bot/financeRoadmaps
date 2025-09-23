@@ -1,0 +1,64 @@
+{
+  "title": "Quantitative Analyst (Quant)",
+  "description": "Roadmap to a quant role: math, statistics, programming, and modeling.",
+  "category": "Fintech & Emerging Roles",
+  "slug": "quantitative-analyst",
+  "stages": [
+    {
+      "title": "Math & Stats",
+      "nodes": [
+        {
+          "id": "probability-stats",
+          "label": "Probability & Statistics",
+          "description": "Distributions, estimation, inference, time series.",
+          "bulletPoints": []
+        },
+        {
+          "id": "stochastic-calculus",
+          "label": "Stochastic Calculus",
+          "description": "Brownian motion, SDEs, Ito's lemma.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Programming & Data",
+      "nodes": [
+        {
+          "id": "python-cpp",
+          "label": "Python/C++ & Libraries",
+          "description": "NumPy/Pandas, SciPy, C++ basics, optimization.",
+          "bulletPoints": []
+        },
+        {
+          "id": "data-engineering",
+          "label": "Data Engineering",
+          "description": "ETL, databases, pipelines, versioning, testing.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Models & Validation",
+      "nodes": [
+        {
+          "id": "pricing-models",
+          "label": "Pricing & Risk Models",
+          "description": "Options pricing, risk factor models, calibration.",
+          "bulletPoints": []
+        },
+        {
+          "id": "model-validation",
+          "label": "Model Validation",
+          "description": "Backtesting, benchmarking, documentation, governance.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

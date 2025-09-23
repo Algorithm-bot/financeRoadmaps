@@ -1,0 +1,90 @@
+{
+  "title": "Cost and Management Accountant (CMA)",
+  "description": "Roadmap to becoming a CMA: costing, management accounting, and performance management.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "cost-and-management-accountant",
+  "stages": [
+    {
+      "title": "Orientation",
+      "nodes": [
+        {
+          "id": "cma-overview",
+          "label": "CMA Overview",
+          "description": "Exam parts, eligibility, institute pathways.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "IMA (US) / ICMAI (IN)", "url": "https://www.imanet.org/" }
+          ]
+        },
+        {
+          "id": "accounting-fundamentals",
+          "label": "Accounting Fundamentals",
+          "description": "Principles, statements, and reconciliation.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Core CMA Domains",
+      "nodes": [
+        {
+          "id": "cost-accounting",
+          "label": "Cost Accounting",
+          "description": "Standard/marginal costing, variance analysis, job/process costing.",
+          "bulletPoints": []
+        },
+        {
+          "id": "planning-budgeting",
+          "label": "Planning & Budgeting",
+          "description": "Forecasting, budgets, flexible budgeting, variance analysis.",
+          "bulletPoints": []
+        },
+        {
+          "id": "performance-management",
+          "label": "Performance Management",
+          "description": "KPIs, balanced scorecard, responsibility centers.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Technology & Controls",
+      "nodes": [
+        {
+          "id": "data-analytics",
+          "label": "Data Analytics Basics",
+          "description": "Excel/BI, dashboards, variance visualization.",
+          "bulletPoints": []
+        },
+        {
+          "id": "internal-controls",
+          "label": "Internal Controls & Risk",
+          "description": "COSO framework, controls testing, compliance support.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Exam & Career",
+      "nodes": [
+        {
+          "id": "exam-prep-cma",
+          "label": "Exam Preparation",
+          "description": "Study plan, question banks, mock exams.",
+          "bulletPoints": []
+        },
+        {
+          "id": "career-paths",
+          "label": "Career Paths",
+          "description": "FP&A, cost controller, plant accounting, operations finance.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

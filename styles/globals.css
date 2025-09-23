@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 222.2 84% 4.9%;
+}
+
+.dark {
+  --background: 222.2 84% 4.9%;
+  --foreground: 210 40% 98%;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  @apply bg-white text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100;
+}
+
+a {
+  @apply text-blue-600 hover:underline dark:text-blue-400;
+}
+
+/* Utility */
+.card {
+  @apply rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition-colors dark:border-slate-800 dark:bg-slate-900;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+ol {
+  list-style-type: decimal;
+  margin-left: 20px;
+}
+
+
+/* Add this to your global stylesheet, e.g., globals.css */
+
+@keyframes fadeInSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-fadeInSlideUp {
+  animation: fadeInSlideUp 0.5s ease-out forwards;
+}
+
+.animate-draw {
+  /* A high value to ensure it covers the path length */
+  stroke-dasharray: 1000; 
+  stroke-dashoffset: 1000;
+  animation: draw 1.5s ease-out forwards;
+}

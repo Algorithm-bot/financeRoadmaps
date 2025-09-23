@@ -1,0 +1,64 @@
+{
+  "title": "Economist",
+  "description": "Roadmap to an economist career: micro/macro theory, econometrics, policy, and research.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "economist",
+  "stages": [
+    {
+      "title": "Theory Foundations",
+      "nodes": [
+        {
+          "id": "micro-macro",
+          "label": "Micro & Macro Theory",
+          "description": "Consumer/firm theory, growth, business cycles, monetary/fiscal.",
+          "bulletPoints": []
+        },
+        {
+          "id": "econometrics",
+          "label": "Econometrics",
+          "description": "Regression, causal inference, panel/time-series methods.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Data & Tools",
+      "nodes": [
+        {
+          "id": "data-sources",
+          "label": "Data Sources",
+          "description": "National accounts, labor stats, surveys, financial data.",
+          "bulletPoints": []
+        },
+        {
+          "id": "tooling",
+          "label": "Tooling",
+          "description": "R/Python, Stata, data cleaning, visualization.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Policy & Communication",
+      "nodes": [
+        {
+          "id": "policy-analysis",
+          "label": "Policy Analysis",
+          "description": "Cost-benefit, DSGE/structural models, program evaluation.",
+          "bulletPoints": []
+        },
+        {
+          "id": "publishing-presenting",
+          "label": "Publishing & Presenting",
+          "description": "Working papers, policy briefs, visual storytelling.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

@@ -1,0 +1,64 @@
+{
+  "title": "Venture Capital Analyst",
+  "description": "Roadmap to a career as a VC analyst: sourcing, diligence, and portfolio support.",
+  "category": "Capital Markets & Investment",
+  "slug": "venture-capital-analyst",
+  "stages": [
+    {
+      "title": "Ecosystem & Sourcing",
+      "nodes": [
+        {
+          "id": "vc-ecosystem",
+          "label": "VC Ecosystem",
+          "description": "Stages, fund structures, LP/GP dynamics.",
+          "bulletPoints": []
+        },
+        {
+          "id": "deal-sourcing",
+          "label": "Deal Sourcing",
+          "description": "Networks, events, accelerators, inbound/outbound funnels.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Diligence & Modeling",
+      "nodes": [
+        {
+          "id": "market-product-team",
+          "label": "Market, Product, Team Diligence",
+          "description": "Market sizing, product-market fit, founder evaluation.",
+          "bulletPoints": []
+        },
+        {
+          "id": "venture-models",
+          "label": "Venture Models",
+          "description": "Cohort analysis, unit economics, cap tables, rounds.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Execution & Value Add",
+      "nodes": [
+        {
+          "id": "term-sheets",
+          "label": "Term Sheets & Negotiation",
+          "description": "Preferred stock, liquidation preferences, governance terms.",
+          "bulletPoints": []
+        },
+        {
+          "id": "portfolio-support",
+          "label": "Portfolio Support",
+          "description": "Hiring, introductions, strategy, follow-on decisions.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

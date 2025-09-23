@@ -1,0 +1,119 @@
+{
+  "title": "Insurance Made Simple (India): A Roadmap for First-Time Buyers",
+  "description": "<div><p>Welcome to your straightforward guide to understanding insurance in India! 🛡️ This roadmap is designed for beginners to demystify insurance, helping you learn the basics, understand different types of policies, and make informed choices. We'll cover everything from key terms and premiums to filing claims and protecting yourself from mis-selling, empowering you to secure your financial future with confidence.</p></div>",
+  "category": "Finance Topics",
+  "slug": "insurance",
+  "stages": [
+    {
+      "title": "Insurance Foundations",
+      "nodes": [
+        {
+          "id": "what-is-insurance",
+          "label": "What is Insurance?",
+          "description": "<div><p><b>Insurance</b> is a formal agreement (a contract or 'policy') where you transfer the financial risk of a potential loss to an insurance company. In exchange for this protection, you pay a regular fee called a <b>premium</b>. If an unexpected, covered event occurs, the insurer compensates you for the financial loss.</p><br><b>ELI5 Analogy</b><br><p>Think of insurance like a <b>financial safety net</b> or a backup plan. Imagine a group of 100 friends agrees to pool ₹1,000 each every year. If one friend's house accidentally catches fire, they can use the ₹1,00,000 from the pool to rebuild. Everyone contributes a small, manageable amount to protect against a large, devastating loss that one person might face. The insurance company is the manager of this pool.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "key-terms",
+          "label": "Key Terms",
+          "description": "<div><p>Understanding the language of insurance is the first step to making smart choices. Here are some of the most important terms you'll encounter:</p><ul><li><b>Sum Insured/Assured:</b> The maximum amount of money the insurance company will pay you in case of a claim. This is the total value of your cover.</li><li><b>Premium:</b> The fixed amount you pay regularly (monthly, quarterly, or annually) to the insurer to keep your policy active.</li><li><b>Deductible/Copay:</b> The initial portion of a claim amount that you must pay from your own pocket before the insurer starts paying. A higher deductible often means a lower premium.</li><li><b>Waiting Period:</b> A specific duration from the start of the policy during which certain claims are not covered. This is common in health insurance for pre-existing diseases.</li><li><b>Exclusions:</b> Specific conditions, situations, or events that are not covered by the insurance policy. Always read these carefully!</li><li><b>Riders:</b> Optional add-ons that provide extra benefits or coverage to your base policy for an additional premium (e.g., critical illness cover with a life policy).</li><li><b>Underwriting:</b> The process an insurer uses to evaluate your application and assess the risk you present before deciding whether to issue a policy and at what premium.</li></ul></div>",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "title": "Types of Insurance",
+      "nodes": [
+        {
+          "id": "life-term",
+          "label": "Life: Term vs Others",
+          "description": "<div><p>Life insurance provides financial support to your family in your absence. The main types are:</p><ul><li><b>Term Insurance:</b> This is the simplest and purest form of life insurance. It provides a large amount of coverage for a low premium for a specific period (the 'term'). If the insured person passes away during this term, their family gets the sum assured. There is no maturity benefit if the person survives the term. <i>Think of it like renting protection for your family.</i></li><li><b>Endowment & ULIPs:</b> These policies combine insurance with savings or investment. A portion of your premium provides life cover, while the rest is invested. They offer a lump sum at the end of the term (maturity benefit) but provide much lower coverage for a higher premium compared to term plans. <i>These are often less efficient than buying pure term insurance and investing the difference separately.</i></li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Differene between Term and Life Insurance",
+              "url": "https://groww.in/blog/difference-between-term-insurance-and-life-insurance"
+            }
+          ]
+        },
+        {
+          "id": "health-insurance",
+          "label": "Health Insurance",
+          "description": "<div><p><b>Health insurance</b> is a crucial policy that covers medical and surgical expenses incurred during hospitalization. With rising healthcare costs, it is a necessity. When buying a policy, look beyond the premium and check these critical features:</p><ul><li><b>Room Rent Limits:</b> Check if there's a cap on the type of hospital room you can get. Some policies link other charges to the room rent, so a limit here can reduce your overall claim amount.</li><li><b>Network Hospitals:</b> A wide list of network hospitals allows for 'cashless' treatment, where the insurer pays the hospital directly, saving you from arranging large sums of money.</li><li><b>Sub-limits:</b> Be aware of caps on specific treatments or surgeries (e.g., cataract surgery).</li><li><b>Waiting Periods:</b> Understand the waiting periods for pre-existing conditions (usually 2-4 years) and specific illnesses.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "Things to Look for before buying Health Insurance",
+              "url": "https://youtu.be/HK5K3Ba38n4?si=kHTR7ShsN_AI5swl"
+            },
+            {
+              "type": "video",
+              "title": "Guide on how to buy Health Insurance",
+              "url": "https://youtu.be/jpAY1f_1A5M?si=Yi0X4VBXumLpFZL-"
+            }
+          ]
+        },
+        {
+          "id": "motor-insurance",
+          "label": "Motor Insurance",
+          "description": "<div><p>Motor insurance is mandatory for all vehicles running on Indian roads. It protects you from financial losses due to accidents, theft, or damage.</p><ul><li><b>Third-Party (TP) Cover:</b> This is legally mandatory. It covers your legal liability for any injury, death, or property damage caused to a third party by your vehicle. It does not cover any damage to your own vehicle.</li><li><b>Own-Damage (OD) Cover:</b> This is optional but highly recommended. It covers damages to your own vehicle due to accidents, fire, theft, or natural calamities.</li><li><b>Comprehensive Cover:</b> This is a bundle of both Third-Party and Own-Damage cover.</li></ul><p>Popular add-ons include <b>Zero Depreciation</b> (ensures you get the full value of replaced parts without deduction for age), <b>Roadside Assistance</b>, and <b>Engine Protect</b>.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Understanding Motor Insurance and it's types",
+              "url": "https://groww.in/insurance/what-is-motor-insurance"
+            }
+          ]
+        },
+        {
+          "id": "general-insurance",
+          "label": "Other General Insurance",
+          "description": "<div><p>Beyond life, health, and motor, general insurance covers a wide range of assets and risks. You should consider policies based on your specific needs and lifestyle:</p><ul><li><b>Travel Insurance:</b> Covers medical emergencies, flight cancellations, or loss of baggage during international or domestic trips.</li><li><b>Home Insurance:</b> Protects the structure and/or contents of your home against fire, theft, floods, and other perils.</li><li><b>Personal Accident Insurance:</b> Provides a payout in case of accidental death or disability (temporary or permanent).</li><li><b>Cyber Risk Insurance:</b> Covers financial losses resulting from online fraud, phishing, or other cybercrimes.</li></ul><br>There are around 10 major types of insurance, but if you count all subtypes and specialized policies, the number can easily go over 100. Therefore, Whenever you are buying a product or a service be sure to check for any possible insurance claims that could be available. </div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Types of Major Insurances in India",
+              "url": "https://groww.in/insurance/types-of-insurance-policy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claims & Redressal",
+      "nodes": [
+        {
+          "id": "claims-process",
+          "label": "Filing a Claim",
+          "description": "<div><p>The moment of truth for any insurance policy is the claims process. Being prepared can make it much smoother.</p><p>The typical process involves:</p><ol><li><b>Intimation:</b> Inform the insurer about the event (e.g., hospitalization, accident) as soon as possible within the stipulated timeline.</li><li><b>Documentation:</b> Submit all required documents, like claim forms, medical bills, police reports (in case of accidents), etc.</li><li><b>Assessment:</b> The insurer will verify the documents and assess the loss. They may appoint a surveyor for motor or home insurance claims.</li><li><b>Settlement:</b> Once approved, the claim is settled.</li></ol><p>For health and motor insurance, always try to use <b>cashless networks</b>, where you don't have to pay upfront (except for deductibles); the insurer settles the bill directly with the hospital or garage.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Understanding Insurance Claims",
+              "url": "https://www.investopedia.com/terms/i/insurance_claim.asp"
+            }
+          ]
+        },
+        {
+          "id": "grievance",
+          "label": "Grievance & Ombudsman",
+          "description": "<div><p>If your claim is unfairly rejected or you have another issue with your insurer, you have a clear path for escalating the complaint. Follow this hierarchy:</p><ol><li><b>Insurer's Grievance Cell:</b> First, lodge a formal complaint with the insurance company's own grievance redressal department.</li><li><b>IRDAI Grievance Portal (Bima Bharosa):</b> If you don't receive a response within 15 days or are not satisfied, you can escalate the complaint to the insurance regulator, IRDAI, through their online portal.</li><li><b>Insurance Ombudsman:</b> For a final, impartial resolution for individual policyholders, you can approach the Insurance Ombudsman. This is a free service, and the Ombudsman's decision is binding on the insurance company.</li></ol>Even if the insurance company is private, you can still make a complaint to IRDAI.</div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Government Website",
+              "title": "Grievance Redressal- IRDAI",
+              "url": "https://irdai.gov.in/"
+            }
+          ]
+        }
+      ]
+    }
+    
+  ]
+}

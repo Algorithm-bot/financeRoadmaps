@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Real Estate Investment: A Roadmap for Beginners",
+      "description": "Learn the basics of real estate investment, from property purchase to REITs, financing, risks, and legal considerations.",
+      "category": "Finance Topics",
+      "slug": "real-estate",
+      "stages": [
+        {
+          "title": "Foundations",
+          "nodes": [
+            {
+              "id": "what-is-rei",
+              "label": "What is Real Estate Investment?",
+              "description": "Buying property, land, or real estate-linked securities for income or capital appreciation.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "Real Estate Investing Basics", "url": "https://www.investopedia.com/terms/r/realestateinvesting.asp" }
+              ]
+            },
+            {
+              "id": "types-rei",
+              "label": "Types of Real Estate Investment",
+              "description": "Residential, commercial, rental, land, and Real Estate Investment Trusts (REITs).",
+              "completed": false,
+              "resources": []
+            }
+          ]
+        },
+        {
+          "title": "Financing & Returns",
+          "nodes": [
+            {
+              "id": "loans-mortgages",
+              "label": "Loans & Mortgages",
+              "description": "Understand home loans, LTV ratio, EMIs, and interest rates before buying.",
+              "completed": false,
+              "resources": []
+            },
+            {
+              "id": "roi-rental",
+              "label": "ROI & Rental Income",
+              "description": "Evaluate rental yield, capital appreciation, and maintenance costs.",
+              "completed": false,
+              "resources": []
+            }
+          ]
+        },
+        {
+          "title": "Risks & Legal Aspects",
+          "nodes": [
+            {
+              "id": "rei-risks",
+              "label": "Risks",
+              "description": "Illiquidity, market downturns, regulatory issues, frauds, and location risks.",
+              "completed": false,
+              "resources": []
+            },
+            {
+              "id": "legal-docs",
+              "label": "Legal Documentation",
+              "description": "Title deeds, encumbrance certificates, RERA registration, and stamp duty.",
+              "completed": false,
+              "resources": []
+            }
+          ]
+        },
+        {
+          "title": "Quiz",
+          "nodes": [
+            {
+              "id": "rei-quiz",
+              "label": "Test Yourself: Real Estate",
+              "description": "Check your understanding of loans, ROI, risks, and documents.",
+              "completed": false,
+              "resources": []
+            }
+          ]
+        }
+      ]
+    }
+   
+]
+    
+    
+    
+   

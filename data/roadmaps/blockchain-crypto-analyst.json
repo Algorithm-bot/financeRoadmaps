@@ -1,0 +1,64 @@
+{
+  "title": "Blockchain & Crypto Analyst",
+  "description": "Roadmap to a blockchain/crypto analyst role: on-chain analytics, tokenomics, and risk.",
+  "category": "Fintech & Emerging Roles",
+  "slug": "blockchain-crypto-analyst",
+  "stages": [
+    {
+      "title": "Crypto Foundations",
+      "nodes": [
+        {
+          "id": "blockchain-basics",
+          "label": "Blockchain Basics",
+          "description": "Consensus, networks, wallets, smart contracts.",
+          "bulletPoints": []
+        },
+        {
+          "id": "tokenomics",
+          "label": "Tokenomics & Incentives",
+          "description": "Supply models, emissions, staking, governance.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "On-chain & Markets",
+      "nodes": [
+        {
+          "id": "onchain-analytics",
+          "label": "On-chain Analytics",
+          "description": "Addresses, flows, DEX activity, dashboards.",
+          "bulletPoints": []
+        },
+        {
+          "id": "defi-cefi",
+          "label": "DeFi & CeFi",
+          "description": "AMMs, lending, derivatives, custodians, risks.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Risk & Compliance",
+      "nodes": [
+        {
+          "id": "compliance-crypto",
+          "label": "Compliance & Surveillance",
+          "description": "Travel rule, AML, sanction screening, market abuse.",
+          "bulletPoints": []
+        },
+        {
+          "id": "security-audits",
+          "label": "Security & Audits",
+          "description": "Smart contract audits, key management, incident response.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

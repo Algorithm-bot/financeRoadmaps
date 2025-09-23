@@ -1,0 +1,64 @@
+{
+  "title": "Financial Controller",
+  "description": "Roadmap to a financial controller role: close, reporting, controls, and leadership.",
+  "category": "Corporate Finance Roles",
+  "slug": "financial-controller",
+  "stages": [
+    {
+      "title": "Accounting & Close",
+      "nodes": [
+        {
+          "id": "monthly-close",
+          "label": "Monthly Close & Reconciliations",
+          "description": "Close calendar, journal entries, reconciliations, accruals.",
+          "bulletPoints": []
+        },
+        {
+          "id": "consolidation",
+          "label": "Consolidation & Intercompany",
+          "description": "Subsidiaries, eliminations, foreign currency, controls.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Compliance",
+      "nodes": [
+        {
+          "id": "statutory-reporting",
+          "label": "Statutory & Management Reporting",
+          "description": "GAAP/IFRS, management packs, board materials.",
+          "bulletPoints": []
+        },
+        {
+          "id": "internal-controls",
+          "label": "Internal Controls & SOX",
+          "description": "Process narratives, walkthroughs, testing, remediation.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Systems & Leadership",
+      "nodes": [
+        {
+          "id": "erp-and-tools",
+          "label": "ERP & Automation",
+          "description": "ERP modules, close automation, reporting tools.",
+          "bulletPoints": []
+        },
+        {
+          "id": "team-management",
+          "label": "Team & Stakeholder Management",
+          "description": "Org design, service levels, cross-functional collaboration.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

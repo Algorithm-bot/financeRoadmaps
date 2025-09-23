@@ -1,0 +1,76 @@
+{
+  "title": "Certified Public Accountant (CPA)",
+  "description": "Roadmap to becoming a CPA: auditing, taxation, financial accounting, and regulation.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "certified-public-accountant",
+  "stages": [
+    {
+      "title": "Eligibility & Application",
+      "nodes": [
+        {
+          "id": "cpa-eligibility",
+          "label": "Eligibility & State Requirements",
+          "description": "Credit hours, state boards, education evaluation.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "NASBA", "url": "https://nasba.org/" }
+          ]
+        },
+        {
+          "id": "scheduling-exams",
+          "label": "Schedule Exams",
+          "description": "Prometric scheduling, testing windows, fees.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Exam Sections",
+      "nodes": [
+        {
+          "id": "far",
+          "label": "Financial Accounting & Reporting (FAR)",
+          "description": "Standards, statements, consolidation, governmental accounting.",
+          "bulletPoints": []
+        },
+        {
+          "id": "aud",
+          "label": "Auditing & Attestation (AUD)",
+          "description": "Risk assessment, evidence, reporting.",
+          "bulletPoints": []
+        },
+        {
+          "id": "reg",
+          "label": "Regulation (REG)",
+          "description": "Taxation, business law, ethics.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Prep & Experience",
+      "nodes": [
+        {
+          "id": "study-plan-cpa",
+          "label": "Study Plan",
+          "description": "Review courses, testlets, simulations, time management.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "course", "title": "CPA Review Course", "url": "https://example.com/cpa-review" }
+          ]
+        },
+        {
+          "id": "experience-requirement",
+          "label": "Experience & Licensure",
+          "description": "Verified work, ethics exam, license application.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

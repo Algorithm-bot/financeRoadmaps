@@ -1,0 +1,64 @@
+{
+  "title": "Management Consultant (Finance Focus)",
+  "description": "Roadmap to finance-focused consulting: problem structuring, analysis, and client impact.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "management-consultant-finance",
+  "stages": [
+    {
+      "title": "Consulting Core",
+      "nodes": [
+        {
+          "id": "problem-structuring",
+          "label": "Problem Structuring",
+          "description": "Issue trees, hypotheses, scope, workplan.",
+          "bulletPoints": []
+        },
+        {
+          "id": "client-communication",
+          "label": "Client Communication",
+          "description": "Storylining, exec readouts, stakeholder management.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Finance Topics",
+      "nodes": [
+        {
+          "id": "fp-and-a",
+          "label": "FP&A & Performance",
+          "description": "Budgeting, forecasting, cost takeout, profitability analysis.",
+          "bulletPoints": []
+        },
+        {
+          "id": "capital-allocation",
+          "label": "Capital Allocation",
+          "description": "Capex prioritization, portfolio review, hurdle rates.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Delivery & Change",
+      "nodes": [
+        {
+          "id": "implementation",
+          "label": "Implementation & PMO",
+          "description": "Roadmaps, KPIs, change management, benefits tracking.",
+          "bulletPoints": []
+        },
+        {
+          "id": "tools-and-data",
+          "label": "Tools & Data",
+          "description": "Excel/BI, financial models, survey/interview tools.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

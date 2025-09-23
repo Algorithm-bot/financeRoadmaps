@@ -1,0 +1,251 @@
+{
+  "title": "Banks Made Simple: A Roadmap for First-Time Learners",
+  "description": "<div><p> This comprehensive resource is designed to demystify the world of banking, making complex financial concepts accessible and easy to understand. Whether you're new to managing your money, curious about how financial institutions operate, or looking to grasp the basics of digital transactions, this guide has you covered. We'll explore everything from the fundamental principles of money and the essential functions of banks to the convenience of modern digital banking and the broader impact banks have on society and the economy.</p></div>",
+  "category": "Finance Topics",
+  "slug": "basics-of-bank",
+  "stages": [
+    {
+      "title": "Understanding Banks",
+      "nodes": [
+        {
+          "id": "what-is-a-bank",
+          "label": "What is a Bank?",
+          "description": "<div><p>A bank is a safe place where people can keep their money and use it when needed. Banks are important in everyday life because they help people save, borrow, and make payments easily.</p>In short, banks make managing money easy and secure while also supporting people, businesses, and the economy.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "What is a Bank? Explained Simply",
+              "url": "https://youtu.be/CqD3hnjZBTM?si=fAJH1oYm5pQ3_53N"
+            }
+          ]
+        },
+        {
+          "id": "types-of-banks",
+          "label": "Types of Banks",
+          "description": "<div><p>The banking sector is incredibly diverse, comprising various types of banks each serving distinct purposes and customer segments. Understanding these categories helps in appreciating the vast landscape of financial services available:</p><ul><li><b>Public Sector Banks:</b> These banks are predominantly owned and controlled by the government. In many countries, they form the backbone of the banking system, often focusing on social welfare and implementing government financial policies.</li><li><b>Private Banks:</b> Owned and operated by private entities and shareholders, these banks are driven by profit motives and often cater to a wider range of customers with competitive products and services.</li><li><b>Cooperative Banks:</b> Unique in their structure, cooperative banks are owned by their members. They typically aim to provide financial services, including credit, to their members, who are often small farmers, local businesses, and individuals within specific communities.</li><li><b>Regional Rural Banks (RRBs):</b> Specifically established to serve the financial needs of rural and semi-urban areas, RRBs focus on agricultural credit and rural development, promoting financial inclusion in underserved regions.</li><li><b>Foreign Banks:</b> These are banks that operate within a country but have their headquarters located abroad. They often bring international banking practices and cater to specific segments, including multinational corporations and high-net-worth individuals, contributing to global financial integration.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Types of Banks in India",
+              "url": "https://byjus.com/free-ias-prep/types-banks-india/"
+            },
+            {
+              "type": "video",
+              "title": "Types of Banks Explained",
+              "url": "https://youtu.be/WT8Gei4OHJc?si=Aw2i9dd8idZCp-dI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bank Accounts",
+      "nodes": [
+        {
+          "id": "Bank Accounts",
+          "label": "Types of Bank Accounts",
+"description": "<div><p>Banks offer different types of accounts to meet the needs of people and businesses. Each account has its own features and benefits.</p><ul><li><b>Savings Account:</b> This is the most common account where people deposit money safely and earn a small interest. It helps encourage saving habits.</li><li><b>Current Account:</b> Used mainly by businesses and professionals, this account allows frequent deposits and withdrawals but usually does not earn interest.</li><li><b>Fixed Deposit (FD) Account:</b> Money is kept for a fixed period of time, and the bank pays higher interest compared to a savings account. The money cannot be withdrawn before maturity without a penalty.</li><li><b>Recurring Deposit (RD) Account:</b> A person deposits a fixed amount every month for a certain time. At the end, they receive the total money plus interest.</li><li><b>Salary Account:</b> Special account where companies deposit employees’ monthly salaries. It often comes with added benefits like zero minimum balance.</li></ul><p>Visit the article in the resources section to learn in more detail on the different types of bank accounts.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Types of Bank Accounts",
+              "url": "https://byjus.com/govt-exams/types-of-bank-accounts/"
+            }
+          ]
+        },
+        {
+          "id": "deposits-withdrawals",
+          "label": "Deposits & Withdrawals",
+"description": "<div><p>The two main activities in a bank account are <b>deposits and withdrawals</b>. These are the basic ways money moves in and out of an account.</p><ul><li><b>Deposit:</b> Putting money into your bank account. This can be done by giving cash or cheques at the bank, using an ATM, or transferring money online. Deposits increase the balance of your account.</li><li><b>Withdrawal:</b> Taking money out of your bank account. You can do this by writing a cheque, using an ATM with a debit card, or making online payments and transfers. Withdrawals reduce the balance in your account.</li></ul><p>Together, deposits and withdrawals help people and businesses manage money easily, keeping funds safe while allowing them to be used when needed.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "How to deposit money in a ATM",
+              "url": "https://www.youtube.com/watch?v=7Stfyh4sSTQ"
+            },
+            {
+              "type": "video",
+              "title": "How to withdraw money from a ATM",
+              "url": "https://www.youtube.com/watch?v=Ci-nlUutxdw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Banking Services",
+      "nodes": [
+        {
+          "id": "interest",
+          "label": "Interest",
+          "description": "<div><p><b>Interest</b> is a foundational concept in banking and finance, acting as both a cost and a reward. Simply put, it's the charge for the privilege of borrowing money and, conversely, the compensation received for the act of lending or saving money. When you deposit money into a savings account, the bank pays you interest as a thank you for allowing them to use your funds. This allows your money to grow over time.</p><p>On the other hand, when you take out a loan, the bank charges you interest on the amount borrowed. This interest is the bank's primary source of income, representing the cost of providing you with immediate funds. The difference between the interest rates banks pay to depositors and the interest rates they charge to borrowers is a significant component of their profit margin, illustrating how banks facilitate the flow of capital while maintaining their operational viability.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Understanding Interest",
+              "url": "https://www.investopedia.com/terms/i/interest.asp"
+            }
+          ]
+        },
+        {
+          "id": "loans",
+          "label": "Loans",
+          "description": "<div><p>A <b>loan</b> is a crucial financial product provided by banks, where a sum of money is advanced to an individual or entity with the explicit agreement that it will be repaid over a specified period, typically with added interest. Loans are fundamental to economic activity, enabling individuals to make significant purchases like homes or cars, pursue higher education, or address urgent financial needs, while empowering businesses to expand operations, invest in new projects, or manage working capital.</p><p>Banks offer a diverse range of loan types tailored to various purposes. Common examples include <b>personal loans</b> for general expenses, <b>home loans (mortgages)</b> for property acquisition, <b>education loans</b> to fund academic pursuits, and <b>business loans</b> to support entrepreneurial ventures. Before approving a loan, banks meticulously evaluate the borrower's <b>creditworthiness</b>, assessing their ability and history of repaying debts to mitigate risk and ensure responsible lending practices.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Loan Basics",
+              "url": "https://www.investopedia.com/terms/l/loan.asp"
+            },
+            {
+              "type": "article",
+              "title": "Different types of Loans",
+              "url": "https://www.bajajfinserv.in/insights/the-different-types-of-loans-available-in-india"
+            }
+          ]
+        },
+        {
+          "id": "Writing-Cheques",
+          "label": "Writing Cheques",
+          "description": "<div><p>Even in an increasingly digital financial landscape, the ability to understand and <b>write a cheque</b> remains a valuable skill. A cheque is a written, dated, and signed instrument that directs a bank to pay a specific amount of money to the bearer or to a named person or entity. It serves as a traditional, yet still relevant, method for conducting financial transactions.</p><p>Cheques can be utilized for various purposes, primarily for transferring funds between individuals or organizations without needing to handle physical cash, and also for withdrawing money from your own bank account. Although electronic payment methods have become prevalent, cheques still offer a reliable paper trail for transactions and are often required for certain payments, making it important for individuals to know how to properly fill out, endorse, and manage them to ensure smooth and secure financial operations.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "What is a Cheque and types of Cheques",
+              "url": "https://www.hdfcbank.com/personal/resources/learning-centre/save/how-to-fill-a-cheque"
+            },
+            {
+              "type": "video",
+              "title": "How to write a cheque",
+              "url": "https://www.youtube.com/watch?v=nfpEFG1RM0o"
+            },
+            {
+              "type": "article",
+              "title": "What is a bounced cheque",
+              "url": "https://www.bankofbaroda.in/banking-mantra/investment/articles/understanding-bounced-cheques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Digital Banking",
+      "nodes": [
+        {
+          "id": "upi",
+          "label": "UPI & QR Payments",
+"description": "<div><p><b>Digital Banking</b> has transformed money management, and innovations like UPI and QR Payments are at the center of this change. <b>UPI (Unified Payments Interface)</b> was developed in 2016 by the <b>National Payments Corporation of India (NPCI)</b> under the guidance of the Reserve Bank of India (RBI) and the Indian Banks’ Association. Its goal was to create a simple, secure, and real-time payment system for everyone. Today, UPI allows instant transfers between bank accounts using just a mobile number or a virtual payment address (VPA), without the need for long account numbers or IFSC codes.</p><p>UPI’s success in India has gained global attention, and several countries such as Singapore, France, UAE, and Nepal have already partnered with India to adopt or link UPI-like systems. This shows how the model is becoming an inspiration for digital payments worldwide.</p><p><b>QR codes</b> further complement UPI. By scanning a QR code at a shop, restaurant, or on an invoice, customers can pay directly from their bank account in seconds. Together, UPI and QR Payments have made transactions faster, safer, and more inclusive, reducing dependence on cash and boosting financial access for millions.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "How to set up google pay Account?",
+              "url": "https://www.youtube.com/shorts/xPKqmfjdNf4"
+            }
+          ]
+        },
+        {
+          "id": "net-banking",
+          "label": "Net Banking",
+          "description": "<div><p><b>Net Banking</b>, also widely known as internet banking or online banking, represents a significant leap forward in financial convenience. It is an electronic payment system that enables customers of a bank or other financial institution to conduct a range of financial transactions through the bank's official website or dedicated mobile application. This service empowers users to manage their bank accounts, initiate fund transfers, pay various bills, view account statements, and much more, all from the comfort of their home or on the go.</p><p>The primary advantage of net banking is its accessibility and efficiency, as it operates 24/7 and significantly reduces the need for customers to visit physical bank branches for routine transactions. By providing secure access to financial services digitally, net banking enhances customer convenience, streamlines banking operations, and has become an indispensable tool in modern personal and business finance management.</p></div><br><p>Each Bank has it's own fees and process for performing Net Banking but the general process is very identical for each bank. In the resources section you can find a tutorial on how to do NET Banking from HDFC bank.</p>",
+          "completed": false,
+          "resources":[
+            {
+              "type": "video",
+              "title": "How to perform Net Banking?",
+              "url": "https://www.youtube.com/watch?v=0GC_8SnSy30"
+            }
+          ]
+        }
+       
+      ]
+    },
+    {
+      "title": "Role of Banks in Society",
+      "nodes": [
+        {
+          "id": "farmers",
+          "label": "Helping Farmers",
+          "description": "<div><p>Banks play an indispensable role in bolstering the agricultural sector and supporting the livelihood of farmers. They provide vital financial assistance through a variety of tailored products, including <b>agricultural loans</b> for purchasing seeds, fertilizers, and equipment, and specialized programs like <b>Kisan Credit Cards</b> (KCC), which offer flexible credit facilities to meet cultivation and other short-term needs. Furthermore, banks facilitate access to <b>crop insurance</b> schemes, protecting farmers against financial losses due to unforeseen circumstances like natural calamities.</p><p>Beyond direct financial products, banks are instrumental in promoting rural development by channeling funds into microfinance initiatives and serving as a conduit for various government-backed schemes aimed at enhancing agricultural productivity and ensuring financial inclusion for those in villages. It's also noteworthy that many banks extend a certain amount of collateral-free loans to farmers, recognizing the unique challenges faced by the agricultural community and fostering sustainable growth in the sector.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Types of Agricultural loans",
+              "url": "https://www.bankofbaroda.in/banking-mantra/loans-borrowings/articles/types-of-agricultural-loans"
+            },
+            {
+              "type": "article",
+              "title": "Kisan Credit Card",
+              "url": "https://www.myscheme.gov.in/schemes/kcc"
+            }
+          ]
+        },
+        {
+          "id": "students",
+          "label": "Helping Students",
+"description": "<div><p>Education loans are financial products offered by banks to support students who wish to pursue higher studies in India or abroad. These loans help cover a wide range of expenses, such as tuition fees, hostel or accommodation charges, books, study materials, and in the case of overseas education, even travel costs and living expenses.</p><p>Applying for an education loan usually involves approaching a bank with details of your admission, such as the offer letter from the college or university, fee structure, and academic records. Most banks also ask for identity proofs, income documents of parents or guardians, and sometimes collateral for larger amounts. After reviewing the application, the bank disburses the loan directly to the institution or as required by the student’s plan.</p><p>By providing this financial support, banks make it possible for students to focus on learning without the immediate pressure of arranging funds. Repayment typically begins after the course is completed, giving students time to secure a job and start their careers before handling the loan.</p></div><br>I suggest you to go through the given article from the resources section.",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Education Loans - Complete Explanation",
+              "url": "https://www.wemakescholars.com/education-loan"
+            }
+          ]
+        },
+        {
+          "id": "government-schemes",
+          "label": "Government Schemes",
+"description": "<div><p>Banks play an important role in making <b>government welfare schemes</b> accessible to people. They act as the main channel through which benefits like subsidies, pensions, and other direct payments reach citizens quickly and safely. For example, the <b>Pradhan Mantri Jan Dhan Yojana (PMJDY)</b> uses banks to provide every household with easy access to basic banking services.</p><p>Through banks, citizens can receive funds directly into their accounts, reducing delays and avoiding middlemen. This makes the process transparent and ensures that the help reaches the people who need it most. By being part of these schemes, banks help more people join the formal banking system, support financial inclusion, and contribute to overall economic stability in the country.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Pradhan Mantri Jan Dhan Yojana",
+              "url": "https://www.pmjdy.gov.in/scheme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advanced Understanding",
+      "nodes": [
+        {
+          "id": "rbi",
+          "label": "Reserve Bank of India",
+          "description": "<div><p>The <b>Reserve Bank of India (RBI)</b> stands as the paramount central banking institution in India, wielding extensive powers and responsibilities crucial for the nation's financial health and stability. Often referred to as 'the banker's bank,' the RBI is entrusted with a multifaceted mandate that includes:</p><ul><li><b>Regulating Banks:</b> It establishes and enforces policies and guidelines for all commercial and cooperative banks, ensuring their sound operation and adherence to ethical practices.</li><li><b>Issuing Currency:</b> The RBI is the sole authority for issuing currency notes and coins in India, managing the nation's money supply.</li><li><b>Managing Monetary Policy:</b> Through various tools like interest rates and reserve requirements, the RBI controls the availability and cost of money in the economy to achieve objectives like price stability and economic growth.</li><li><b>Ensuring Financial Stability:</b> It acts as a supervisor for the entire financial system, working to prevent crises and protect the interests of depositors and investors.</li></ul><p>In essence, the RBI safeguards the financial interests of millions of depositors and plays a pivotal role in maintaining the integrity and robustness of the Indian financial system.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "About the Reserve Bank of India",
+              "url": "https://www.investopedia.com/terms/r/rbi.asp"
+            }
+          ]
+        },
+        {
+          "id": "economy",
+          "label": "Banks & the Economy",
+          "description": "<div><p>Banks are not merely financial service providers; they are fundamental pillars of any thriving economy, exerting a profound influence on economic growth and stability. Their critical role stems from several key functions:</p><ul><li><b>Mobilizing Savings:</b> Banks collect deposits from individuals and businesses, pooling these scattered savings into a significant capital base.</li><li><b>Providing Credit:</b> This mobilized capital is then channeled into productive uses through loans and advances to businesses, industries, and individuals. By providing credit, banks enable entrepreneurs to invest in new ventures, industries to expand production, and individuals to purchase goods and services, thereby stimulating demand and economic activity.</li><li><b>Facilitating Trade:</b> Banks also play a crucial role in domestic and international trade by offering services like letters of credit, guarantees, and foreign exchange, making commercial transactions smoother and more secure.</li></ul><p>By ensuring the efficient allocation of capital and the smooth circulation of money, banks act as the engine of economic development, fostering investment, consumption, and job creation, which are all vital for a healthy and growing economy.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "Role of Banks in Economic Development",
+              "url": "https://youtu.be/fTTGALaRZoc?si=C9TI2kVSvzuIx7v_"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

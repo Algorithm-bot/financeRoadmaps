@@ -1,0 +1,87 @@
+{
+  "title": "Retail Banker",
+  "description": "Roadmap to a career in retail banking: branch operations, sales, and compliance.",
+  "category": "Banking & Financial Services",
+  "slug": "retail-banker",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "retail-overview",
+          "label": "Retail Banking Overview",
+          "description": "Products, channels, branch roles, KPIs.",
+          "bulletPoints": []
+        },
+        {
+          "id": "customer-service",
+          "label": "Customer Service Excellence",
+          "description": "Communication, empathy, problem resolution, NPS.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Products & Sales",
+      "nodes": [
+        {
+          "id": "deposit-products",
+          "label": "Deposit & Payment Products",
+          "description": "Checking, savings, CDs, cards, digital payments.",
+          "bulletPoints": []
+        },
+        {
+          "id": "retail-lending",
+          "label": "Retail Lending",
+          "description": "Personal loans, auto loans, mortgages, underwriting basics.",
+          "bulletPoints": []
+        },
+        {
+          "id": "sales-techniques",
+          "label": "Sales Techniques",
+          "description": "Needs assessment, cross-sell, upsell, objection handling.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Operations & Compliance",
+      "nodes": [
+        {
+          "id": "branch-operations",
+          "label": "Branch Operations",
+          "description": "Cash handling, vault, reconciliations, end-of-day.",
+          "bulletPoints": []
+        },
+        {
+          "id": "kyc-aml",
+          "label": "KYC/AML & Consumer Protection",
+          "description": "Onboarding, sanctions screening, disclosures, complaints.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Career & Metrics",
+      "nodes": [
+        {
+          "id": "performance-metrics",
+          "label": "Performance Metrics",
+          "description": "Sales targets, product penetration, service metrics.",
+          "bulletPoints": []
+        },
+        {
+          "id": "career-path-retail",
+          "label": "Career Path",
+          "description": "Teller to branch manager, specialist roles, certifications.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

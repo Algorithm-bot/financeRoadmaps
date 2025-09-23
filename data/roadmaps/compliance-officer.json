@@ -1,0 +1,64 @@
+{
+  "title": "Compliance Officer",
+  "description": "Roadmap to compliance: regulations, frameworks, monitoring, and training.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "compliance-officer",
+  "stages": [
+    {
+      "title": "Regulatory Landscape",
+      "nodes": [
+        {
+          "id": "reg-frameworks",
+          "label": "Regulatory Frameworks",
+          "description": "KYC/AML, consumer protection, privacy, market conduct.",
+          "bulletPoints": []
+        },
+        {
+          "id": "policies-procedures",
+          "label": "Policies & Procedures",
+          "description": "Policy drafting, governance, exceptions management.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Monitoring & Testing",
+      "nodes": [
+        {
+          "id": "compliance-monitoring",
+          "label": "Monitoring Program",
+          "description": "Risk assessment, control testing, sampling plans.",
+          "bulletPoints": []
+        },
+        {
+          "id": "issues-and-remediation",
+          "label": "Issues & Remediation",
+          "description": "Issue logging, root cause, corrective action tracking.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Training & Reporting",
+      "nodes": [
+        {
+          "id": "training-programs",
+          "label": "Training Programs",
+          "description": "Role-based training, certifications, attestations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "regulatory-reporting",
+          "label": "Regulatory Reporting",
+          "description": "Reporting obligations, interactions with regulators.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

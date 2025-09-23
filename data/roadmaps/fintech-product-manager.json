@@ -1,0 +1,64 @@
+{
+  "title": "Fintech Product Manager",
+  "description": "Roadmap to a fintech PM role: product discovery, delivery, compliance, and growth.",
+  "category": "Fintech & Emerging Roles",
+  "slug": "fintech-product-manager",
+  "stages": [
+    {
+      "title": "Discovery & Strategy",
+      "nodes": [
+        {
+          "id": "user-research",
+          "label": "User Research & Problem Discovery",
+          "description": "Personas, JTBD, interviews, experiments.",
+          "bulletPoints": []
+        },
+        {
+          "id": "product-strategy",
+          "label": "Product Strategy & Roadmapping",
+          "description": "Vision, KPIs/OKRs, prioritization frameworks.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Delivery & Compliance",
+      "nodes": [
+        {
+          "id": "payments-apis",
+          "label": "Payments & APIs",
+          "description": "Cards, ACH/UPI, wallets, open banking APIs.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-and-compliance",
+          "label": "Risk, Compliance & Security",
+          "description": "KYC/AML, PCI, data privacy, fraud controls.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Growth & Operations",
+      "nodes": [
+        {
+          "id": "growth-analytics",
+          "label": "Growth & Analytics",
+          "description": "Activation, retention, funnel metrics, experimentation.",
+          "bulletPoints": []
+        },
+        {
+          "id": "stakeholder-management",
+          "label": "Stakeholder & Vendor Management",
+          "description": "Cross-functional leadership, partner integrations.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

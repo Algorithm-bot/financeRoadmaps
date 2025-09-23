@@ -1,0 +1,64 @@
+{
+  "title": "ESG (Environmental, Social, Governance) Finance Specialist",
+  "description": "Roadmap to an ESG finance role: frameworks, data, integration, and reporting.",
+  "category": "Fintech & Emerging Roles",
+  "slug": "esg-finance-specialist",
+  "stages": [
+    {
+      "title": "Standards & Frameworks",
+      "nodes": [
+        {
+          "id": "esg-standards",
+          "label": "ESG Standards",
+          "description": "GRI, SASB/ISSB, TCFD, EU SFDR/Taxonomy.",
+          "bulletPoints": []
+        },
+        {
+          "id": "materiality",
+          "label": "Materiality & Ratings",
+          "description": "Double materiality, rating methodologies, controversies.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Data & Integration",
+      "nodes": [
+        {
+          "id": "esg-data",
+          "label": "ESG Data & Metrics",
+          "description": "Data sources, quality, KPIs, scopes 1–3 emissions.",
+          "bulletPoints": []
+        },
+        {
+          "id": "investment-integration",
+          "label": "Investment Integration",
+          "description": "Screens, tilts, stewardship, impact measurement.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Assurance",
+      "nodes": [
+        {
+          "id": "disclosures",
+          "label": "Disclosures",
+          "description": "Reporting templates, narrative, data traceability.",
+          "bulletPoints": []
+        },
+        {
+          "id": "assurance",
+          "label": "Assurance & Audit",
+          "description": "Limited vs reasonable assurance, controls, third-party reviews.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

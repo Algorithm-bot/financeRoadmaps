@@ -1,0 +1,70 @@
+{
+  "title": "Credit Analyst",
+  "description": "Roadmap to a career as a credit analyst: financial analysis, risk, and underwriting.",
+  "category": "Banking & Financial Services",
+  "slug": "credit-analyst",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "accounting-review",
+          "label": "Accounting Review",
+          "description": "Financial statements, cash flow, accrual vs cash.",
+          "bulletPoints": []
+        },
+        {
+          "id": "ratio-analysis",
+          "label": "Ratio & Trend Analysis",
+          "description": "Profitability, leverage, liquidity, efficiency metrics.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Underwriting & Risk",
+      "nodes": [
+        {
+          "id": "underwriting-process",
+          "label": "Underwriting Process",
+          "description": "Borrower assessment, collateral, covenants, approval memo.",
+          "bulletPoints": []
+        },
+        {
+          "id": "industry-analysis",
+          "label": "Industry & Qualitative Analysis",
+          "description": "Industry structure, competitive dynamics, management evaluation.",
+          "bulletPoints": []
+        },
+        {
+          "id": "models-scorecards",
+          "label": "Models & Scorecards",
+          "description": "PD/LGD concepts, rating models, scorecards, stress testing.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Monitoring & Portfolio",
+      "nodes": [
+        {
+          "id": "ongoing-monitoring",
+          "label": "Ongoing Monitoring",
+          "description": "Covenant checks, financial updates, watchlists.",
+          "bulletPoints": []
+        },
+        {
+          "id": "problem-loans",
+          "label": "Problem Loans",
+          "description": "Early warning signals, remediation, restructuring basics.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

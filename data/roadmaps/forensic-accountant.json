@@ -1,0 +1,64 @@
+{
+  "title": "Forensic Accountant",
+  "description": "Roadmap to forensic accounting: investigations, fraud schemes, evidence, and reporting.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "forensic-accountant",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "fraud-schemes",
+          "label": "Fraud Schemes",
+          "description": "Asset misappropriation, corruption, financial statement fraud.",
+          "bulletPoints": []
+        },
+        {
+          "id": "legal-basics",
+          "label": "Legal Basics",
+          "description": "Litigation context, standards of proof, expert witness role.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Investigation Techniques",
+      "nodes": [
+        {
+          "id": "evidence-collection",
+          "label": "Evidence Collection",
+          "description": "Chain of custody, interviews, document analysis.",
+          "bulletPoints": []
+        },
+        {
+          "id": "data-analytics-forensics",
+          "label": "Data Analytics",
+          "description": "Benford's law, anomaly detection, link analysis.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Testimony",
+      "nodes": [
+        {
+          "id": "forensic-reporting",
+          "label": "Reporting",
+          "description": "Findings, damages quantification, exhibits, workpapers.",
+          "bulletPoints": []
+        },
+        {
+          "id": "expert-testimony",
+          "label": "Expert Testimony",
+          "description": "Deposition prep, courtroom presentation, Daubert standard.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

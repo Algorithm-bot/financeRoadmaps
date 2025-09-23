@@ -1,0 +1,64 @@
+{
+  "title": "Chief Financial Officer (CFO)",
+  "description": "Roadmap to the CFO role: strategy, capital allocation, reporting, and leadership.",
+  "category": "Corporate Finance Roles",
+  "slug": "chief-financial-officer",
+  "stages": [
+    {
+      "title": "Strategy & Capital",
+      "nodes": [
+        {
+          "id": "capital-allocation",
+          "label": "Capital Allocation",
+          "description": "Capex, M&A, buybacks/dividends, hurdle rates.",
+          "bulletPoints": []
+        },
+        {
+          "id": "strategic-planning",
+          "label": "Strategic Planning",
+          "description": "Long-range plans, scenario analysis, investor narrative.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Governance",
+      "nodes": [
+        {
+          "id": "external-reporting",
+          "label": "External Reporting",
+          "description": "Earnings, guidance, disclosures, audit/board relations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-compliance",
+          "label": "Risk & Compliance",
+          "description": "ERM, controls, policies, ethics & compliance.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Operations & Leadership",
+      "nodes": [
+        {
+          "id": "finance-transformation",
+          "label": "Finance Transformation",
+          "description": "Shared services, automation, data strategy.",
+          "bulletPoints": []
+        },
+        {
+          "id": "talent-culture",
+          "label": "Talent & Culture",
+          "description": "Org design, succession, performance management.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

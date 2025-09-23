@@ -1,0 +1,159 @@
+{
+  "title": "Consumer Rights in Finance: A Roadmap",
+  "description": "<div><p>This roadmap is your guide to understanding your essential rights as a financial consumer in India. It empowers you with the knowledge of how to seek resolution when things go wrong. We will explore the fundamental rights granted to you by regulators, the specific grievance redressal mechanisms like the Ombudsman schemes, and the final escalation pathways available through legal and regulatory frameworks to ensure your financial well-being is protected.</p></div>",
+  "category": "Finance Topics",
+  "slug": "consumer-rights",
+  "stages": [
+    {
+      "title": "Your Rights",
+      "nodes": [
+        {
+          "id": "right-to-info",
+          "label": "Right to Information",
+          "description": "<div><p>Whenever you deal with banks, insurance companies, mutual funds, or NBFCs, you have the fundamental <b>right to receive clear, complete, and honest information</b>. This is crucial because financial products can often be complex, and hidden details can significantly impact your money in the long run.</p><p>Before you commit to any service, the institution must explain everything in simple, understandable terms, including:</p><ul><li><b>Main features of the product</b> – What it is, how it works, and who it is suitable for.</li><li><b>Interest rates, charges, and fees</b> – A full breakdown of all costs so you know the real price of the service.</li><li><b>Risks and penalties</b> – What happens if you miss a payment, want to close an account early, or if market conditions change.</li><li><b>Customer support and complaint process</b> – Clear instructions on where to go if you have doubts or face problems.</li></ul><blockquote>By law, no financial institution can mislead you with false promises, deceptive advertisements, or hidden charges.</blockquote><p>This means you can and should always ask for full details before signing any contract. Don’t feel pressured to agree immediately—take your time to understand the terms and compare different options. Knowing and exercising this right helps you avoid fraud, unfair costs, and negative experiences, making you a more confident and informed financial consumer.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "RBI Fair Practices Code",
+              "url": "https://bankkeeping.com/post/complete-guide-to-rbis-fair-practices-code-fpc-rules-reforms-impact-on-borrowers"
+            }
+          ]
+        },
+        {
+          "id": "right-to-fair",
+          "label": "Right to Fair Treatment",
+          "description": "<div><p>Every financial consumer has the <b>right to be treated with dignity, respect, and fairness</b> at all times. This core principle prohibits discrimination and ensures ethical conduct from financial service providers.</p><p>This right includes:</p><ul><li><b>Non-discriminatory practices:</b> Institutions cannot deny services or offer unfair terms based on gender, age, religion, caste, or disability.</li><li><b>Ethical selling:</b> You must be protected from aggressive or deceptive sales tactics, a practice known as mis-selling. The product recommended must be appropriate for your financial situation and needs.</li><li><b>Fair pricing:</b> All charges must be transparent and reasonable, without hidden costs or excessive fees.</li></ul><p>Furthermore, institutions have a special duty of care towards vulnerable customers. For instance, <b>senior citizens and differently-abled persons</b> are entitled to accessible services and considerate treatment. This right ensures that your financial journey is built on a foundation of trust and respect.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "RBI Charter of Customer Rights",
+              "url": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/CCSR03122014_1.pdf"
+            }
+          ]
+        },
+        {
+          "id": "right-to-privacy",
+          "label": "Right to Privacy",
+          "description": "<div><p>Your financial information is personal and sensitive, and you have an absolute <b>right to privacy and confidentiality</b>. Financial institutions are legally obligated to protect your data from unauthorized access and disclosure.</p><p>This right ensures that your personal data—including account details, transaction history, investment portfolio, insurance records, and credit score—must be kept secure. Institutions <b>cannot share this data with third-party vendors</b> or for marketing purposes without your explicit and informed consent, except where required by law enforcement or regulatory bodies.</p><p>Any breach of data security, unauthorized transaction, or misuse of your information is a serious violation. You can challenge such incidents under the specific regulations of the RBI, IRDAI, and SEBI, as well as broader laws like the Information Technology Act. This right is fundamental to maintaining trust in the digital financial ecosystem.</p></div>",
+          "completed": false
+          
+        },
+        {
+          "id": "right-to-redressal",
+          "label": "Right to Grievance Redressal",
+          "description": "<div><p>If you face any issues with a financial product or service, you have the <b>right to an effective and timely grievance redressal</b>. This right ensures that you are not left helpless when you encounter problems like service deficiencies, mis-selling, unfair charges, or unacceptable delays.</p><p>All regulated financial institutions, including banks, insurers, and investment platforms, are required to have a dedicated grievance redressal mechanism. When you file a complaint, they must:</p><ul><li>Acknowledge your complaint promptly.</li><li>Provide you with a unique complaint registration number for tracking.</li><li>Resolve your issue within a stipulated timeframe (usually 30 days).</li></ul><p>This right is the foundation of consumer protection. It ensures that your voice is heard and that you have a clear path to follow if your complaint is not resolved to your satisfaction, leading to the escalation mechanisms discussed in the next stages.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Official Website",
+              "title": "Department of Administrative and Public Grievances",
+              "url": "https://rbidocs.rbi.org.in"
+            },
+            {
+              "type": "Official Website",
+              "title": "IRDAI Grievance Redressal",
+              "url": "https://irdai.gov.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Redressal Mechanisms",
+      "nodes": [
+        {
+          "id": "banking-ombudsman",
+          "label": "Banking Ombudsman",
+          "description": "<div><p>The RBI’s <b>Integrated Ombudsman Scheme (2021)</b> is a powerful, free-of-cost grievance redressal mechanism for customers of banks, NBFCs, and payment system participants. It consolidated three former schemes into a single point of contact, simplifying the complaint process under a 'One Nation, One Ombudsman' approach.</p><p>You can approach the Ombudsman for a wide range of issues, such as:</p><ul><li>ATM transaction failures and debit/credit card disputes.</li><li>Unauthorised electronic fund transfers and mobile banking issues.</li><li>Delays in loan processing or disbursement.</li><li>Mis-selling of third-party products like insurance or mutual funds.</li><li>Levying unfair charges without prior notice.</li></ul><p>If the financial institution does not resolve your complaint within <b>30 days</b>, or if you are not satisfied with their response, you can easily file a complaint with the Ombudsman online, via email, or by post.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "RBI Ombudsman Scheme",
+              "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3407"
+            }
+          ]
+        },
+        {
+          "id": "insurance-ombudsman",
+          "label": "Insurance Ombudsman",
+          "description": "<div><p>The <b>Insurance Ombudsman</b> provides a forum for the speedy and impartial resolution of disputes between policyholders and insurance companies. This service is completely free and covers complaints related to life, health, and general insurance.</p><p>You can file a complaint with the Ombudsman for issues such as:</p><ul><li>Unjustified rejection or delay in settling an insurance claim.</li><li>Disputes over the premium paid or payable.</li><li>Misrepresentation of policy terms and conditions (mis-selling).</li><li>Non-issuance of the insurance policy after premium collection.</li></ul><p>There are <b>17 Insurance Ombudsman offices</b> across India, each with its own territorial jurisdiction. A policyholder can approach the relevant Ombudsman if the insurer has rejected their complaint, not responded for 30 days, or provided an unsatisfactory resolution. The Ombudsman's decision is binding on the insurer if the policyholder accepts it.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Official Website",
+              "title": "Council for Insurance Ombudsman",
+              "url": "https://cioins.co.in"
+            }
+          ]
+        },
+        {
+          "id": "nbfc-grievance",
+          "label": "NBFC Grievance Redressal",
+          "description": "<div><p>Non-Banking Financial Companies (NBFCs) are regulated by the RBI and are mandated to have a robust grievance redressal mechanism for their customers. Common complaints against NBFCs often relate to loan agreements, high interest rates, aggressive recovery practices, and lack of transparency in charges.</p><p>The process is straightforward: first, you must file a complaint with the NBFC’s designated Grievance Redressal Officer. If the issue is not resolved within <b>30 days</b> or the resolution is unsatisfactory, you have the right to escalate the matter. Under the Integrated Scheme, complaints against regulated NBFCs can be filed with the <b>RBI Ombudsman</b>, providing a powerful and effective second-level check.</p></div>",
+          "completed": false
+         
+        },
+        {
+          "id": "pension-ombudsman",
+          "label": "Pension Ombudsman",
+          "description": "<div><p>The Pension Fund Regulatory and Development Authority (PFRDA) has established an Ombudsman system to address grievances related to pension schemes, most notably the <b>National Pension System (NPS)</b>. This mechanism ensures that the rights of pension subscribers are protected.</p><p>Subscribers can escalate complaints to the Ombudsman for various issues, including:</p><ul><li>Delays in crediting contributions to the NPS account.</li><li>Problems with withdrawals or annuity processing upon retirement.</li><li>Discrepancies in account statements or fund management.</li><li>Unresolved issues with Central Recordkeeping Agencies (CRAs) or Pension Fund Managers.</li></ul><p>This provides a crucial oversight function, ensuring accountability and timely resolution for millions of pension subscribers in India.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Official Website",
+              "title": "PFRDA Grievance Redressal",
+              "url": "https://www.pfrda.org.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Escalation",
+      "nodes": [
+        {
+          "id": "consumer-courts",
+          "label": "Consumer Courts",
+          "description": "<div><p>If you are not satisfied with the resolution from an Ombudsman or if your issue is not covered by their schemes, you can seek justice through the <b>Consumer Commissions</b>, commonly known as Consumer Courts. Established under the Consumer Protection Act, 2019, these courts provide a formal legal pathway for redressal.</p><p>These quasi-judicial bodies operate at three levels based on the value of the claim:</p><ul><li><b>District Commission:</b> For claims up to ₹50 lakh.</li><li><b>State Commission:</b> For claims between ₹50 lakh and ₹2 crore.</li><li><b>National Commission:</b> For claims above ₹2 crore.</li></ul><p>Consumer courts can handle cases of deficiency in services, unfair trade practices, and financial fraud. They have the power to award compensation, order refunds, and impose penalties on defaulting institutions, making them a potent tool for aggrieved consumers.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "How to file a Case in Consumer Court",
+              "url": "https://youtu.be/xy2IsIUBlKM?si=XKvEp8mhJ8l34Msc"
+            }
+          ]
+        },
+        {
+          "id": "sebi-investor",
+          "label": "SEBI SCORES",
+          "description": "<div><p>For investors in the securities market, the Securities and Exchange Board of India (SEBI) offers a centralized online platform called <b>SCORES (SEBI Complaints Redress System)</b>. This is the go-to mechanism for filing and tracking complaints against entities regulated by SEBI.</p><p>You can use SCORES to lodge grievances against:</p><ul><li>Listed companies (e.g., non-receipt of dividends or shares).</li><li>Stockbrokers and depository participants.</li><li>Mutual funds and portfolio managers.</li><li>Other registered market intermediaries.</li></ul><p>The platform ensures that complaints are directed to the concerned entity for a time-bound resolution. It provides a transparent and accountable system, empowering investors and protecting their interests in the capital markets.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Official Website",
+              "title": "SCORES Portal",
+              "url": "https://scores.sebi.gov.in"
+            }
+          ]
+        },
+        {
+          "id": "lok-adalat",
+          "label": "Lok Adalat & Mediation",
+          "description": "<div><p>For those seeking a quicker and less formal resolution, <b>Lok Adalats (People's Courts) and Mediation</b> serve as effective Alternative Dispute Resolution (ADR) mechanisms. These methods are designed to settle disputes amicably without undergoing a lengthy and expensive court process.</p><p>Many banks and financial institutions regularly participate in Lok Adalat sessions to resolve pending cases, especially related to loan recovery and settlement of customer disputes. The key benefits are:</p><ul><li><b>Speedy Justice:</b> Cases are resolved much faster than in traditional courts.</li><li><b>Low Cost:</b> There are no court fees involved.</li><li><b>Legally Binding:</b> The decision (or 'award') passed by a Lok Adalat is deemed a decree of a civil court and is final and binding on both parties.</li></ul><p>This approach promotes compromise and offers a practical way to resolve financial disputes efficiently.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Legal Services India - Lok Adalats",
+              "url": "https://nalsa.gov.in/lok-adalats"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

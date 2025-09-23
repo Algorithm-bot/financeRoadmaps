@@ -1,0 +1,64 @@
+{
+  "title": "Compliance & Regulatory Specialist (SEBI/RBI roles)",
+  "description": "Roadmap to regulatory compliance roles: licensing, filings, surveillance, and exams.",
+  "category": "Fintech & Emerging Roles",
+  "slug": "compliance-regulatory-specialist",
+  "stages": [
+    {
+      "title": "Regulatory Framework",
+      "nodes": [
+        {
+          "id": "rbi-sebi-overview",
+          "label": "RBI/SEBI Overview",
+          "description": "Mandates, key regulations, circulars, enforcement.",
+          "bulletPoints": []
+        },
+        {
+          "id": "licensing-registration",
+          "label": "Licensing & Registration",
+          "description": "Entity types, net worth criteria, application process.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Monitoring & Reporting",
+      "nodes": [
+        {
+          "id": "surveillance-reporting",
+          "label": "Surveillance & Reporting",
+          "description": "Transaction monitoring, suspicious activity, returns/filings.",
+          "bulletPoints": []
+        },
+        {
+          "id": "inspections-audits",
+          "label": "Inspections & Audits",
+          "description": "Regulatory inspections, responses, remediation plans.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Compliance Program",
+      "nodes": [
+        {
+          "id": "policies-controls",
+          "label": "Policies & Controls",
+          "description": "Policy drafting, control testing, training & attestations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "reg-tech",
+          "label": "RegTech & Automation",
+          "description": "APIs, reporting automation, case management tools.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

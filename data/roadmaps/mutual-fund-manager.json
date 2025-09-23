@@ -1,0 +1,64 @@
+{
+  "title": "Mutual Fund Manager",
+  "description": "Roadmap to a career as a mutual fund manager: mandates, portfolio construction, and distribution.",
+  "category": "Capital Markets & Investment",
+  "slug": "mutual-fund-manager",
+  "stages": [
+    {
+      "title": "Fund Mandates",
+      "nodes": [
+        {
+          "id": "mandates-benchmarks",
+          "label": "Mandates & Benchmarks",
+          "description": "Prospectus, benchmark selection, constraints, tracking error.",
+          "bulletPoints": []
+        },
+        {
+          "id": "compliance-disclosure",
+          "label": "Compliance & Disclosure",
+          "description": "Regulatory reporting, disclosures, board oversight.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Portfolio & Risk",
+      "nodes": [
+        {
+          "id": "security-selection",
+          "label": "Security Selection",
+          "description": "Screening, due diligence, buy/sell discipline.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-measurement",
+          "label": "Risk Measurement",
+          "description": "Volatility, beta, VaR, factor attribution.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Operations & Distribution",
+      "nodes": [
+        {
+          "id": "fund-operations",
+          "label": "Fund Operations",
+          "description": "NAV calculation, compliance, audit, vendor management.",
+          "bulletPoints": []
+        },
+        {
+          "id": "distribution-channels",
+          "label": "Distribution & Shareholder Services",
+          "description": "Platforms, wholesalers, investor communication.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

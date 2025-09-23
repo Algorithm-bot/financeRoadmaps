@@ -1,0 +1,75 @@
+{
+  "title": "Stock Market Basics",
+  "description": "Learn the fundamentals of the stock market from beginner to advanced.",
+  "category": "Finance Topics",
+  "slug": "stock-market-basics",
+  "layout": "flow",
+  "stages": [
+    {
+      "title": "Fundamentals of the Stock Market",
+      "nodes": [
+        {
+          "id": "what-is-stock-market",
+          "label": "What is a Stock Market?",
+          "description": "Understand the concept of buying, selling, and ownership of shares in companies.",
+          "completed": true,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Stock Market 101",
+              "url": "https://www.investopedia.com/terms/s/stockmarket.asp"
+            },
+            {
+              "type": "video",
+              "title": "How the Stock Market Works",
+              "url": "https://www.youtube.com/watch?v=p7HKvqRI_Bo"
+            }
+          ]
+        },
+        {
+          "id": "Types of Stocks",
+          "label": "Orders & Brokers",
+          "description": "Market vs limit orders, bid/ask, spreads, brokerage accounts.",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Order Types",
+              "url": "https://www.investopedia.com/terms/o/ordertype.asp"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Intermediate",
+      "nodes": [
+        {
+          "id": "fundamental-analysis",
+          "label": "Fundamental Analysis",
+          "description": "Financial statements, ratios, valuation basics.",
+          "resources": [
+            {
+              "type": "article",
+              "title": "Fundamental Analysis",
+              "url": "https://www.investopedia.com/terms/f/fundamentalanalysis.asp"
+            }
+          ]
+        },
+        {
+          "id": "technical-analysis",
+          "label": "Technical Analysis",
+          "description": "Charts, trends, indicators, and patterns.",
+          "resources": [
+            {
+              "type": "article",
+              "title": "Technical Analysis",
+              "url": "https://www.investopedia.com/terms/t/technicalanalysis.asp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

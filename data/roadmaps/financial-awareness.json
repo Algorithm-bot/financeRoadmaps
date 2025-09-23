@@ -1,0 +1,87 @@
+{
+  "title": "Financial Fraud Awareness: A Roadmap for Safety",
+  "description": "<div><p>Welcome to your essential guide on navigating the digital financial world safely. In an age where scams are becoming increasingly sophisticated, this roadmap is designed to arm you with the knowledge to <b>recognize, prevent, and respond</b> to common financial frauds. By understanding the tactics used by fraudsters and adopting safe practices, you can protect your hard-earned money and transact with confidence.</p></div>",
+  "category": "Finance Topics",
+  "slug": "financial-awareness",
+  "stages": [
+    {
+      "title": "Types of Frauds",
+      "nodes": [
+        {
+          "id": "phishing",
+          "label": "Phishing & Email Scams",
+          "description": "<div><p><b>Phishing</b> is a deceptive tactic where fraudsters, disguised as trustworthy entities like your bank or a popular online service, try to trick you into revealing sensitive information. These fraudulent messages create a sense of urgency or fear to manipulate you into acting quickly without thinking.</p><p>Common forms include:</p><ul><li><b>Email Phishing:</b> Emails that look official, asking you to 'verify your account' or 'claim a prize' by clicking a malicious link.</li><li><b>Smishing (SMS Phishing):</b> Text messages containing links to fake websites or asking for personal data (e.g., \"Your package is on hold, update your details here\").</li><li><b>Vishing (Voice Phishing):</b> Phone calls where scammers impersonate bank officials or tech support to coax you into sharing OTPs, PINs, or passwords.</li></ul><blockquote>Always be suspicious of unsolicited messages that ask for personal information or create panic. Never click on links or download attachments from unknown sources.</blockquote></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "How to spot a phishing Message",
+              "url": "https://www.youtube.com/watch?v=3gpOM9c6mmA"
+            }
+          ]
+          
+        },
+        {
+          "id": "loan-crypto-scams",
+          "label": "Loan & Crypto Scams",
+          "description": "<div><p>Fraudsters exploit the lure of quick money and easy credit through sophisticated scams. It's crucial to be aware of these high-risk areas.</p><ul><li><b>Illegal Lending Apps:</b> These apps offer instant loans without proper verification, but then use blackmail, harassment, and exorbitant interest rates to recover money. <i>Always check if a lending app is registered with the RBI before using it.</i></li><li><b>Crypto Scams:</b> These include fake investment platforms promising guaranteed high returns, 'pump and dump' schemes where fraudsters inflate a worthless coin's value and then sell, and fake celebrity endorsements.</li><li><b>Ponzi Schemes:</b> These fraudulent investment operations pay returns to earlier investors with money taken from newer investors, rather than from any legitimate profit. They inevitably collapse when they can't attract enough new investors.</li></ul><blockquote>Remember the golden rule: If an investment opportunity sounds too good to be true, it almost certainly is. High returns always come with high risk.</blockquote></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "How to detect Loan Fraud",
+              "url": "https://www.hdfcbank.com/personal/resources/learning-centre/vigil-aunty/what-is-loan-fraud"
+            },
+            {
+              "type": "video",
+              "title": "How Crypto Scams Work",
+              "url": "https://youtu.be/RwHGp4mELbU?si=eOVoP7vlVNIHfwwQ"
+            },
+            {
+              "type": "video",
+              "title": "The origin and working of Ponzi Scam",
+              "url": "https://youtu.be/LgDQG-ZKRFg?si=Z-WkTapRcW4veWky"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prevention",
+      "nodes": [
+        {
+          "id": "secure-practices",
+          "label": "Safe Banking Practices",
+          "description": "<div><p>Adopting simple yet effective security habits is your first and best line of defense against financial fraud. Make these practices a part of your routine:</p><ul><li><b>Use Strong, Unique Passwords:</b> Create complex passwords with a mix of uppercase and lowercase letters, numbers, and symbols. Avoid using the same password across multiple platforms.</li><li><b>Enable Two-Factor Authentication (2FA):</b> Always activate 2FA wherever available. It adds a critical second layer of security, usually a code sent to your phone, that prevents unauthorized access even if your password is stolen.</li><li><b>Verify Before You Trust:</b> Before entering any sensitive information, check that the website URL starts with '<b>https://</b>' and has a padlock icon. Only download financial apps from official sources like the Google Play Store or Apple App Store.</li><li><b>Never Share Confidential Details:</b> Your bank will never ask for your PIN, CVV, or OTP. Treat these details as sacred and never share them with anyone.</li><li><b>Be Wary of Public Wi-Fi:</b> Avoid conducting financial transactions on unsecured public Wi-Fi networks, as they are vulnerable to snooping.</li></ul></div>",
+          "completed": false,
+          "resources": []
+        },
+        {
+          "id": "fraud-hotlines",
+          "label": "Reporting Frauds",
+          "description": "<div><p>If you suspect you've become a victim of financial fraud, acting quickly can make a significant difference. Follow these steps immediately:</p><ol><li><b>Contact Your Bank:</b> The very first step is to call your bank's customer service and report the fraudulent transaction. Ask them to block your card and account immediately to prevent further losses. This is often called the 'Golden Hour' rule, as swift action increases the chances of recovering funds.</li><li><b>Report to the National Cyber Crime Helpline:</b> Dial <b>1930</b> or file a complaint on the National Cyber Crime Reporting Portal at <b>www.cybercrime.gov.in</b>. This alerts law enforcement and helps in tracking the fraudulent activity.</li><li><b>Escalate to the RBI Ombudsman:</b> If you feel your bank has not handled your complaint satisfactorily or there has been a deficiency in their service (e.g., they didn't act on your request in time), you can file a complaint with the RBI Ombudsman as a next step.</li></ol></div>",
+          "completed": false
+          
+        }
+      ]
+    },
+    {
+      "title": "Quiz",
+      "nodes": [
+        {
+          "id": "fraud-quiz",
+          "label": "Test Yourself: Fraud Awareness",
+          "description": "<div><p>Knowledge is power, and it's time to put yours to the test! This quiz will present you with common scenarios involving potential scams and security choices.</p><p>By answering these questions, you can check your ability to spot the red flags of fraud and identify safe banking practices. Think of it as a practical drill to sharpen your instincts and ensure you're well-prepared to protect your finances in the real world. Good luck!</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Quiz",
+              "title": "Solve this Quiz from CIBC",
+              "url": "https://www.cibc.com/en/privacy-security/banking-fraud/scam-quiz.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

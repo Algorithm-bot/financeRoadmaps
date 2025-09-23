@@ -1,0 +1,64 @@
+{
+  "title": "Wealth Manager",
+  "description": "Roadmap to a wealth manager career: client advisory, portfolio, tax, and estate.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "wealth-manager",
+  "stages": [
+    {
+      "title": "Client Discovery & Planning",
+      "nodes": [
+        {
+          "id": "client-discovery",
+          "label": "Client Discovery",
+          "description": "Goals, risk tolerance, constraints, financial profile.",
+          "bulletPoints": []
+        },
+        {
+          "id": "financial-plan",
+          "label": "Financial Plan",
+          "description": "Cash flow, retirement planning, protection needs.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Investments & Tax",
+      "nodes": [
+        {
+          "id": "asset-allocation",
+          "label": "Asset Allocation & Products",
+          "description": "Multi-asset portfolios, funds/ETFs, alternatives.",
+          "bulletPoints": []
+        },
+        {
+          "id": "tax-optimization",
+          "label": "Tax Optimization",
+          "description": "Tax-loss harvesting, asset location, distributions.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Estate & Practice",
+      "nodes": [
+        {
+          "id": "estate-planning",
+          "label": "Estate Planning",
+          "description": "Wills, trusts, gifting, charitable strategies.",
+          "bulletPoints": []
+        },
+        {
+          "id": "practice-management",
+          "label": "Practice Management",
+          "description": "CRM, fee models, compliance, client service.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

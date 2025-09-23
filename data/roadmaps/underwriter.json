@@ -1,0 +1,64 @@
+{
+  "title": "Underwriter",
+  "description": "Roadmap to an underwriting career: risk assessment, pricing, and portfolio management.",
+  "category": "Insurance & Risk",
+  "slug": "underwriter",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "underwriting-basics",
+          "label": "Underwriting Basics",
+          "description": "Risk selection, coverage types, policy terms.",
+          "bulletPoints": []
+        },
+        {
+          "id": "data-sources",
+          "label": "Data & Information Sources",
+          "description": "Applications, medicals, inspections, credit, loss history.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Assessment & Pricing",
+      "nodes": [
+        {
+          "id": "risk-assessment",
+          "label": "Risk Assessment",
+          "description": "Hazards, exposures, controls, risk classification.",
+          "bulletPoints": []
+        },
+        {
+          "id": "pricing",
+          "label": "Pricing & Terms",
+          "description": "Rates, loadings, deductibles, exclusions, reinsurance.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Portfolio & Relationships",
+      "nodes": [
+        {
+          "id": "portfolio-management",
+          "label": "Portfolio Management",
+          "description": "Mix, limits, aggregations, profitability.",
+          "bulletPoints": []
+        },
+        {
+          "id": "broker-relationships",
+          "label": "Broker & Client Relationships",
+          "description": "Negotiations, service, renewal strategy.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

@@ -1,0 +1,77 @@
+{
+    "title": "Remittances & NRI Banking: A Roadmap",
+    "description": "Learn how NRIs manage money transfers, NRE/NRO accounts, and RBI regulations.",
+    "category": "Finance Topics",
+    "slug": "NRI-banking",
+    "stages": [
+      {
+        "title": "Basics",
+        "nodes": [
+          {
+            "id": "what-is-remittance",
+            "label": "What is Remittance?",
+            "description": "Sending money across countries, often by NRIs to families in India.",
+            "completed": false,
+            "resources": []
+          },
+          {
+            "id": "nre-nro",
+            "label": "NRE & NRO Accounts",
+            "description": "NRE for freely repatriable foreign income, NRO for local Indian income with limited repatriation.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Methods",
+        "nodes": [
+          {
+            "id": "banks-exchange",
+            "label": "Banks & Exchange Houses",
+            "description": "Use SWIFT, forex services, or apps like Wise/Remitly. Compare fees and exchange rates.",
+            "completed": false,
+            "resources": []
+          },
+          {
+            "id": "forex-cards",
+            "label": "Forex Cards & Online Transfers",
+            "description": "Convenient for students/travelers, load foreign currency, and use abroad.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Regulations & Taxes",
+        "nodes": [
+          {
+            "id": "fema-rules",
+            "label": "FEMA & RBI Rules",
+            "description": "RBI regulates remittances; FEMA governs foreign exchange in India.",
+            "completed": false,
+            "resources": []
+          },
+          {
+            "id": "tax-implications",
+            "label": "Tax Implications",
+            "description": "Tax depends on residency status, source of income, and DTAA agreements.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Quiz",
+        "nodes": [
+          {
+            "id": "remittance-quiz",
+            "label": "Test Yourself: Remittances",
+            "description": "Quick test on accounts, methods, and rules.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,81 @@
+{
+  "title": "Relationship Manager (Banking/Wealth)",
+  "description": "Roadmap to a career as a relationship manager: client coverage, sales, and advisory.",
+  "category": "Banking & Financial Services",
+  "slug": "relationship-manager-wealth",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "rm-overview",
+          "label": "RM Role Overview",
+          "description": "Coverage vs advisory, book management, segmentation.",
+          "bulletPoints": []
+        },
+        {
+          "id": "communication-skills",
+          "label": "Communication & Sales Skills",
+          "description": "Discovery, storytelling, objection handling, closing.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Products & Advisory",
+      "nodes": [
+        {
+          "id": "banking-products",
+          "label": "Banking & Wealth Products",
+          "description": "Deposits, lending, mutual funds, PMS, structured products.",
+          "bulletPoints": []
+        },
+        {
+          "id": "suitability-compliance",
+          "label": "Suitability & Compliance",
+          "description": "KYC, risk profiling, documentation, disclosures.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Client Experience",
+      "nodes": [
+        {
+          "id": "onboarding-servicing",
+          "label": "Onboarding & Servicing",
+          "description": "Account opening, transactions, issue resolution, service SLAs.",
+          "bulletPoints": []
+        },
+        {
+          "id": "portfolio-review",
+          "label": "Portfolio Reviews",
+          "description": "Review meetings, rebalancing, reporting, next steps.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Growth & Retention",
+      "nodes": [
+        {
+          "id": "lead-pipeline",
+          "label": "Lead Pipeline & Referrals",
+          "description": "Prospecting, centers of influence, events.",
+          "bulletPoints": []
+        },
+        {
+          "id": "book-management",
+          "label": "Book Management & Metrics",
+          "description": "AUM growth, cross-sell, retention, client satisfaction.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

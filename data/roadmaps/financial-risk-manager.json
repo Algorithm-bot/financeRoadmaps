@@ -1,0 +1,90 @@
+{
+  "title": "Financial Risk Manager (FRM)",
+  "description": "Roadmap to becoming an FRM: market, credit, operational risk, and risk models.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "financial-risk-manager",
+  "stages": [
+    {
+      "title": "Program & Foundations",
+      "nodes": [
+        {
+          "id": "frm-overview",
+          "label": "FRM Program Overview",
+          "description": "Parts I & II, topic areas, registration, exam windows.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "GARP", "url": "https://www.garp.org/" }
+          ]
+        },
+        {
+          "id": "risk-basics",
+          "label": "Risk Management Basics",
+          "description": "Risk types, governance, risk frameworks.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Core Risk Domains",
+      "nodes": [
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "description": "VaR, stress testing, derivatives risk, backtesting.",
+          "bulletPoints": []
+        },
+        {
+          "id": "credit-risk",
+          "label": "Credit Risk",
+          "description": "PD/LGD/EAD, credit models, counterparty risk.",
+          "bulletPoints": []
+        },
+        {
+          "id": "operational-risk",
+          "label": "Operational Risk",
+          "description": "Loss data, scenario analysis, RCSA, controls.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Modeling & Regulation",
+      "nodes": [
+        {
+          "id": "risk-models",
+          "label": "Risk Models",
+          "description": "Distributional assumptions, Monte Carlo, correlations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "regulatory-frameworks",
+          "label": "Regulatory Frameworks",
+          "description": "Basel, CCAR, FRTB, ICAAP.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Exam & Practice",
+      "nodes": [
+        {
+          "id": "exam-prep-frm",
+          "label": "Exam Preparation",
+          "description": "Study plan, question banks, mocks, formula sheet.",
+          "bulletPoints": []
+        },
+        {
+          "id": "applications",
+          "label": "Practical Applications",
+          "description": "Risk reporting, limit frameworks, model validation.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

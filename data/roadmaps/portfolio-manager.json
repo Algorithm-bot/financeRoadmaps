@@ -1,0 +1,64 @@
+{
+  "title": "Portfolio Manager",
+  "description": "Roadmap to a career as a portfolio manager: strategy, portfolio construction, and risk.",
+  "category": "Capital Markets & Investment",
+  "slug": "portfolio-manager",
+  "stages": [
+    {
+      "title": "Investment Philosophy",
+      "nodes": [
+        {
+          "id": "investment-style",
+          "label": "Investment Style & Edge",
+          "description": "Value, growth, quality, quant, macro; sources of edge.",
+          "bulletPoints": []
+        },
+        {
+          "id": "research-process",
+          "label": "Research Process",
+          "description": "Idea generation, diligence, thesis tracking, variant perception.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Portfolio Construction",
+      "nodes": [
+        {
+          "id": "allocation-sizing",
+          "label": "Allocation & Sizing",
+          "description": "Position sizing, diversification, constraint management.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-controls",
+          "label": "Risk Controls",
+          "description": "Exposure limits, factor risk, drawdown management.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Execution & Review",
+      "nodes": [
+        {
+          "id": "execution-trading",
+          "label": "Execution & Trading",
+          "description": "Order routing, liquidity, TCA.",
+          "bulletPoints": []
+        },
+        {
+          "id": "performance-attribution",
+          "label": "Performance & Attribution",
+          "description": "Attribution, benchmark selection, risk-adjusted returns.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

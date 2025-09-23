@@ -1,0 +1,134 @@
+{
+  "title": "Bonds & Government Securities: A Roadmap for Beginners",
+  "description": "<div><p>This roadmap is designed to help you understand the world of bonds, Government Securities (G-Secs), and Sovereign Gold Bonds. Whether you're looking for safer investment options or want to diversify your portfolio, this guide will walk you through the essential concepts, risks, and methods of investing in these financial instruments.</p></div>",
+  "category": "Finance Topics",
+  "slug": "bonds",
+  "stages": [
+    {
+      "title": "Basics",
+      "nodes": [
+        {
+          "id": "what-are-bonds",
+          "label": "What are Bonds?",
+          "description": "<div><p>Think of buying a <b>bond</b> as giving a loan. You are the lender, and a government or a company is the borrower. In exchange for your money, the borrower issues you a bond, which is a formal promise to pay you back the full amount on a specific future date, known as the <b>maturity date</b>. Additionally, they will pay you regular, fixed interest payments (called <b>coupon payments</b>) throughout the life of the loan.</p><p>Bonds are generally considered a safer investment compared to stocks because the income stream is predictable. However, their safety level varies:</p><ul><li><b>Government Bonds:</b> These are very safe because they are backed by the full faith and credit of the government.</li><li><b>Corporate Bonds:</b> These can be riskier. A financially strong company's bonds are quite safe, but a struggling company's bonds carry a higher risk of default, so they typically offer higher interest rates to compensate for that risk.</li></ul><p>Investors often use bonds to generate a steady income and to balance the risk in their overall investment portfolio.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Bond Basics",
+              "url": "https://www.investopedia.com/terms/b/bond.asp"
+            },
+            {
+              "type": "video",
+              "title": "Bonds & How they work",
+              "url": "https://www.youtube.com/watch?v=N_0d35JvuO0"
+            }
+          ]
+        },
+        {
+          "id": "gsecs",
+          "label": "Government Securities",
+          "description": "<div><p><b>Government Securities (G-Secs)</b> are a type of bond issued by the central or state governments when they need to raise funds to meet their spending needs. When you invest in a G-Sec, you are essentially lending money directly to the government.</p><p>These are considered one of the safest possible investments because they are backed by the sovereign guarantee of the government, meaning the risk of default is virtually zero. In India, G-Secs are issued in two main categories:</p><ul><li><b>Treasury Bills (T-Bills):</b> These are short-term instruments with maturities of less than one year (e.g., 91 days, 182 days, or 364 days). They don't pay interest; instead, they are sold at a discount and redeemed at face value.</li><li><b>Government Bonds (Dated Securities):</b> These are long-term instruments with maturities ranging from 5 to 40 years. They pay a fixed interest (coupon) semi-annually.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "Government securities in-depth-explanation",
+              "url": "https://www.youtube.com/watch?v=owLUuFgcaLQ"
+            },
+            {
+              "type": "article",
+              "title": "Government securities",
+              "url": "https://www.bajajfinserv.in/investments/government-securities"
+            }
+          ]
+        },
+        {
+          "id": "Gold-EFTS",
+          "label": "Gold ETFs",
+          "description": "<div><p><b>Gold Exchange Traded Funds (ETFs)</b> are a modern and efficient way to invest in gold without the challenges of owning it physically. These are investment funds that trade on stock exchanges, much like individual stocks, and their value is directly tied to the market price of pure physical gold.</p><p>When you buy a unit of a Gold ETF, you are purchasing gold in an electronic form. Each unit typically represents 1 gram of gold and is held in a demat account. The key advantages include:</p><ul><li><b>Convenience:</b> Easy to buy and sell on the stock exchange during market hours.</li><li><b>Purity:</b> The gold is 99.5% pure, which is guaranteed.</li><li><b>No Storage Hassles:</b> You don't need to worry about the security and storage costs associated with physical gold.</li><li><b>Transparency:</b> The pricing is transparent and based on real-time market rates.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Gold ETFs Explained",
+              "url": "https://www.youtube.com/watch?v=owLUuFgcaLQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Risk & Returns",
+      "nodes": [
+        {
+          "id": "bond-risks",
+          "label": "Risks",
+          "description": "<div><p>While bonds are generally safer than stocks, they are not entirely risk-free. It's important for investors to be aware of the potential risks before investing. Some of the primary risks include:</p><ul><li><b>Interest Rate Risk:</b> If interest rates in the market rise, newly issued bonds will offer higher payments, making your existing, lower-rate bond less attractive and thus reducing its market value if you try to sell it.</li><li><b>Inflation Risk:</b> The fixed interest payments from a bond might not keep pace with inflation, meaning the real return (your purchasing power) could decrease over time.</li><li><b>Credit Risk (or Default Risk):</b> This is the risk that the bond issuer (the borrower) will be unable to make its promised interest payments or repay the principal amount at maturity. This risk is higher for corporate bonds than for government bonds.</li><li><b>Liquidity Risk:</b> This risk arises if you need to sell your bond before its maturity date but cannot find a buyer quickly without having to lower the price.</li></ul><p><i>Visit the provided article to gain a deeper understanding of how these risks can impact your investments.</i></p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Risks associated with Bonds",
+              "url": "https://www.investopedia.com/articles/bonds/08/bond-risks.asp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How to Invest",
+      "nodes": [
+        {
+          "id": "direct-rbi",
+          "label": "RBI Retail Direct",
+          "description": "<div><p>The <b>RBI Retail Direct</b> scheme is a major initiative by the Reserve Bank of India to democratize the government securities market. This secure online platform allows individual retail investors to directly buy and sell government securities—both Treasury Bills and Government Bonds—without needing to go through intermediaries like banks or fund managers.</p><p>Previously, direct participation in the G-Sec market was largely limited to institutional players. This platform makes it simple for anyone with a bank account and PAN card to open an account and invest directly in government-backed instruments, offering a safe and transparent avenue for building a fixed-income portfolio.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "RBI Retail Direct",
+              "url": "https://rbiretaildirect.org.in/"
+            }
+          ]
+        },
+        {
+          "id": "mutual-funds-bonds",
+          "label": "Bond Funds",
+          "description": "<div><p>For investors seeking an easy way to diversify their bond holdings, <b>Bond Funds</b> are an excellent option. These are mutual funds or Exchange-Traded Funds (ETFs) that pool money from numerous investors to create a diversified portfolio of various bonds. Instead of you having to research and purchase individual bonds, a professional fund manager makes all the investment decisions.</p><p>The key benefit is <b>diversification</b>. By investing in a bond fund, your money is spread across many different bonds from various issuers and with different maturity dates. This diversification helps to mitigate the risk that a default or poor performance of a single bond will significantly impact your overall investment. It's a convenient, cost-effective way to gain exposure to the bond market.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Bond Funds Explained",
+              "url": "https://www.investopedia.com/terms/b/bondfund.asp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quiz",
+      "nodes": [
+        {
+          "id": "bonds-quiz",
+          "label": "Test Yourself: Bonds",
+          "description": "<div><p>Now that you've learned the basics, it's time to test your knowledge! Applying what you've learned is the best way to solidify your understanding.</p><p>Visit the following link from EduTap to solve an exercise on bonds. This will help you get comfortable with the concepts. For any calculations related to bond yield or price, feel free to use the provided bond calculator tool. Good luck!</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "exercise",
+              "title": "Bonds Quiz",
+              "url": "https://edutap.in/rbi-grade-b/finance/bonds-questions/"
+            },
+            {
+              "type": "resource",
+              "title": "Bonds Calculator",
+              "url": "https://www.gwcindia.in/bond-yield-calculator/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

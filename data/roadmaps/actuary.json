@@ -1,0 +1,90 @@
+{
+  "title": "Actuary",
+  "description": "Roadmap to an actuarial career: probability, financial math, modeling, and insurance.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "actuary",
+  "stages": [
+    {
+      "title": "Pathways & Foundations",
+      "nodes": [
+        {
+          "id": "actuarial-pathways",
+          "label": "Certification Pathways",
+          "description": "SOA/CAS tracks, preliminary exams, VEE requirements.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "Society of Actuaries", "url": "https://www.soa.org/" }
+          ]
+        },
+        {
+          "id": "prob-stats",
+          "label": "Probability & Statistics",
+          "description": "Distributions, estimation, inference.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Core Technical Skills",
+      "nodes": [
+        {
+          "id": "financial-math",
+          "label": "Financial Mathematics",
+          "description": "Interest theory, annuities, amortization.",
+          "bulletPoints": []
+        },
+        {
+          "id": "loss-models",
+          "label": "Actuarial Models",
+          "description": "Survival models, life contingencies, loss distributions.",
+          "bulletPoints": []
+        },
+        {
+          "id": "tools",
+          "label": "Tools & Programming",
+          "description": "Excel/VBA, R/Python, SQL, visualization.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Domains & Practice",
+      "nodes": [
+        {
+          "id": "insurance-domains",
+          "label": "Insurance Domains",
+          "description": "Life, health, P&C, pensions, reinsurance.",
+          "bulletPoints": []
+        },
+        {
+          "id": "regulation-compliance",
+          "label": "Regulation & Compliance",
+          "description": "Reserving, solvency, capital adequacy, IFRS 17/US GAAP.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Exams & Career",
+      "nodes": [
+        {
+          "id": "exam-prep-actuarial",
+          "label": "Exam Preparation",
+          "description": "Study plan, practice problems, CBT tips.",
+          "bulletPoints": []
+        },
+        {
+          "id": "internships-networking",
+          "label": "Internships & Networking",
+          "description": "Entry roles, actuarial development programs, networking.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

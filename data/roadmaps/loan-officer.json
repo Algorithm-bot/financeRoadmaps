@@ -1,0 +1,64 @@
+{
+  "title": "Loan Officer",
+  "description": "Roadmap to a career as a loan officer: origination, underwriting coordination, and closing.",
+  "category": "Banking & Financial Services",
+  "slug": "loan-officer",
+  "stages": [
+    {
+      "title": "Sales & Origination",
+      "nodes": [
+        {
+          "id": "lead-generation",
+          "label": "Lead Generation",
+          "description": "Referrals, marketing, outreach, pre-qualification.",
+          "bulletPoints": []
+        },
+        {
+          "id": "needs-assessment",
+          "label": "Needs Assessment",
+          "description": "Income, assets, liabilities, suitability of products.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Processing & Underwriting",
+      "nodes": [
+        {
+          "id": "documentation",
+          "label": "Documentation & Verification",
+          "description": "KYC, income verification, appraisals, title checks.",
+          "bulletPoints": []
+        },
+        {
+          "id": "underwriting-coordination",
+          "label": "Underwriting Coordination",
+          "description": "Conditions clearing, communication with underwriters, rate locks.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Closing & Service",
+      "nodes": [
+        {
+          "id": "closing-process",
+          "label": "Closing Process",
+          "description": "Disclosure timelines, closing docs, funding, post-close follow-up.",
+          "bulletPoints": []
+        },
+        {
+          "id": "portfolio-referrals",
+          "label": "Portfolio & Referrals",
+          "description": "Cross-sell, retention, servicing handoff.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

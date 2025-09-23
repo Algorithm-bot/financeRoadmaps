@@ -1,0 +1,64 @@
+{
+  "title": "Budget Analyst",
+  "description": "Roadmap to a budget analyst role: planning cycles, variance analysis, and stakeholder partnership.",
+  "category": "Corporate Finance Roles",
+  "slug": "budget-analyst",
+  "stages": [
+    {
+      "title": "Planning & Forecasting",
+      "nodes": [
+        {
+          "id": "planning-cycle",
+          "label": "Planning Cycle",
+          "description": "Annual budget, quarterly forecasts, rolling forecasts.",
+          "bulletPoints": []
+        },
+        {
+          "id": "modeling-tools",
+          "label": "Modeling & Tools",
+          "description": "Driver-based models, spreadsheets, planning systems.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Insights",
+      "nodes": [
+        {
+          "id": "variance-analysis",
+          "label": "Variance Analysis",
+          "description": "Actuals vs plan/forecast, bridges, commentary.",
+          "bulletPoints": []
+        },
+        {
+          "id": "stakeholder-reviews",
+          "label": "Stakeholder Reviews",
+          "description": "Reviews with budget owners, actions, continuous improvement.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Governance & Process",
+      "nodes": [
+        {
+          "id": "policies-controls",
+          "label": "Policies & Controls",
+          "description": "Budget policies, approvals, audit trail.",
+          "bulletPoints": []
+        },
+        {
+          "id": "process-optimization",
+          "label": "Process Optimization",
+          "description": "Calendar, templates, automation, standardization.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

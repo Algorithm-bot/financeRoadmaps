@@ -1,0 +1,64 @@
+{
+  "title": "Private Equity Analyst",
+  "description": "Roadmap to a career as a PE analyst: deal sourcing, LBO modeling, and portfolio value creation.",
+  "category": "Capital Markets & Investment",
+  "slug": "private-equity-analyst",
+  "stages": [
+    {
+      "title": "Deal Sourcing & Screening",
+      "nodes": [
+        {
+          "id": "sourcing-channels",
+          "label": "Sourcing Channels",
+          "description": "Bankers, proprietary outreach, conferences, theses.",
+          "bulletPoints": []
+        },
+        {
+          "id": "screening-criteria",
+          "label": "Screening Criteria",
+          "description": "Size, industry, growth, margins, ownership, risks.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Diligence & Modeling",
+      "nodes": [
+        {
+          "id": "lbo-modeling",
+          "label": "LBO Modeling",
+          "description": "Sources & uses, returns, debt schedules, sensitivities.",
+          "bulletPoints": []
+        },
+        {
+          "id": "commercial-financial-dd",
+          "label": "Commercial & Financial DD",
+          "description": "Market diligence, QoE, legal, operational risks.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Execution & Value Creation",
+      "nodes": [
+        {
+          "id": "deal-execution-pe",
+          "label": "Deal Execution",
+          "description": "IC memos, negotiation, documentation, closing.",
+          "bulletPoints": []
+        },
+        {
+          "id": "portfolio-operations",
+          "label": "Portfolio Operations",
+          "description": "100-day plans, KPIs, M&A add-ons, exit planning.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

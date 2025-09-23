@@ -1,0 +1,64 @@
+{
+  "title": "Corporate Treasurer",
+  "description": "Roadmap to a corporate treasurer role: liquidity, funding, risk, and bank relations.",
+  "category": "Corporate Finance Roles",
+  "slug": "corporate-treasurer",
+  "stages": [
+    {
+      "title": "Liquidity & Cash",
+      "nodes": [
+        {
+          "id": "cash-forecasting",
+          "label": "Cash Forecasting",
+          "description": "Short/long-term forecasts, variance analysis, tools.",
+          "bulletPoints": []
+        },
+        {
+          "id": "working-capital",
+          "label": "Working Capital",
+          "description": "Receivables, payables, inventory, optimization levers.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Funding & Risk",
+      "nodes": [
+        {
+          "id": "debt-capital-markets",
+          "label": "Funding & Capital Markets",
+          "description": "Credit facilities, bonds, CP, covenants, ratings.",
+          "bulletPoints": []
+        },
+        {
+          "id": "fx-hedging",
+          "label": "FX & Hedging",
+          "description": "Derivatives, policy, effectiveness testing, documentation.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Operations & Banks",
+      "nodes": [
+        {
+          "id": "treasury-ops",
+          "label": "Treasury Operations",
+          "description": "TMS, bank connectivity, controls, reconciliations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "bank-relationships",
+          "label": "Bank Relationships",
+          "description": "RFPs, fee analysis, service levels, wallet management.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

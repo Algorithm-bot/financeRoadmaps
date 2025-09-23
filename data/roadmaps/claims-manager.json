@@ -1,0 +1,64 @@
+{
+  "title": "Claims Manager",
+  "description": "Roadmap to a claims management career: FNOL, investigation, settlement, and analytics.",
+  "category": "Insurance & Risk",
+  "slug": "claims-manager",
+  "stages": [
+    {
+      "title": "Claims Lifecycle",
+      "nodes": [
+        {
+          "id": "fnol-intake",
+          "label": "FNOL & Intake",
+          "description": "Channels, triage, coverage verification.",
+          "bulletPoints": []
+        },
+        {
+          "id": "investigation-handling",
+          "label": "Investigation & Handling",
+          "description": "Statements, documentation, SIU referrals, reserves.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Resolution & Recovery",
+      "nodes": [
+        {
+          "id": "settlement-negotiation",
+          "label": "Settlement & Negotiation",
+          "description": "Evaluation, negotiation strategies, legal coordination.",
+          "bulletPoints": []
+        },
+        {
+          "id": "subrogation-litigation",
+          "label": "Subrogation & Litigation",
+          "description": "Recovery opportunities, litigation management.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Operations & Analytics",
+      "nodes": [
+        {
+          "id": "claims-operations",
+          "label": "Operations & Quality",
+          "description": "SLAs, audits, leakage control, vendor management.",
+          "bulletPoints": []
+        },
+        {
+          "id": "analytics-reporting",
+          "label": "Analytics & Reporting",
+          "description": "KPIs, dashboards, severity/frequency trends, fraud models.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

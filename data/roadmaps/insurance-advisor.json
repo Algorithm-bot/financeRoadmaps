@@ -1,0 +1,68 @@
+{
+  "title": "Insurance Advisor / Agent",
+  "description": "Roadmap to a career as an insurance advisor/agent: prospecting, needs analysis, policy placement, and servicing.",
+  "category": "Insurance & Risk",
+  "slug": "insurance-advisor",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "industry-overview",
+          "label": "Insurance Industry Overview",
+          "description": "Life, health, P&C; carriers vs brokers; regulation basics.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "article", "title": "Insurance Basics", "url": "https://www.investopedia.com/insurance-4689743" }
+          ]
+        },
+        {
+          "id": "licensing-ethics",
+          "label": "Licensing & Ethics",
+          "description": "Pre-licensing, CE, suitability, disclosures.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Sales & Advisory",
+      "nodes": [
+        {
+          "id": "prospecting",
+          "label": "Prospecting & Lead Generation",
+          "description": "Referrals, digital outreach, events, pipelines.",
+          "bulletPoints": []
+        },
+        {
+          "id": "needs-analysis",
+          "label": "Needs Analysis",
+          "description": "Risk profiling, coverage gaps, policy comparisons.",
+          "bulletPoints": []
+        },
+        {
+          "id": "product-knowledge",
+          "label": "Product Knowledge",
+          "description": "Term, whole, UL, health, property, liability, riders.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Placement & Service",
+      "nodes": [
+        {
+          "id": "application-underwriting",
+          "label": "Application & Underwriting",
+          "description": "Illustrations, forms, medicals, underwriting liaison.",
+          "bulletPoints": []
+        },
+        {
+          "id": "policy-servicing",
+          "label": "Policy Servicing",
+          "description": "Endorsements, renewals, claims support, client retention.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}

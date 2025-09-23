@@ -1,0 +1,64 @@
+{
+  "title": "Derivatives Trader",
+  "description": "Roadmap to a career as a derivatives trader: markets, pricing, risk, and execution.",
+  "category": "Capital Markets & Investment",
+  "slug": "derivatives-trader",
+  "stages": [
+    {
+      "title": "Market & Products",
+      "nodes": [
+        {
+          "id": "markets-overview",
+          "label": "Markets Overview",
+          "description": "Exchanges vs OTC, market microstructure, liquidity.",
+          "bulletPoints": []
+        },
+        {
+          "id": "derivatives-products",
+          "label": "Derivatives Products",
+          "description": "Options, futures, swaps, exotics.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Pricing & Risk",
+      "nodes": [
+        {
+          "id": "options-pricing",
+          "label": "Options Pricing",
+          "description": "Black-Scholes, binomial trees, implied volatility, Greeks.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-management",
+          "label": "Risk Management",
+          "description": "Delta/gamma hedging, VaR, stress testing, limits.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Execution & Strategy",
+      "nodes": [
+        {
+          "id": "execution-algorithms",
+          "label": "Execution & Algorithms",
+          "description": "Order types, slippage, algos, market impact.",
+          "bulletPoints": []
+        },
+        {
+          "id": "trading-strategies",
+          "label": "Trading Strategies",
+          "description": "Vol trading, spreads, arbitrage, relative value.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

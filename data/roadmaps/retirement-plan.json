@@ -1,0 +1,77 @@
+{
+    "title": "Retirement Planning: A Roadmap for Financial Independence",
+    "description": "Learn to plan for retirement through savings, pensions, NPS, EPF, and investments.",
+    "category": "Finance Topics",
+    "slug": "retirement-plan",
+    "stages": [
+      {
+        "title": "Foundations",
+        "nodes": [
+          {
+            "id": "why-retirement",
+            "label": "Why Retirement Planning?",
+            "description": "Secure financial independence post-retirement by planning income sources early.",
+            "completed": false,
+            "resources": []
+          },
+          {
+            "id": "rule-72",
+            "label": "Rule of 72",
+            "description": "A simple way to estimate how long investments take to double.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Pension & Provident Schemes",
+        "nodes": [
+          {
+            "id": "epf",
+            "label": "EPF & PPF",
+            "description": "Employee Provident Fund and Public Provident Fund offer long-term savings with tax benefits.",
+            "completed": false,
+            "resources": []
+          },
+          {
+            "id": "nps",
+            "label": "National Pension System (NPS)",
+            "description": "Government-backed voluntary retirement savings with equity and debt mix.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Investments for Retirement",
+        "nodes": [
+          {
+            "id": "sip-mutual-funds",
+            "label": "SIP in Mutual Funds",
+            "description": "Equity mutual funds for long-term growth via SIPs.",
+            "completed": false,
+            "resources": []
+          },
+          {
+            "id": "annuities",
+            "label": "Annuities",
+            "description": "Insurance-based products offering regular payouts after retirement.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Quiz",
+        "nodes": [
+          {
+            "id": "retirement-quiz",
+            "label": "Test Yourself: Retirement",
+            "description": "Check your knowledge on EPF, NPS, SIPs, and annuities.",
+            "completed": false,
+            "resources": []
+          }
+        ]
+      }
+    ]
+  }

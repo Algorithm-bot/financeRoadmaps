@@ -1,0 +1,90 @@
+{
+  "title": "Chartered Financial Analyst (CFA)",
+  "description": "Roadmap to earning the CFA charter: ethics, investments, and portfolio management.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "chartered-financial-analyst",
+  "stages": [
+    {
+      "title": "Program Overview",
+      "nodes": [
+        {
+          "id": "cfa-overview",
+          "label": "CFA Program Structure",
+          "description": "Levels I–III, topic weights, exam cadence, work experience.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "CFA Institute", "url": "https://www.cfainstitute.org/" }
+          ]
+        },
+        {
+          "id": "ethics",
+          "label": "Ethical & Professional Standards",
+          "description": "Code of Ethics, Standards of Professional Conduct.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Core Topics",
+      "nodes": [
+        {
+          "id": "quantitative-methods",
+          "label": "Quantitative Methods",
+          "description": "Time value of money, statistics, hypothesis testing.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "article", "title": "TVM Refresher", "url": "https://www.investopedia.com/terms/t/timevalueofmoney.asp" }
+          ]
+        },
+        {
+          "id": "financial-reporting",
+          "label": "Financial Reporting & Analysis",
+          "description": "Income, balance sheet, cash flows, ratios, accounting quality.",
+          "bulletPoints": []
+        },
+        {
+          "id": "equity-fixed-income",
+          "label": "Equity & Fixed Income",
+          "description": "Valuation, market structure, term structure, credit analysis.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Portfolio & Risk",
+      "nodes": [
+        {
+          "id": "portfolio-management",
+          "label": "Portfolio Management",
+          "description": "Modern portfolio theory, asset allocation, IPS.",
+          "bulletPoints": []
+        },
+        {
+          "id": "derivatives-alts",
+          "label": "Derivatives & Alternatives",
+          "description": "Options, futures, swaps, private equity, real assets.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Exam Strategy",
+      "nodes": [
+        {
+          "id": "study-plan-cfa",
+          "label": "Study Plan & Mocks",
+          "description": "Study hours, question practice, mock exams, revision.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "course", "title": "CFA Level I Review", "url": "https://example.com/cfa-level-1-review" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

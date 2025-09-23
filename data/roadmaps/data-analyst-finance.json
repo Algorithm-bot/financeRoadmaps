@@ -1,0 +1,64 @@
+{
+  "title": "Data Analyst (Finance domain)",
+  "description": "Roadmap to a finance data analyst role: data pipelines, BI, and analytics.",
+  "category": "Fintech & Emerging Roles",
+  "slug": "data-analyst-finance",
+  "stages": [
+    {
+      "title": "Data & SQL",
+      "nodes": [
+        {
+          "id": "sql-foundations",
+          "label": "SQL Foundations",
+          "description": "Joins, window functions, CTEs, performance.",
+          "bulletPoints": []
+        },
+        {
+          "id": "data-modeling",
+          "label": "Data Modeling",
+          "description": "Star/snowflake schemas, dimensions, fact tables.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Analytics & BI",
+      "nodes": [
+        {
+          "id": "bi-tools",
+          "label": "BI Tools",
+          "description": "Power BI/Tableau/Looker, dashboards, data storytelling.",
+          "bulletPoints": []
+        },
+        {
+          "id": "analytics-techniques",
+          "label": "Analytics Techniques",
+          "description": "Cohorts, churn, funnel, forecasting basics.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Finance Context",
+      "nodes": [
+        {
+          "id": "finance-metrics",
+          "label": "Finance Metrics",
+          "description": "Revenue, margins, CAC/LTV, unit economics.",
+          "bulletPoints": []
+        },
+        {
+          "id": "governance-quality",
+          "label": "Data Governance & Quality",
+          "description": "Lineage, controls, validation, documentation.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

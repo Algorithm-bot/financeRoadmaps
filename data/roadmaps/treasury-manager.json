@@ -1,0 +1,81 @@
+{
+  "title": "Treasury Manager",
+  "description": "Roadmap to a career as a treasury manager: liquidity, cash, FX, investments, and risk.",
+  "category": "Banking & Financial Services",
+  "slug": "treasury-manager",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "treasury-overview",
+          "label": "Treasury Overview",
+          "description": "Role of treasury, policies, controls, systems (TMS).",
+          "bulletPoints": []
+        },
+        {
+          "id": "cash-forecasting",
+          "label": "Cash Forecasting",
+          "description": "Direct/indirect methods, variance analysis, forecasting tools.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Liquidity & Markets",
+      "nodes": [
+        {
+          "id": "liquidity-management",
+          "label": "Liquidity Management",
+          "description": "Working capital, credit lines, pooling, in-house banking.",
+          "bulletPoints": []
+        },
+        {
+          "id": "fx-and-investments",
+          "label": "FX & Short-Term Investments",
+          "description": "Hedging, money market instruments, counterparty risk.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Risk & Operations",
+      "nodes": [
+        {
+          "id": "market-credit-operational",
+          "label": "Market, Credit & Operational Risk",
+          "description": "Policies, limits, segregation of duties, controls testing.",
+          "bulletPoints": []
+        },
+        {
+          "id": "bank-relations",
+          "label": "Bank Relationships",
+          "description": "RFPs, fee analysis, service level management.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Projects & Reporting",
+      "nodes": [
+        {
+          "id": "systems-implementation",
+          "label": "Systems & Process Improvements",
+          "description": "TMS implementation, automation, reconciliations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "treasury-reporting",
+          "label": "Treasury Reporting",
+          "description": "KPIs, dashboards, board reporting.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

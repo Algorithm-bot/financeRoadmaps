@@ -1,0 +1,64 @@
+{
+  "title": "Hedge Fund Manager",
+  "description": "Roadmap to a career as a hedge fund manager: strategies, risk, operations, and fundraising.",
+  "category": "Capital Markets & Investment",
+  "slug": "hedge-fund-manager",
+  "stages": [
+    {
+      "title": "Strategies & Edge",
+      "nodes": [
+        {
+          "id": "hf-strategies",
+          "label": "Hedge Fund Strategies",
+          "description": "L/S equity, macro, event-driven, credit, quant.",
+          "bulletPoints": []
+        },
+        {
+          "id": "alpha-generation",
+          "label": "Alpha Generation",
+          "description": "Idea sourcing, alternative data, process discipline.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Portfolio & Risk",
+      "nodes": [
+        {
+          "id": "exposure-management",
+          "label": "Exposure Management",
+          "description": "Gross/net, beta, factor exposures, leverage.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-infrastructure",
+          "label": "Risk & Infrastructure",
+          "description": "Risk systems, compliance, counterparty management, ops.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Business & Capital",
+      "nodes": [
+        {
+          "id": "fund-setup",
+          "label": "Fund Setup & Ops",
+          "description": "Structures, service providers, policies, fees.",
+          "bulletPoints": []
+        },
+        {
+          "id": "capital-raising",
+          "label": "Capital Raising",
+          "description": "Pitching to LPs, ODD, track record, investor relations.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

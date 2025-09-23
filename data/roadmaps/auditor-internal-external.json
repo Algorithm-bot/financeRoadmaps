@@ -1,0 +1,67 @@
+{
+  "title": "Auditor (Internal / External)",
+  "description": "Roadmap for internal and external auditors: planning, testing, reporting, and standards.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "auditor-internal-external",
+  "stages": [
+    {
+      "title": "Foundations & Standards",
+      "nodes": [
+        {
+          "id": "audit-standards",
+          "label": "Audit Standards",
+          "description": "ISA/GAAS, IIA Standards, independence, ethics.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "tool", "title": "IIA Standards", "url": "https://www.theiia.org/" }
+          ]
+        },
+        {
+          "id": "risk-based-approach",
+          "label": "Risk-Based Approach",
+          "description": "Risk assessment, materiality, scoping, audit universe.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Fieldwork & Testing",
+      "nodes": [
+        {
+          "id": "internal-controls",
+          "label": "Internal Controls",
+          "description": "Design & operating effectiveness, walkthroughs, sampling.",
+          "bulletPoints": []
+        },
+        {
+          "id": "substantive-procedures",
+          "label": "Substantive Procedures",
+          "description": "Tests of details, analytics, confirmations, recalculations.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Follow-up",
+      "nodes": [
+        {
+          "id": "audit-reporting",
+          "label": "Audit Reporting",
+          "description": "Findings, ratings, recommendations, management responses.",
+          "bulletPoints": []
+        },
+        {
+          "id": "remediation-tracking",
+          "label": "Remediation & Tracking",
+          "description": "Action plans, timelines, closure validation.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

@@ -1,0 +1,64 @@
+{
+  "title": "Risk Manager",
+  "description": "Roadmap to enterprise risk management: frameworks, assessment, limits, and governance.",
+  "category": "Advisory, Planning & Consulting",
+  "slug": "risk-manager",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "erm-frameworks",
+          "label": "ERM Frameworks",
+          "description": "COSO ERM, ISO 31000, risk appetite & tolerance.",
+          "bulletPoints": []
+        },
+        {
+          "id": "governance-structure",
+          "label": "Governance & Structure",
+          "description": "3 lines of defense, committees, policies.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Risk Assessment & Controls",
+      "nodes": [
+        {
+          "id": "risk-identification",
+          "label": "Risk Identification & Assessment",
+          "description": "RCSA, heatmaps, KRIs, scenario analysis.",
+          "bulletPoints": []
+        },
+        {
+          "id": "controls",
+          "label": "Controls & Mitigation",
+          "description": "Design, testing, action plans, insurance.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Reporting & Culture",
+      "nodes": [
+        {
+          "id": "risk-reporting",
+          "label": "Risk Reporting",
+          "description": "Dashboards, board reporting, regulatory expectations.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-culture",
+          "label": "Risk Culture & Training",
+          "description": "Tone at the top, incentives, training programs.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

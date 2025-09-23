@@ -1,0 +1,90 @@
+{
+  "title": "Corporate Banker",
+  "description": "Roadmap to a career in corporate banking: lending, coverage, and relationship management.",
+  "category": "Banking & Financial Services",
+  "slug": "corporate-banker",
+  "stages": [
+    {
+      "title": "Foundations",
+      "nodes": [
+        {
+          "id": "banking-basics",
+          "label": "Banking Basics",
+          "description": "Bank business model, NIM, balance sheet, regulations.",
+          "bulletPoints": [],
+          "resources": [
+            { "type": "article", "title": "How Banks Work", "url": "https://www.investopedia.com/articles/03/072303.asp" }
+          ]
+        },
+        {
+          "id": "financial-statements",
+          "label": "Financial Statements & Ratios",
+          "description": "Income statement, balance sheet, cash flow, leverage & coverage ratios.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Credit & Products",
+      "nodes": [
+        {
+          "id": "corporate-credit",
+          "label": "Corporate Credit Analysis",
+          "description": "Business model, industry dynamics, management quality, financial projections.",
+          "bulletPoints": []
+        },
+        {
+          "id": "lending-products",
+          "label": "Lending Products",
+          "description": "Revolvers, term loans, syndicated loans, covenants, pricing.",
+          "bulletPoints": []
+        },
+        {
+          "id": "ancillary-services",
+          "label": "Treasury & Ancillary Services",
+          "description": "Cash management, FX, trade finance, guarantees.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Relationship & Risk",
+      "nodes": [
+        {
+          "id": "client-coverage",
+          "label": "Client Coverage",
+          "description": "Account planning, wallet sizing, cross-sell strategy.",
+          "bulletPoints": []
+        },
+        {
+          "id": "risk-compliance",
+          "label": "Risk & Compliance",
+          "description": "Credit approval workflow, KYC/AML, limits & exposure monitoring.",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Execution & Career",
+      "nodes": [
+        {
+          "id": "deal-execution",
+          "label": "Deal Execution",
+          "description": "Term sheets, syndication, documentation, closing checklist.",
+          "bulletPoints": []
+        },
+        {
+          "id": "career-growth",
+          "label": "Career Growth",
+          "description": "Coverage banker path, product roles, risk roles, certifications.",
+          "bulletPoints": []
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

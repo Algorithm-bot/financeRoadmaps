@@ -1,0 +1,131 @@
+{
+      "title": "Taxes Made Simple (India): A Roadmap for First-Time Filers",
+      "description": "Understand income tax basics, documents, filing steps, deductions, and compliance in India.",
+      "category": "Finance Topics",
+      "slug": "taxes",
+      "stages": [
+        {
+          "title": "Tax Foundations",
+          "nodes": [
+            {
+              "id": "what-is-income-tax",
+              "label": "What is Income Tax?",
+              "description": "A tax on your annual income paid to the Government of India. Collected via TDS, advance tax, or self-assessment at filing.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "Income Tax Overview", "url": "https://www.incometax.gov.in/" },
+                { "type": "article", "title": "TDS Basics", "url": "https://www.incometax.gov.in/iec/foportal/help/tds" }
+              ]
+            },
+            {
+              "id": "tax-regimes",
+              "label": "Tax Regimes & Slabs",
+              "description": "India offers regimes with different slab structures and deductions. Choose based on your income, deductions, and simplicity preference.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "Tax Regime Comparison", "url": "https://www.incometax.gov.in/iec/foportal/help/individual-huf" }
+              ]
+            },
+            {
+              "id": "pan-aadhaar",
+              "label": "PAN, Aadhaar, Bank",
+              "description": "You need PAN, Aadhaar (linked), and a pre-validated bank account for refunds and e-verification.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "PAN–Aadhaar Link Help", "url": "https://www.incometax.gov.in/iec/foportal/pan-aadhaar-linkage" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Documents & Forms",
+          "nodes": [
+            {
+              "id": "26as-ais",
+              "label": "Form 26AS & AIS",
+              "description": "26AS and AIS summarize TDS, TCS, interest, securities trades, etc. Reconcile these with your records.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "View AIS/26AS", "url": "https://www.incometax.gov.in/iec/foportal/aishome" }
+              ]
+            },
+            {
+              "id": "itr-forms",
+              "label": "Choosing ITR Forms",
+              "description": "Pick ITR-1/2/3/4 based on income sources like salary, capital gains, or business/profession.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "ITR Form Guide", "url": "https://www.incometax.gov.in/iec/foportal/help/itr" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Filing & Verification",
+          "nodes": [
+            {
+              "id": "how-to-file",
+              "label": "How to File Online",
+              "description": "Register/login on the e-Filing portal, prefill data, add incomes/deductions, compute tax, pay dues, submit, then e-verify.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "e-Filing Portal", "url": "https://www.incometax.gov.in/" }
+              ]
+            },
+            {
+              "id": "e-verify",
+              "label": "e-Verification",
+              "description": "Complete within the deadline using Aadhaar OTP, net banking, or bank/demat EVC to make your return valid.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "e-Verification Methods", "url": "https://www.incometax.gov.in/iec/foportal/help/e-verify" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deductions, TDS & Compliance",
+          "nodes": [
+            {
+              "id": "deductions",
+              "label": "Deductions & Exemptions",
+              "description": "Common sections include investments, health insurance premiums, and HRA/LTA rules. Keep proofs and follow limits.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "Deductions Guide", "url": "https://www.incometax.gov.in/iec/foportal/help/individual-huf" }
+              ]
+            },
+            {
+              "id": "advance-tax",
+              "label": "TDS & Advance Tax",
+              "description": "Employees see TDS in salary; self-employed may need advance tax instalments based on estimated income.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "Advance Tax Basics", "url": "https://www.incometax.gov.in/iec/foportal/help/advance-tax" }
+              ]
+            },
+            {
+              "id": "notices",
+              "label": "Notices & Rectification",
+              "description": "Respond to notices on time. Use rectification/revised return if you spot errors.",
+              "completed": false,
+              "resources": [
+                { "type": "article", "title": "Responding to Notices", "url": "https://www.incometax.gov.in/iec/foportal/help/notice" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Quiz",
+          "nodes": [
+            {
+              "id": "tax-quiz",
+              "label": "Test Yourself: Taxes",
+              "description": "Quick check on regimes, ITR selection, documents, and verification.",
+              "completed": false,
+              "resources": []
+            }
+          ]
+        }
+      ]
+    }
