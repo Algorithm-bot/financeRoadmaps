@@ -10,72 +10,51 @@
         {
           "id": "history-regulation",
           "label": "History & Regulation",
-          "description": "<div><p>The mutual fund industry in India has grown significantly since its beginnings in 1963 with the Unit Trust of India (UTI). What started as a monopoly is now a competitive marketplace with dozens of fund houses.</p><p>To protect investors, the industry is strictly regulated by two main bodies:</p><ul><li><b>SEBI (Securities and Exchange Board of India):</b> The primary market regulator, like a <b>referee</b> in a game. SEBI sets the rules for transparency, disclosures, and fund management to ensure a fair and safe environment for investors.</li><li><b>AMFI (Association of Mutual Funds in India):</b> An industry body that works with SEBI to promote best practices, investor awareness, and ethical standards among all mutual fund companies.</li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "SEBI Mutual Funds Regulations",
-              "url": "https://www.sebi.gov.in/"
-            }
-          ]
+          "description": "<div><p>The mutual fund industry in India has evolved dramatically since its inception in <strong>1963 with the establishment of the Unit Trust of India (UTI)</strong> by an Act of Parliament. For nearly three decades, UTI held a monopoly. The industry opened to private players in 1993, ushering in an era of competition, innovation, and growth that has transformed it into the robust marketplace we see today.</p><p>To safeguard investor interests and maintain market integrity, the industry is meticulously regulated by two key organizations:</p><ul><li><b>SEBI (Securities and Exchange Board of India):</b> As the principal market regulator, SEBI's role is paramount. Think of SEBI as the <strong>chief umpire</strong> of the financial markets. It establishes stringent rules for fund management, mandates transparent disclosures through documents like the Scheme Information Document (SID), and ensures that Asset Management Companies (AMCs) adhere to fair practices. Its primary objective is to create a secure, transparent, and efficient investment environment.</li><li><b>AMFI (Association of Mutual Funds in India):</b> This is a self-regulatory body representing all the registered AMCs in India. AMFI works closely with SEBI to develop the industry, promote ethical conduct, and enhance investor education. It is responsible for campaigns like <em>'Mutual Funds Sahi Hai'</em> which have significantly increased awareness and participation from retail investors across the country.</li></ul></div>",
+          "completed": false
         },
         {
           "id": "what-are-mfs",
           "label": "What are Mutual Funds?",
-          "description": "<div><p>A <b>mutual fund</b> is a professionally managed investment that pools money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities. When you invest, you buy 'units' of the fund, and the price of each unit is called the Net Asset Value (NAV).</p><p>Key benefits include:</p><ul><li><b>Diversification:</b> Your money is spread across many investments, reducing risk.</li><li><b>Professional Management:</b> Your money is managed by expert fund managers.</li><li><b>Liquidity:</b> You can easily buy or sell your units on any business day.</li></ul><br><b>ELI5 Analogy</b><br><p>Think of a mutual fund like ordering a <b>thali or a combo meal</b>. Instead of buying each dish (stock or bond) separately, which is expensive and confusing, you pay one price for a pre-made plate with a variety of items selected by a professional chef (the fund manager). You get diversification and expertise at a low cost.</p></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "AMFI Basics",
-              "url": "https://www.amfiindia.com/investor-corner/know-your-mutual-fund"
-            },
-            {
-              "type": "article",
-              "title": "SEBI Investor Education",
-              "url": "https://investor.sebi.gov.in/"
-            }
-          ]
+          "description": "<div><p>A <b>mutual fund</b> is a financial vehicle that pools money from a multitude of investors to collectively purchase a diversified portfolio of securities like stocks, bonds, and other assets. This entire portfolio is managed by a professional fund manager. When you invest, you are allotted 'units' representing your share of the fund's holdings, and the price of each unit is known as the Net Asset Value (NAV).</p><p>The core advantages for an investor are:</p><ul><li><b>Diversification:</b> Instead of putting all your eggs in one basket, a mutual fund spreads your investment across dozens or even hundreds of securities. This significantly reduces the impact if one particular stock or bond performs poorly.</li><li><b>Professional Management:</b> A team of expert researchers and a fund manager make all the buy/sell decisions based on in-depth analysis, a task that would be incredibly time-consuming for an individual investor.</li><li><b>Liquidity:</b> Open-ended mutual funds allow you to redeem your units on any business day at the prevailing NAV, providing easy access to your money.</li><li><b>Affordability:</b> You can start investing with a small amount, often as little as ₹500, gaining access to a portfolio that would cost lakhs to build individually.</li></ul><br><b>ELI5 Analogy</b><br><p>Imagine a mutual fund as ordering a grand <strong>thali meal</strong>. Buying every dish (stock or bond) separately in the market is not only expensive but also requires deep knowledge of cooking (market analysis). Instead, you pay a single, reasonable price for a thali where a professional chef (the fund manager) has expertly prepared and combined a variety of complementary dishes. You get a taste of everything (diversification) and benefit from professional expertise, all at a very convenient cost.</p></div>",
+          "completed": false
         },
         {
           "id": "fund-structure",
           "label": "Fund Structure & AMC Role",
-          "description": "<div><p>A mutual fund has a three-tiered structure to ensure safety and accountability:</p><ul><li><b>Sponsor:</b> The company that starts the mutual fund, like the promoter of a business.</li><li><b>Trustees:</b> A group that acts as the <b>guardian</b> of the investors' money. They ensure the fund is managed according to SEBI rules and in the best interest of the unitholders.</li><li><b>Asset Management Company (AMC):</b> This is the company that handles the day-to-day operations and investment decisions. The <b>fund manager</b>, an employee of the AMC, is the expert who decides which stocks or bonds to buy and sell.</li></ul></div>",
+          "description": "<div><p>To ensure checks and balances and protect investors' money, a mutual fund in India operates on a three-tiered structure, separating the roles of management, oversight, and asset custody.</p><ul><li><b>Sponsor:</b> This is the entity that establishes the mutual fund and provides the initial capital. The sponsor can be a bank, a financial institution, or a corporate body that gets the fund registered with SEBI. They are akin to the founders of a company.</li><li><b>Trustees:</b> The trustees are the legal owners of the fund's assets and act as the primary <strong>guardians</strong> of the unitholders' interests. They hold the AMC accountable and have a fiduciary duty to ensure that all operations are conducted in strict accordance with SEBI regulations and the fund's stated objectives.</li><li><b>Asset Management Company (AMC):</b> This is the 'brain' of the operation. The AMC is the public-facing entity (e.g., HDFC AMC, ICICI Prudential AMC) that handles all day-to-day activities. It appoints fund managers, conducts research, makes investment decisions, markets the funds, and manages all investor services. The fees you pay as an investor (the expense ratio) go to the AMC for providing these professional services.</li></ul></div>",
           "completed": false,
           "resources": [
             {
               "type": "article",
-              "title": "MF Structure",
-              "url": "https://www.amfiindia.com/"
+              "title": "Understanding AMC and how they work",
+              "url": "https://www.investopedia.com/terms/a/asset_management_company.asp#:~:text=Asset%20management%20companies%20(AMCs)%20serve,as%20mutual%20funds%20and%20ETFs."
+            },
+            {
+              "type": "Diagram",
+              "title": "Mutual Fund Structure",
+              "url": "https://sipfund.com/mutual.html"
             }
           ]
         },
         {
           "id": "etfs-basics",
           "label": "What are ETFs?",
-          "description": "<div><p>An <b>Exchange-Traded Fund (ETF)</b> is a type of mutual fund that tracks a specific index (like Nifty 50) or an asset (like gold). The key difference is that ETFs are listed on stock exchanges and can be bought and sold throughout the day, just like stocks.</p><p>Key features include:</p><ul><li><b>Real-Time Trading:</b> Prices fluctuate all day, unlike mutual funds whose NAV is set once per day.</li><li><b>Demat Account Required:</b> You need a demat and trading account to invest in ETFs.</li><li><b>Tracking Error:</b> There can be a small difference between the ETF's performance and the index it tracks.</li><li><b>Costs:</b> In addition to the fund's expense ratio, you may have to pay brokerage fees when buying or selling.</li></ul></div>",
+          "description": "<div><p>An <b>Exchange-Traded Fund (ETF)</b> is a hybrid investment product that combines the features of a mutual fund with those of a stock. Like a mutual fund, it holds a basket of assets (e.g., stocks of the Nifty 50 index, or a commodity like gold). However, its defining feature is that it is listed on a stock exchange and can be bought and sold throughout the trading day at live market prices.</p><p>Key distinguishing features include:</p><ul><li><b>Real-Time Trading:</b> Unlike mutual funds, where the NAV is calculated only once at the end of the day, an ETF's price fluctuates continuously based on market demand and supply.</li><li><b>Demat Account Required:</b> To invest in ETFs, you must have a demat and trading account with a stockbroker, just as you would for buying shares of a company.</li><li><b>Lower Costs:</b> ETFs are typically passive investments that track an index, resulting in very low expense ratios compared to actively managed mutual funds.</li><li><b>Potential Additional Costs:</b> While the expense ratio is low, you must factor in brokerage fees, statutory taxes, and the 'bid-ask spread' (the small difference between the buying and selling price) every time you transact.</li><li><b>Tracking Error:</b> A small performance gap can exist between the ETF and the index it aims to replicate. A lower tracking error signifies better efficiency.</li></ul></div>",
           "completed": false,
           "resources": [
             {
               "type": "article",
-              "title": "ETFs 101",
-              "url": "https://www.nseindia.com/products-services/exchange-traded-funds-etf"
+              "title": "ETFs- In depth explanation",
+              "url": "https://www.investopedia.com/terms/e/etf.asp"
             }
           ]
         },
         {
           "id": "nav-expense",
           "label": "NAV, TER & Loads",
-          "description": "<div><p>Understanding costs is key to successful investing. Here are the main terms:</p><ul><li><b>Net Asset Value (NAV):</b> This is the market value of one unit of a mutual fund. It's calculated at the end of each trading day by dividing the total value of all assets in the fund by the number of outstanding units.</li><li><b>Total Expense Ratio (TER):</b> This is the <b>annual fee</b> charged by the AMC to manage the fund. It includes management fees, administrative costs, etc., and is expressed as a percentage of the fund's assets. A lower TER is better for your returns.</li><li><b>Loads:</b> These are fees charged for buying (entry load) or selling (exit load) units. Entry loads are now banned by SEBI, but many funds have an <b>exit load</b> if you sell your units before a specified period (e.g., 1 year).</li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "MF Costs Explained",
-              "url": "https://www.amfiindia.com/"
-            }
-          ]
+          "description": "<div><p>Understanding the costs and pricing mechanics of mutual funds is fundamental to making informed investment decisions. These key terms directly impact your overall returns.</p><ul><li><b>Net Asset Value (NAV):</b> The NAV represents the per-unit market value of the fund. It's calculated at the close of every trading day using a simple formula: <em>(Total Market Value of All Assets - Liabilities) / Total Number of Units</em>. When you buy or sell units, the transaction happens at that day's NAV.</li><li><b>Total Expense Ratio (TER):</b> This is the <strong>annual operational fee</strong> charged by the AMC to manage the fund's portfolio. Expressed as a percentage of the fund's assets, it covers all costs, including the fund manager's salary, research, marketing, and administrative expenses. A lower TER means more of your money stays invested and works for you, which has a significant compounding effect over the long term.</li><li><b>Loads:</b> These are transaction fees charged at the time of buying or selling. <ol><li><em>Entry Loads</em> (fee on purchase) are now completely banned by SEBI.</li> <li><em>Exit Loads</em> are penalties charged if you sell your units before a pre-defined period, typically one year. For instance, a 1% exit load means if you redeem units worth ₹10,000 within a year, you will receive ₹9,900. This is designed to discourage short-term speculation and encourage long-term investment discipline.</li></ol></li></ul></div>",
+          "completed": false
         }
       ]
     },
@@ -85,61 +64,39 @@
         {
           "id": "fund-categories",
           "label": "Equity, Debt, Hybrid",
-          "description": "<div><p>Mutual funds are broadly categorized by the assets they invest in, each with a different risk-return profile:</p><ul><li><b>Equity Funds:</b> Invest primarily in stocks. They have high growth potential but also high risk. Best suited for long-term goals (5+ years). <i>Think of it like a T20 cricket match - high scoring, but risky.</i></li><li><b>Debt Funds:</b> Invest in fixed-income instruments like government bonds and corporate debentures. They offer lower, more stable returns and are considered safer. Good for short-term goals and capital preservation. <i>This is like a Test match - slow, steady, and defensive.</i></li><li><b>Hybrid Funds:</b> Invest in a mix of both equity and debt, balancing risk and return. Suitable for investors with a moderate risk appetite. <i>This is like a One-Day match - a balance of aggression and stability.</i></li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "MF Categories (SEBI)",
-              "url": "https://www.sebi.gov.in/"
-            }
-          ]
+          "description": "<div><p>Mutual funds are primarily classified based on the asset class they invest in. Understanding this classification is the first step in aligning your investments with your financial goals and risk tolerance.</p><ul><li><b>Equity Funds:</b> These funds predominantly invest in the stocks (shares) of various companies. Their primary objective is capital appreciation. They have the potential to deliver high returns that can beat inflation over the long term, but they are also subject to market volatility and carry a high level of risk. <em>Think of this as the aggressive T20 batsman of your portfolio – high scoring potential, but with the risk of a quick dismissal.</em> Best for long-term goals like retirement planning (5+ years).</li><li><b>Debt Funds:</b> These funds invest in fixed-income securities such as government bonds, corporate debentures, and treasury bills. They are focused on capital preservation and providing regular, stable income. They are considered much safer than equity funds and offer modest, predictable returns. <em>This is the dependable Test match batsman – focused on defence, stability, and steady accumulation.</em> Ideal for short-term goals and risk-averse investors.</li><li><b>Hybrid Funds:</b> As the name suggests, these funds invest in a strategic mix of both equity and debt, aiming to provide the best of both worlds – growth from equities and stability from debt. They are designed to balance risk and return, making them suitable for investors with a moderate risk appetite or those who are new to investing. <em>This is the versatile One-Day International player – capable of both attacking and defending as the situation demands.</em></li></ul></div>",
+          "completed": false
         },
         {
           "id": "sebi-classification",
           "label": "SEBI Fund Categories",
-          "description": "<div><p>To make it easier for investors to compare funds, SEBI has standardized fund categories. In equity, this is mainly based on the market capitalization (size) of the companies a fund invests in:</p><ul><li><b>Large-Cap Funds:</b> Invest in India's top 100 largest, most stable companies.</li><li><b>Mid-Cap Funds:</b> Invest in the next 150 companies, which have higher growth potential but also higher risk.</li><li><b>Small-Cap Funds:</b> Invest in smaller companies (251st onwards), which are the riskiest but offer the highest potential for growth.</li><li><b>Other types include:</b> Multi-cap (a mix of all three), thematic/sectoral (focus on one industry like IT or banking), and ELSS (tax-saving funds).</li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "SEBI MF Classification",
-              "url": "https://www.sebi.gov.in/"
-            }
-          ]
+          "description": "<div><p>To bring uniformity and make fund comparison easier for investors, SEBI has clearly defined and standardized mutual fund categories. For equity funds, this classification is primarily based on the market capitalization (the total market value) of the companies the fund invests in.</p><ul><li><b>Large-Cap Funds:</b> Must invest a minimum of 80% of their assets in India's top 100 companies by market capitalization. These are well-established, stable blue-chip companies.</li><li><b>Mid-Cap Funds:</b> Must invest at least 65% of their assets in companies ranked from 101 to 250 by market capitalization. These are emerging companies with higher growth potential than large-caps, but also come with higher risk.</li><li><b>Small-Cap Funds:</b> Required to invest a minimum of 65% of their assets in companies from the 251st rank onwards. These are small, often undiscovered companies with the highest growth potential and the highest risk.</li><li><b>Other prominent types include:</b> <ul><li><em>Multi-Cap Funds:</em> Invest a minimum of 25% in each of the three cap segments, offering balanced diversification.</li> <li><em>Thematic/Sectoral Funds:</em> Concentrate on a single industry or theme, such as technology, banking, or infrastructure. These are very high-risk, high-return bets on a specific sector's future.</li> <li><em>ELSS (Equity Linked Savings Scheme):</em> A type of equity fund that offers a tax deduction under Section 80C and has a mandatory 3-year lock-in period.</li></ul></li></ul></div>",
+          "completed": false
         },
         {
           "id": "aum-size",
           "label": "Assets Under Management (AUM)",
-          "description": "<div><p><b>AUM</b> is the total market value of all the investments that a fund manages on behalf of its investors. A large AUM can indicate that many investors trust the fund and it has a stable track record. However, size isn't everything. A very large AUM can sometimes make it difficult for a fund, especially a small-cap fund, to be nimble and invest in smaller, promising companies without impacting their stock price.</p></div>",
+          "description": "<div><p><b>Assets Under Management (AUM)</b> represents the total market value of all investments currently managed by a mutual fund scheme. It is a dynamic figure that changes daily based on market movements and investor inflows and outflows.</p><p>A large AUM often suggests investor confidence and a proven track record. However, the significance of AUM should be viewed in context. For a <strong>large-cap fund</strong>, a massive AUM is generally not a concern as the underlying stocks are highly liquid. In contrast, for a <strong>small-cap or mid-cap fund</strong>, an excessively large AUM can become a disadvantage. It can be challenging for the fund manager to deploy large sums of money into smaller companies without causing a significant price impact, potentially limiting the fund's agility and future returns. Therefore, while AUM is a useful metric, it should not be the sole factor in fund selection.</p></div>",
           "completed": false,
-          "resources": []
+          "resources": [
+            {
+              "type": "article",
+              "title": "AUM 101",
+              "url": "https://www.investopedia.com/terms/a/aum.asp"
+            }
+          ]
         },
         {
           "id": "index-vs-active",
           "label": "Index Funds vs Active Funds",
-          "description": "<div><p>This is a core choice every investor makes:</p><ul><li><b>Active Funds:</b> The fund manager actively researches and picks stocks with the goal of <b>beating the market index</b> (like the Nifty 50). They charge a higher TER for this expertise.</li><li><b>Index Funds/ETFs:</b> These are passive funds. The fund manager simply <b>replicates a market index</b> by buying all the stocks in it in the same proportion. The goal is to match the market's return, not beat it. They have a very low TER.</li></ul><br><b>ELI5 Analogy</b><br><p>An <b>active fund</b> is like hiring a tour guide (fund manager) to show you the best, hidden spots in a city, for which you pay a higher fee. An <b>index fund</b> is like taking the city's main bus tour, which follows a fixed route covering all the major landmarks, for a much cheaper ticket.</p></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "Passive vs Active",
-              "url": "https://www.amfiindia.com/"
-            }
-          ]
+          "description": "<div><p>One of the most fundamental decisions an investor must make is choosing between an active and a passive investment strategy. This choice has significant implications for cost, risk, and potential returns.</p><ul><li><b>Active Funds:</b> In an active fund, the fund manager and their team conduct extensive research, analyze market trends, and actively pick a portfolio of stocks they believe will <strong>outperform a specific benchmark index</strong> (like the SENSEX or Nifty 50). The goal is to generate 'alpha' or excess returns. For this specialized expertise, they charge a higher Total Expense Ratio (TER).</li><li><b>Index Funds/ETFs:</b> These are passive funds that do not try to beat the market. Instead, their sole objective is to <strong>replicate the performance of a specific market index</strong>. The fund manager simply buys all the securities present in the index in the exact same proportion. Since there is no active stock selection, the TER for these funds is extremely low.</li></ul><br><b>ELI5 Analogy</b><br><p>An <b>active fund</b> is like hiring an expert local guide for a city tour. The guide (fund manager) promises to take you to exclusive, hidden gems and avoid tourist traps, aiming to give you a superior experience (higher returns), for which you pay a premium fee. An <b>index fund</b> is like taking the official, fixed-route city bus tour. It will take you to all the major landmarks listed on the map (the index), ensuring you get the standard city experience, for a very cheap ticket. The ongoing debate in the investment world is that many expensive guides (active funds) often fail to deliver a better experience than the cheap city bus (index funds).</p></div>",
+          "completed": false
         },
         {
           "id": "sip-stp-swp",
           "label": "SIP, STP, SWP",
-          "description": "<div><p>Mutual funds offer systematic plans to help you manage your investments efficiently:</p><ul><li><b>SIP (Systematic Investment Plan):</b> This is the most popular method. You invest a fixed amount of money at regular intervals (usually monthly). It builds financial discipline and helps you benefit from 'rupee cost averaging' (buying more units when prices are low and fewer when high).</li><li><b>STP (Systematic Transfer Plan):</b> Allows you to move a fixed amount of money from one fund to another within the same fund house at regular intervals (e.g., moving money from a safer debt fund to a riskier equity fund over time).</li><li><b>SWP (Systematic Withdrawal Plan):</b> The reverse of SIP. You withdraw a fixed amount of money from your fund at regular intervals. This is an excellent tool for generating a regular income during retirement.</li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "SIP Basics",
-              "url": "https://www.amfiindia.com/investor-corner/investor-education"
-            }
-          ]
+          "description": "<div><p>Mutual funds offer several systematic transaction plans that instill discipline and help investors manage their money flow according to their life stage and financial goals.</p><ul><li><b>SIP (Systematic Investment Plan):</b> This is the most popular and highly recommended method for retail investors. A SIP allows you to invest a fixed amount of money at regular intervals (e.g., monthly). This approach cultivates a habit of disciplined investing and helps you benefit from <strong>rupee cost averaging</strong>. By investing a fixed amount, you automatically buy more units when the market is down and fewer units when it is up, averaging out your purchase cost over time and harnessing the power of compounding.</li><li><b>STP (Systematic Transfer Plan):</b> An STP allows you to periodically transfer a fixed amount from one mutual fund scheme to another within the same fund house. A classic use case is for an investor who has a lump sum amount. They can initially park the money in a low-risk liquid or debt fund and then systematically transfer smaller amounts into a higher-risk equity fund over several months to average out their market entry.</li><li><b>SWP (Systematic Withdrawal Plan):</b> This is the opposite of a SIP and is an excellent tool for generating a regular cash flow. An SWP allows you to withdraw a fixed amount of money from your mutual fund investment at regular intervals. It is particularly useful for retirees who wish to create a steady 'pension' from their accumulated corpus while allowing the remaining capital to continue growing.</li></ul></div>",
+          "completed": false
         }
       ]
     },
@@ -149,28 +106,14 @@
         {
           "id": "kyc",
           "label": "KYC & Accounts",
-          "description": "<div><p>Before you can invest, you must complete a one-time <b>KYC (Know Your Customer)</b> process. This is a mandatory identity verification process required by SEBI. You'll typically need your PAN card, Aadhaar card, and proof of your bank account.</p><p>Once KYC is complete:</p><ul><li><b>For Mutual Funds:</b> You can invest directly through AMC websites, via registrars (like CAMS/KFintech), or through various online platforms and apps.</li><li><b>For ETFs:</b> You must have a <b>demat and trading account</b> with a stockbroker, as they are traded on the stock exchange.</li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "KYC Process",
-              "url": "https://www.amfiindia.com/kyc"
-            }
-          ]
+          "description": "<div><p>Before you can begin your investment journey, you must complete the mandatory <strong>KYC (Know Your Customer)</strong> process. This is a one-time identity verification procedure mandated by SEBI to prevent financial fraud and money laundering. The process is now seamless and can often be completed online in a few minutes.</p><p>You will typically need the following documents:</p><ul><li><strong>PAN Card:</strong> Your primary identification for all financial transactions.</li><li><strong>Aadhaar Card:</strong> For identity and address verification.</li><li><strong>Bank Account Proof:</strong> A cancelled cheque or bank statement.</li></ul><p>Once your KYC is verified:</p><ul><li><b>For Mutual Funds:</b> You gain access to a wide array of investment channels. You can invest directly via the official websites of the AMCs, through registrar and transfer agents (RTAs) like CAMS and KFintech, or use the multitude of user-friendly online investment platforms and mobile applications.</li><li><b>For ETFs:</b> Investment requires a different setup. Since ETFs are traded like stocks, you must open a <strong>demat and trading account</strong> with a registered stockbroker (e.g., Zerodha, ICICI Direct, HDFC Securities). Your ETF units will be held in electronic form in your demat account.</li></ul></div>",
+          "completed": false
         },
         {
           "id": "choose-fund",
           "label": "Choosing a Fund",
-          "description": "<div><p>Selecting the right fund is crucial. Here's a simple framework:</p><ol><li><b>Align with Goals:</b> Match the fund type to your financial goals. Equity for long-term goals like retirement, and debt for short-term goals like a vacation fund.</li><li><b>Check Consistency:</b> Don't just chase last year's top performer. Look for funds that have consistently performed well over various market cycles (3, 5, and 10 years).</li><li><b>Review Portfolio:</b> Look at the fund's top holdings to see where your money will be invested. Ensure it aligns with your philosophy.</li><li><b>Consider Costs:</b> Compare the Total Expense Ratio (TER). Over the long term, even a small difference in TER can significantly impact your returns.</li></ol><blockquote><b>The golden rule:</b> Past performance is not an indicator of future returns. Focus on consistency and suitability for your goals.</blockquote></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "How to Choose Funds",
-              "url": "https://www.amfiindia.com/investor-corner/know-your-mutual-fund"
-            }
-          ]
+          "description": "<div><p>With thousands of schemes available, selecting the right fund can seem daunting. However, you can simplify the process by following a structured, goal-oriented framework.</p><ol><li><b>Define Your Goals and Time Horizon:</b> This is the most critical step. Why are you investing? For retirement in 30 years, a child's education in 15 years, or a down payment on a house in 5 years? Your goal's time horizon will determine the right asset class. Long-term goals call for equity funds, while short-term needs are better served by debt funds.</li><li><b>Assess Fund Consistency:</b> Avoid the temptation to invest in last year's top performer. Instead, analyze a fund's performance consistency over various market cycles (bullish, bearish, and sideways). Check its returns over 3, 5, 7, and 10-year periods and compare them to its benchmark index and peer funds.</li><li><b>Analyze the Portfolio Holdings:</b> Look under the hood. Examine the fund's top stock holdings and sector allocation. Does the portfolio consist of companies and industries you are comfortable with? Does the concentration in the top holdings align with your risk appetite?</li><li><b>Evaluate the Costs (TER):</b> Always compare the Total Expense Ratio (TER) of funds within the same category. Over many years, a seemingly small difference of 0.5% in TER can result in a significantly lower final corpus due to the negative effect of compounding.</li></ol><blockquote><b>The golden rule:</b> Past performance is not a guarantee of future returns. A fund's historical performance provides insight, but your decision should be based on its suitability for your specific goals, risk tolerance, and long-term consistency.</blockquote></div>",
+          "completed": false
         }
       ]
     },
@@ -180,49 +123,58 @@
         {
           "id": "risk-measures",
           "label": "Risk Measures",
-          "description": "<div><p>To understand a fund's risk level, you can look at a few key metrics found in its factsheet:</p><ul><li><b>Standard Deviation:</b> Measures how much the fund's returns fluctuate (its volatility). A higher number means higher risk.</li><li><b>Sharpe Ratio:</b> Measures the fund's return per unit of risk taken. A higher Sharpe ratio is better.</li><li><b>Beta:</b> Compares the fund's volatility to the market. A beta of 1 means it moves with the market; >1 is more volatile; <1 is less volatile.</li><li><b>Credit Risk (for Debt Funds):</b> The risk that the bond issuers in the portfolio might default on their payments. Check the credit quality ratings (e.g., AAA, AA) of the bonds.</li></ul></div>",
+          "description": "<div><p>To move beyond just looking at returns, investors should use risk metrics to understand the nature of a fund's performance. These metrics, available in the monthly fund factsheet, help you assess if the returns were generated by taking excessive risk.</p><ul><li><b>Standard Deviation:</b> This metric quantifies a fund's volatility. In simple terms, it tells you how much the fund's returns can deviate from its average return. A higher standard deviation implies a bumpier ride and greater risk.</li><li><b>Sharpe Ratio:</b> This is a measure of risk-adjusted return. It indicates how much excess return you are getting for each unit of volatility (risk) you are taking on. A higher Sharpe Ratio is always better, as it suggests the fund is more efficient at generating returns for the risk involved.</li><li><b>Beta:</b> Beta measures a fund's sensitivity to market movements, with the market having a beta of 1. A fund with a beta greater than 1 is more volatile than the market, while a beta less than 1 indicates lower volatility.</li><li><b>Credit Risk (for Debt Funds):</b> This is a crucial metric for debt funds. It signifies the risk of the underlying bond issuers defaulting on their interest payments or principal repayment. You can assess this by looking at the credit quality of the portfolio, which is dominated by ratings like AAA (highest safety) or AA.</li></ul></div>",
           "completed": false,
           "resources": []
         },
         {
           "id": "fund-ratings",
           "label": "Fund Ratings & Agencies",
-          "description": "<div><p>Independent agencies like <b>CRISIL, Morningstar, and Value Research</b> provide star ratings for mutual funds. These ratings are based on historical performance, risk-adjusted returns, and consistency.</p><p>While these ratings can be a good starting point for your research, they should not be the only factor in your decision. <b>Use them as guidance, not gospel.</b> A fund's rating can change over time, and it's more important to choose a fund that aligns with your personal financial goals and risk tolerance.</p></div>",
+          "description": "<div><p>Several independent agencies like <b>CRISIL, Morningstar, and Value Research</b> analyze and assign ratings (usually on a scale of 1 to 5 stars) to mutual funds. These ratings are typically based on quantitative parameters like historical risk-adjusted returns and performance consistency compared to peers.</p><p>While these ratings can be a convenient starting point for filtering funds, they should be used with caution. <b>Treat them as a preliminary screening tool, not a final recommendation.</b> Ratings are purely backward-looking and do not guarantee future performance. A fund's strategy, manager, or size might have changed since the rating was assigned. The most important factor remains choosing a fund that aligns with your personal financial objectives and risk profile, regardless of its star rating.</p></div>",
           "completed": false,
-          "resources": []
+          "resources": [
+            {
+              "type": "official website",
+              "title": "Crisil Mutual Fund Ratings",
+              "url": "https://intelligence.crisil.com/en/homepage/what-we-do/research/investment-research-product/mutual-fund-research/mutual-fund-ranking.html"
+            },
+            {
+              "type": "official website",
+              "title": "Morningstar Mutual Fund Ratings",
+              "url": "https://www.morningstar.in/featured-reports.aspx"
+            },
+            {
+              "type": "official website",
+              "title": "Value Research Mutual Fund Ratings",
+              "url": "https://www.valueresearchonline.com/funds/mutual-fund-rating-analysis"
+            }
+          ]
         },
         {
           "id": "taxation",
           "label": "Taxation Basics",
-          "description": "<div><p>Your mutual fund gains are taxed as capital gains. The tax rate depends on the fund type and how long you hold it:</p><ul><li><b>Equity Funds (held > 1 year):</b> Gains are Long-Term Capital Gains (LTCG). The first ₹1 lakh of gains per year is tax-free. Gains above that are taxed at 10%.</li><li><b>Equity Funds (held ≤ 1 year):</b> Gains are Short-Term Capital Gains (STCG) and are taxed at 15%.</li><li><b>Debt Funds:</b> Gains are added to your income and taxed at your income tax slab rate, regardless of the holding period.</li><li><b>ELSS Funds:</b> Offer a tax deduction of up to ₹1.5 lakh under Section 80C of the Income Tax Act.</li></ul></div>",
+          "description": "<div><p>Understanding the tax implications of your investments is crucial for effective financial planning, as taxes can impact your net returns. Gains from mutual funds are treated as 'capital gains' and are taxed based on the fund type and the holding period.</p><ul><li><b>For Equity Funds (and funds with >65% equity exposure):</b><ul><li><strong>Long-Term Capital Gains (LTCG):</strong> If units are held for <em>more than 1 year</em>. The first ₹1 lakh of LTCG in a financial year is completely tax-free. Any gain above this limit is taxed at a flat rate of 10%.</li><li><strong>Short-Term Capital Gains (STCG):</strong> If units are held for <em>1 year or less</em>. The entire gain is taxed at a flat rate of 15%.</li></ul></li><li><b>For Debt Funds (investments made after April 1, 2023):</b><ul><li>The concept of long-term with indexation benefits has been removed. All gains, regardless of the holding period, are now added to your total income and are taxed according to your applicable <strong>income tax slab rate</strong>.</li></ul></li><li><b>ELSS Funds:</b> These equity funds provide an additional benefit of tax deduction up to ₹1.5 lakh from your gross total income under <strong>Section 80C</strong> of the Income Tax Act, helping you save on taxes.</li></ul></div>",
           "completed": false,
           "resources": [
             {
               "type": "article",
-              "title": "MF Tax Basics",
-              "url": "https://www.incometax.gov.in/"
+              "title": "More on Taxation in Mutual Funds",
+              "url": "https://groww.in/blog/taxation-in-mutual-funds"
             }
           ]
         },
         {
           "id": "exit-load",
           "label": "Exit Loads & Lock-in",
-          "description": "<div><p>Be aware of restrictions on selling your fund units:</p><ul><li><b>Exit Load:</b> Many equity funds charge a penalty, typically 1%, if you sell your units within one year of purchase. This is done to discourage short-term trading and encourage long-term investment.</li><li><b>Lock-in Period:</b> Some funds have a mandatory lock-in period during which you cannot sell your units. The most common example is <b>Equity Linked Savings Schemes (ELSS)</b>, which have a <b>3-year lock-in</b> from the date of investment.</li></ul><p>Always check the Scheme Information Document (SID) for details on exit loads and lock-in periods before investing.</p></div>",
+          "description": "<div><p>Investors must be aware of certain restrictions that can affect the liquidity of their investments. These are designed to promote long-term investing and are clearly stated in the fund's offer documents.</p><ul><li><b>Exit Load:</b> This is a fee or penalty charged by the AMC if you redeem (sell) your units before a specified period from the date of investment. For most equity funds, this period is one year, and the load is typically 1% of the redemption value. Its purpose is to deter investors from short-term trading and encourage them to stay invested for the long haul.</li><li><b>Lock-in Period:</b> This is a mandatory period during which you are not allowed to redeem your units under any circumstances. The most common example is the <strong>Equity Linked Savings Scheme (ELSS)</strong>, which comes with a compulsory lock-in period of <strong>3 years</strong> from the date of each investment. This is a trade-off for the tax benefits offered under Section 80C.</li></ul><p>It is imperative to always check the Scheme Information Document (SID) or the fund's factsheet to be fully aware of any applicable exit loads or lock-in periods before making an investment.</p></div>",
           "completed": false,
           "resources": []
         },
         {
           "id": "tracking-error",
           "label": "Tracking Error & Liquidity",
-          "description": "<div><p>These are two key concepts for passive funds like Index Funds and ETFs:</p><ul><li><b>Tracking Error:</b> This measures how closely a fund's performance follows its benchmark index. Due to expenses and other factors, there will always be a small deviation. A lower tracking error indicates the fund is doing a good job of mimicking its index.</li><li><b>Liquidity (for ETFs):</b> This refers to how easily you can buy or sell an ETF on the stock exchange without affecting its price. For ETFs, check the trading volume. Low trading volume can lead to a wider 'bid-ask spread' (the difference between buying and selling prices), which can be a hidden cost.</li></ul></div>",
-          "completed": false,
-          "resources": [
-            {
-              "type": "article",
-              "title": "ETF Liquidity & TE",
-              "url": "https://www.nseindia.com/products-services/exchange-traded-funds-etf"
-            }
-          ]
+          "description": "<div><p>These two concepts are particularly important when evaluating passive investment vehicles like Index Funds and ETFs.</p><ul><li><b>Tracking Error:</b> In an ideal world, an index fund should perfectly mirror the returns of its benchmark index. However, in reality, a small deviation, known as the tracking error, always exists. This deviation arises due to factors like the fund's expense ratio, cash holdings for redemptions, and the costs of rebalancing the portfolio when the index composition changes. A <strong>lower tracking error</strong> signifies that the fund manager is doing an efficient job of replicating the index.</li><li><b>Liquidity (for ETFs):</b> Liquidity refers to the ease with which you can buy or sell an ETF on the stock exchange without causing a significant change in its market price. It is best measured by the ETF's average daily trading volume. An ETF with low trading volume may have a wider 'bid-ask spread' (the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept). This spread acts as a hidden transaction cost, so high liquidity is a very desirable trait for an ETF.</li></ul></div>",
+          "completed": false
         }
       ]
     },
@@ -232,28 +184,21 @@
         {
           "id": "global-funds",
           "label": "International & Global Funds",
-          "description": "<div><p>These funds invest in companies outside of India, allowing you to diversify your portfolio geographically. This gives you exposure to global economic growth and innovative companies not listed in India (e.g., major US tech giants).</p><p>However, they come with two additional risks:</p><ul><li><b>Foreign Market Volatility:</b> The performance of the fund depends on the economic and political stability of the countries it invests in.</li><li><b>Currency Risk:</b> Fluctuations in the exchange rate (e.g., between the USD and INR) can impact your returns, either positively or negatively.</li></ul></div>",
+          "description": "<div><p>These specialized funds offer a gateway for Indian investors to diversify their portfolios beyond the domestic market by investing in the equity of companies listed in foreign countries. This provides exposure to some of the world's largest and most innovative companies (like major US technology firms) that are not available on Indian exchanges.</p><p>Geographical diversification can act as a hedge against a slowdown in the Indian economy. However, these funds introduce specific risks:</p><ul><li><b>Foreign Market Volatility:</b> The fund's performance is directly tied to the economic, political, and regulatory landscape of the countries it invests in. A downturn in the US market, for example, will negatively impact a US-focused fund.</li><li><b>Currency Risk:</b> This is a significant factor. Your investment is made in Indian Rupees (INR), but the fund invests in assets denominated in a foreign currency (e.g., US Dollars). Fluctuations in the exchange rate between the INR and the foreign currency can have a substantial impact on your net returns, creating either a gain or a loss independent of the underlying asset's performance.</li></ul></div>",
           "completed": false,
           "resources": []
         },
         {
           "id": "goal-based",
           "label": "Goal-Based Investing",
-          "description": "<div><p>This is a powerful investment strategy where you link every investment to a specific life goal. Instead of just investing randomly, you create separate portfolios for each objective. For example:</p><ul><li><b>Goal:</b> Retirement in 25 years -> <b>Investment:</b> Equity SIPs</li><li><b>Goal:</b> Child's education in 15 years -> <b>Investment:</b> Hybrid Fund SIPs</li><li><b>Goal:</b> Buying a car in 3 years -> <b>Investment:</b> Debt Fund</li></ul><p>This approach brings discipline, clarity, and a higher probability of achieving your financial dreams.</p></div>",
+          "description": "<div><p>Goal-based investing is a highly effective and disciplined strategy that shifts the focus from chasing abstract returns to achieving tangible life objectives. Instead of creating a single, directionless portfolio, you link every investment to a specific, measurable financial goal.</p><p>This methodology involves quantifying your goals and then creating tailored investment baskets for each one. For instance:</p><ul><li><b>Goal:</b> A comfortable retirement in 25 years (Long-term) -> <b>Investment Strategy:</b> A portfolio of equity mutual fund SIPs, prioritizing growth.</li><li><b>Goal:</b> Funding your child's higher education in 15 years (Long-term) -> <b>Investment Strategy:</b> A balanced approach using hybrid or multi-cap fund SIPs.</li><li><b>Goal:</b> Buying a new car in 3 years (Short-term) -> <b>Investment Strategy:</b> A low-risk approach using short-duration debt funds to preserve capital.</li></ul><p>This powerful approach provides immense clarity, prevents impulsive decisions during market volatility, and dramatically increases the probability of turning your financial aspirations into reality.</p></div>",
           "completed": false,
           "resources": []
         },
         {
           "id": "common-mistakes",
           "label": "Common Mistakes & Biases",
-          "description": "<div><p>Being a successful investor is often about avoiding common behavioral mistakes:</p><ul><li><b>Chasing Past Performance:</b> Investing in a fund just because it was last year's top performer (often called 'recency bias').</li><li><b>Herd Mentality:</b> Buying or selling just because everyone else is.</li><li><b>Stopping SIPs in a Falling Market:</b> Panic selling or stopping SIPs during a downturn is one of the biggest mistakes. Market dips are the best times to accumulate more units at a lower cost.</li><li><b>Ignoring Costs:</b> Underestimating the long-term impact of a high expense ratio on your returns.</li></ul><p>The key is to stay disciplined, stick to your plan, and review your portfolio periodically (e.g., once a year).</p></div>",
-          "completed": false,
-          "resources": []
-        },
-        {
-          "id": "latest-trends",
-          "label": "Latest Trends",
-          "description": "<div><p>The investment world is constantly evolving. Some of the latest trends shaping the mutual fund industry in India include:</p><ul><li><b>Rise of Passive Investing:</b> More investors are choosing low-cost index funds and ETFs over active funds.</li><li><b>Smart-Beta Strategies:</b> These are hybrid funds that combine elements of passive and active investing by tracking indices based on factors other than just market size (e.g., value, momentum).</li><li><b>ESG Funds:</b> Funds that invest in companies with strong Environmental, Social, and Governance practices.</li><li><b>Digital Investing Platforms:</b> The rise of user-friendly apps and websites has made it easier than ever for retail investors to access mutual funds.</li></ul></div>",
+          "description": "<div><p>Often, the biggest obstacle to investment success is not market volatility, but our own behavioral biases. Recognizing and avoiding these common psychological pitfalls is key to long-term wealth creation.</p><ul><li><b>Chasing Past Performance (Recency Bias):</b> This is the classic mistake of investing in a fund solely because it delivered spectacular returns in the recent past. This often leads to buying high and selling low, as last year's winner is rarely next year's.</li><li><b>Herd Mentality:</b> Making investment decisions—either buying or selling—based on the actions and opinions of the majority. This can lead to participating in speculative bubbles or panic selling at the worst possible time.</li><li><b>Stopping SIPs in a Falling Market:</b> Panic is the enemy of a good investor. A market downturn is actually an opportunity to accumulate more mutual fund units at a lower cost through your SIP. Stopping your SIP during a correction is like refusing to shop during a discount sale.</li><li><b>Over-Diversification:</b> While diversification is good, owning too many funds (e.g., 20-30 schemes) can be counterproductive. It often leads to portfolio overlap, making it difficult to track and resulting in mediocre, index-hugging returns but with the higher costs of active management.</li><li><b>Ignoring Costs:</b> Consistently underestimating the corrosive long-term impact that a high expense ratio can have on your final investment corpus.</li></ul><p>The solution is to create a solid financial plan, stick to it with discipline, and review (but not excessively churn) your portfolio periodically, perhaps once a year.</p></div>",
           "completed": false,
           "resources": []
         }

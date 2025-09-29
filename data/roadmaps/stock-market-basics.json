@@ -1,9 +1,8 @@
 {
   "title": "Stock Market Basics",
-  "description": "Learn the fundamentals of the stock market from beginner to advanced.",
+  "description": "<div><p>Welcome to your comprehensive guide to understanding the stock market, designed for both beginners and those looking to deepen their knowledge. This roadmap will demystify the concepts of buying and selling shares, explain different types of stocks, and introduce you to the mechanics of stock exchanges and order types. We'll delve into powerful analytical tools like fundamental and technical analysis, explore various trading and investment strategies, highlight critical risks, and equip you with practical knowledge about trading platforms and market data. Prepare to gain the confidence and understanding needed to navigate the exciting world of equity investments. 📈</p></div>",
   "category": "Finance Topics",
   "slug": "stock-market-basics",
-  "layout": "flow",
   "stages": [
     {
       "title": "Fundamentals of the Stock Market",
@@ -11,8 +10,8 @@
         {
           "id": "what-is-stock-market",
           "label": "What is a Stock Market?",
-          "description": "Understand the concept of buying, selling, and ownership of shares in companies.",
-          "completed": true,
+          "description": "<div><p>A <b>stock market</b> is essentially a marketplace where buyers and sellers trade shares of publicly listed companies. When you buy a stock (or share), you are purchasing a small fraction of ownership in that company. This ownership gives you certain rights, such as a claim on the company's assets and earnings, and sometimes voting rights in company decisions.</p><p>The stock market serves two primary functions:</p><ul><li><b>For Companies:</b> It allows companies to raise capital for expansion, research, or debt repayment by issuing new shares to the public (through an Initial Public Offering - IPO).</li><li><b>For Investors:</b> It provides an opportunity for individuals and institutions to grow their wealth through capital appreciation (when the stock price increases) and dividends (a share of company profits).</li></ul><p>It's a dynamic environment driven by supply and demand, company performance, economic news, and investor sentiment.</p></div>",
+          "completed": false,
           "resources": [
             {
               "type": "article",
@@ -27,45 +26,220 @@
           ]
         },
         {
-          "id": "Types of Stocks",
-          "label": "Orders & Brokers",
-          "description": "Market vs limit orders, bid/ask, spreads, brokerage accounts.",
+          "id": "types-of-stocks",
+          "label": "Types of Stocks",
+          "description": "<div><p>Understanding different types of stocks helps investors tailor their portfolios to their financial goals and risk tolerance.</p><ul><li><b>Common Stock:</b> This is the most prevalent type of stock. Holders of common stock typically have voting rights at shareholder meetings and receive dividends (though not guaranteed). They have a residual claim on assets in case of liquidation, meaning they are paid after bondholders and preferred stockholders.</li><li><b>Preferred Stock:</b> Holders of preferred stock generally do not have voting rights but receive fixed dividend payments before common stockholders. In case of company liquidation, they have a higher claim on assets than common stockholders.</li><li><b>Growth Stocks:</b> Shares of companies expected to grow at an above-average rate compared to other companies in the market. They often reinvest earnings back into the business, so they typically pay little to no dividends.</li><li><b>Dividend Stocks:</b> Shares of mature, profitable companies that regularly distribute a portion of their earnings to shareholders as dividends. These are often favored by income-focused investors.</li></ul></div>",
           "completed": false,
           "resources": [
             {
               "type": "article",
-              "title": "Order Types",
-              "url": "https://www.investopedia.com/terms/o/ordertype.asp"
+              "title": "Types of Stocks",
+              "url": "https://www.investopedia.com/terms/s/stock.asp"
             }
           ]
+        },
+        {
+          "id": "orders-brokers",
+          "label": "Orders & Brokers",
+          "description": "<div><p>To participate in the stock market, you need a brokerage account and an understanding of how to place orders.</p><ul><li><b>Brokerage Account:</b> This is an account with a licensed financial firm (a broker) that allows you to buy and sell stocks and other securities.</li><li><b>Types of Orders:</b><ul><li><b>Market Order:</b> An instruction to buy or sell a stock immediately at the best available current price. It guarantees execution but not a specific price.</li><li><b>Limit Order:</b> An instruction to buy or sell a stock at a specified price or better. It guarantees the price but not immediate execution.</li></ul></li><li><b>Bid and Ask Price:</b> The <b>bid price</b> is the highest price a buyer is willing to pay for a stock, while the <b>ask price</b> (or offer price) is the lowest price a seller is willing to accept. The difference between these two is the <b>spread</b>.</li></ul><p>Choosing the right order type depends on your trading strategy and urgency.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "stock-exchanges",
+          "label": "Stock Exchanges",
+          "description": "<div><p><b>Stock exchanges</b> are regulated marketplaces where securities (like stocks, bonds, and derivatives) are bought and sold. They provide the infrastructure for trading, ensure fair pricing, and facilitate transparency.</p><p>Major stock exchanges include:</p><ul><li><b>NSE (National Stock Exchange of India):</b> India's largest stock exchange, known for its advanced electronic trading system and its flagship index, the Nifty 50.</li><li><b>BSE (Bombay Stock Exchange):</b> Asia's oldest stock exchange, with its benchmark index being the Sensex. It lists a large number of companies.</li><li><b>NYSE (New York Stock Exchange):</b> The largest stock exchange in the world by market capitalization, based in the United States.</li><li><b>NASDAQ:</b> Another major US exchange, known for listing technology and growth companies.</li></ul><p>These exchanges operate under strict regulatory bodies (like SEBI in India) to protect investors and maintain market integrity.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "price-determination",
+          "label": "How Stock Prices Are Determined",
+          "description": "<div><p>Stock prices are not static; they are in constant flux, determined by a complex interplay of various factors. At its core, it's about <b>supply and demand</b>, but these are influenced by:</p><ul><li><b>Company Performance:</b> Strong financial results, high earnings, new product launches, or positive growth forecasts typically lead to increased demand and higher stock prices. Conversely, poor performance can drive prices down.</li><li><b>Market Sentiment:</b> The overall mood of investors – whether optimistic (bullish) or pessimistic (bearish) – plays a significant role. Fear and greed can lead to irrational buying or selling.</li><li><b>Economic Indicators:</b> Macroeconomic factors like GDP growth, interest rates, inflation, and employment data can affect the broader market and individual stock prices.</li><li><b>Industry Trends:</b> The health and growth prospects of the sector a company operates in can heavily influence its stock performance.</li><li><b>News and Events:</b> Geopolitical events, regulatory changes, analyst reports, or even social media trends can trigger rapid price movements.</li></ul><p>Understanding these drivers helps investors make more informed decisions rather than relying on speculation.</p></div>",
+          "completed": false
         }
       ]
     },
-
     {
-      "title": "Intermediate",
+      "title": "Intermediate Analysis",
       "nodes": [
         {
           "id": "fundamental-analysis",
           "label": "Fundamental Analysis",
-          "description": "Financial statements, ratios, valuation basics.",
+          "description": "<div><p><b>Fundamental analysis</b> is a method of evaluating a security in an attempt to measure its intrinsic value, by examining related economic, financial, and other qualitative and quantitative factors. Its goal is to determine if a company's stock is currently undervalued or overvalued by the market.</p><p>Key aspects include:</p><ul><li><b>Financial Statements:</b> Analyzing the Balance Sheet, Income Statement, and Cash Flow Statement to understand a company's assets, liabilities, revenue, expenses, and profitability.</li><li><b>Financial Ratios:</b> Calculating and interpreting ratios like P/E (Price-to-Earnings), EPS (Earnings Per Share), Debt-to-Equity, and Return on Equity (ROE) to assess financial health and efficiency.</li><li><b>Industry and Economic Analysis:</b> Understanding the company's competitive landscape, growth prospects of its industry, and the broader economic environment.</li><li><b>Management Quality:</b> Assessing the competence, experience, and integrity of the company's leadership.</li></ul><p>This approach is favored by long-term investors who seek to buy good companies at reasonable prices.</p></div>",
+          "completed": false,
           "resources": [
             {
-              "type": "article",
-              "title": "Fundamental Analysis",
-              "url": "https://www.investopedia.com/terms/f/fundamentalanalysis.asp"
+              "type": "video",
+              "title": "How to do Fundamental Analysis",
+              "url": "https://www.youtube.com/watch?v=0kMn-PYCn-w"
             }
           ]
         },
         {
           "id": "technical-analysis",
           "label": "Technical Analysis",
-          "description": "Charts, trends, indicators, and patterns.",
+          "description": "<div><p><b>Technical analysis</b> is a trading discipline employed to evaluate investments and identify trading opportunities by analyzing statistical trends gathered from trading activity, such as price movement and volume. Unlike fundamental analysis, technical analysts don't focus on a company's intrinsic value but rather on patterns and trends in past market data.</p><p>Key tools and concepts include:</p><ul><li><b>Charts:</b> Using various chart types (candlestick, bar, line) to visualize price movements over time.</li><li><b>Trends:</b> Identifying whether a stock is in an uptrend, downtrend, or sideways trend.</li><li><b>Support and Resistance Levels:</b> Price points where buying or selling pressure is expected to be strong, potentially halting or reversing a trend.</li><li><b>Indicators:</b> Using mathematical calculations based on price and volume data (e.g., Moving Averages, RSI, MACD) to generate buy or sell signals.</li><li><b>Patterns:</b> Recognizing recurring chart patterns (e.g., Head and Shoulders, Double Top/Bottom) that can indicate future price direction.</li></ul><p>Technical analysis is primarily used by short-term traders to make quick buying and selling decisions.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "Basics of Technical Analysis",
+              "url": "https://www.youtube.com/watch?v=mRfVY9Wbnrs&list=PLxNHpNhDaEFKBbevR6wFc-4rMaFmd5tbc"
+            },
+            {
+              "type": "article",
+              "title": "Understanding Basic Candlestick Charts",
+              "url": "https://www.investopedia.com/trading/candlestick-charting-what-is-it/"
+            }
+          ]
+        },
+        {
+          "id": "valuation-methods",
+          "label": "Valuation Methods",
+          "description": "<div><p><b>Stock valuation</b> is the process of determining the theoretical or intrinsic value of a company's stock. It helps investors decide whether a stock is worth buying at its current market price. Several methods are used:</p><ul><li><b>Discounted Cash Flow (DCF):</b> This method estimates the value of an investment based on its expected future cash flows. These cash flows are 'discounted' back to their present value using a discount rate, providing an estimate of the company's intrinsic value.</li><li><b>Price-to-Earnings (P/E) Ratio:</b> One of the most common valuation metrics. It divides a company's current share price by its earnings per share (EPS). A high P/E might indicate that investors expect higher future growth, while a low P/E could suggest an undervalued stock or a company facing challenges.</li><li><b>Book Value Per Share:</b> This measures the net asset value of a company on a per-share basis. It can be useful for valuing asset-heavy companies.</li><li><b>Dividend Discount Model (DDM):</b> Values a stock based on the present value of its expected future dividends.</li></ul><p>No single method is perfect; often, a combination of methods provides a more robust valuation.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "dividend-investing",
+          "label": "Dividend Investing Basics",
+          "description": "<div><p><b>Dividend investing</b> is a strategy focused on purchasing stocks that pay out a regular portion of their earnings to shareholders. This strategy appeals to investors seeking a steady stream of income, often retirees or those building passive income streams.</p><p>Key concepts:</p><ul><li><b>Dividend:</b> A distribution of a portion of a company's earnings, decided by the board of directors, paid to a class of its shareholders.</li><li><b>Dividend Yield:</b> The annual dividend payment divided by the stock's current share price, expressed as a percentage. It indicates the return on investment from dividends alone.</li><li><b>Dividend Aristocrats/Kings:</b> Companies that have consistently increased their dividends for a significant number of consecutive years, indicating financial strength and commitment to shareholders.</li></ul><p>While dividends provide income, it's crucial to also assess the company's financial health to ensure the dividends are sustainable.</p></div>",
+          "completed": false,
           "resources": [
             {
               "type": "article",
-              "title": "Technical Analysis",
-              "url": "https://www.investopedia.com/terms/t/technicalanalysis.asp"
+              "title": "Dividend Investing",
+              "url": "https://www.investopedia.com/terms/d/dividend.asp"
+            }
+          ]
+        },
+        {
+          "id": "risk-portfolio",
+          "label": "Risk & Portfolio Management",
+          "description": "<div><p>Investing in the stock market inherently involves risk, but effective <b>risk and portfolio management</b> strategies can help mitigate potential losses and optimize returns.</p><ul><li><b>Diversification:</b> Spreading investments across different stocks, sectors, and asset classes (like stocks, bonds, gold) to reduce the impact of any single investment performing poorly.</li><li><b>Asset Allocation:</b> The process of dividing your investment portfolio among different asset categories (e.g., 60% equity, 30% debt, 10% gold) based on your risk tolerance, investment horizon, and financial goals.</li><li><b>Stop-Loss Orders:</b> A type of order placed with a broker to sell a security when it reaches a certain price, designed to limit an investor's potential loss.</li><li><b>Position Sizing:</b> Determining the appropriate amount of capital to allocate to each trade or investment, ensuring no single position exposes you to excessive risk.</li><li><b>Regular Rebalancing:</b> Periodically adjusting your portfolio back to your target asset allocation as market movements shift the percentages.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Portfolio Management Basics",
+              "url": "https://www.investopedia.com/terms/p/portfoliomanagement.asp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advanced Strategies",
+      "nodes": [
+        {
+          "id": "options-derivatives",
+          "label": "Options & Derivatives Basics",
+          "description": "<div><p><b>Derivatives</b> are financial contracts whose value is derived from an underlying asset, like a stock, commodity, currency, or index. They are advanced instruments used for hedging risk or speculating on future price movements.</p><ul><li><b>Futures Contracts:</b> An agreement to buy or sell an asset at a predetermined price on a specified future date.</li><li><b>Options Contracts:</b> Give the holder the <em>right</em>, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a specified price (strike price) on or before a certain date.</li></ul><p>Derivatives trading is complex and carries significant risk. It is generally not recommended for beginners due to the potential for substantial losses.</p><p><b>ELI5:</b> Think of derivatives like a bet on the future price of something. You don’t own the thing itself (like gold or stocks), but you make a deal about what its price will be later. If you’re right, you can profit; if you’re wrong, you lose.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Options & Futures In-depth Explanation",
+              "url": "https://www.investopedia.com/terms/d/derivative.asp"
+            },
+            {
+              "type": "video",
+              "title": "Options & Futures basics",
+              "url": "https://youtu.be/Wcno3YF18Ow?si=E8AGsYckNI-zww-N"
+            }
+          ]
+        },
+        {
+          "id": "short-selling-margin",
+          "label": "Short Selling & Margin Trading",
+          "description": "<div><p>These are advanced trading techniques that involve higher risk and leverage.</p><ul><li><b>Short Selling:</b> A strategy where an investor borrows shares they don't own, sells them in the market, and hopes to buy them back later at a lower price to return to the lender. The profit is the difference between the selling price and the repurchase price. This strategy profits from a falling stock price and has theoretically unlimited loss potential.</li><li><b>Margin Trading:</b> Involves borrowing money from your broker to buy more securities than you could afford with your own capital. This amplifies both potential gains and losses. If the stock price moves against you, you might receive a 'margin call,' requiring you to deposit additional funds or risk forced liquidation of your holdings.</li></ul><p>Both short selling and margin trading are considered high-risk strategies suitable only for experienced investors with a thorough understanding of market dynamics.</p><p><b>ELI5:</b> Imagine borrowing your friend’s toy to sell it, hoping you can buy the same toy cheaper later (short selling). Or, imagine borrowing extra money to buy more toys than you can afford, hoping their price goes up (margin trading). Both can work, but if things go wrong, you owe more than you have.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Short Selling Explained",
+              "url": "https://www.investopedia.com/terms/s/shortselling.asp"
+            }
+          ]
+        },
+        {
+          "id": "quant-trading",
+          "label": "Algorithmic / Quantitative Trading",
+          "description": "<div><p><b>Algorithmic trading</b> (also known as Algo-trading or Quant trading) involves using computer programs and pre-defined sets of instructions (algorithms) to execute trades at high speeds and volumes, often faster than human traders can react.</p><p>Key characteristics:</p><ul><li><b>Automation:</b> Trades are executed automatically based on factors like price, time, and volume.</li><li><b>Mathematical Models:</b> Sophisticated quantitative models are used to identify trading opportunities and manage risk.</li><li><b>Speed and Efficiency:</b> Algos can take advantage of tiny price discrepancies and execute trades much faster than manual trading.</li><li><b>Reduced Human Emotion:</b> Trading decisions are made objectively based on logic, removing emotional biases that can hinder human traders.</li></ul><p>This approach is widely used by institutional investors, hedge funds, and professional traders to enhance execution, reduce costs, and capitalize on complex strategies.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Algorithmic Trading Basics",
+              "url": "https://www.investopedia.com/terms/a/algorithmictrading.asp"
+            }
+          ]
+        },
+        {
+          "id": "behavioral-finance",
+          "label": "Behavioral Finance",
+          "description": "<div><p><b>Behavioral finance</b> is an interdisciplinary field that studies the influence of psychology on the behavior of investors and financial markets. It seeks to explain why investors often make irrational decisions that deviate from rational economic theory.</p><p>Common behavioral biases include:</p><ul><li><b>Confirmation Bias:</b> Seeking out information that confirms existing beliefs while ignoring contradictory evidence.</li><li><b>Herd Mentality:</b> Following the actions of a larger group, even if those actions contradict individual beliefs or information.</li><li><b>Loss Aversion:</b> The tendency to prefer avoiding losses over acquiring equivalent gains, leading to holding onto losing stocks too long.</li><li><b>Anchoring:</b> Over-relying on the first piece of information offered (the 'anchor') when making decisions.</li><li><b>Overconfidence Bias:</b> An inflated belief in one's own judgment or abilities, leading to excessive risk-taking.</li></ul><p>Understanding these biases can help investors recognize and mitigate their own psychological pitfalls, leading to more rational and disciplined investment decisions.</p></div>",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "title": "Practical Tools & Platforms",
+      "nodes": [
+        {
+          "id": "trading-platforms",
+          "label": "Using Trading Platforms",
+          "description": "<div><p>A <b>trading platform</b> is a software interface provided by brokerage firms that allows investors to place orders, execute trades, monitor portfolios, and access market data. Modern platforms offer a wide range of features to cater to different investor needs.</p><p>Popular platforms in India and globally include:</p><ul><li><b>Zerodha (India):</b> Known for its low-cost brokerage, user-friendly interface (Kite), and advanced charting tools.</li><li><b>Groww (India):</b> Popular for its simple interface, making it accessible for beginners in stock and mutual fund investments.</li><li><b>Upstox (India):</b> Another discount broker offering competitive pricing and various trading tools.</li><li><b>Robinhood (US):</b> Famous for pioneering commission-free trading, appealing to retail investors.</li></ul><p>When choosing a platform, consider factors like brokerage fees, user interface, available features (charting, research), customer support, and regulatory compliance.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Guide to Trading Platforms",
+              "url": "https://rupeezy.in/blog/top-trading-apps-in-india"
+            }
+          ]
+        },
+        {
+          "id": "market-data",
+          "label": "Real-time Market Data & Stock Screeners",
+          "description": "<div><p>Access to accurate and timely information is critical for making informed investment decisions. Modern tools empower investors to analyze vast amounts of data.</p><ul><li><b>Real-time Market Data:</b> Provides instant updates on stock prices, trading volumes, bid/ask prices, and other market metrics. Many trading platforms and financial news websites offer this.</li><li><b>Stock Screeners:</b> These are powerful tools that allow you to filter stocks based on various criteria. You can set parameters like:<ul><li><b>Fundamental:</b> P/E ratio, market cap, debt-to-equity ratio, revenue growth.</li><li><b>Technical:</b> Moving averages, RSI, 52-week high/low.</li><li><b>Other:</b> Industry, dividend yield, price performance.</li></ul></li></ul><p>Screeners help you quickly narrow down thousands of stocks to a manageable list that fits your investment criteria, saving considerable research time.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Stock Screeners Explained",
+              "url": "https://www.investopedia.com/terms/s/stock-screener.asp"
+            }
+          ]
+        },
+        {
+          "id": "paper-trading",
+          "label": "Paper Trading / Simulators",
+          "description": "<div><p><b>Paper trading</b> (also known as simulated trading or virtual trading) is a risk-free way for beginners to practice trading strategies and get familiar with market mechanics using virtual money.</p><ul><li><b>How it Works:</b> You are given a hypothetical amount of money (e.g., ₹10 Lakhs) to trade on a platform that mimics real-time market conditions. You can buy and sell stocks, place various order types, and build a portfolio without using actual capital.</li><li><b>Benefits:</b><ul><li><b>Learn Without Risk:</b> Make mistakes and learn from them without any financial loss.</li><li><b>Test Strategies:</b> Experiment with different trading strategies (e.g., swing trading, long-term investing) to see what works for you.</li><li><b>Familiarization:</b> Get comfortable with the trading platform's interface, order types, and market data.</li></ul></li></ul><p>Many brokerage firms and financial websites offer free paper trading accounts, making it an excellent starting point before transitioning to live trading.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "Official Website",
+              "title": "Moneybhai- Moneycontrols Virtual Trading Game",
+              "url": "https://moneybhai.moneycontrol.com/"
+            },
+            {
+              "type": "Official Website",
+              "title": "Neostox Real-time Virtual Trading Platform",
+              "url": "https://neostox.com/"
+            },
+            {
+              "type": "Official Website",
+              "title": "Investopia- Stock Market Simulator",
+              "url": "https://www.investopedia.com/simulator/"
+            },
+            {
+              "type": "Official Website",
+              "title": "Wall Street Survivor – Stock Market Simulator",
+              "url": "https://www.wallstreetsurvivor.com/"
+            },
+            {
+              "type": "Official Website",
+              "title": "HowTheMarketWorks – Free Stock Market Game",
+              "url": "https://www.howthemarketworks.com/"
             }
           ]
         }

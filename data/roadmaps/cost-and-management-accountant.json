@@ -1,90 +1,93 @@
 {
-  "title": "Cost and Management Accountant (CMA)",
-  "description": "Roadmap to becoming a CMA: costing, management accounting, and performance management.",
+  "title": "Cost and Management Accountant (CMA) - Indian Aspirant Roadmap",
+  "description": "A comprehensive guide to becoming a Cost and Management Accountant (CMA) in India through the Institute of Cost Accountants of India (ICMAI). This roadmap covers the job profile, a detailed breakdown of the three-level examination structure (Foundation, Intermediate, Final) including all subjects and passing criteria, and the career paths available after qualification.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "cost-and-management-accountant",
+  "slug": "cost-and-management-accountant-india",
   "stages": [
     {
-      "title": "Orientation",
+      "title": "Introduction to the CMA Profession in India",
       "nodes": [
         {
-          "id": "cma-overview",
-          "label": "CMA Overview",
-          "description": "Exam parts, eligibility, institute pathways.",
-          "bulletPoints": [],
+          "id": "what-is-cma",
+          "label": "Who is a CMA?",
+          "description": "<p>A <b>Cost and Management Accountant (CMA)</b> is a finance professional who specializes in the areas of <i>cost accounting, management accounting, financial analysis, and strategic decision-making</i>. In India, the profession is governed by the <b>Institute of Cost Accountants of India (ICMAI)</b>, a statutory body under an Act of Parliament. CMAs play a vital role in ensuring efficient use of financial resources within an organization. They help in planning, controlling, and optimizing costs, which directly contributes to higher profitability and sustainability of businesses. A CMA’s skill set goes beyond traditional accounting, as they are deeply involved in <i>business advisory, valuation, auditing, taxation, and corporate strategy</i>. Their expertise ensures organizations remain competitive in today’s dynamic market environment.</p>"
+        },
+        {
+          "id": "cma-responsibilities",
+          "label": "What does a CMA do?",
+          "description": "<p>The role of a CMA is broad, covering multiple aspects of <b>business finance, compliance, and strategy</b>. Their work ensures the financial health and operational efficiency of an organization. Some of their major responsibilities include:</p><ul><li><b>Cost Management:</b> Identifying, allocating, and monitoring costs to improve operational efficiency and reduce wastage.</li><li><b>Budgeting & Forecasting:</b> Preparing detailed budgets and financial projections to help businesses plan their future activities effectively.</li><li><b>Performance Management:</b> Analyzing departmental and product performance, identifying inefficiencies, and recommending corrective measures.</li><li><b>Cost Auditing:</b> Conducting statutory cost audits as required under Indian law in industries like manufacturing, pharmaceuticals, and power.</li><li><b>Strategic Advice:</b> Supporting management in critical decisions such as pricing strategies, make-or-buy choices, mergers, acquisitions, and capital investments.</li><li><b>Financial Reporting:</b> Preparing and reviewing internal reports for management as well as statutory financial statements for compliance purposes.</li></ul><p>In essence, CMAs bridge the gap between <i>financial data</i> and <i>strategic decision-making</i>, enabling businesses to thrive.</p>",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Level 1: CMA Foundation Course",
+      "nodes": [
+        {
+          "id": "foundation-subjects",
+          "label": "Subjects in Foundation Course",
+          "description": "<p>The <b>CMA Foundation level</b> is the entry stage designed for students who have completed their Class 12 (or equivalent). It provides a strong foundation in <i>basic commerce, economics, and accounting principles</i>. The course ensures that aspirants are well-prepared for the more advanced concepts in subsequent levels. It consists of the following four subjects:</p><ol><li><b>Paper 1: Fundamentals of Business Laws and Business Communication</b> – Covers basic business laws, contracts, and effective communication skills.</li><li><b>Paper 2: Fundamentals of Financial and Cost Accounting</b> – Provides a base in accounting principles, bookkeeping, and cost records.</li><li><b>Paper 3: Fundamentals of Business Mathematics and Statistics</b> – Introduces mathematical and statistical tools essential for decision-making.</li><li><b>Paper 4: Fundamentals of Business Economics and Management</b> – Focuses on economic principles and managerial practices that influence business decisions.</li></ol><p>This level ensures that students develop a <u>balanced understanding of theory, practice, and application</u> of core subjects.</p>",
+          "bulletPoints": []
+        },
+        {
+          "id": "foundation-cutoff",
+          "label": "Passing Criteria for Foundation",
+          "description": "<p>To successfully clear the <b>CMA Foundation level</b>, candidates must meet specific minimum score requirements. The criteria are as follows:</p><ul><li>Secure at least <b>40% marks</b> in each of the four papers individually.</li><li>Achieve an overall <b>aggregate of 50%</b> across all papers combined.</li></ul><p>For example, even if a candidate scores high marks in three subjects but falls below 40% in one paper, they will not pass. This system ensures that students have a <i>well-rounded knowledge</i> and are not weak in any single area of study.</p>",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Level 2: CMA Intermediate Course",
+      "nodes": [
+        {
+          "id": "intermediate-subjects",
+          "label": "Subjects in Intermediate Course",
+          "description": "<p>The <b>CMA Intermediate level</b> builds on the foundation and provides a more detailed and technical understanding of accounting, taxation, and management practices. The syllabus is divided into <b>two groups</b>, each consisting of four papers:</p><p><b>Group I:</b></p><ol><li><b>Paper 5: Financial Accounting</b> – Advanced accounting concepts, preparation of final accounts, and financial statements.</li><li><b>Paper 6: Laws and Ethics</b> – Company law, contract law, ethics, and governance in business practices.</li><li><b>Paper 7: Direct Taxation</b> – Income tax, tax planning, and assessment procedures under Indian tax laws.</li><li><b>Paper 8: Cost Accounting</b> – Techniques of cost ascertainment, control, and analysis for decision-making.</li></ol><p><b>Group II:</b></p><ol><li><b>Paper 9: Operations Management & Strategic Management</b> – Tools for operations efficiency, supply chain, and long-term strategy formulation.</li><li><b>Paper 10: Cost & Management Accounting and Financial Management</b> – Integration of cost management techniques with financial management principles.</li><li><b>Paper 11: Indirect Taxation</b> – Covers GST, customs laws, and procedures of indirect taxes in India.</li><li><b>Paper 12: Company Accounts & Audit</b> – Focuses on corporate accounting and auditing principles.</li></ol><p>This level gives students an <i>in-depth technical foundation</i>, preparing them for real-world business challenges.</p>",
+          "bulletPoints": []
+        },
+        {
+          "id": "intermediate-cutoff",
+          "label": "Passing Criteria for Intermediate",
+          "description": "<p>The passing requirements for the <b>CMA Intermediate level</b> are strict to ensure thorough understanding of all subjects. The criteria include:</p><ul><li>Scoring at least <b>40% marks</b> in each paper individually.</li><li>Achieving an overall <b>aggregate of 50%</b> in each group.</li></ul><p>Candidates may choose to appear for <i>one group at a time</i> or for <i>both groups together</i>. Only after passing this level, candidates become eligible for <b>mandatory practical training</b> and can register for the Final course.</p>",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Level 3: CMA Final Course",
+      "nodes": [
+        {
+          "id": "final-subjects",
+          "label": "Subjects in Final Course",
+          "description": "<p>The <b>CMA Final level</b> is the most advanced stage of the course, designed to equip students with <i>strategic, managerial, and interpretative knowledge</i>. It is divided into <b>two groups</b> with four papers each:</p><p><b>Group III:</b></p><ol><li><b>Paper 13: Corporate and Economic Laws</b> – Detailed study of company law, SEBI regulations, and economic legislation.</li><li><b>Paper 14: Strategic Financial Management</b> – Financial strategies, risk management, and capital market instruments.</li><li><b>Paper 15: Strategic Cost Management – Decision Making</b> – Advanced cost techniques for business decisions, pricing, and optimization.</li><li><b>Paper 16: Direct Tax Laws and International Taxation</b> – In-depth analysis of direct taxes, cross-border taxation, and DTAA (Double Tax Avoidance Agreements).</li></ol><p><b>Group IV:</b></p><ol><li><b>Paper 17: Corporate Financial Reporting</b> – Preparation and interpretation of consolidated and segmental financial statements.</li><li><b>Paper 18: Indirect Tax Laws and Practice</b> – Advanced study of GST and international trade laws.</li><li><b>Paper 19: Cost and Management Audit</b> – Focus on cost audits, performance audits, and compliance with statutory requirements.</li><li><b>Paper 20: Strategic Performance Management and Business Valuation</b> – Tools for performance measurement and techniques for business valuation.</li></ol><p>At this level, students are trained to become <b>decision-makers and financial strategists</b> at the highest levels of management.</p>",
+          "bulletPoints": []
+        },
+        {
+          "id": "final-cutoff",
+          "label": "Passing Criteria for Final",
+          "description": "<p>The <b>Final course</b> follows the same passing criteria as the Intermediate level. A candidate must:</p><ul><li>Secure at least <b>40% marks</b> in each paper individually.</li><li>Achieve an overall <b>aggregate of 50%</b> in each group.</li></ul><p>Only after clearing <b>both groups</b> and completing the <b>mandatory practical training</b> does a student officially become a <b>qualified Cost and Management Accountant (CMA)</b>. This marks the culmination of years of preparation and hard work, opening doors to numerous professional opportunities.</p>",
+          "bulletPoints": []
+        }
+      ]
+    },
+    {
+      "title": "Career as a CMA",
+      "nodes": [
+        {
+          "id": "cma-jobs",
+          "label": "Job Opportunities after becoming a CMA",
+          "description": "<p>After qualifying, CMAs enjoy <b>diverse career opportunities</b> in both the private and public sectors. Their expertise makes them valuable in industries like <i>manufacturing, IT, consulting, banking, government, and multinational corporations</i>. Some of the popular roles include:</p><ul><li><b>Cost Accountant/Cost Controller:</b> Specializes in tracking and analyzing cost data, helping companies minimize costs and maximize efficiency.</li><li><b>Financial Analyst:</b> Engages in financial planning, ratio analysis, investment evaluation, and supporting business growth decisions.</li><li><b>Internal Auditor:</b> Ensures internal processes comply with policies and laws while improving operational effectiveness.</li><li><b>Chief Financial Officer (CFO):</b> A senior executive responsible for overseeing the entire finance function, from budgeting to corporate strategy.</li><li><b>Management Consultant:</b> Advises organizations on financial restructuring, process improvement, and enhancing profitability.</li></ul><p>CMAs can also build careers in <b>entrepreneurship, academia, or international roles</b> given the global recognition of the qualification.</p>",
           "resources": [
-            { "type": "tool", "title": "IMA (US) / ICMAI (IN)", "url": "https://www.imanet.org/" }
+            {
+            "type": "Government Website",
+              "title": "Register for CMA exam",
+              "url": "https://icmai.in/studentswebsite/exam.php"
+            }
           ]
-        },
-        {
-          "id": "accounting-fundamentals",
-          "label": "Accounting Fundamentals",
-          "description": "Principles, statements, and reconciliation.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Core CMA Domains",
-      "nodes": [
-        {
-          "id": "cost-accounting",
-          "label": "Cost Accounting",
-          "description": "Standard/marginal costing, variance analysis, job/process costing.",
-          "bulletPoints": []
-        },
-        {
-          "id": "planning-budgeting",
-          "label": "Planning & Budgeting",
-          "description": "Forecasting, budgets, flexible budgeting, variance analysis.",
-          "bulletPoints": []
-        },
-        {
-          "id": "performance-management",
-          "label": "Performance Management",
-          "description": "KPIs, balanced scorecard, responsibility centers.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Technology & Controls",
-      "nodes": [
-        {
-          "id": "data-analytics",
-          "label": "Data Analytics Basics",
-          "description": "Excel/BI, dashboards, variance visualization.",
-          "bulletPoints": []
-        },
-        {
-          "id": "internal-controls",
-          "label": "Internal Controls & Risk",
-          "description": "COSO framework, controls testing, compliance support.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Exam & Career",
-      "nodes": [
-        {
-          "id": "exam-prep-cma",
-          "label": "Exam Preparation",
-          "description": "Study plan, question banks, mock exams.",
-          "bulletPoints": []
-        },
-        {
-          "id": "career-paths",
-          "label": "Career Paths",
-          "description": "FP&A, cost controller, plant accounting, operations finance.",
-          "bulletPoints": []
         }
       ]
     }
   ]
 }
-
-
-
-
 

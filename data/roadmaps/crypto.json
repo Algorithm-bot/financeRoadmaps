@@ -1,143 +1,250 @@
 {
-    "title": "Understanding Cryptocurrency: Step-by-Step Guide",
-    "description": "A beginner-friendly guide to understanding cryptocurrency, from the basics of blockchain to wallets, exchanges, and the future of digital money.",
-    "category": "Finance Topics",
-    "slug": "crypto",
-    "stages": [
-      {
-        "title": "Foundations of Cryptocurrency",
-        "nodes": [
-          {
-            "id": "what-is-crypto",
-            "label": "What is Cryptocurrency?",
-            "description": "Cryptocurrency is a digital form of money that uses cryptography for security. It operates on decentralized networks called blockchains, making it different from traditional money controlled by banks or governments.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "Cryptocurrency Explained",
-                "url": "https://www.investopedia.com/terms/c/cryptocurrency.asp"
-              },
-              {
-                "type": "video",
-                "title": "What is Cryptocurrency?",
-                "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4"
-              }
-            ]
-          },
-          {
-            "id": "blockchain-basics",
-            "label": "What is Blockchain?",
-            "description": "Blockchain is a digital ledger technology that records transactions across many computers. It ensures transparency, security, and immutability of cryptocurrency transactions.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "Blockchain Basics",
-                "url": "https://www.ibm.com/topics/what-is-blockchain"
-              },
-              {
-                "type": "video",
-                "title": "Blockchain Explained Simply",
-                "url": "https://www.youtube.com/watch?v=YIVAluSL9SU"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Types of Cryptocurrencies",
-        "nodes": [
-          {
-            "id": "bitcoin",
-            "label": "Bitcoin (BTC)",
-            "description": "Bitcoin is the first and most well-known cryptocurrency, created in 2009 by Satoshi Nakamoto. It is often referred to as 'digital gold' and is widely used as a store of value.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "What is Bitcoin?",
-                "url": "https://www.investopedia.com/terms/b/bitcoin.asp"
-              }
-            ]
-          },
-          {
-            "id": "altcoins",
-            "label": "Altcoins",
-            "description": "Altcoins are cryptocurrencies other than Bitcoin, such as Ethereum, Litecoin, and Ripple. Many altcoins focus on smart contracts, faster transactions, or specific use cases.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "What Are Altcoins?",
-                "url": "https://www.coinbase.com/learn/crypto-basics/what-are-altcoins"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Using Cryptocurrency",
-        "nodes": [
-          {
-            "id": "wallets",
-            "label": "Crypto Wallets",
-            "description": "A wallet is a digital tool to store your cryptocurrency. Hot wallets are connected to the internet (e.g., apps), while cold wallets are offline and safer from hacking.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "Types of Crypto Wallets",
-                "url": "https://www.investopedia.com/terms/b/bitcoin-wallet.asp"
-              }
-            ]
-          },
-          {
-            "id": "exchanges",
-            "label": "Crypto Exchanges",
-            "description": "Exchanges are platforms where you can buy, sell, and trade cryptocurrencies. Popular ones include Binance, Coinbase, and Kraken. They charge fees for transactions.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "What is a Crypto Exchange?",
-                "url": "https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-exchange"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Risks and Future",
-        "nodes": [
-          {
-            "id": "risks",
-            "label": "Risks of Cryptocurrency",
-            "description": "Crypto markets are highly volatile. Risks include hacking, scams, regulatory changes, and losing private keys. Always research before investing.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "video",
-                "title": "The Risks of Cryptocurrency",
-                "url": "https://www.youtube.com/watch?v=jw28lCvTNhk"
-              }
-            ]
-          },
-          {
-            "id": "future-of-crypto",
-            "label": "Future of Cryptocurrency",
-            "description": "Cryptocurrencies may shape the future of finance through decentralized finance (DeFi), central bank digital currencies (CBDCs), and blockchain adoption across industries.",
-            "completed": false,
-            "resources": [
-              {
-                "type": "article",
-                "title": "The Future of Cryptocurrency",
-                "url": "https://www.weforum.org/agenda/2021/11/what-is-the-future-of-cryptocurrencies/"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "title": "Understanding Cryptocurrency: Step-by-Step Guide",
+  "description": "<div><p>Welcome to your essential guide for understanding the world of cryptocurrency. This roadmap is meticulously crafted for beginners, taking you from the fundamental concepts of blockchain and cryptography to practical aspects of using wallets and exchanges. We'll delve into different types of cryptocurrencies, explore various investment strategies, highlight crucial risks, and peek into the exciting future of decentralized finance. Prepare to demystify digital money and gain the knowledge to navigate this innovative financial landscape.</p></div>",
+  "category": "Finance Topics",
+  "slug": "crypto",
+  "stages": [
+    {
+      "title": "Foundations of Cryptocurrency",
+      "nodes": [
+        {
+          "id": "what-is-crypto",
+          "label": "What is Cryptocurrency?",
+          "description": "<div><p><b>Cryptocurrency</b> is a revolutionary form of digital or virtual currency that employs advanced cryptography for secure transactions and to control the creation of new units. Unlike traditional fiat currencies (like USD or INR) issued and regulated by central banks and governments, cryptocurrencies operate on decentralized networks known as blockchains. This decentralization means there is no single central authority controlling the money supply or transaction validation, fostering greater transparency and resistance to censorship.</p><p>The concept emerged with Bitcoin in 2009, introducing a peer-to-peer electronic cash system. Cryptocurrencies aim to provide an alternative to traditional financial systems, offering faster, cheaper, and more secure ways to transfer value globally.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Cryptocurrency Explained",
+              "url": "https://www.investopedia.com/terms/c/cryptocurrency.asp"
+            },
+            {
+              "type": "video",
+              "title": "What is Cryptocurrency?",
+              "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4"
+            }
+          ]
+        },
+        {
+          "id": "blockchain-basics",
+          "label": "What is Blockchain?",
+          "description": "<div><p>At the heart of every cryptocurrency lies <b>blockchain technology</b>. Imagine a digital ledger that isn't stored in one place but is distributed and maintained across thousands of computers (nodes) worldwide. Every time a transaction occurs, it is recorded as a 'block' of data. Once a block is filled with transactions, it is cryptographically linked to the previous block, forming a 'chain' of blocks. This creates an unchangeable and transparent record of all transactions.</p><p>Key characteristics of blockchain include:</p><ul><li><b>Decentralization:</b> No single entity controls the ledger, making it resistant to manipulation.</li><li><b>Immutability:</b> Once a transaction is recorded, it cannot be altered or deleted.</li><li><b>Transparency:</b> All transactions are publicly visible (though often pseudonymized).</li><li><b>Security:</b> Cryptographic hashing ensures the integrity and security of the chain.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Blockchain Basics",
+              "url": "https://www.ibm.com/topics/what-is-blockchain"
+            },
+            {
+              "type": "video",
+              "title": "Blockchain Explained Simply",
+              "url": "https://www.youtube.com/watch?v=YIVAluSL9SU"
+            }
+          ]
+        },
+        {
+          "id": "crypto-cryptography",
+          "label": "How Cryptography Works",
+          "description": "<div><p><b>Cryptography</b> is the science of secure communication in the presence of adversaries, and it is fundamental to the security and integrity of cryptocurrencies. It ensures that transactions are private, authentic, and tamper-proof.</p><p>Key cryptographic techniques used:</p><ul><li><b>Hashing:</b> This converts transaction data into a unique, fixed-length string of characters (a hash). Even a tiny change in the data results in a completely different hash, making tampering immediately detectable.</li><li><b>Public and Private Keys:</b> When you have a cryptocurrency wallet, you possess a pair of cryptographic keys. Your <b>public key</b> is like your bank account number—it's visible to everyone and is used to receive funds. Your <b>private key</b> is like your ATM PIN—it's a secret and is used to authorize (sign) transactions, proving you own the funds. Losing your private key means losing access to your cryptocurrency.</li></ul><p>These cryptographic methods create a secure, verifiable, and trustless system for digital transactions.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Cryptography in Cryptocurrency",
+              "url": "https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/"
+            }
+          ]
+        },
+        {
+          "id": "consensus-mechanisms",
+          "label": "Consensus Mechanisms",
+          "description": "<div><p>In a decentralized blockchain network, there's no central authority to validate transactions. Instead, <b>consensus mechanisms</b> are protocols that allow all the distributed nodes in the network to agree on the single, true state of the ledger. They prevent fraudulent transactions and ensure the integrity of the blockchain.</p><p>Two primary consensus mechanisms are:</p><ul><li><b>Proof of Work (PoW):</b> Used by Bitcoin and older versions of Ethereum. 'Miners' compete to solve complex cryptographic puzzles. The first one to solve it gets to add the next block to the chain and is rewarded with new coins. This process requires significant computational power and energy.</li><li><b>Proof of Stake (PoS):</b> Used by newer blockchains and Ethereum (after 'The Merge'). 'Validators' are chosen to create new blocks based on the amount of cryptocurrency they 'stake' (lock up) as collateral. This mechanism is generally considered more energy-efficient and scalable.</li></ul><p>We will learn more about this in the coming sections.</div>",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "title": "Types of Cryptocurrencies",
+      "nodes": [
+        {
+          "id": "bitcoin",
+          "label": "Bitcoin (BTC)",
+          "description": "<div><p><b>Bitcoin (BTC)</b> is the original cryptocurrency, launched in 2009 by an anonymous entity or group known as Satoshi Nakamoto. It introduced the world to the concept of a decentralized digital currency, revolutionizing finance and technology.</p><p>Key characteristics:</p><ul><li><b>Pioneering:</b> As the first successful cryptocurrency, Bitcoin set the standard for many that followed.</li><li><b>Digital Gold:</b> Often referred to as 'digital gold' due to its limited supply (capped at 21 million coins) and its role as a store of value, especially during economic uncertainty.</li><li><b>Decentralized:</b> Operated by a vast network of computers, making it resistant to government control or corporate manipulation.</li><li><b>Primary Use:</b> Primarily used as a medium of exchange and a store of value, rather than for complex applications.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "What is Bitcoin?",
+              "url": "https://www.investopedia.com/terms/b/bitcoin.asp"
+            },
+            {
+              "type": "video",
+              "title": "The Engineering behind Bitcoin and blockchain",
+              "url": "https://youtu.be/bBC-nXj3Ng4?si=m3tLAC9bp9FKZfDN"
+            }
+          ]
+        },
+        {
+          "id": "altcoins",
+          "label": "Altcoins",
+          "description": "<div><p>The term <b>Altcoin</b> is a portmanteau of 'alternative coin,' referring to any cryptocurrency developed after Bitcoin. While Bitcoin paved the way, altcoins aim to improve upon Bitcoin's limitations or offer entirely new functionalities and use cases.</p><p>Examples and characteristics:</p><ul><li><b>Ethereum (ETH):</b> The second-largest cryptocurrency, known for introducing 'smart contracts'—self-executing contracts with the terms directly written into code. This enabled the creation of decentralized applications (dApps).</li><li><b>Litecoin (LTC):</b> Often called 'digital silver,' designed for faster transaction times than Bitcoin.</li><li><b>Ripple (XRP):</b> Focuses on facilitating fast and low-cost international payments for financial institutions.</li></ul><p>Altcoins often focus on niche applications, scalability, energy efficiency, or different consensus mechanisms.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "stablecoins",
+          "label": "Stablecoins",
+          "description": "<div><p><b>Stablecoins</b> are a unique class of cryptocurrencies designed to minimize price volatility. Unlike Bitcoin or other altcoins that can experience wild price swings, stablecoins aim to maintain a stable value by pegging themselves to a 'stable' asset.</p><p>Common types of stablecoins:</p><ul><li><b>Fiat-collateralized:</b> Pegged to traditional fiat currencies like the US Dollar (USD), Euro (EUR), or Indian Rupee (INR). Examples include <b>Tether (USDT)</b> and <b>USD Coin (USDC)</b>, which are typically backed 1:1 by reserves of the corresponding fiat currency.</li><li><b>Commodity-collateralized:</b> Pegged to physical assets like gold.</li><li><b>Crypto-collateralized:</b> Backed by other cryptocurrencies.</li><li><b>Algorithmic:</b> Maintain their peg through complex algorithms and smart contracts, without direct asset backing (though these have faced challenges).</li></ul><p>Stablecoins are widely used in the crypto ecosystem for trading, lending, and as a safe haven during market downturns, offering the speed and security of crypto without the extreme volatility.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "What Are Stablecoins?",
+              "url": "https://www.investopedia.com/terms/s/stablecoin.asp"
+            }
+          ]
+        },
+        {
+          "id": "tokens-vs-coins",
+          "label": "Tokens vs Coins",
+          "description": "<div><p>While often used interchangeably, 'coins' and 'tokens' have distinct technical differences within the cryptocurrency ecosystem.</p><ul><li><b>Coins:</b> These are cryptocurrencies that operate on their <strong>own independent blockchain</strong>. They are the native currency of that blockchain and are typically used for transactions, paying network fees (gas fees), and securing the network through mining or staking. Examples include Bitcoin (BTC) on the Bitcoin blockchain and Ether (ETH) on the Ethereum blockchain.</li><li><b>Tokens:</b> These are cryptocurrencies that are <strong>built on an existing blockchain</strong> (e.g., ERC-20 tokens on Ethereum). They do not have their own native blockchain. Tokens can represent a wide range of assets or utilities:<ul><li><b>Utility Tokens:</b> Provide access to a specific product or service within a decentralized application (dApp).</li><li><b>Security Tokens:</b> Represent ownership in an underlying asset, like real estate or company shares.</li><li><b>Governance Tokens:</b> Give holders voting rights in the development and direction of a decentralized project.</li></ul></li></ul><p>Think of it this way: a coin is like the native currency of a country, while a token is like a ticket or voucher valid within a specific system or event in that country.</p></div>",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "title": "Using Cryptocurrency",
+      "nodes": [
+        {
+          "id": "wallets",
+          "label": "Crypto Wallets",
+          "description": "<div><p>A <b>cryptocurrency wallet</b> is not a physical place where your crypto is stored; rather, it's a software or hardware device that stores your public and private keys, allowing you to interact with the blockchain to send, receive, and manage your digital assets. Think of it as your secure interface to your cryptocurrency holdings.</p><p>Wallets are broadly categorized into:</p><ul><li><b>Hot Wallets (Online/Software):</b> These are connected to the internet and include web wallets (accessed via browsers), mobile wallets (apps on smartphones), and desktop wallets (software installed on computers). They offer convenience and ease of access for frequent transactions but are more susceptible to hacking risks.</li><li><b>Cold Wallets (Offline/Hardware):</b> These are physical devices that store your private keys offline, making them highly secure against online threats. Examples include hardware wallets (like Ledger or Trezor) and paper wallets. They are ideal for storing large amounts of cryptocurrency for the long term.</li></ul><p>The choice of wallet depends on your security needs, transaction frequency, and the amount of crypto you hold.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Types of Crypto Wallets",
+              "url": "https://www.investopedia.com/terms/b/bitcoin-wallet.asp"
+            }
+          ]
+        },
+        {
+          "id": "exchanges",
+          "label": "Crypto Exchanges",
+          "description": "<div><p><b>Cryptocurrency exchanges</b> are online platforms that facilitate the buying, selling, and trading of cryptocurrencies for other cryptocurrencies, fiat currencies (like USD, INR), or other digital assets. They act as intermediaries, connecting buyers and sellers.</p><p>Major centralized exchanges include:</p><ul><li><b>Binance:</b> One of the world's largest exchanges by trading volume, offering a vast array of cryptocurrencies and trading features.</li><li><b>Coinbase:</b> A user-friendly exchange popular for beginners, known for its strong security and regulatory compliance.</li><li><b>Kraken:</b> Offers advanced trading features and a good selection of cryptocurrencies, often favored by more experienced traders.</li></ul><p>When choosing an exchange, consider factors like security measures (2FA, cold storage), fee structure, available cryptocurrencies, user interface, and regulatory compliance in your region.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Review on top 5 Crypto Exchanges",
+              "url": "https://youtu.be/CzVIAfDD5io?si=3wtRx7POnbUIRv3w"
+            }
+          ]
+        },
+        {
+          "id": "buy-sell",
+          "label": "How to Buy/Sell Safely",
+          "description": "<div><p>Executing cryptocurrency transactions safely is paramount to protecting your digital assets. Here are essential best practices:</p><ol><li><b>Choose Reputable Exchanges:</b> Only use well-established and regulated exchanges with a proven track record of security. Research reviews and their security protocols.</li><li><b>Enable Two-Factor Authentication (2FA):</b> Always activate 2FA on your exchange and wallet accounts. This adds an extra layer of security, requiring a second verification method (like an OTP from your phone) beyond your password.</li><li><b>Start Small:</b> If you're new, begin with smaller investments to get comfortable with the process before committing larger sums.</li><li><b>Verify Addresses:</b> When sending crypto, always double-check the recipient's wallet address. A single incorrect character can result in permanent loss of funds, as blockchain transactions are irreversible.</li><li><b>Beware of Scams:</b> Be vigilant against phishing attempts, fake exchanges, and investment schemes promising unrealistic returns. Always verify URLs and sender identities.</li></ol></div>",
+          "completed": false
+        },
+        {
+          "id": "send-receive",
+          "label": "Sending & Receiving Crypto",
+          "description": "<div><p>Transferring cryptocurrency between wallets or exchanges involves a few key steps and concepts:</p><ul><li><b>Wallet Address:</b> This is a unique string of alphanumeric characters (e.g., <code>1BvBMSEYstWetqTFn5Au4m4GFp7xJaNVN2</code> for Bitcoin) that acts as the destination for your crypto. Always ensure the address matches the correct cryptocurrency and blockchain network.</li><li><b>Transaction Fees (Gas Fees):</b> Every transaction on a blockchain network incurs a small fee, paid to the miners or validators who process and verify the transaction. These fees can vary based on network congestion.</li><li><b>Confirmations:</b> After you send crypto, the transaction needs to be verified and added to blocks on the blockchain. Each block added after your transaction is a 'confirmation.' More confirmations mean a more secure and irreversible transaction.</li></ul><p>Always double-check the receiving address and ensure you select the correct network (e.g., ERC-20 for Ethereum tokens) to avoid losing your funds.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "How to Send and Receive Cryptocurrency",
+              "url": "https://youtu.be/99dnxsnImSA?si=9soWNKOWc8Cb3zLH"
+            }
+          ]
+        },
+        {
+          "id": "dex",
+          "label": "Decentralized Exchanges (DEX)",
+          "description": "<div><p>While centralized exchanges (CEXs) act as intermediaries, <b>Decentralized Exchanges (DEXs)</b> allow users to trade cryptocurrencies directly with each other (peer-to-peer) without the need for a central authority to hold funds or facilitate trades.</p><p>Key features of DEXs:</p><ul><li><b>No Intermediary:</b> You retain custody of your funds in your own wallet throughout the trading process, reducing the risk of exchange hacks.</li><li><b>Privacy:</b> DEXs typically do not require KYC (Know Your Customer) verification, offering greater privacy.</li><li><b>Liquidity Pools & AMMs:</b> Instead of traditional order books, many DEXs use <b>Liquidity Pools</b> (funds locked by users to facilitate trading) and <b>Automated Market Makers (AMMs)</b> (algorithms that price assets based on the ratio in the pool) to enable trades.</li></ul><p>Popular DEXs include Uniswap, PancakeSwap, and SushiSwap. While offering greater control and privacy, DEXs can sometimes have lower liquidity and a steeper learning curve for beginners.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "How Decentralized Exchanges work?",
+              "url": "https://chain.link/education-hub/what-is-decentralized-exchange-dex"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Investing & Strategies",
+      "nodes": [
+        {
+          "id": "hodl-trading",
+          "label": "HODLing vs Trading",
+          "description": "<div><p>In cryptocurrency investing, two primary strategies dominate the landscape:</p><ul><li><b>HODLing:</b> This term originated from a misspelling of 'hold' and means holding onto your cryptocurrencies for the long term, regardless of short-term market fluctuations. HODLers believe in the fundamental value and future appreciation of their chosen assets. This strategy often involves buying and then moving assets to a secure cold wallet.</li><li><b>Trading:</b> This involves actively buying and selling cryptocurrencies in shorter timeframes to profit from price volatility. Traders use technical analysis, market indicators, and news events to make quick decisions. This can include day trading, swing trading, or scalping.</li></ul><p><b>Which strategy is for you?</b> HODLing is generally recommended for beginners due to its lower stress and time commitment. Trading requires significant knowledge, experience, and risk tolerance.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "market-cap",
+          "label": "Understanding Market Cap & Volume",
+          "description": "<div><p>These two metrics are fundamental indicators used to assess the size, popularity, and liquidity of a cryptocurrency.</p><ul><li><b>Market Capitalization (Market Cap):</b> This is the total value of all the coins or tokens currently in circulation for a particular cryptocurrency. It's calculated by: <em>Market Cap = Current Price per Coin x Total Circulating Supply</em>. A higher market cap generally indicates a more established and stable cryptocurrency.</li><li><b>Trading Volume:</b> This represents the total value of a cryptocurrency that has been traded over a specific period (e.g., 24 hours). High trading volume indicates strong liquidity and active interest from buyers and sellers, making it easier to enter or exit positions without significant price impact. Low volume, conversely, can lead to higher volatility and difficulty in trading.</li></ul></div>",
+          "completed": false
+        },
+        {
+          "id": "portfolio-diversification",
+          "label": "Portfolio Diversification",
+          "description": "<div><p>Just like in traditional finance, <b>diversification</b> is a crucial risk management strategy in cryptocurrency investing. It involves spreading your investment capital across a variety of different cryptocurrencies and asset classes to mitigate the risk associated with a single asset performing poorly.</p><p>Key principles of diversification in crypto:</p><ul><li><b>Don't Put All Eggs in One Basket:</b> Avoid investing your entire capital in a single coin, even if it's Bitcoin or Ethereum.</li><li><b>Mix of Market Caps:</b> Consider a mix of large-cap (more stable), mid-cap (growth potential), and small-cap (high risk/high reward) cryptocurrencies.</li><li><b>Different Use Cases:</b> Invest in coins that serve different purposes (e.g., a store of value, a smart contract platform, a DeFi protocol token).</li><li><b>Balance with Traditional Assets:</b> For overall financial stability, ensure your crypto portfolio is part of a broader diversified investment strategy that includes traditional assets like stocks, bonds, and real estate.</li></ul></div>",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "title": "Risks and Future",
+      "nodes": [
+        {
+          "id": "risks",
+          "label": "Risks of Cryptocurrency",
+          "description": "<div><p>While offering significant opportunities, cryptocurrency markets are inherently high-risk. Acknowledging these risks is vital for any potential investor.</p><ul><li><b>Extreme Volatility:</b> Crypto prices can fluctuate wildly and rapidly, leading to substantial gains or losses in short periods.</li><li><b>Hacking and Scams:</b> The decentralized nature can also be a vulnerability. Exchanges, wallets, and individual investors are targets for hackers. Phishing scams, rug pulls, and pump-and-dump schemes are prevalent.</li><li><b>Regulatory Uncertainty:</b> The legal and regulatory landscape for cryptocurrencies is still evolving globally. Sudden regulatory changes can significantly impact prices and accessibility.</li><li><b>Loss of Private Keys:</b> If you lose your private keys or seed phrase, there is no 'forget password' option. Your funds will be permanently inaccessible.</li><li><b>Market Manipulation:</b> Due to the relatively smaller market size compared to traditional finance, crypto markets can be more susceptible to manipulation by large holders (whales).</li></ul></div>",
+          "completed": false
+        },
+        {
+          "id": "future-of-crypto",
+          "label": "Future of Cryptocurrency",
+          "description": "<div><p>The future of cryptocurrency and blockchain technology is dynamic and holds immense potential to reshape various aspects of our lives.</p><ul><li><b>Decentralized Finance (DeFi):</b> DeFi aims to recreate traditional financial services (lending, borrowing, trading) without intermediaries, using smart contracts on blockchains. This could make financial services more accessible and efficient.</li><li><b>Central Bank Digital Currencies (CBDCs):</b> Many central banks globally, including India's RBI with the Digital Rupee, are exploring or implementing their own digital currencies. CBDCs combine the efficiency of digital money with the stability and trust of a central bank.</li><li><b>Mainstream Adoption:</b> Increasing institutional interest, integration with traditional payment systems, and growing public awareness are pointing towards wider adoption of cryptocurrencies for payments, investments, and various applications.</li><li><b>Blockchain Beyond Finance:</b> The underlying blockchain technology is finding applications beyond finance, in areas like supply chain management, healthcare, voting systems, and digital identity.</li></ul><p>While challenges remain, the innovation in this space is undeniable, suggesting a transformative impact on finance and technology.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "regulation-tax",
+          "label": "Regulation & Taxation",
+          "description": "<div><p>The regulatory and taxation frameworks for cryptocurrency are still evolving globally, creating a complex and often uncertain environment. It is crucial for investors to stay informed and compliant with the laws in their country of residence.</p><ul><li><b>Varying Global Stances:</b> Some countries have embraced crypto, others have banned it, and many are still developing comprehensive regulations. India has taken a cautious approach, imposing a 30% tax on crypto gains and a 1% TDS on transactions, signaling a move towards regulation rather than an outright ban.</li><li><b>Taxation:</b> Most jurisdictions that permit crypto trading now tax capital gains from selling crypto and, in some cases, even income from mining, staking, or earning crypto. Accurate record-keeping of all transactions is essential for tax purposes.</li><li><b>AML/KYC:</b> Many centralized exchanges are now required to implement Anti-Money Laundering (AML) and Know Your Customer (KYC) procedures, similar to traditional financial institutions.</li></ul><p>Always consult with a tax professional to understand your specific obligations and ensure compliance.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "Cryptocurrency Regulation and Taxes",
+              "url": "https://youtu.be/7qWU-XA23Fg?si=H0Wu1MAyiYcgoQTp"
+            },
+            {
+              "type": "article",
+              "title": "Guide to crypto taxes in India",
+              "url": "https://cleartax.in/s/cryptocurrency-taxation-guide"
+            }
+          ]
+        },
+        {
+          "id": "security-best-practices",
+          "label": "Security Best Practices",
+          "description": "<div><p>Given the irreversible nature of blockchain transactions and the prevalence of scams, robust security practices are paramount for safeguarding your cryptocurrency.</p><ul><li><b>Strong, Unique Passwords:</b> Use complex, unique passwords for all your crypto accounts (exchanges, wallets) and never reuse them.</li><li><b>Enable Two-Factor Authentication (2FA):</b> Always activate 2FA for an extra layer of security. Use authenticator apps (like Google Authenticator) rather than SMS-based 2FA, which can be vulnerable to SIM-swap attacks.</li><li><b>Hardware Wallets for Cold Storage:</b> For significant holdings, invest in a reputable hardware wallet (e.g., Ledger, Trezor) to keep your private keys offline and away from internet threats.</li><li><b>Secure Your Seed Phrase:</b> Your seed phrase (recovery phrase) is the master key to your funds. Write it down, store it in multiple secure, offline locations, and never share it or store it digitally.</li><li><b>Be Wary of Phishing:</b> Always double-check URLs before entering credentials. Phishing websites mimic legitimate ones to steal your login details.</li><li><b>Double-Check Addresses:</b> Before sending crypto, meticulously verify the recipient's wallet address. A mistake can lead to permanent loss of funds.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "video",
+              "title": "5 levels of security for your crypto",
+              "url": "https://youtu.be/hE9dAISys60?si=PVHT2WI6WQnrvEz_"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

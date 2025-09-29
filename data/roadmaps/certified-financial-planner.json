@@ -1,90 +1,40 @@
 {
   "title": "Certified Financial Planner (CFP)",
-  "description": "Roadmap to becoming a CFP: holistic financial planning, tax, retirement, and ethics.",
+  "description": "<div><p>This roadmap outlines the journey to becoming a <strong>Certified Financial Planner (CFP)</strong>, a globally respected credential in the financial services industry. A CFP professional is a trusted advisor who helps individuals and families achieve their life goals through comprehensive financial planning. This guide covers the core requirements of the CFP program, the key knowledge domains of retirement, tax, and estate planning, and the practical aspects of investment management and client relationships. _****_</p></div>",
   "category": "Professional Certifications & Specialist Roles",
   "slug": "certified-financial-planner",
   "stages": [
     {
-      "title": "Program Overview",
+      "title": "Foundations",
       "nodes": [
+        {
+          "id": "what-is-cfp",
+          "label": "What is a CFP?",
+          "description": "<div><p>A <strong>Certified Financial Planner (CFP)</strong> is a financial professional who has met rigorous education, examination, experience, and ethics requirements to earn a globally recognized certification. More than just an investment advisor, a CFP professional takes a holistic view of a client's entire financial situation to create a cohesive and comprehensive life plan. They operate under a <strong>fiduciary standard</strong>, meaning they are ethically and legally bound to always act in their client's best interest.</p><p>Key tasks involve a structured process:</p><ul><li><b>Goal Analysis:</b> Engaging in deep conversations to help clients identify, quantify, and prioritize their life goals. This involves translating aspirations like 'a comfortable retirement' into tangible numbers and timelines.</li><li><b>Investment Management:</b> Designing, implementing, and monitoring a diversified investment portfolio that is carefully aligned with the client's specific goals and their personal tolerance for market risk.</li><li><b>Retirement Planning:</b> Creating detailed projections to ensure clients can maintain their desired lifestyle after they stop working, factoring in variables like inflation, healthcare costs, and longevity.</li><li><b>Risk Management:</b> Building a financial safety net by identifying potential risks to the client's plan and recommending appropriate insurance products (life, health, disability) to mitigate them.</li><li><b>Tax & Estate Planning:</b> Developing long-term strategies to improve tax efficiency across all financial decisions and ensuring a client's assets are distributed smoothly and according to their wishes after their lifetime.</li></ul></div>"
+        },
         {
           "id": "cfp-overview",
-          "label": "CFP Certification Overview",
-          "description": "Education, exam, experience, ethics (4Es).",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "tool", "title": "CFP Board", "url": "https://www.cfp.net/" }
-          ]
-        },
-        {
-          "id": "planner-ethics",
-          "label": "Ethics & Practice Standards",
-          "description": "Fiduciary duty, client engagement, documentation.",
-          "bulletPoints": []
+          "label": "CFP Certification Requirements",
+          "description": "<div><p>The CFP certification is widely considered the gold standard in the financial planning profession. To earn this designation, which is administered in India by the <strong>FPSB India</strong>, candidates must demonstrate competence by meeting the four rigorous '4Es' requirements:</p><ul><li><b>Education:</b> Candidates must complete a comprehensive and detailed curriculum from an authorized education provider. This coursework covers a wide body of knowledge, including investment planning, retirement savings, insurance, tax planning, and professional ethics.</li><li><b>Examination:</b> Candidates must pass the CFP examination, a demanding, multi-hour test. The exam is case-study-based, requiring candidates to apply their knowledge to complex, real-world financial planning scenarios, rather than just recalling facts.</li><li><b>Experience:</b> Candidates must accumulate a set number of hours (typically several years) of relevant, hands-on professional experience in the financial planning field. This ensures that a CFP professional has practical skills in addition to theoretical knowledge.</li><li><b>Ethics:</b> Candidates must commit to a strict code of professional conduct and uphold the fiduciary standard of care. This is an ongoing commitment to place the client's interests above their own, ensuring trust and transparency.</li></ul></div>"
         }
       ]
     },
     {
-      "title": "Planning Domains",
-      "nodes": [
-        {
-          "id": "retirement-planning",
-          "label": "Retirement Planning",
-          "description": "Retirement needs analysis, Social Security, annuities.",
-          "bulletPoints": []
-        },
-        {
-          "id": "tax-planning",
-          "label": "Tax Planning",
-          "description": "Taxable vs tax-advantaged accounts, deductions, credits.",
-          "bulletPoints": []
-        },
-        {
-          "id": "estate-insurance",
-          "label": "Estate & Insurance Planning",
-          "description": "Wills, trusts, life/disability insurance, long-term care.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Investing & Client Work",
-      "nodes": [
-        {
-          "id": "investment-plans",
-          "label": "Investment Policy & Allocation",
-          "description": "Risk profiling, IPS, asset allocation, rebalancing.",
-          "bulletPoints": []
-        },
-        {
-          "id": "client-communication",
-          "label": "Client Communication",
-          "description": "Discovery, goals-based planning, behavioral finance.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Exam & Practice",
+      "title": "Certification",
       "nodes": [
         {
           "id": "exam-prep-cfp",
-          "label": "Exam Preparation",
-          "description": "Study plan, case studies, mocks.",
-          "bulletPoints": []
-        },
-        {
-          "id": "practice-management",
-          "label": "Practice Management",
-          "description": "Compliance, CRM, fee models, onboarding.",
-          "bulletPoints": []
+          "label": "Final Exam Preparation",
+          "description": "<div><p>To finish your certification, you have to pass the final CFP exam. This exam tests you on everything you've learned from all the different modules combined.</p><p>Good preparation is key. You'll need a steady study plan that you can follow for several months. The most important thing is to practice with many case studies. These are like real-life client problems, similar to what you'll see on the test, where you have to create a complete financial plan.</p><p>Finally, taking full-length practice exams is a must. This helps you build the focus needed for a long test and teaches you how to manage your time well when you're under pressure.</p></div>",
+          "resources": [
+            {
+              "type": "Official Website",
+              "title": "Exam Registeration Website",
+              "url": "https://ibf.org/business-analytics-certification"
+                }
+              ]
         }
       ]
     }
   ]
 }
-
-
-
-
-

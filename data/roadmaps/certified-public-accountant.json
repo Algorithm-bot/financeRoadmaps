@@ -1,76 +1,55 @@
 {
-  "title": "Certified Public Accountant (CPA)",
-  "description": "Roadmap to becoming a CPA: auditing, taxation, financial accounting, and regulation.",
+  "title": "US CPA for Indian Professionals: A Global Career Roadmap",
+  "description": "A tailored guide for Indian aspirants on how to become a U.S. Certified Public Accountant (CPA). This roadmap covers the specific eligibility and scheduling steps for Indians, the exam structure, and how to leverage the CPA qualification for international job opportunities.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "certified-public-accountant",
+  "slug": "cpa-for-indians-global-career",
   "stages": [
     {
-      "title": "Eligibility & Application",
+      "title": "Introduction & Eligibility",
       "nodes": [
         {
-          "id": "cpa-eligibility",
-          "label": "Eligibility & State Requirements",
-          "description": "Credit hours, state boards, education evaluation.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "tool", "title": "NASBA", "url": "https://nasba.org/" }
-          ]
+          "id": "what-is-cpa",
+          "label": "What is a CPA?",
+          "description": "<div><p>A <strong>Certified Public Accountant (CPA)</strong> is the highest professional designation for accountants in the United States, licensed by a state board of accountancy. It is a globally recognized credential that signifies expertise in accounting, auditing, taxation, and business advisory.</p><p>For an Indian aspirant, earning the CPA opens doors to high-demand international roles. CPAs are trusted to perform a variety of tasks, including:</p><ul><li><b>Audit and Assurance:</b> Reviewing the financial statements of companies to ensure accuracy and compliance. This is a core function, especially at large global firms like the Big Four.</li><li><b>Corporate Finance:</b> Working inside a company as a controller or financial analyst, managing budgets, and preparing financial reports for management and investors.</li><li><b>International Taxation:</b> Advising multinational corporations on U.S. tax law and helping individuals with cross-border tax issues.</li><li><b>Forensic Accounting:</b> Investigating financial fraud and discrepancies for corporations or legal entities.</li><li><b>Advisory & Consulting:</b> Providing expert advice on business valuation, mergers and acquisitions (M&A), and IT system controls.</li></ul></div>"
         },
         {
-          "id": "scheduling-exams",
-          "label": "Schedule Exams",
-          "description": "Prometric scheduling, testing windows, fees.",
-          "bulletPoints": []
+          "id": "cpa-eligibility-india",
+          "label": "Eligibility for Indian Candidates",
+          "description": "<div><p>To qualify for the CPA exam, you must meet the educational requirements of a U.S. state board. For Indian candidates, this involves a few key steps:</p><ul><li><b>Credit Hour Requirement:</b> Most states require 150 semester hours for licensure. A standard Indian B.Com (~90 credits) is not sufficient. Therefore, candidates often need additional qualifications like an M.Com, MBA, or a professional degree like the Indian CA to meet the criteria.</li><li><b>Credential Evaluation:</b> Your Indian academic records must be officially evaluated by a U.S. agency to determine their equivalency in semester hours.</li><li><b>Choosing a State Board:</b> It's best to apply through an 'international-friendly' state board (like Guam, Montana, Alaska) that does not require U.S. citizenship, residency, or a Social Security number.</li></ul></div>",
+          "resources": [
+            {
+              "type": "Government Website",
+              "title": "NASBA International Evaluation Services",
+              "url": "https://nasba.org/products/nasbainternationalevaluationservices/"
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Exam Sections",
+      "title": "Scheduling & Exam Structure",
       "nodes": [
         {
-          "id": "far",
-          "label": "Financial Accounting & Reporting (FAR)",
-          "description": "Standards, statements, consolidation, governmental accounting.",
-          "bulletPoints": []
+          "id": "scheduling-exams-india",
+          "label": "Scheduling Exams in India",
+          "description": "<div><p>You can complete the entire CPA exam without leaving India. The process is streamlined for international candidates.</p><ul><li><b>Receive Your NTS:</b> After your chosen state board approves your application, you'll get a Notice to Schedule (NTS).</li><li><b>Book at Prometric India:</b> With your NTS, you can book your exam slots at Prometric test centers located in major Indian cities, including <b>Mumbai, Delhi, Kolkata, Chennai, Hyderabad, and Bangalore.</b></li><li><b>Plan Strategically:</b> You have a limited time (usually 18-30 months, depending on the state) to pass all four sections after passing your first one. Plan your exam dates in India accordingly.</li></ul></div>"
         },
         {
-          "id": "aud",
-          "label": "Auditing & Attestation (AUD)",
-          "description": "Risk assessment, evidence, reporting.",
-          "bulletPoints": []
-        },
-        {
-          "id": "reg",
-          "label": "Regulation (REG)",
-          "description": "Taxation, business law, ethics.",
-          "bulletPoints": []
+          "id": "cpa-discipline",
+          "label": "Discipline Section (Choose for Your Career Path)",
+          "description": "<div><p>This choice allows you to specialize and align your CPA with your international career goals.</p><ul><li><b>Business Analysis and Reporting (BAR):</b> Ideal for roles in financial analysis, M&A, or technical accounting at large global corporations.</li><li><b>Information Systems and Controls (ISC):</b> Perfect for international careers in IT audit, cybersecurity, and risk management.</li><li><b>Tax Compliance and Planning (TCP):</b> The best choice if you aim for a specialized career in U.S. international tax planning or expat taxation abroad.</li></ul></div>"
         }
       ]
     },
     {
-      "title": "Prep & Experience",
+      "title": "Preparation & International Licensure",
       "nodes": [
         {
-          "id": "study-plan-cpa",
-          "label": "Study Plan",
-          "description": "Review courses, testlets, simulations, time management.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "course", "title": "CPA Review Course", "url": "https://example.com/cpa-review" }
-          ]
-        },
-        {
-          "id": "experience-requirement",
-          "label": "Experience & Licensure",
-          "description": "Verified work, ethics exam, license application.",
-          "bulletPoints": []
+          "id": "experience-for-licensure",
+          "label": "Experience Requirement for International Jobs",
+          "description": "<div><p>Passing the exams is a huge achievement and can be listed on your resume immediately to apply for jobs abroad. To become fully <b>licensed</b>, however, you need work experience.</p><ul><li><b>Verification:</b> You need 1-2 years of relevant accounting experience verified by a licensed U.S. CPA.</li><li><b>Pathways for Indians:</b> You can often get this experience by working at a Big Four firm or a large MNC in India under a U.S. CPA. Alternatively, many candidates pass the exams first, get a job abroad, and then fulfill the experience requirement there.</li><li><b>Exam Passed vs. Licensed:</b> Even just passing the exams significantly boosts your profile for global employers.</li></ul></div>"
         }
       ]
     }
   ]
 }
-
-
-
-
-

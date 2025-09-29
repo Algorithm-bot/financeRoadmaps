@@ -1,131 +1,165 @@
 {
-      "title": "Taxes Made Simple (India): A Roadmap for First-Time Filers",
-      "description": "Understand income tax basics, documents, filing steps, deductions, and compliance in India.",
-      "category": "Finance Topics",
-      "slug": "taxes",
-      "stages": [
+  "title": "Taxes Made Simple (India): A Roadmap for First-Time Filers",
+  "description": "<div><p>Navigating the world of income tax can be intimidating, but this roadmap simplifies it for you. Designed for first-time filers in India, this guide breaks down the entire process—from understanding what income tax is and choosing a tax regime, to gathering the right documents, filing your return online, and claiming eligible deductions. Let's demystify taxes and empower you to manage your financial obligations with confidence. 🧾</p></div>",
+  "category": "Finance Topics",
+  "slug": "taxes",
+  "stages": [
+    {
+      "title": "Tax Foundations",
+      "nodes": [
         {
-          "title": "Tax Foundations",
-          "nodes": [
+          "id": "what-is-income-tax",
+          "label": "What is Income Tax?",
+          "description": "<div><p><b>Income Tax</b> is a direct tax that you pay to the Central Government on the income you earn in a financial year (from April 1st to March 31st). This revenue is used by the government to fund public services like infrastructure, healthcare, and defense. The tax is collected through a few key mechanisms:</p><ul><li><b>TDS (Tax Deducted at Source):</b> Your employer, bank, or any other payer deducts tax from your income (like salary or interest) before paying you the net amount.</li><li><b>Advance Tax:</b> If your total tax liability in a year is expected to exceed ₹10,000, you are required to pay tax in quarterly installments throughout the year, rather than as a lump sum at the end.</li><li><b>Self-Assessment Tax:</b> This is the final tax you pay while filing your return if, after accounting for TDS and advance tax, there is still a tax amount due.</li></ul></div>",
+          "completed": false
+        },
+        {
+          "id": "tax-regimes",
+          "label": "Tax Regimes & Slabs",
+          "description": "<div><p>As a taxpayer in India, you have a choice between two different tax regimes. This choice impacts your tax rates and the deductions you can claim.</p><ul><li><b>Old Tax Regime:</b> This regime allows you to claim numerous deductions and exemptions, such as those under Section 80C (for investments), 80D (for health insurance), HRA (House Rent Allowance), and more. The tax slab rates are generally higher.</li><li><b>New Tax Regime:</b> This regime offers lower, concessional tax slab rates but requires you to forgo most of the common deductions and exemptions. It is the <strong>default regime</strong>, meaning if you don't make a choice, you will be taxed under this system.</li></ul><p><b>How to Choose?</b> The decision depends on your financial profile. If you make significant investments and have expenses that qualify for major deductions, the Old Regime might be more beneficial. If you prefer simplicity and have fewer deductions to claim, the New Regime's lower rates could be advantageous.</p></div>",
+          "completed": false,
+          "resources": [
             {
-              "id": "what-is-income-tax",
-              "label": "What is Income Tax?",
-              "description": "A tax on your annual income paid to the Government of India. Collected via TDS, advance tax, or self-assessment at filing.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "Income Tax Overview", "url": "https://www.incometax.gov.in/" },
-                { "type": "article", "title": "TDS Basics", "url": "https://www.incometax.gov.in/iec/foportal/help/tds" }
-              ]
-            },
-            {
-              "id": "tax-regimes",
-              "label": "Tax Regimes & Slabs",
-              "description": "India offers regimes with different slab structures and deductions. Choose based on your income, deductions, and simplicity preference.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "Tax Regime Comparison", "url": "https://www.incometax.gov.in/iec/foportal/help/individual-huf" }
-              ]
-            },
-            {
-              "id": "pan-aadhaar",
-              "label": "PAN, Aadhaar, Bank",
-              "description": "You need PAN, Aadhaar (linked), and a pre-validated bank account for refunds and e-verification.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "PAN–Aadhaar Link Help", "url": "https://www.incometax.gov.in/iec/foportal/pan-aadhaar-linkage" }
-              ]
+              "type": "article",
+              "title": "Tax Regime Comparison",
+              "url": "https://cleartax.in/s/old-tax-regime-vs-new-tax-regime"
             }
           ]
         },
         {
-          "title": "Documents & Forms",
-          "nodes": [
+          "id": "pan-aadhaar",
+          "label": "PAN, Aadhaar, Bank",
+          "description": "<div><p>These three components form the essential KYC (Know Your Customer) trinity for all your tax-related activities in India.</p><ul><li><b>PAN (Permanent Account Number):</b> A unique 10-digit alphanumeric identifier issued by the Income Tax Department. It is mandatory for filing tax returns and for most major financial transactions.</li><li><b>Aadhaar Card:</b> Your unique 12-digit identity number. It is <strong>mandatory to link your PAN with your Aadhaar</strong> to file your income tax return.</li><li><b>Pre-Validated Bank Account:</b> You must have at least one bank account linked and pre-validated on the e-Filing portal. This is crucial as the Income Tax Department will only issue refunds to a pre-validated account. It is also used as a method for e-verification.</li></ul></div>",
+          "completed": false,
+          "resources": [
             {
-              "id": "26as-ais",
-              "label": "Form 26AS & AIS",
-              "description": "26AS and AIS summarize TDS, TCS, interest, securities trades, etc. Reconcile these with your records.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "View AIS/26AS", "url": "https://www.incometax.gov.in/iec/foportal/aishome" }
-              ]
-            },
-            {
-              "id": "itr-forms",
-              "label": "Choosing ITR Forms",
-              "description": "Pick ITR-1/2/3/4 based on income sources like salary, capital gains, or business/profession.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "ITR Form Guide", "url": "https://www.incometax.gov.in/iec/foportal/help/itr" }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Filing & Verification",
-          "nodes": [
-            {
-              "id": "how-to-file",
-              "label": "How to File Online",
-              "description": "Register/login on the e-Filing portal, prefill data, add incomes/deductions, compute tax, pay dues, submit, then e-verify.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "e-Filing Portal", "url": "https://www.incometax.gov.in/" }
-              ]
-            },
-            {
-              "id": "e-verify",
-              "label": "e-Verification",
-              "description": "Complete within the deadline using Aadhaar OTP, net banking, or bank/demat EVC to make your return valid.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "e-Verification Methods", "url": "https://www.incometax.gov.in/iec/foportal/help/e-verify" }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Deductions, TDS & Compliance",
-          "nodes": [
-            {
-              "id": "deductions",
-              "label": "Deductions & Exemptions",
-              "description": "Common sections include investments, health insurance premiums, and HRA/LTA rules. Keep proofs and follow limits.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "Deductions Guide", "url": "https://www.incometax.gov.in/iec/foportal/help/individual-huf" }
-              ]
-            },
-            {
-              "id": "advance-tax",
-              "label": "TDS & Advance Tax",
-              "description": "Employees see TDS in salary; self-employed may need advance tax instalments based on estimated income.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "Advance Tax Basics", "url": "https://www.incometax.gov.in/iec/foportal/help/advance-tax" }
-              ]
-            },
-            {
-              "id": "notices",
-              "label": "Notices & Rectification",
-              "description": "Respond to notices on time. Use rectification/revised return if you spot errors.",
-              "completed": false,
-              "resources": [
-                { "type": "article", "title": "Responding to Notices", "url": "https://www.incometax.gov.in/iec/foportal/help/notice" }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Quiz",
-          "nodes": [
-            {
-              "id": "tax-quiz",
-              "label": "Test Yourself: Taxes",
-              "description": "Quick check on regimes, ITR selection, documents, and verification.",
-              "completed": false,
-              "resources": []
+              "type": "official website",
+              "title": "PAN–Aadhaar Link check",
+              "url": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status"
             }
           ]
         }
       ]
+    },
+    {
+      "title": "Documents & Forms",
+      "nodes": [
+        {
+          "id": "26as-ais",
+          "label": "Form 26AS & AIS",
+          "description": "<div><p>Before filing your return, you must check these two crucial documents, which act as your tax passbooks. Both can be downloaded from the e-Filing portal.</p><ul><li><b>Form 26AS:</b> This is your annual consolidated tax statement. It shows all the taxes that have been deducted (TDS) and deposited against your PAN by your employer, banks, etc. It also reflects any advance tax or self-assessment tax you've paid.</li><li><b>AIS (Annual Information Statement):</b> This is a far more comprehensive statement. It provides a detailed summary of all your financial transactions reported by various entities, including interest earned, dividend income, mutual fund purchases, and property transactions.</li></ul><p>It is essential to <strong>reconcile the information</strong> in your AIS and Form 26AS with your own records to ensure you report your income accurately and claim the correct tax credits.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Understanding AIS/26AS",
+              "url": "https://www.indiafirstlife.com/knowledge-center/tax-savings/what-is-annual-information-statement-how-it-differ-from-form-26as"
+            }
+          ]
+        },
+        {
+          "id": "itr-forms",
+          "label": "Choosing ITR Forms",
+          "description": "<div><p>The Income Tax Department has different ITR (Income Tax Return) forms for different types of taxpayers and income sources. Choosing the correct form is mandatory.</p><ul><li><b>ITR-1 (Sahaj):</b> For resident individuals with a total income up to ₹50 lakh from salary, one house property, and other sources (like savings account interest). Not for those with capital gains.</li><li><b>ITR-2:</b> For individuals and HUFs who do not have income from a business or profession. This form is used if you have capital gains, income from more than one house property, or foreign income.</li><li><b>ITR-3:</b> For individuals and HUFs who have income from a business or profession.</li><li><b>ITR-4 (Sugam):</b> For individuals, HUFs, and firms who have opted for the presumptive taxation scheme for their business or profession.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "ITR Form Guide",
+              "url": "https://www.pnbmetlife.com/articles/taxation/types-of-income-tax-return-itr-forms.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Filing & Verification",
+      "nodes": [
+        {
+          "id": "how-to-file",
+          "label": "How to File Online",
+          "description": "<div><p>Filing your income tax return online through the official government portal is a streamlined process:</p><ol><li><b>Register/Login:</b> Create an account or log in to the e-Filing portal (incometax.gov.in) using your PAN.</li><li><b>Prefill Data:</b> The system will automatically fetch your personal information and financial data from your AIS, Form 26AS, and previous returns.</li><li><b>Verify & Complete:</b> Carefully review the pre-filled data. Add any other income sources (e.g., freelance income, rental income) and claim all eligible deductions that are not pre-filled.</li><li><b>Compute Tax:</b> The portal will calculate your final tax liability or refund based on the information provided.</li><li><b>Pay Dues:</b> If any tax is due, pay it online through the portal's payment gateway.</li><li><b>Submit & Verify:</b> Once all details are confirmed, submit your return. The final and most crucial step is to e-verify it.</li></ol></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "How to File ITR Online",
+              "url": "https://youtu.be/SNpjZ_wW7lQ?si=OwMJpzwMMbNB6_k_"
+            },
+            {
+              "type": "official website",
+              "title": "e-Filing Portal",
+              "url": "https://www.incometax.gov.in/"
+            }
+            
+          ]
+        },
+        {
+          "id": "e-verify",
+          "label": "e-Verification",
+          "description": "<div><p>Your tax return is considered invalid if it is not verified. <strong>E-verification</strong> is the digital method of signing and confirming your ITR, and it must be completed within <strong>30 days</strong> of filing.</p><p>Common and convenient methods for e-verification include:</p><ul><li><b>Aadhaar OTP:</b> The quickest method. An OTP is sent to the mobile number linked with your Aadhaar.</li><li><b>Net Banking:</b> You can log in to your internet banking portal and e-verify the return from there.</li><li><b>Bank/Demat Account EVC:</b> Generate an Electronic Verification Code (EVC) through your pre-validated bank or demat account.</li></ul><p>Once e-verified, the process is complete, and your return will be taken up for processing by the Income Tax Department.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "e-Verification Methods",
+              "url": "https://www.incometax.gov.in/iec/foportal/help/how-to-e-verify-your-e-filing-return"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Deductions, TDS & Compliance",
+      "nodes": [
+        {
+          "id": "deductions",
+          "label": "Deductions & Exemptions",
+          "description": "<div><p>Deductions are specific expenses or investments that you can subtract from your gross total income to lower your taxable income. These are primarily available under the <strong>Old Tax Regime</strong>.</p><p>Some of the most common deductions include:</p><ul><li><b>Section 80C:</b> A popular section with a limit of ₹1.5 lakh for investments in EPF, PPF, ELSS mutual funds, life insurance premiums, home loan principal repayment, etc.</li><li><b>Section 80D:</b> For premiums paid for health insurance for yourself, your family, and your parents.</li><li><b>HRA (House Rent Allowance):</b> Salaried individuals living in rented accommodation can claim an exemption on the HRA component of their salary.</li><li><b>LTA (Leave Travel Allowance):</b> Exemption on travel expenses for salaried employees.</li></ul><p>It's crucial to keep proofs of these investments and expenses, as the tax department may ask for them.</p></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Deductions Guide",
+              "url": "https://tax2win.in/guide/deductions"
+            }
+          ]
+        },
+        {
+          "id": "advance-tax",
+          "label": "TDS & Advance Tax",
+          "description": "<div><p>The government's 'pay-as-you-earn' model ensures taxes are collected throughout the year.</p><ul><li><b>TDS (Tax Deducted at Source):</b> For most salaried employees, TDS deducted by the employer covers the majority of their tax liability. Banks also deduct TDS on interest income if it exceeds a certain threshold.</li><li><b>Advance Tax:</b> If your estimated tax liability for the year (after TDS) is ₹10,000 or more, you must pay advance tax. This typically applies to freelancers, professionals, and business owners who have significant income not subject to TDS. It needs to be paid in four quarterly installments.</li></ul><p>The total TDS and advance tax paid are credited against your final tax liability when you file your return.</p></div>",
+          "completed": false
+        },
+        {
+          "id": "notices",
+          "label": "Notices & Rectification",
+          "description": "<div><p>Receiving a notice from the Income Tax Department can be stressful, but it's often just a request for information or a notification of a discrepancy.</p><ul><li><b>Common Notices:</b> These are often automated and sent for mismatches between the income you declared and the data available in the department's records (like AIS/26AS). It is crucial to <strong>respond to any notice promptly</strong> and accurately within the specified deadline.</li><li><b>Rectification & Revised Return:</b> If you discover an error in your return after filing (e.g., you forgot to claim a deduction or report some income), you can correct it. You can file a <strong>Rectification Request</strong> for minor errors or file a <strong>Revised Return</strong> to make more substantial changes.</li></ul></div>",
+          "completed": false,
+          "resources": [
+            {
+              "type": "article",
+              "title": "Responding to Notices",
+              "url": "https://www.incometax.gov.in/iec/foportal/help/notice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Case Studies",
+      "nodes": [
+        {
+          "id": "tax-examples-expanded",
+          "label": "Real-Life Scenarios: Taxes",
+          "description": "<div><p>Understand tax filing in India through detailed case studies:</p><ul><li><b>Case 1: Ramesh (Salaried, ₹10 lakh income)</b><br/>• Under Old Regime: He claims ₹1.5 lakh under 80C (ELSS) + ₹2 lakh home loan interest. Taxable income = ₹10,00,000 – 3,50,000 = ₹6,50,000.<br/>Tax payable ≈ ₹54,600 (after rebate & cess).<br/>• Under New Regime: No deductions allowed, taxable = ₹10,00,000.<br/>Tax payable ≈ ₹54,600.<br/><i>Insight:</i> Since deductions are high, Old Regime gives better benefit.</li><li><b>Case 2: Priya (IT Employee + Capital Gains)</b><br/>• Salary = ₹8 lakh, STCG from mutual funds = ₹50,000.<br/>• She cannot use ITR-1 (only for salary/one house property).<br/>• Must file ITR-2, as it covers capital gains.<br/><i>Insight:</i> Choosing the wrong form leads to rejection of return.</li><li><b>Case 3: Arjun (Cross-checking Tax Credit)</b><br/>• Employer deducted TDS = ₹40,000 shown in payslip.<br/>• In Form 26AS & AIS, only ₹30,000 reflected.<br/>• Action: Contact employer to revise TDS return, else mismatch may cause notice.<br/><i>Insight:</i> Always verify 26AS & AIS before filing to avoid disputes.</li><li><b>Case 4: Neha (Missed E-Verification)</b><br/>• Filed return on 25th July but forgot to e-verify.<br/>• On 15th August, she gets reminder from IT dept.<br/>• E-verifies instantly via Aadhaar OTP.<br/>• Only after this step is her ITR considered valid.<br/><i>Insight:</i> Filing alone isn’t enough; e-verification is mandatory.</li></ul></div>",
+          "completed": false,
+          "resources": []
+        }
+      ]
     }
+    
+      
+      
+  ]
+}

@@ -1,54 +1,75 @@
 {
-    "title": "Chartered Accountant",
-    "description": "Pathway to a career in investment banking: skills, tools, and milestones.",
-    "category": "Professional Certifications & Specialist Roles",
-    "slug": "Chartered Accountant",
-    "stages": [
-      {
-        "title": "Foundations",
-        "nodes": [
-          {
-            "id": "accounting-basics",
-            "label": "Accounting Basics",
-            "description": "Debits/credits, statements, GAAP/IFRS.",
-            "completed": true,
-            "resources": [
-              { "type": "course", "title": "Introduction to Financial Accounting", "url": "https://www.coursera.org/learn/wharton-accounting" }
-            ]
-          },
-          {
-            "id": "excel-and-powerpoint",
-            "label": "Excel & PowerPoint",
-            "description": "Shortcuts, modeling, pitch decks.",
-            "completed": false,
-            "resources": [
-              { "type": "article", "title": "Excel for Finance", "url": "https://www.wallstreetoasis.com/resources/excel/overview" }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Core IB Skills",
-        "nodes": [
-          {
-            "id": "valuation-methods",
-            "label": "Valuation Methods",
-            "description": "DCF, comps, precedents.",
-            "resources": [
-              { "type": "article", "title": "Valuation Overview", "url": "https://www.investopedia.com/terms/v/valuation.asp" }
-            ]
-          },
-          {
-            "id": "deal-process",
-            "label": "Deal Process",
-            "description": "M&A lifecycle, IPO basics, due diligence.",
-            "resources": [
-              { "type": "article", "title": "Mergers and Acquisitions", "url": "https://www.investopedia.com/terms/m/mergersandacquisitions.asp" }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
-  
+  "title": "Chartered Accountant (CA) India",
+  "description": "A comprehensive roadmap to becoming a Chartered Accountant (CA) in India. This guide covers the official ICAI pathway, including exam levels, the mandatory articleship training, and the final steps to membership.",
+  "category": "Professional Certifications & Specialist Roles",
+  "slug": "chartered-accountant-india",
+  "stages": [
+    {
+      "title": "Introduction & Entry Routes",
+      "nodes": [
+        {
+          "id": "what-is-ca",
+          "label": "What is a Chartered Accountant?",
+          "description": "<div><p>A <strong>Chartered Accountant (CA)</strong> is a highly qualified professional in India who holds a statutory designation established by an Act of Parliament. Governed by the <strong>Institute of Chartered Accountants of India (ICAI)</strong>, CAs are trusted experts who provide professional services in accounting, auditing, taxation, corporate finance, and business advisory.</p><p>Their key roles are integral to the economy:</p><ul><li><b>Auditing & Assurance:</b> CAs have the legal authority to audit the financial statements of companies, providing credibility for investors, lenders, and government authorities.</li><li><b>Taxation:</b> They are experts in both direct (income tax) and indirect (GST) tax laws, responsible for tax planning, compliance, and representing clients before tax authorities.</li><li><b>Corporate Finance:</b> CAs are involved in strategic financial management, including fundraising, mergers & acquisitions (M&A), valuations, and financial modeling.</li><li><b>Business Advisory:</b> They act as strategic partners, advising businesses on financial discipline, compliance, and growth strategies from inception to expansion.</li></ul></div>"
+        },
+        {
+          "id": "ca-entry-routes",
+          "label": "Entry Routes: Foundation vs. Direct Entry",
+          "description": "<div><p>There are two primary pathways to begin the journey to become a CA, depending on your educational qualifications:</p><ul><li><b>Foundation Route:</b> This is the traditional entry point for students after passing their Class 12 examinations. It requires clearing the CA Foundation exam, which tests basic concepts in accounting, law, economics, and quantitative aptitude. This route is ideal for students who have decided on a career in accountancy early on.</li><li><b>Direct Entry Route:</b> This pathway allows certain candidates to bypass the Foundation exam and begin directly at the Intermediate level. It is available for commerce graduates/post-graduates who have secured a specific minimum percentage (e.g., 55%), or for candidates who have cleared the Intermediate level of other professional bodies like the ICSI or ICMAI. A key advantage is that direct entry students can commence their articleship immediately after registering.</li></ul></div>",
+          "resources": [
+            {
+              "type": "tool",
+              "title": "ICAI Official Website",
+              "url": "https://www.icai.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Intermediate Level",
+      "nodes": [
+        {
+          "id": "ca-intermediate",
+          "label": "CA Intermediate Course",
+          "description": "<div><p>The CA Intermediate is the crucial second stage that builds a strong theoretical base across a wide range of commerce subjects. It bridges the gap between foundational knowledge and the expert-level topics of the Final exam. The curriculum is divided into two groups of four papers each, which students can choose to attempt separately or together.</p><p>The course provides working-level knowledge of core subjects like Accounting, Corporate Law, Cost and Management Accounting, Taxation, and Auditing, which are essential for practical application during articleship.</p></div>"
+        },
+        {
+          "id": "icitss-training",
+          "label": "ICITSS Training",
+          "description": "<div><p>Before an aspiring CA can begin their practical training, they must complete the mandatory four-week <strong>Integrated Course on Information Technology and Soft Skills (ICITSS)</strong>. This course is designed to equip students with the essential skills for the professional world. It has two parts: an Orientation Course focusing on business communication and professional etiquette, and Information Technology training covering accounting software, spreadsheets, and presentation tools.</p></div>"
+        }
+      ]
+    },
+    {
+      "title": "Practical Training (Articleship)",
+      "nodes": [
+        {
+          "id": "ca-articleship",
+          "label": "Articleship (3 Years)",
+          "description": "<div><p>The articleship is the cornerstone of the CA qualification, often compared to a residency for medical doctors. It is a mandatory <strong>three-year practical training</strong> program where a student (or 'article') works under a practicing Chartered Accountant. During this period, they get hands-on experience in real-world assignments, including statutory audits, tax audits, filing income tax and GST returns, and ensuring company law compliance. This intense on-the-job training is where theoretical knowledge is transformed into practical professional competence.</p></div>"
+        },
+        {
+          "id": "aicitss-training",
+          "label": "AICITSS Training",
+          "description": "<div><p>During the final two years of articleship, students must complete another mandatory four-week program: the <strong>Advanced Integrated Course on Information Technology and Soft Skills (AICITSS)</strong>. This acts as a finishing school, preparing trainees for managerial roles. The Advanced IT component covers complex topics like ERPs and data analytics, while the Management and Communication Skills course focuses on developing leadership, negotiation, and strategic thinking capabilities.</p></div>"
+        }
+      ]
+    },
+    {
+      "title": "Final Level & Membership",
+      "nodes": [
+        {
+          "id": "ca-final",
+          "label": "CA Final Course",
+          "description": "<div><p>The CA Final is the last and most challenging hurdle in the academic journey. These exams test a candidate's expert knowledge and ability to apply and integrate concepts from various subjects to solve complex, case-study-based problems. The curriculum is divided into two groups and covers advanced topics like Financial Reporting (including Indian Accounting Standards), Strategic Financial Management (covering derivatives and portfolio management), Advanced Auditing, and International Taxation. Clearing this exam is the ultimate testament to a candidate's technical expertise.</p></div>"
+        },
+        {
+          "id": "icai-membership",
+          "label": "ICAI Membership",
+          "description": "<div><p>After successfully passing both groups of the CA Final examination and completing the three-year articleship, a candidate becomes eligible to be formally admitted as a member of the ICAI. Upon submitting the required documents and paying the fees, they earn the right to use the prestigious 'CA' designation. At this point, they can either join a company in the industry or apply for a <strong>Certificate of Practice (COP)</strong>. The COP grants them the legal authority to start their own firm and sign official documents like audit reports.</p></div>"
+        }
+      ]
+    }
+  ]
+}

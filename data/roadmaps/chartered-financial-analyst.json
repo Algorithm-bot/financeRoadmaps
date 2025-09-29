@@ -1,90 +1,47 @@
 {
-  "title": "Chartered Financial Analyst (CFA)",
-  "description": "Roadmap to earning the CFA charter: ethics, investments, and portfolio management.",
+  "title": "Chartered Financial Analyst (CFA) for Indian Aspirants",
+  "description": "A detailed roadmap to earning the CFA charter, the global gold standard for the investment management profession. This guide is tailored for candidates in India, covering the program's structure, core concepts, and career applications.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "chartered-financial-analyst",
+  "slug": "chartered-financial-analyst-india",
   "stages": [
     {
-      "title": "Program Overview",
+      "title": "Introduction to the CFA Program",
       "nodes": [
         {
-          "id": "cfa-overview",
-          "label": "CFA Program Structure",
-          "description": "Levels I–III, topic weights, exam cadence, work experience.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "tool", "title": "CFA Institute", "url": "https://www.cfainstitute.org/" }
+          "id": "what-is-cfa",
+          "label": "What is a CFA Charterholder?",
+          "description": "<div><p>A <strong>Chartered Financial Analyst (CFA)</strong> is a globally recognized investment professional who has earned the CFA charter by meeting rigorous educational, examination, and professional standards. The CFA designation is often called the 'gold standard' in investment management because it demonstrates advanced skills in investment analysis, portfolio management, and ethical practices.</p><p>In India, CFA charterholders are highly sought after by top financial institutions for their expertise. Common roles include:</p><ul><li><b>Equity Research Analyst:</b> Analyzes public companies and provides investment recommendations to clients or institutional investors.</li><li><b>Portfolio Manager:</b> Designs and manages investment portfolios for individuals or institutions to meet specific goals.</li><li><b>Fund Manager:</b> Oversees mutual funds, ETFs, and other investment funds, making strategic decisions about asset allocation and security selection.</li><li><b>Investment Banker:</b> Advises companies on capital raising, mergers, acquisitions, and other strategic financial transactions.</li></ul><p>CFA charterholders often work at leading asset management companies such as HDFC AMC and ICICI Prudential, brokerage firms like Motilal Oswal, or international investment banks operating in India. Their strong analytical skills, ethical grounding, and investment knowledge make them valuable in both corporate and advisory roles.</p></div>",
+          "resources":[
+            {
+              "type": "video",
+              "title": "CFA 101",
+              "url": "https://youtu.be/MsRoyCNHjt0?si=8HRSQjNQUAKwwqaz"
+            }
           ]
         },
         {
-          "id": "ethics",
-          "label": "Ethical & Professional Standards",
-          "description": "Code of Ethics, Standards of Professional Conduct.",
-          "bulletPoints": []
+          "id": "cfa-program-structure",
+          "label": "CFA Program Structure & Requirements",
+          "description": "<div><p>The CFA program is a globally recognized professional credential that requires rigorous preparation. It consists of three sequential exams, each increasing in complexity, along with work experience requirements. The program is designed to provide deep knowledge in finance, investment, and ethical decision-making.</p><ul><li><b>Level I:</b> Focuses on basic investment tools and concepts. Topics include ethics, quantitative methods, economics, financial reporting and analysis, corporate finance, portfolio management, equity, fixed income, derivatives, and alternative investments. Level I tests your ability to recall and apply foundational knowledge.</li><li><b>Level II:</b> Concentrates on asset valuation and applying Level I knowledge to real-world scenarios. It involves understanding complex valuation techniques for equities, fixed income securities, derivatives, and alternative investments. This level emphasizes analytical thinking and case-based problem solving.</li><li><b>Level III:</b> Focuses on portfolio management and wealth planning. Candidates learn to integrate all concepts to design and manage portfolios for individual clients or large institutions. Topics include risk management, asset allocation, performance measurement, and applying ethical standards to client situations.</li><li><b>Work Experience:</b> To earn the CFA charter, candidates must complete <strong>4,000 hours of relevant professional experience</strong> over at least 36 months. Experience can be gained before, during, or after passing the exams. Relevant work includes investment decision-making, portfolio management, financial analysis, or research roles.</li></ul><p>The combination of exams and practical experience ensures that CFA charterholders have both the theoretical knowledge and real-world skills needed to excel in the investment management profession.</p></div>"
         }
       ]
     },
     {
-      "title": "Core Topics",
+      "title": "Synthesis & Exam Strategy",
       "nodes": [
         {
-          "id": "quantitative-methods",
-          "label": "Quantitative Methods",
-          "description": "Time value of money, statistics, hypothesis testing.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "article", "title": "TVM Refresher", "url": "https://www.investopedia.com/terms/t/timevalueofmoney.asp" }
-          ]
-        },
-        {
-          "id": "financial-reporting",
-          "label": "Financial Reporting & Analysis",
-          "description": "Income, balance sheet, cash flows, ratios, accounting quality.",
-          "bulletPoints": []
-        },
-        {
-          "id": "equity-fixed-income",
-          "label": "Equity & Fixed Income",
-          "description": "Valuation, market structure, term structure, credit analysis.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Portfolio & Risk",
-      "nodes": [
-        {
-          "id": "portfolio-management",
-          "label": "Portfolio Management",
-          "description": "Modern portfolio theory, asset allocation, IPS.",
-          "bulletPoints": []
-        },
-        {
-          "id": "derivatives-alts",
-          "label": "Derivatives & Alternatives",
-          "description": "Options, futures, swaps, private equity, real assets.",
-          "bulletPoints": []
-        }
-      ]
-    },
-    {
-      "title": "Exam Strategy",
-      "nodes": [
-        {
-          "id": "study-plan-cfa",
-          "label": "Study Plan & Mocks",
-          "description": "Study hours, question practice, mock exams, revision.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "course", "title": "CFA Level I Review", "url": "https://example.com/cfa-level-1-review" }
+          "id": "cfa-exam-strategy",
+          "label": "Exam Strategy & Preparation",
+          "description": "<div><p>Preparing for the CFA exams requires a disciplined approach and careful planning. Each level of the CFA exam is challenging, covering a broad curriculum that requires months of dedicated study. The CFA Institute recommends at least <strong>300 hours of study per level</strong>, though many candidates spend 400-500 hours to ensure thorough preparation.</p><p>Key preparation strategies include:</p><ul><li><b>Consistent Study Plan:</b> Break down the syllabus into daily or weekly study targets to cover all topics systematically over several months.</li><li><b>Practice Questions:</b> Solve thousands of questions from the CFA Institute Learning Ecosystem and other reputable study materials. Practicing questions helps you apply concepts and identify weak areas.</li><li><b>Case Study Practice:</b> For Level II and III, work on integrated case studies to simulate real-world investment decision-making.</li><li><b>Mock Exams:</b> Take multiple full-length timed mock exams to build stamina, improve time management, and develop exam-day confidence.</li><li><b>Focus on Ethics:</b> Ethics and professional standards are critical and can be a deciding factor in passing borderline scores. Review them carefully for all three levels.</li></ul><p>Success requires steady progress, not last-minute cramming. By following a structured plan, practicing extensively, and staying disciplined, candidates improve their chances of passing all three levels and ultimately earning the CFA charter.</p></div>",
+        "resources":[
+            {
+              "type": "article",
+              "title": "CFA exam registeration and Schedule",
+              "url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/exam-registration-scheduling-guide"
+            }
           ]
         }
       ]
     }
   ]
 }
-
-
-
-
-

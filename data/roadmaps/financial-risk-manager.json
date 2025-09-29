@@ -1,90 +1,73 @@
 {
-  "title": "Financial Risk Manager (FRM)",
-  "description": "Roadmap to becoming an FRM: market, credit, operational risk, and risk models.",
+  "title": "Financial Risk Manager (FRM) - Indian Aspirant Roadmap",
+  "description": "<div><p>A detailed guide for Indian aspirants on becoming a certified <strong>Financial Risk Manager (FRM)</strong>. This roadmap explains the FRM's role, the structure of the two-part examination administered by the Global Association of Risk Professionals (GARP), including all subjects and passing criteria, and the significant career opportunities in India's financial sector.</p></div>",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "financial-risk-manager",
+  "slug": "financial-risk-manager-india",
   "stages": [
     {
-      "title": "Program & Foundations",
+      "title": "Introduction to the FRM Profession",
       "nodes": [
         {
-          "id": "frm-overview",
-          "label": "FRM Program Overview",
-          "description": "Parts I & II, topic areas, registration, exam windows.",
-          "bulletPoints": [],
+          "id": "what-is-frm",
+          "label": "Who is a Financial Risk Manager?",
+          "description": "<div><p>A Financial Risk Manager (FRM), certified by the <strong>Global Association of Risk Professionals (GARP)</strong>, is a highly respected professional in the world of finance. This certification is the global benchmark for risk professionals, signifying a mastery in identifying, analyzing, and mitigating risks within the financial landscape. An FRM is equipped with specialized knowledge and advanced quantitative skills to manage various financial risks, including <b>market risk</b> (from price fluctuations), <b>credit risk</b> (from defaults), and <b>operational risk</b> (from internal failures or external events). In a volatile market like India's, their expertise is crucial for safeguarding a company's financial health and ensuring long-term stability.</p></div>",
           "resources": [
-            { "type": "tool", "title": "GARP", "url": "https://www.garp.org/" }
+            { "type": "tool", "title": "Global Association of Risk Professionals (GARP)", "url": "https://www.garp.org/" }
           ]
         },
         {
-          "id": "risk-basics",
-          "label": "Risk Management Basics",
-          "description": "Risk types, governance, risk frameworks.",
-          "bulletPoints": []
+          "id": "frm-responsibilities",
+          "label": "What does an FRM do?",
+          "description": "<div><p>An FRM's role is dynamic and central to an organization's strategic decision-making. Their core responsibilities involve a blend of analytical rigor and strategic insight:</p><ul><li><b>Risk Identification and Analysis:</b> They proactively identify potential financial threats, from market volatility to counterparty defaults, and analyze their potential impact on the business.</li><li><b>Quantitative Modeling:</b> A key part of their job is to build, validate, and use sophisticated statistical models. This includes techniques like <b>Value-at-Risk (VaR)</b> to quantify potential losses and Monte Carlo simulations to model uncertainty.</li><li><b>Stress Testing:</b> They design and execute stress tests, which are crucial for understanding how a company's investment portfolio would behave under severe, yet plausible, crisis scenarios.</li><li><b>Regulatory Compliance:</b> They ensure the firm's risk management practices are in strict compliance with regulations from bodies like the <b>Reserve Bank of India (RBI)</b> and global standards such as the <b>Basel Accords</b>.</li><li><b>Strategic Reporting:</b> FRMs are responsible for translating complex risk data into clear, actionable insights for senior management and the board of directors, thereby guiding strategic business planning and capital allocation.</li></ul></div>"
         }
       ]
     },
     {
-      "title": "Core Risk Domains",
+      "title": "Level 1: FRM Exam Part I",
       "nodes": [
         {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "description": "VaR, stress testing, derivatives risk, backtesting.",
-          "bulletPoints": []
+          "id": "part1-subjects",
+          "label": "Subjects in FRM Exam Part I",
+          "description": "<div><p>FRM Part I is a four-hour, 100-question multiple-choice exam that builds the essential toolkit for a risk professional. It focuses on the fundamental concepts and quantitative tools used to assess financial risk. The curriculum is divided into four main areas:</p><ul><li><b>Foundations of Risk Management (20% weightage):</b> This section covers the basic principles of risk, how to create a risk management framework, corporate governance, portfolio theory (including CAPM), and ethical standards.</li><li><b>Quantitative Analysis (20% weightage):</b> This is a heavily mathematical section focusing on probability, statistical inference, regression analysis, and time series modeling—all critical for building and interpreting risk models.</li><li><b>Financial Markets and Products (30% weightage):</b> This part delves into the mechanics and pricing of various financial instruments, including futures, options, swaps, fixed-income securities, and foreign exchange markets.</li><li><b>Valuation and Risk Models (30% weightage):</b> This section introduces core risk measurement techniques like Value-at-Risk (VaR), stress testing, option valuation using models like Black-Scholes, and the fundamentals of measuring credit risk.</li></ul></div>"
         },
         {
-          "id": "credit-risk",
-          "label": "Credit Risk",
-          "description": "PD/LGD/EAD, credit models, counterparty risk.",
-          "bulletPoints": []
-        },
-        {
-          "id": "operational-risk",
-          "label": "Operational Risk",
-          "description": "Loss data, scenario analysis, RCSA, controls.",
-          "bulletPoints": []
+          "id": "part1-cutoff",
+          "label": "Passing Criteria for Part I",
+          "description": "<div><p>The FRM exam is known for its competitive and unique grading system. There is <b>no fixed passing percentage</b>. Instead, the passing score is determined through a method of <b>relative grading</b>. GARP sets the passing score based on the performance of the top 5% of candidates for that specific exam. Your performance in each of the four sections is then evaluated in quartiles (1st, 2nd, 3rd, or 4th) relative to the average performance of all candidates. To pass, you must meet the overall passing score and also demonstrate a reasonable performance across all four sections. A candidate must successfully pass Part I before they can sit for the Part II exam.</p></div>"
         }
       ]
     },
     {
-      "title": "Modeling & Regulation",
+      "title": "Level 2: FRM Exam Part II",
       "nodes": [
         {
-          "id": "risk-models",
-          "label": "Risk Models",
-          "description": "Distributional assumptions, Monte Carlo, correlations.",
-          "bulletPoints": []
+          "id": "part2-subjects",
+          "label": "Subjects in FRM Exam Part II",
+          "description": "<div><p>FRM Part II is a four-hour, 80-question multiple-choice exam that shifts from tools to the practical application of risk management. It requires candidates to apply the foundational knowledge from Part I to solve real-world risk management problems. The six subject areas are:</p><ul><li><b>Market Risk Measurement and Management (20% weightage):</b> Advanced topics including modeling volatility (GARCH models), measuring VaR for complex portfolios, and managing risks associated with exotic options.</li><li><b>Credit Risk Measurement and Management (20% weightage):</b> In-depth study of credit scoring models, portfolio credit risk, structured products like CDOs, and counterparty risk.</li><li><b>Operational Risk and Resiliency (20% weightage):</b> Covers frameworks for managing operational risk, calculating regulatory capital under Basel, and ensuring business resiliency.</li><li><b>Liquidity and Treasury Risk Measurement and Management (15% weightage):</b> Focuses on liquidity gap analysis, managing funding risk, and asset-liability management (ALM).</li><li><b>Risk Management and Investment Management (15% weightage):</b> Applies risk management techniques to the process of portfolio construction, performance attribution, and hedge fund strategies.</li><li><b>Current Issues in Financial Markets (10% weightage):</b> A dynamic section that covers recent major financial events, trends, and regulatory changes, requiring candidates to stay updated with the contemporary financial world.</li></ul></div>"
         },
         {
-          "id": "regulatory-frameworks",
-          "label": "Regulatory Frameworks",
-          "description": "Basel, CCAR, FRTB, ICAAP.",
-          "bulletPoints": []
+          "id": "part2-cutoff",
+          "label": "Passing & Certification Criteria for Part II",
+          "description": "<div><p>The passing criteria for Part II follow the same relative grading methodology as Part I. However, passing the exam is only one part of becoming certified. The final and most critical step is the <b>work experience requirement</b>. To be awarded the FRM Charter, a candidate must submit proof of at least <b>two years of full-time professional work experience</b> in a field related to financial risk management. This experience must involve analyzing, controlling, or managing financial risk. Qualifying roles can be in areas such as risk consulting, trading, portfolio management, compliance, or quantitative analysis. This experience must be submitted to GARP for verification within five years of passing the Part II exam. Only after both the exam is passed and the experience is approved does a candidate officially become a certified FRM.</p></div>"
         }
       ]
     },
     {
-      "title": "Exam & Practice",
+      "title": "Career as an FRM in India",
       "nodes": [
         {
-          "id": "exam-prep-frm",
-          "label": "Exam Preparation",
-          "description": "Study plan, question banks, mocks, formula sheet.",
-          "bulletPoints": []
-        },
-        {
-          "id": "applications",
-          "label": "Practical Applications",
-          "description": "Risk reporting, limit frameworks, model validation.",
-          "bulletPoints": []
+          "id": "frm-jobs-india",
+          "label": "Job Opportunities for FRMs in India",
+          "description": "<div><p>In India, the demand for certified FRMs is robust and rapidly expanding. As the Indian financial market integrates more deeply with the global economy and regulations become more stringent, the need for skilled risk professionals has skyrocketed. FRMs are highly valued across the entire financial services industry.</p><p>Key sectors and roles include:</p><ul><li><b>Banks:</b> Both private (HDFC, ICICI, Axis) and public sector banks hire FRMs for roles in credit risk, market risk, and operational risk management, as well as in their treasury divisions.</li><li><b>Investment Banking & Asset Management:</b> Firms require FRMs for portfolio risk management, developing investment strategies, and managing risks in complex derivatives trading.</li><li><b>Consulting Firms:</b> Top consulting firms (like the Big Four) hire FRMs to advise financial institutions on risk management best practices, regulatory compliance, and process improvements.</li><li><b>Corporates:</b> Large multinational corporations and Indian conglomerates with significant treasury operations hire FRMs to manage currency risk, interest rate risk, and other financial exposures.</li><li><b>Regulatory Bodies:</b> Organizations like RBI and SEBI also employ risk professionals to help shape and enforce financial regulations.</li></ul><p>Common job titles include <b>Risk Analyst, Credit Risk Manager, Market Risk Specialist, Portfolio Manager, and Chief Risk Officer (CRO)</b>.</p></div>",
+        "resources":[
+          {
+            "type": "Government Website",
+              "title": "Register for the Exam",
+              "url": "https://www.garp.org/frm/fees-payments"
+          }
+        ]
         }
       ]
     }
   ]
 }
-
-
-
-
-

@@ -1,49 +1,47 @@
 {
   "title": "Actuary",
-  "description": "Roadmap to an actuarial career: probability, financial math, modeling, and insurance.",
+  "description": "<div><p>This roadmap provides a comprehensive guide to pursuing a career as an actuary in India. An actuary is a business professional who analyzes the financial consequences of risk, using mathematics, statistics, and financial theory. This journey involves a rigorous series of examinations conducted by the <strong>Institute of Actuaries of India (IAI)</strong>, a deep understanding of mathematical concepts, and the application of these skills in domains like insurance, pensions, and finance. We will cover the certification pathway, core technical skills, areas of practice, and career progression in this challenging and highly rewarding profession. 📊</p></div>",
   "category": "Professional Certifications & Specialist Roles",
   "slug": "actuary",
   "stages": [
     {
       "title": "Pathways & Foundations",
       "nodes": [
+
         {
-          "id": "actuarial-pathways",
-          "label": "Certification Pathways",
-          "description": "SOA/CAS tracks, preliminary exams, VEE requirements.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "tool", "title": "Society of Actuaries", "url": "https://www.soa.org/" }
-          ]
+          
+            "id": "what-is-actuary",
+            "label": "What is an Actuary?",
+            "description": "<div><p>An <b>actuary</b> is a professional who acts as the financial architect of the insurance and pension industries. They use a powerful blend of <strong>mathematics, statistics, and financial theory</strong> to analyze and manage the financial consequences of risk and uncertainty. Think of them as 'risk engineers' who calculate the financial strength a company needs to withstand future unpredictable events. 🎲</p><p>Their primary role is to ensure that insurance companies and pension funds remain financially sound and can fulfill their long-term promises to customers.</p><h3>What They Do</h3><ul><li><b>Product Pricing:</b> They are the masterminds who calculate insurance premiums. By analyzing historical data and probabilities, they determine how much to charge for a policy to cover future claims, expenses, and a profit margin.</li><li><b>Financial Stability:</b> Actuaries calculate the amount of money (known as 'reserves') an insurer must hold to be able to pay all future claims, ensuring the company's solvency.</li><li><b>Risk Management:</b> They identify, analyze, and create strategies to mitigate risks that could threaten a company's financial health, from economic downturns to the impact of a pandemic.</li></ul><h3>Where They Work</h3><p>Actuaries are in high demand in any industry where risk needs to be managed, primarily:</p><ul><li>Insurance (Life, Health, and General)</li><li>Pension and Retirement Funds</li><li>Consulting Firms</li><li>Government Bodies (for social security schemes)</li><li>Finance and Investment Banking</li></ul></div>"
+          
         },
         {
-          "id": "prob-stats",
-          "label": "Probability & Statistics",
-          "description": "Distributions, estimation, inference.",
-          "bulletPoints": []
+          "id": "iai-pathway",
+          "label": "IAI Certification Pathway",
+          "description": "<div><p>The journey to becoming a qualified actuary in India is governed by the <strong>Institute of Actuaries of India (IAI)</strong>, the sole professional body for actuaries in the country. The pathway is a structured series of examinations combined with practical work experience.</p><ul><li><b>Entry Point:</b> The first step is to clear the <strong>Actuarial Common Entrance Test (ACET)</strong>. Eligibility for ACET is 10+2 (or equivalent) with Mathematics or Statistics as a key subject.</li><li><b>Exam Structure:</b> After clearing ACET and becoming an IAI student member, you progress through multiple stages of exams, including Core Principles (CP), Core Practices (CPM), Specialist Principles (SP), and Specialist Advanced (SA).</li><li><b>Final Qualification:</b> The ultimate goal is to achieve the designation of <strong>Fellow of the IAI (FIAI)</strong>, which signifies that you have cleared all the required examinations and met the necessary work experience criteria, making you a fully qualified actuary.</li></ul></div>",
+          "resources": [
+            {
+              "type": "Government Website",
+              "title": "Institute of Actuaries of India",
+              "url": "https://www.actuariesindia.org/"
+            }
+          ]
         }
       ]
+      
     },
     {
       "title": "Core Technical Skills",
       "nodes": [
         {
-          "id": "financial-math",
-          "label": "Financial Mathematics",
-          "description": "Interest theory, annuities, amortization.",
-          "bulletPoints": []
-        },
-        {
-          "id": "loss-models",
+          "id": "actuarial-models",
           "label": "Actuarial Models",
-          "description": "Survival models, life contingencies, loss distributions.",
-          "bulletPoints": []
+          "description": "<div><p>Actuaries build sophisticated mathematical models to represent real-world uncertainties, enabling them to price products and estimate future liabilities accurately.</p><ul><li><b>Life Contingencies & Survival Models:</b> These models use historical data and <strong>mortality tables</strong> to calculate the probabilities of events like death, sickness, or retirement at various ages. This is the foundation for pricing life insurance and pension plans.</li><li><b>Loss Distributions:</b> Used primarily in general insurance to model the potential frequency and severity of claims (e.g., the cost of car accident repairs or damage from a natural catastrophe).</li><li><b>Stochastic Modeling & Markov Models:</b> These are advanced techniques that incorporate randomness to model complex, dynamic systems. For example, a Markov model can be used to track the movement of a policyholder between states like 'Healthy,' 'Sick,' and 'Deceased.'</li></ul></div>"
         },
         {
-          "id": "tools",
+          "id": "tools-programming",
           "label": "Tools & Programming",
-          "description": "Excel/VBA, R/Python, SQL, visualization.",
-          "bulletPoints": []
+          "description": "<div><p>A modern actuary combines deep theoretical knowledge with strong technical proficiency. The following tools and programming languages are essential for day-to-day work:</p><ul><li><b>Excel/VBA:</b> The undisputed workhorse for a wide range of actuarial tasks, from building financial models and pricing tools to performing data analysis and creating reports.</li><li><b>R and Python:</b> Increasingly vital for advanced statistical analysis, predictive modeling, machine learning applications, and automating complex calculations on large datasets.</li><li><b>SQL:</b> The standard language for querying and managing data stored in relational databases. A crucial skill for extracting the raw data needed for analysis.</li><li><b>Power BI / Tableau:</b> Data visualization tools used to create interactive dashboards and reports, helping to communicate complex actuarial findings to business leaders and other stakeholders effectively.</li></ul></div>"
         }
       ]
     },
@@ -52,15 +50,8 @@
       "nodes": [
         {
           "id": "insurance-domains",
-          "label": "Insurance Domains",
-          "description": "Life, health, P&C, pensions, reinsurance.",
-          "bulletPoints": []
-        },
-        {
-          "id": "regulation-compliance",
-          "label": "Regulation & Compliance",
-          "description": "Reserving, solvency, capital adequacy, IFRS 17/US GAAP.",
-          "bulletPoints": []
+          "label": "Insurance & Finance Domains",
+          "description": "<div><p>Actuarial skills are applied across various sectors of the insurance and finance industries. Key practice areas in India include:</p><ul><li><b>Life Insurance & Annuities:</b> The traditional domain, involving product pricing, valuation of liabilities, and managing risks related to mortality (dying too early) and longevity (living too long).</li><li><b>Health Insurance:</b> A rapidly growing sector focused on modeling healthcare costs, pricing health policies, and managing morbidity risk.</li><li><b>Pensions & Retirement Benefits:</b> Designing, funding, and valuing employee benefit and retirement plans for corporations and government bodies.</li><li><b>General Insurance:</b> Dealing with property and casualty risks, including pricing policies for motor, property (fire, flood), and marine insurance.</li><li><b>Reinsurance:</b> The field of insurance for insurance companies, where actuaries help insurers manage their own large-scale risks.</li></ul></div>"
         }
       ]
     },
@@ -68,23 +59,11 @@
       "title": "Exams & Career",
       "nodes": [
         {
-          "id": "exam-prep-actuarial",
-          "label": "Exam Preparation",
-          "description": "Study plan, practice problems, CBT tips.",
-          "bulletPoints": []
-        },
-        {
-          "id": "internships-networking",
-          "label": "Internships & Networking",
-          "description": "Entry roles, actuarial development programs, networking.",
-          "bulletPoints": []
+          "id": "career-growth",
+          "label": "Internships & Career Growth",
+          "description": "<div><p>Parallel to clearing exams, gaining practical industry experience is crucial for career progression. The typical career path looks like this:</p><ul><li><b>Internships and Entry-Level Roles:</b> While studying for the initial papers, students often start as interns or actuarial trainees in insurance companies, consulting firms, or reinsurance companies.</li><li><b>Actuarial Analyst:</b> After clearing the Core Principles papers, you can secure roles as an analyst, working in teams focused on pricing, valuation, or modeling.</li><li><b>Progression to Associate & Fellow:</b> With each exam passed and years of experience gained, you move up the ladder to senior analyst and management roles. Achieving the <strong>Associate</strong> and then the <strong>Fellow (FIAI)</strong> designation qualifies you for senior leadership positions.</li><li><b>Networking:</b> Attending events and seminars organized by the <strong>IAI</strong> is vital for networking with senior professionals and staying updated on industry trends.</li></ul></div>"
         }
       ]
     }
   ]
 }
-
-
-
-
-
