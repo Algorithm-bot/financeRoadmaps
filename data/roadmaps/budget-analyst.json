@@ -1,64 +1,48 @@
 {
-  "title": "Budget Analyst",
-  "description": "Roadmap to a budget analyst role: planning cycles, variance analysis, and stakeholder partnership.",
+  "title": "Budget Analyst - India Roadmap",
+  "description": "A detailed roadmap for a career as a Budget Analyst in India, outlining the key qualifications like MBA (Finance), CA (Inter), and CMA, and highlighting opportunities in both the corporate and government sectors.",
   "category": "Corporate Finance Roles",
   "slug": "budget-analyst",
   "stages": [
     {
-      "title": "Planning & Forecasting",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "planning-cycle",
-          "label": "Planning Cycle",
-          "description": "Annual budget, quarterly forecasts, rolling forecasts.",
-          "bulletPoints": []
-        },
-        {
-          "id": "modeling-tools",
-          "label": "Modeling & Tools",
-          "description": "Driver-based models, spreadsheets, planning systems.",
-          "bulletPoints": []
+          "id": "what-is-budget-analyst",
+          "label": "What is a Budget Analyst and their Responsibilities?",
+          "description": "<p>A <b>Budget Analyst</b> is a finance professional responsible for developing and managing an organization's financial plan. They are the guardians of a company's or government department's financial health, ensuring that funds are allocated and spent efficiently and in line with strategic goals. In the Indian context, this role is vital in both private corporations for managing costs and in government bodies for public fund administration.</p><p>They are at the center of the Financial Planning & Analysis (FP&A) function. Key responsibilities include:</p><ul><li><b>Budget Preparation:</b> Collaborating with various department heads to gather financial data and prepare the annual budget and quarterly forecasts.</li><li><b>Variance Analysis:</b> Continuously monitoring spending, comparing actual figures to the budgeted amounts, and investigating any significant differences.</li><li><b>Financial Reporting:</b> Creating detailed reports and presentations for senior management that explain the company's financial performance and highlight potential risks or opportunities.</li><li><b>Stakeholder Partnership:</b> Working closely with business leaders to help them understand their budgets and make informed financial decisions.</li></ul>"
         }
       ]
     },
     {
-      "title": "Reporting & Insights",
+      "title": "The Path to Becoming a Budget Analyst",
       "nodes": [
         {
-          "id": "variance-analysis",
-          "label": "Variance Analysis",
-          "description": "Actuals vs plan/forecast, bridges, commentary.",
-          "bulletPoints": []
-        },
-        {
-          "id": "stakeholder-reviews",
-          "label": "Stakeholder Reviews",
-          "description": "Reviews with budget owners, actions, continuous improvement.",
-          "bulletPoints": []
+          "id": "educational-path-budget",
+          "label": "Essential Educational & Professional Qualifications",
+          "description": "<p>A career as a Budget Analyst requires strong quantitative skills and a deep understanding of financial principles.</p><ul><li><b>MBA (Finance):</b> This is one of the most common and direct routes into corporate FP&A and budget analysis roles, especially from well-regarded business schools.</li><li><b>Cost and Management Accountant (CMA):</b> The CMA qualification, offered by the Institute of Cost Accountants of India, is highly relevant as it focuses heavily on budgeting, costing, and performance management.</li><li><b>Chartered Accountant (CA):</b> While the full CA qualification is valuable, even completing the CA Intermediate level is often sufficient for entry-level budget analyst roles due to its strong accounting and finance foundation.</li><li><b>Bachelor's Degree:</b> A bachelor's degree in Commerce (B.Com), Business Administration (BBA in Finance), or Economics can be a good starting point for junior analyst positions.</li></ul>"
         }
       ]
     },
     {
-      "title": "Governance & Process",
+      "title": "Career Path & Top Employers",
       "nodes": [
         {
-          "id": "policies-controls",
-          "label": "Policies & Controls",
-          "description": "Budget policies, approvals, audit trail.",
-          "bulletPoints": []
-        },
+          "id": "job-opportunities-budget",
+          "label": "Job Opportunities & Key Employers",
+          "description": "<p>Budget Analysts are needed in virtually every industry, making it a role with wide-ranging opportunities.</p><ul><li><b>Large Indian Conglomerates & MNCs:</b> Companies across sectors like FMCG (<b>Hindustan Unilever, ITC</b>), Manufacturing (<b>Tata Motors, Mahindra & Mahindra</b>), and ancial Services have large FP&A teams where budget analysts are core members.</li><li><b>IT & Services Sector:</b> India's top IT companies like <b>TCS, Infosys, and Wipro</b> employ large teams of budget analysts to manage project costs and operational expenses.</li><li><b>Government & Public Sector Undertakings (PSUs):</b> Various central and state government ministries, as well as PSUs like <b>ONGC, BHEL, and NTPC</b>, have dedicated roles for budget planning, allocation, and monitoring of public funds.</li><li><b>Startups & E-commerce:</b> Fast-growing startups also hire budget analysts to manage their cash burn, plan for growth, and report to investors.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
         {
-          "id": "process-optimization",
-          "label": "Process Optimization",
-          "description": "Calendar, templates, automation, standardization.",
-          "bulletPoints": []
+          "id": "salary-package-budget",
+          "label": "Salary Package & Compensation",
+          "description": "<p>Compensation for budget analysts is competitive and grows with experience and the complexity of the role.</p><ul><li><b>Entry-Level (Fresh MBA/CMA/CA Inter):</b> A starting salary typically falls in the range of <b>₹6 Lakhs to ₹10 Lakhs per annum (LPA)</b> in corporate roles.</li><li><b>Mid-Level (Analyst/Senior Analyst with 4-8 years experience):</b> Can expect to earn between <b>₹12 Lakhs and ₹22 Lakhs LPA</b>.</li><li><b>Senior-Level (FP&A Manager/Head of Budgeting):</b> Senior roles that involve leading the budgeting process for a business unit or the entire company can command salaries from <b>₹25 Lakhs to ₹50 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on factors such as the size and type of the company, city of employment, educational background (an MBA from a top-tier institute will command a premium), and individual performance.</i></p>"
         }
       ]
     }
   ]
 }
-
-
-
-
-

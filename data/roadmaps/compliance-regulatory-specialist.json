@@ -1,64 +1,48 @@
 {
-  "title": "Compliance & Regulatory Specialist (SEBI/RBI roles)",
-  "description": "Roadmap to regulatory compliance roles: licensing, filings, surveillance, and exams.",
+  "title": "Compliance & Regulatory Specialist (SEBI/RBI) - India Roadmap",
+  "description": "A comprehensive roadmap to becoming a Compliance & Regulatory Specialist in India, focusing on the key qualifications like CS, LLB, and CA, and the career path within entities regulated by the Securities and Exchange Board of India (SEBI) and the Reserve Bank of India (RBI).",
   "category": "Fintech & Emerging Roles",
-  "slug": "compliance-regulatory-specialist",
+  "slug": "compliance-regulatory-specialist-india",
   "stages": [
     {
-      "title": "Regulatory Framework",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "rbi-sebi-overview",
-          "label": "RBI/SEBI Overview",
-          "description": "Mandates, key regulations, circulars, enforcement.",
-          "bulletPoints": []
-        },
-        {
-          "id": "licensing-registration",
-          "label": "Licensing & Registration",
-          "description": "Entity types, net worth criteria, application process.",
-          "bulletPoints": []
+          "id": "what-is-compliance-specialist",
+          "label": "What is a Compliance & Regulatory Specialist and their Responsibilities?",
+          "description": "<p>A <b>Compliance & Regulatory Specialist</b> is a professional who ensures that a financial services company operates in full compliance with the laws and regulations laid down by governing bodies, primarily SEBI and the RBI in India. This role acts as a crucial bridge between the business and the regulators, interpreting complex legal jargon and implementing it into the company's day-to-day processes. They are the guardians of the company's license to operate, protecting it from regulatory penalties and reputational damage.</p><p>Key responsibilities are detail-oriented and require constant vigilance:</p><ul><li><b>Regulatory Interpretation:</b> Reading, understanding, and interpreting new circulars, notifications, and master directions from SEBI and RBI.</li><li><b>Policy Formulation:</b> Drafting and maintaining the company's internal policies and procedures to reflect regulatory requirements.</li><li><b>Statutory Filings:</b> Ensuring all periodic reports and returns are filed accurately and on time with the regulators.</li><li><b>Liaison with Regulators:</b> Managing all communication, queries, and inspections from SEBI and RBI officials.</li><li><b>Compliance Monitoring & Testing:</b> Conducting regular internal checks and reviews to ensure that business processes are adhering to the established compliance policies.</li></ul>"
         }
       ]
     },
     {
-      "title": "Monitoring & Reporting",
+      "title": "The Path to a Regulatory Career",
       "nodes": [
         {
-          "id": "surveillance-reporting",
-          "label": "Surveillance & Reporting",
-          "description": "Transaction monitoring, suspicious activity, returns/filings.",
-          "bulletPoints": []
-        },
-        {
-          "id": "inspections-audits",
-          "label": "Inspections & Audits",
-          "description": "Regulatory inspections, responses, remediation plans.",
-          "bulletPoints": []
+          "id": "educational-path-compliance",
+          "label": "Essential Qualifications & Career Progression",
+          "description": "<p>The path to a career in regulatory compliance is built on a foundation of specific professional qualifications and a deep understanding of Indian corporate and financial laws.</p><ul><li><b>Key Qualifications:</b> The most direct and sought-after qualifications for this role are <b>Company Secretary (CS)</b> and a Bachelor of Laws (<b>LLB</b>). A <b>Chartered Accountant (CA)</b> qualification is also highly valued, especially in roles with a financial reporting compliance angle.</li><li><b>Continuous Learning:</b> The regulatory landscape is constantly changing. A successful compliance specialist must have a habit of staying updated with the latest circulars on the SEBI and RBI websites.</li><li><b>Career Progression:</b> The journey typically starts as a Compliance Executive or Analyst. With 3-5 years of experience, one can become an Assistant Manager, progressing to a <b>Compliance Manager</b> (8-12 years), and eventually aiming for the senior leadership role of <b>Head of Compliance</b> or <b>Chief Compliance Officer</b>.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compliance Program",
+      "title": "Career Path & Top Employers",
       "nodes": [
         {
-          "id": "policies-controls",
-          "label": "Policies & Controls",
-          "description": "Policy drafting, control testing, training & attestations.",
-          "bulletPoints": []
-        },
+          "id": "job-opportunities-compliance",
+          "label": "Job Opportunities & Key Employers",
+          "description": "<p>Compliance specialists are in high demand across the entire spectrum of the Indian financial services industry.</p><ul><li><b>Banks & NBFCs:</b> All major banks (<b>HDFC Bank, ICICI Bank, SBI</b>) and Non-Banking Financial Companies (<b>Bajaj Finserv, Shriram Finance</b>) have large compliance teams to manage RBI regulations.</li><li><b>Brokerage Firms & Stock Exchanges:</b> Companies like <b>Zerodha, Angel One</b>, and the exchanges themselves (<b>NSE, BSE</b>) require strong compliance teams to adhere to SEBI rules.</li><li><b>Asset Management Companies (AMCs):</b> Mutual fund houses like <b>HDFC AMC, ICICI Prudential AMC</b>, are strictly regulated by SEBI and are major employers of compliance professionals.</li><li><b>Fintech Companies:</b> India's leading fintech players (<b>Paytm, Razorpay, PhonePe</b>) operate under various RBI and SEBI licenses and have a critical need for skilled compliance specialists to navigate the complex regulatory environment.</li><li><b>Law Firms & Consulting:</b> Top corporate law firms and Big 4 consulting firms have specialized regulatory advisory practices that hire these professionals.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
         {
-          "id": "reg-tech",
-          "label": "RegTech & Automation",
-          "description": "APIs, reporting automation, case management tools.",
-          "bulletPoints": []
+          "id": "salary-package-compliance",
+          "label": "Salary Package & Compensation",
+          "description": "<p>Compensation for compliance professionals is strong and stable, reflecting the critical nature of their work and the high demand for their skills.</p><ul><li><b>Junior/Entry-Level Specialist (0-4 years experience):</b> The annual compensation typically ranges from <b>₹7 Lakhs to ₹15 Lakhs LPA</b>.</li><li><b>Compliance Manager (5-10 years experience):</b> Can expect to earn between <b>₹18 Lakhs and ₹35 Lakhs LPA</b>.</li><li><b>Head of Compliance / Senior Leader (12+ years experience):</b> For professionals leading the compliance function, compensation often ranges from <b>₹40 Lakhs to ₹80 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size and complexity of the organization, the city of employment, and the candidate's specific qualifications (e.g., a CS with an LLB from a top law school will command a premium).</i></p>"
         }
       ]
     }
   ]
 }
-
-
-
-
-

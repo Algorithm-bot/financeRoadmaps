@@ -1,66 +1,46 @@
 {
-  "title": "Insurance Advisor / Agent",
-  "description": "Roadmap to a career as an insurance advisor/agent: prospecting, needs analysis, policy placement, and servicing.",
+  "title": "Insurance Advisor / Agent - India Roadmap",
+  "description": "A comprehensive roadmap for a career as an Insurance Advisor/Agent in India, detailing the IRDAI licensing process, the commission-based earning structure, and the career paths with major public and private insurers.",
   "category": "Insurance & Risk",
-  "slug": "insurance-advisor",
+  "slug": "insurance-advisor-india",
   "stages": [
     {
-      "title": "Foundations",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "industry-overview",
-          "label": "Insurance Industry Overview",
-          "description": "Life, health, P&C; carriers vs brokers; regulation basics.",
-          "bulletPoints": [],
-          "resources": [
-            { "type": "article", "title": "Insurance Basics", "url": "https://www.investopedia.com/insurance-4689743" }
-          ]
-        },
-        {
-          "id": "licensing-ethics",
-          "label": "Licensing & Ethics",
-          "description": "Pre-licensing, CE, suitability, disclosures.",
-          "bulletPoints": []
+          "id": "what-is-insurance-advisor",
+          "label": "What is an Insurance Advisor and their Responsibilities?",
+          "description": "<p>An <b>Insurance Advisor</b> or <b>Agent</b> is a licensed professional who acts as a crucial link between insurance companies and the public. Their primary role is to help individuals and families understand their financial risks and recommend suitable insurance products to protect against those risks. In India, it is a profession regulated by the <b>Insurance Regulatory and Development Authority of India (IRDAI)</b>.</p><p>This is a frontline, customer-facing role that requires strong sales, communication, and relationship-building skills. Key responsibilities include:</p><ul><li><b>Prospecting:</b> Finding and connecting with potential clients who need insurance.</li><li><b>Needs Analysis:</b> Assessing a client's financial situation, dependents, and potential risks to determine their insurance needs.</li><li><b>Product Recommendation:</b> Explaining different insurance policies (like term insurance, health insurance, motor insurance) and recommending the best fit.</li><li><b>Application & Policy Issuance:</b> Assisting clients with filling out application forms and ensuring the policy is issued correctly.</li><li><b>After-Sales Service:</b> Providing ongoing support to clients, including assistance during claims, policy renewals, and updating beneficiary information.</li></ul>"
         }
       ]
     },
     {
-      "title": "Sales & Advisory",
+      "title": "The Path to Becoming a Licensed Advisor",
       "nodes": [
         {
-          "id": "prospecting",
-          "label": "Prospecting & Lead Generation",
-          "description": "Referrals, digital outreach, events, pipelines.",
-          "bulletPoints": []
-        },
-        {
-          "id": "needs-analysis",
-          "label": "Needs Analysis",
-          "description": "Risk profiling, coverage gaps, policy comparisons.",
-          "bulletPoints": []
-        },
-        {
-          "id": "product-knowledge",
-          "label": "Product Knowledge",
-          "description": "Term, whole, UL, health, property, liability, riders.",
-          "bulletPoints": []
+          "id": "educational-path-advisor",
+          "label": "Essential Licensing & Training",
+          "description": "<p>Becoming an insurance advisor in India has a straightforward and accessible entry path defined by the regulator.</p><ul><li><b>Minimum Education:</b> The minimum educational qualification is typically passing the 10th or 12th standard, making it an accessible career for a wide range of people.</li><li><b>Sponsorship:</b> You must be sponsored by an insurance company (e.g., LIC, HDFC Life) that you wish to represent.</li><li><b>Mandatory Training:</b> You must complete a prescribed number of hours of training (currently 25 hours) provided by an IRDAI-approved institution or the insurer itself.</li><li><b>IRDAI Examination (IC-38):</b> The most critical step is to pass the 'IC-38' pre-recruitment qualification examination. This exam tests your basic knowledge of insurance principles, products, and regulations.</li><li><b>License Issuance:</b> Upon successfully passing the exam, IRDAI issues a license (or 'agency code') that legally permits you to sell insurance products for the sponsoring company.</li></ul>"
         }
       ]
     },
     {
-      "title": "Placement & Service",
+      "title": "Career Path & Top Employers",
       "nodes": [
         {
-          "id": "application-underwriting",
-          "label": "Application & Underwriting",
-          "description": "Illustrations, forms, medicals, underwriting liaison.",
-          "bulletPoints": []
-        },
+          "id": "job-opportunities-advisor",
+          "label": "Career Opportunities & Key Employers",
+          "description": "<p>Insurance advisors are the primary distribution channel for the industry and are in perpetual demand.</p><ul><li><b>Life Insurance Companies:</b> This is the largest segment. Opportunities are abundant with the public sector giant <b>LIC of India</b>, and major private players like <b>HDFC Life, ICICI Prudential Life, SBI Life, and Max Life Insurance</b>.</li><li><b>General & Health Insurance Companies:</b> You can also choose to specialize in non-life products with public sector companies like <b>New India Assurance</b> or private ones like <b>Bajaj Allianz General Insurance, HDFC ERGO, and Star Health Insurance</b>.</li><li><b>Career Progression:</b> Successful agents can grow their careers significantly. They can build a large team of agents under them, get promoted to roles like <b>Development Officer</b> or <b>Agency Manager</b>, or qualify for elite clubs like the Million Dollar Round Table (MDRT), which offers global recognition.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
         {
-          "id": "policy-servicing",
-          "label": "Policy Servicing",
-          "description": "Endorsements, renewals, claims support, client retention.",
-          "bulletPoints": []
+          "id": "salary-package-advisor",
+          "label": "Earning Potential & Compensation",
+          "description": "<p>The earning potential of an insurance advisor is directly linked to their performance and is primarily commission-based. There is no fixed salary in most cases.</p><ul><li><b>First-Year Commission:</b> This is the commission earned on the first-year premium of a policy sold. It is the highest and can range from <b>15% to 35%</b> of the premium, depending on the product.</li><li><b>Renewal Commission:</b> Advisors also earn a smaller commission in subsequent years when the client renews their policy. This provides a stable, long-term income stream.</li><li><b>Income Levels:</b> There is no upper limit to earnings.<ul><li>A part-time agent might earn <b>₹50,000 to ₹2 Lakhs per year</b>.</li><li>A successful full-time agent can earn <b>₹5 Lakhs to ₹20 Lakhs LPA</b>.</li><li>Top-tier agents and MDRT qualifiers can earn <b>upwards of ₹50 Lakhs to over ₹1 Crore LPA</b>.</li></ul></li></ul><p><i><b>Disclaimer:</b> These figures are purely indicative. An advisor's income is not a fixed salary and depends entirely on their ability to sell policies, the type of products sold, and their persistence in ensuring clients renew their policies.</i></p>"
         }
       ]
     }

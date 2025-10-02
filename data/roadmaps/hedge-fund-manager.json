@@ -1,64 +1,51 @@
 {
-  "title": "Hedge Fund Manager",
-  "description": "Roadmap to a career as a hedge fund manager: strategies, risk, operations, and fundraising.",
+  "title": "Hedge Fund Manager - India Roadmap",
+  "description": "The ultimate roadmap to becoming a Hedge Fund Manager in India, navigating SEBI's AIF regulations, building a verifiable track record through feeder roles like proprietary trading or equity research, and understanding the '2 and 20' compensation model.",
   "category": "Capital Markets & Investment",
-  "slug": "hedge-fund-manager",
+  "slug": "hedge-fund-manager-india",
   "stages": [
     {
-      "title": "Strategies & Edge",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "hf-strategies",
-          "label": "Hedge Fund Strategies",
-          "description": "L/S equity, macro, event-driven, credit, quant.",
-          "bulletPoints": []
-        },
-        {
-          "id": "alpha-generation",
-          "label": "Alpha Generation",
-          "description": "Idea sourcing, alternative data, process discipline.",
-          "bulletPoints": []
+          "id": "what-is-hedge-fund-manager",
+          "label": "What is a Hedge Fund Manager and their Responsibilities in India?",
+          "description": "<p>A <b>Hedge Fund Manager</b> is an elite investment professional who manages a pooled investment fund that can use a wide variety of complex strategies to generate high returns for its investors. Unlike traditional mutual funds, hedge funds are less regulated and can take both long and short positions, use leverage (borrowed money), and invest in derivatives.</p><p>In India, hedge funds operate under the regulatory framework of the <b>Securities and Exchange Board of India (SEBI)</b> as <b>Category III Alternative Investment Funds (AIFs)</b>. These funds are open only to sophisticated investors like Ultra High Net Worth Individuals (UHNIs), family offices, and institutions who understand the high-risk, high-return nature of the strategies.</p><p><b>A Hedge Fund Manager's role is multi-faceted:</b></p><ul><li><b>Chief Investment Officer (CIO):</b> They are the ultimate decision-maker, responsible for defining the fund’s investment philosophy and strategy (e.g., Long/Short Equity, Global Macro, Event-Driven).</li><li><b>Portfolio Manager:</b> They actively manage the fund's portfolio, making buy/sell decisions, managing position sizes, and executing trades.</li><li><b>Risk Manager:</b> They are obsessed with managing risk. This involves setting risk limits, hedging unwanted exposures, and stress-testing the portfolio against adverse market scenarios.</li><li><b>Entrepreneur & Fundraiser:</b> In most cases, the manager is also the founder of the fund. This requires them to raise capital from investors, manage investor relations, and run the business side of the fund.</li></ul><p>This is not an entry-level job; it is the culmination of a highly successful career in investment management or trading.</p>",
+          "bulletPoints": [],
+          "resources": []
         }
       ]
     },
     {
-      "title": "Portfolio & Risk",
+      "title": "The Prerequisite Path: Building Your Track Record",
       "nodes": [
         {
-          "id": "exposure-management",
-          "label": "Exposure Management",
-          "description": "Gross/net, beta, factor exposures, leverage.",
-          "bulletPoints": []
-        },
-        {
-          "id": "risk-infrastructure",
-          "label": "Risk & Infrastructure",
-          "description": "Risk systems, compliance, counterparty management, ops.",
-          "bulletPoints": []
+          "id": "educational-qualifications-hfm",
+          "label": "Elite Education & Foundational Experience",
+          "description": "<p>The path to becoming a hedge fund manager is not linear but is always built on a foundation of exceptional academic credentials and, most importantly, a proven, verifiable track record of generating returns (alpha).</p><ol><li><b>Education:</b> An impeccable academic record from a top-tier institution is a filtering mechanism. The most common backgrounds are:<ul><li><b>IITs/Top Engineering Colleges:</b> For managers who will run quantitative or algorithmic funds.</li><li><b>IIMs (A,B,C)/ISB:</b> For managers focused on fundamental, research-driven strategies.</li><li><b>CA / CFA Charterholders:</b> A very common background for long/short equity managers due to the deep financial analysis skills.</li></ul></li><li><b>Crucial Work Experience (The Feeder Roles):</b> You cannot become a hedge fund manager without 10-15 years of exceptional performance in one of these roles:</li><ul><li><b>Proprietary Trader:</b> This is a direct path. If you have a successful multi-year P&L track record trading a firm's capital, you have the core skill required.</li><li><b>Buy-Side Equity Research Analyst / Fund Manager:</b> Managing a portfolio at a mutual fund or PMS and consistently outperforming the benchmark is another classic path.</li><li><b>Sell-Side Equity Research Analyst:</b> A star sell-side analyst who has made a series of highly profitable and accurate stock calls ('alpha calls') over many years can also make the leap.</li></ul></ol><p><b>The key is building a portable, auditable track record. Investors will not give you capital without it.</b></p>"
         }
       ]
     },
     {
-      "title": "Business & Capital",
+      "title": "Launching and Managing the Fund",
       "nodes": [
         {
-          "id": "fund-setup",
-          "label": "Fund Setup & Ops",
-          "description": "Structures, service providers, policies, fees.",
-          "bulletPoints": []
-        },
+          "id": "launching-aif-india",
+          "label": "Setting up a Category III AIF in India",
+          "description": "<p>Once a track record is established, the next phase is entrepreneurial.</p><ul><li><b>Regulatory Registration:</b> This involves registering the fund with SEBI as a Category III AIF, a complex legal and compliance process.</li><li><b>Building the Infrastructure:</b> This means selecting and partnering with key service providers: a custodian to hold the securities, a fund administrator for NAV calculation, and auditors.</li><li><b>Capital Raising:</b> The most challenging part. It involves creating a pitchbook, marketing the strategy, and convincing the first set of anchor investors (LPs or Limited Partners) to invest capital. The initial capital is often raised from personal networks.</li><li><b>Compliance & Operations:</b> Ensuring the fund adheres to all SEBI regulations, including reporting, risk management, and disclosure norms.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career & Compensation Structure",
+      "nodes": [
         {
-          "id": "capital-raising",
-          "label": "Capital Raising",
-          "description": "Pitching to LPs, ODD, track record, investor relations.",
+          "id": "job-roles-and-salary-hfm",
+          "label": "What types of jobs they can do?",
+          "description": "<p>The primary 'job' is managing the fund itself, but roles within a fund are highly sought after.</p><ul><li><b>Roles within a Hedge Fund:</b> <i>Founder/CIO, Portfolio Manager, Research Analyst, Quantitative Analyst, Trader, Risk Manager.</i></li><li><b>Top Hedge Funds / AIFs in India:</b> The landscape is growing and includes firms like <b>Avendus Absolute Return Fund, True Beacon, ICICI Prudential's AIFs, HDFC AMC's AIFs, Marcellus's PMS (though long-only, it's a leader in the alternatives space), and various quantitative funds.</b></li></ul><br><h4><b>Compensation - The '2 and 20' Model:</b></h4><p>Compensation for a Hedge Fund Manager is unlike any other job and is directly tied to performance. It follows the global '2 and 20' fee structure:</p><ul><li><b>Management Fee ('2'):</b> An annual fee of 1.5% to 2% of the total assets under management (AUM). This covers the fund's operational expenses (salaries, office, systems).</li><li><b>Performance Fee ('20'):</b> This is the main driver of wealth. The manager earns 15% to 20% of the profits generated by the fund, often above a certain minimum return threshold (the 'hurdle rate').</li></ul><p><b>Example:</b> If a manager has an AUM of ₹500 Crores and generates a 25% return (₹125 Crores profit), they might earn a performance fee of 20% of that profit, which is <b>₹25 Crores</b>.</p><ul><li><b>Analysts/Junior PMs:</b> Can earn a base salary of <b>₹40 Lakhs - ₹80 Lakhs+ LPA</b>, but the majority of their compensation comes from a performance-linked bonus which can be a multiple of their salary.</li><li><b>Founder/CIO of a successful fund:</b> There is no upper limit. Compensation is a direct share of the fund's profits and can easily run into <b>tens or even hundreds of crores</b> for top-performing funds in India.</li></ul><p><i><b>Disclaimer:</b> This is the highest-risk, highest-reward career in finance. While the upside is astronomical, the pressure is immense. Poor performance leads to investors withdrawing capital and the fund shutting down.</i></p>",
           "bulletPoints": []
         }
       ]
     }
   ]
 }
-
-
-
-
-

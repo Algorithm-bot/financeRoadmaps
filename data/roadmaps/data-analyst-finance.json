@@ -1,64 +1,48 @@
 {
-  "title": "Data Analyst (Finance domain)",
-  "description": "Roadmap to a finance data analyst role: data pipelines, BI, and analytics.",
+  "title": "Data Analyst (Finance Domain) - India Roadmap",
+  "description": "A comprehensive roadmap to becoming a Data Analyst in the Indian finance sector, focusing on the blend of technical skills like SQL and Python with essential financial acumen, and the career paths in India's data-driven economy.",
   "category": "Fintech & Emerging Roles",
-  "slug": "data-analyst-finance",
+  "slug": "data-analyst-finance-india",
   "stages": [
     {
-      "title": "Data & SQL",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "sql-foundations",
-          "label": "SQL Foundations",
-          "description": "Joins, window functions, CTEs, performance.",
-          "bulletPoints": []
-        },
-        {
-          "id": "data-modeling",
-          "label": "Data Modeling",
-          "description": "Star/snowflake schemas, dimensions, fact tables.",
-          "bulletPoints": []
+          "id": "what-is-finance-data-analyst",
+          "label": "What is a Finance Data Analyst and their Responsibilities?",
+          "description": "<p>A <b>Finance Data Analyst</b> is a professional who specializes in collecting, processing, and performing statistical analyses of large amounts of financial data. They are the storytellers who translate raw numbers into actionable business insights. In the Indian context, where digital transactions and financial products are exploding, these analysts are indispensable for helping companies understand customer behavior, optimize operations, and drive profitability.</p><p>Key responsibilities are a blend of technical data skills and financial understanding:</p><ul><li><b>Data Extraction & Cleaning:</b> Writing complex SQL queries to extract data from databases and using tools like Python or R to clean and prepare it for analysis.</li><li><b>Business Intelligence (BI) & Reporting:</b> Building and maintaining dashboards using BI tools like Tableau or Power BI to track key performance indicators (KPIs) for finance, marketing, and product teams.</li><li><b>Financial Analysis:</b> Analyzing trends in revenue, customer acquisition cost (CAC), lifetime value (LTV), and transaction volumes to support the Financial Planning & Analysis (FP&A) team.</li><li><b>Product & Marketing Analytics:</b> Assessing the performance of marketing campaigns and the adoption of new financial products.</li><li><b>Data-Driven Recommendations:</b> Presenting findings and making concrete recommendations to senior management to improve business performance.</li></ul>"
         }
       ]
     },
     {
-      "title": "Analytics & BI",
+      "title": "The Path to a Data-Driven Career",
       "nodes": [
         {
-          "id": "bi-tools",
-          "label": "BI Tools",
-          "description": "Power BI/Tableau/Looker, dashboards, data storytelling.",
-          "bulletPoints": []
-        },
-        {
-          "id": "analytics-techniques",
-          "label": "Analytics Techniques",
-          "description": "Cohorts, churn, funnel, forecasting basics.",
-          "bulletPoints": []
+          "id": "educational-path-data-analyst",
+          "label": "Essential Qualifications & Technical Skills",
+          "description": "<p>The path to becoming a successful Finance Data Analyst is built on a strong quantitative and technical foundation.</p><ul><li><b>Educational Background:</b> A degree in a quantitative field is highly preferred. This includes Engineering (<b>B.E./B.Tech</b>), Computer Science, Statistics (<b>B.Sc Stats</b>), Mathematics, or Economics. A finance degree (B.Com, BBA) coupled with strong technical certifications is also a viable path.</li><li><b>Core Technical Skills:</b><ul><li><b>Advanced SQL:</b> This is non-negotiable. Proficiency in joins, window functions, and complex subqueries is a must.</li><li><b>Python or R:</b> Knowledge of a scripting language for data manipulation and analysis, particularly libraries like Pandas, NumPy, and Matplotlib in Python.</li><li><b>BI Tools:</b> Hands-on experience with at least one major BI tool like <b>Tableau</b> or <b>Microsoft Power BI</b> is essential for most roles in India.</li><li><b>Excel:</b> Advanced skills in Excel, including pivot tables, lookups, and data modeling, are still fundamental.</li></ul></li><li><b>Domain Knowledge:</b> Understanding basic financial and business metrics is what separates a finance data analyst from a generic one.</li></ul>"
         }
       ]
     },
     {
-      "title": "Finance Context",
+      "title": "Career Path & Top Employers",
       "nodes": [
         {
-          "id": "finance-metrics",
-          "label": "Finance Metrics",
-          "description": "Revenue, margins, CAC/LTV, unit economics.",
-          "bulletPoints": []
-        },
+          "id": "job-opportunities-data-analyst",
+          "label": "Job Opportunities & Key Employers",
+          "description": "<p>Finance Data Analysts are in high demand across a wide range of industries in India, especially within the booming financial services and tech sectors.</p><ul><li><b>Fintech Companies:</b> This is the largest category of employers. India's top fintech firms like <b>Paytm, PhonePe, Razorpay, CRED, and Zerodha</b> have large data analytics teams.</li><li><b>Banks & Financial Institutions:</b> Major private sector banks such as <b>HDFC Bank, ICICI Bank, and Axis Bank</b> have dedicated analytics units to analyze customer data for cross-selling, risk assessment, and operational efficiency.</li><li><b>E-commerce & Tech Companies:</b> Large tech companies with financial arms, like <b>Amazon (Amazon Pay) and Flipkart</b>, hire finance data analysts to manage their payments and lending businesses.</li><li><b>Global Capability Centers (GCCs):</b> The Indian offices of global financial giants like <b>Goldman Sachs, J.P. Morgan, and American Express</b> are major hubs for data analytics talent.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
         {
-          "id": "governance-quality",
-          "label": "Data Governance & Quality",
-          "description": "Lineage, controls, validation, documentation.",
-          "bulletPoints": []
+          "id": "salary-package-data-analyst",
+          "label": "Salary Package & Compensation",
+          "description": "<p>Compensation for data analysts in India is very competitive, reflecting the high demand for their skill set.</p><ul><li><b>Junior/Entry-Level Analyst (0-3 years experience):</b> The annual compensation typically ranges from <b>₹6 Lakhs to ₹14 Lakhs LPA</b>.</li><li><b>Mid-Level Analyst (3-6 years experience):</b> Can expect to earn between <b>₹15 Lakhs and ₹28 Lakhs LPA</b>.</li><li><b>Senior Analyst / Analytics Lead (6+ years experience):</b> For experienced professionals, compensation often ranges from <b>₹30 Lakhs to ₹50 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the company's size and funding (a well-funded startup may pay more than a traditional company), the city of employment (Bengaluru and Mumbai typically pay higher), and the candidate's technical proficiency.</i></p>"
         }
       ]
     }
   ]
 }
-
-
-
-
-

@@ -1,64 +1,48 @@
 {
-  "title": "ESG (Environmental, Social, Governance) Finance Specialist",
-  "description": "Roadmap to an ESG finance role: frameworks, data, integration, and reporting.",
+  "title": "ESG (Environmental, Social, Governance) Finance Specialist - India Roadmap",
+  "description": "A comprehensive roadmap to becoming an ESG Finance Specialist in India, focusing on the key qualifications, understanding of local regulations like SEBI's BRSR, and the career paths within India's growing sustainable finance ecosystem.",
   "category": "Fintech & Emerging Roles",
-  "slug": "esg-finance-specialist",
+  "slug": "esg-finance-specialist-india",
   "stages": [
     {
-      "title": "Standards & Frameworks",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "esg-standards",
-          "label": "ESG Standards",
-          "description": "GRI, SASB/ISSB, TCFD, EU SFDR/Taxonomy.",
-          "bulletPoints": []
-        },
-        {
-          "id": "materiality",
-          "label": "Materiality & Ratings",
-          "description": "Double materiality, rating methodologies, controversies.",
-          "bulletPoints": []
+          "id": "what-is-esg-specialist",
+          "label": "What is an ESG Finance Specialist and their Responsibilities?",
+          "description": "<p>An <b>ESG Finance Specialist</b> is a professional who integrates environmental, social, and governance factors into financial analysis and investment decision-making. They help companies and investors understand and manage the risks and opportunities associated with sustainability issues. In the Indian context, this role has gained immense importance due to regulatory pushes like SEBI's Business Responsibility and Sustainability Reporting (BRSR) framework, which is mandatory for the top 1000 listed companies.</p><p>Key responsibilities are a mix of data analysis, strategic thinking, and regulatory compliance:</p><ul><li><b>ESG Data Analysis:</b> Collecting, cleaning, and analyzing complex ESG data from various sources to assess a company's performance.</li><li><b>Regulatory Reporting:</b> Preparing and managing disclosures as per frameworks like SEBI's BRSR, ensuring compliance and accuracy.</li><li><b>Investment Integration:</b> Assisting asset managers in integrating ESG criteria into their investment portfolios, from screening to active engagement.</li><li><b>Stakeholder Engagement:</b> Communicating with investors, rating agencies, and internal business teams on ESG strategy and performance.</li><li><b>Risk Management:</b> Identifying physical and transition risks related to climate change and other ESG factors that could impact the company's financial health.</li></ul>"
         }
       ]
     },
     {
-      "title": "Data & Integration",
+      "title": "The Path to a Sustainable Career",
       "nodes": [
         {
-          "id": "esg-data",
-          "label": "ESG Data & Metrics",
-          "description": "Data sources, quality, KPIs, scopes 1–3 emissions.",
-          "bulletPoints": []
-        },
-        {
-          "id": "investment-integration",
-          "label": "Investment Integration",
-          "description": "Screens, tilts, stewardship, impact measurement.",
-          "bulletPoints": []
+          "id": "educational-path-esg",
+          "label": "Essential Qualifications & Skill Development",
+          "description": "<p>The path to an ESG career is multi-disciplinary, valuing a blend of financial, analytical, and sustainability knowledge.</p><ul><li><b>Educational Background:</b> A strong academic background in Finance (<b>MBA, CA, CFA</b>), Economics, Environmental Science, or Sustainability is highly advantageous.</li><li><b>Professional Certifications:</b> specialized certifications are becoming increasingly important. Key global certifications include the <b>CFA Institute's Certificate in ESG Investing</b>, certifications from the <b>Global Reporting Initiative (GRI)</b>, and the <b>SASB FSA Credential</b>.</li><li><b>Regulatory Knowledge:</b> Deep familiarity with Indian regulations, especially <b>SEBI's BRSR framework</b>, is a must for roles based in India. Understanding global standards like TCFD and ISSB is also crucial.</li><li><b>Analytical Skills:</b> Proficiency in data analysis tools, including advanced Excel and familiarity with ESG data platforms, is required to manage and interpret sustainability data effectively.</li></ul>"
         }
       ]
     },
     {
-      "title": "Reporting & Assurance",
+      "title": "Career Path & Top Employers",
       "nodes": [
         {
-          "id": "disclosures",
-          "label": "Disclosures",
-          "description": "Reporting templates, narrative, data traceability.",
-          "bulletPoints": []
-        },
+          "id": "job-opportunities-esg",
+          "label": "Job Opportunities & Key Employers",
+          "description": "<p>The demand for ESG specialists in India is rapidly growing across various sectors.</p><ul><li><b>Large Listed Corporations:</b> Top Indian companies, especially those in the NIFTY 50/100 like the <b>Tata Group, Reliance Industries, and Infosys</b>, have dedicated sustainability and ESG teams to manage their reporting and strategy.</li><li><b>Asset Management Companies (AMCs):</b> As ESG-themed mutual funds gain popularity, AMCs like <b>SBI Mutual Fund, HDFC AMC, and UTI AMC</b> are hiring ESG analysts for their investment teams.</li><li><b>Consulting Firms:</b> The Big 4 (<b>PwC, Deloitte, EY, KPMG</b>) and other major consulting firms (<b>BCG, McKinsey</b>) have rapidly expanding sustainability and ESG advisory practices.</li><li><b>ESG Rating Agencies:</b> Firms like <b>CRISIL (an S&P Global company), MSCI, and Sustainalytics</b> have large teams in India that rate companies on their ESG performance.</li><li><b>Stock Exchanges:</b> The <b>National Stock Exchange (NSE)</b> and <b>BSE</b> also have departments focused on ESG indices and corporate governance.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
         {
-          "id": "assurance",
-          "label": "Assurance & Audit",
-          "description": "Limited vs reasonable assurance, controls, third-party reviews.",
-          "bulletPoints": []
+          "id": "salary-package-esg",
+          "label": "Salary Package & Compensation",
+          "description": "<p>Compensation for ESG professionals in India is becoming increasingly competitive as the demand for skilled talent outpaces supply.</p><ul><li><b>Junior/Entry-Level Analyst (0-4 years experience):</b> The annual compensation typically ranges from <b>₹8 Lakhs to ₹18 Lakhs LPA</b>.</li><li><b>Mid-Level Manager (5-10 years experience):</b> Can expect to earn between <b>₹20 Lakhs and ₹40 Lakhs LPA</b>.</li><li><b>Senior Leader / Head of Sustainability (10+ years experience):</b> For experienced professionals leading the ESG function, compensation often ranges from <b>₹45 Lakhs to ₹90 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size and type of the company (e.g., a consulting firm may pay more than a corporate role), the city of employment, and the candidate's specific qualifications and international certifications.</i></p>"
         }
       ]
     }
   ]
 }
-
-
-
-
-

@@ -1,64 +1,48 @@
 {
-  "title": "Corporate Treasurer",
-  "description": "Roadmap to a corporate treasurer role: liquidity, funding, risk, and bank relations.",
+  "title": "Corporate Treasurer - India Roadmap",
+  "description": "A comprehensive roadmap to becoming a Corporate Treasurer in India, detailing the required qualifications like CA/MBA, the career progression, and the critical responsibilities of managing a company's liquidity, capital, and financial risks.",
   "category": "Corporate Finance Roles",
-  "slug": "corporate-treasurer",
+  "slug": "corporate-treasurer-india",
   "stages": [
     {
-      "title": "Liquidity & Cash",
+      "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "cash-forecasting",
-          "label": "Cash Forecasting",
-          "description": "Short/long-term forecasts, variance analysis, tools.",
-          "bulletPoints": []
-        },
-        {
-          "id": "working-capital",
-          "label": "Working Capital",
-          "description": "Receivables, payables, inventory, optimization levers.",
-          "bulletPoints": []
+          "id": "what-is-corporate-treasurer",
+          "label": "What is a Corporate Treasurer and their Responsibilities?",
+          "description": "<p>A <b>Corporate Treasurer</b> is a senior finance executive responsible for managing a company's liquidity, capital, and financial risks. While the CFO has a broad strategic view, the Treasurer's role is highly specialized, focusing on the day-to-day and long-term management of the company's cash and financial assets. In the Indian corporate context, this role is crucial for optimizing the balance sheet, managing relationships with banks, and navigating volatile financial markets.</p><p>Key responsibilities are highly analytical and market-facing, including:</p><ul><li><b>Liquidity Management:</b> Ensuring the company has enough cash to meet its daily operational and debt obligations through effective cash flow forecasting.</li><li><b>Capital Markets & Funding:</b> Raising capital by issuing debt (bonds, commercial papers) or managing credit facilities with banks. They also manage the company's credit rating.</li><li><b>Financial Risk Management:</b> Hedging against risks related to foreign exchange (forex) fluctuations, interest rate changes, and commodity price volatility.</li><li><b>Investment Management:</b> Investing the company's surplus cash in safe, liquid, and yield-generating instruments.</li><li><b>Bank Relationship Management:</b> Acting as the primary point of contact for all banking partners.</li></ul>"
         }
       ]
     },
     {
-      "title": "Funding & Risk",
+      "title": "The Path to the Treasury Function",
       "nodes": [
         {
-          "id": "debt-capital-markets",
-          "label": "Funding & Capital Markets",
-          "description": "Credit facilities, bonds, CP, covenants, ratings.",
-          "bulletPoints": []
-        },
-        {
-          "id": "fx-hedging",
-          "label": "FX & Hedging",
-          "description": "Derivatives, policy, effectiveness testing, documentation.",
-          "bulletPoints": []
+          "id": "educational-path-treasurer",
+          "label": "Essential Qualifications & Career Progression",
+          "description": "<p>A career in corporate treasury requires a strong foundation in finance, capital markets, and risk management.</p><ul><li><b>Chartered Accountant (CA) / MBA (Finance):</b> This combination is the gold standard. A CA provides the technical accounting and financial acumen, while an MBA from a top-tier B-school (IIMs, ISB, FMS) provides strategic thinking and market knowledge.</li><li><b>Relevant Experience:</b> Professionals often transition into corporate treasury after gaining 5-10 years of experience in related fields such as commercial banking, credit rating agencies, or other corporate finance roles.</li><li><b>Career Path:</b> The journey typically starts as a Treasury Analyst or Manager, responsible for specific areas like cash management or forex. With experience, one progresses to Senior Manager, and eventually to the <b>Head of Treasury</b> or <b>Group Treasurer</b>, who reports directly to the CFO.</li></ul>"
         }
       ]
     },
     {
-      "title": "Operations & Banks",
+      "title": "Career Path & Top Employers",
       "nodes": [
         {
-          "id": "treasury-ops",
-          "label": "Treasury Operations",
-          "description": "TMS, bank connectivity, controls, reconciliations.",
-          "bulletPoints": []
-        },
+          "id": "job-opportunities-treasurer",
+          "label": "Job Opportunities & Key Employers",
+          "description": "<p>Sophisticated treasury functions are typically found in large, complex organizations with significant financial operations.</p><ul><li><b>Large Indian Conglomerates:</b> Companies with extensive national and international operations like <b>Reliance Industries, Tata Steel, Mahindra & Mahindra, and Aditya Birla Group</b> have large and powerful treasury teams to manage their complex funding and risk management needs.</li><li><b>IT & Export-Oriented Companies:</b> Major IT exporters like <b>TCS, Infosys, and Wipro</b> have very active treasury departments focused on managing their vast foreign currency earnings and hedging forex risk.</li><li><b>Multinational Corporations (MNCs):</b> The Indian arms of large MNCs also have significant treasury functions to manage local operations and repatriate funds.</li><li><b>Large Banks:</b> While they have their own Treasury department for managing the bank's own funds (a different role), they also hire Relationship Managers who specifically cater to the needs of Corporate Treasurers.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
         {
-          "id": "bank-relationships",
-          "label": "Bank Relationships",
-          "description": "RFPs, fee analysis, service levels, wallet management.",
-          "bulletPoints": []
+          "id": "salary-package-treasurer",
+          "label": "Salary Package & Compensation",
+          "description": "<p>Compensation in corporate treasury is very competitive, reflecting the high level of responsibility and specialized skills required.</p><ul><li><b>Manager Level (5-10 years experience):</b> The annual compensation typically ranges from <b>₹20 Lakhs to ₹40 Lakhs LPA</b>.</li><li><b>Senior Manager / AVP Level (10-15 years experience):</b> Can expect to earn between <b>₹40 Lakhs and ₹75 Lakhs LPA</b>.</li><li><b>Head of Treasury / Group Treasurer (15+ years experience):</b> For a large, listed company, the total compensation for the head of the function often ranges from <b>₹80 Lakhs to ₹2 Crores+ LPA</b>, including performance-based bonuses.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size and complexity of the company's treasury operations, the industry, and individual experience and qualifications.</i></p>"
         }
       ]
     }
   ]
 }
-
-
-
-
-

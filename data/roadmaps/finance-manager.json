@@ -1,54 +1,48 @@
 {
-    "title": "Finance manager",
-    "description": "Pathway to a career in investment banking: skills, tools, and milestones.",
-    "category": "Corporate Finance Roles",
-    "slug": "finance-manager",
-    "stages": [
-      {
-        "title": "Foundations",
-        "nodes": [
-          {
-            "id": "accounting-basics",
-            "label": "Accounting Basics",
-            "description": "Debits/credits, statements, GAAP/IFRS.",
-            "completed": true,
-            "resources": [
-              { "type": "course", "title": "Introduction to Financial Accounting", "url": "https://www.coursera.org/learn/wharton-accounting" }
-            ]
-          },
-          {
-            "id": "excel-and-powerpoint",
-            "label": "Excel & PowerPoint",
-            "description": "Shortcuts, modeling, pitch decks.",
-            "completed": false,
-            "resources": [
-              { "type": "article", "title": "Excel for Finance", "url": "https://www.wallstreetoasis.com/resources/excel/overview" }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Core IB Skills",
-        "nodes": [
-          {
-            "id": "valuation-methods",
-            "label": "Valuation Methods",
-            "description": "DCF, comps, precedents.",
-            "resources": [
-              { "type": "article", "title": "Valuation Overview", "url": "https://www.investopedia.com/terms/v/valuation.asp" }
-            ]
-          },
-          {
-            "id": "deal-process",
-            "label": "Deal Process",
-            "description": "M&A lifecycle, IPO basics, due diligence.",
-            "resources": [
-              { "type": "article", "title": "Mergers and Acquisitions", "url": "https://www.investopedia.com/terms/m/mergersandacquisitions.asp" }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
-  
+  "title": "Finance Manager - India Roadmap",
+  "description": "A comprehensive roadmap to becoming a Finance Manager in India, highlighting the prime importance of the Chartered Accountant (CA) qualification, the typical career progression, and the core responsibilities of overseeing a company's financial operations.",
+  "category": "Corporate Finance Roles",
+  "slug": "finance-manager-india",
+  "stages": [
+    {
+      "title": "Introduction to the Profession",
+      "nodes": [
+        {
+          "id": "what-is-finance-manager",
+          "label": "What is a Finance Manager and their Responsibilities?",
+          "description": "<p>A <b>Finance Manager</b> is a mid-to-senior level finance professional who acts as the operational backbone of a company's finance department. They are responsible for the health of the company's day-to-day financial functions, ensuring accurate reporting and robust financial controls. In the Indian context, the Finance Manager is a pivotal role, bridging the gap between junior accountants and senior strategic leaders like the Financial Controller or CFO.</p><p>Key responsibilities are a blend of technical accounting and managerial duties:</p><ul><li><b>Financial Reporting & MIS:</b> Overseeing the preparation of monthly, quarterly, and annual financial statements and creating Management Information System (MIS) reports.</li><li><b>Accounting Operations:</b> Managing all aspects of the accounting function, including finalization of accounts, general ledger, accounts payable, and accounts receivable.</li><li><b>Statutory Compliance:</b> Ensuring timely and accurate compliance with Indian laws, including GST, TDS, Income Tax, and Companies Act provisions.</li><li><b>Budgeting & Control:</b> Assisting the FP&A team in the budgeting and forecasting process and monitoring actual spending against the budget.</li><li><b>Audit Management:</b> Acting as the primary point of contact for both statutory and internal auditors.</li><li><b>Team Leadership:</b> Managing and mentoring a team of accountants and finance executives.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "The Path to Finance Leadership",
+      "nodes": [
+        {
+          "id": "educational-path-fm",
+          "label": "Essential Qualifications & Career Progression",
+          "description": "<p>The path to becoming a Finance Manager in India is typically rooted in a strong technical accounting foundation.</p><ul><li><b>Chartered Accountant (CA):</b> This is overwhelmingly the most common and preferred qualification for a Finance Manager in India. The rigorous training during articleship in audit and taxation provides the perfect skill set for this role.</li><li><b>MBA (Finance) / CMA:</b> While a CA is most common, professionals with an MBA from a top B-school or a Cost and Management Accountant (CMA) qualification are also highly valued, especially in roles with a strong business partnering or costing focus.</li><li><b>Career Path:</b> The journey often begins in a Big 4 audit firm or as a Finance Executive in a company. After 3-5 years, one becomes an <b>Assistant Manager</b>, and with <b>8-12 years</b> of total experience, they are ready for a <b>Finance Manager</b> position. The next steps are Senior Finance Manager, Financial Controller, and ultimately, CFO.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Path & Top Employers",
+      "nodes": [
+        {
+          "id": "job-opportunities-fm",
+          "label": "Job Opportunities & Key Employers",
+          "description": "<p>The role of a Finance Manager is universal and essential for any well-run, medium-to-large-sized organization.</p><ul><li><b>All Major Corporations & MNCs:</b> Every significant company in India, regardless of the sector—from FMCG (<b>Nestle, P&G</b>) and Manufacturing (<b>Maruti Suzuki, L&T</b>) to Technology (<b>Google India, HCL</b>) and Pharma (<b>Sun Pharma, Dr. Reddy's</b>)—has multiple Finance Manager roles.</li><li><b>Large Indian Conglomerates:</b> Groups like the <b>Tata Group, Reliance Industries, and Aditya Birla Group</b> are major employers of CAs who grow into Finance Manager positions within their various subsidiary companies.</li><li><b>High-Growth Startups:</b> As startups scale and professionalize their operations, they actively hire experienced Finance Managers to establish robust financial processes and controls.</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation",
+      "nodes": [
+        {
+          "id": "salary-package-fm",
+          "label": "Salary Package & Compensation",
+          "description": "<p>Compensation for a Finance Manager is strong, reflecting their critical role in the organization's operations.</p><ul><li><b>Assistant/Deputy Manager Level (5-8 years experience):</b> The annual compensation typically ranges from <b>₹15 Lakhs to ₹25 Lakhs LPA</b>.</li><li><b>Finance Manager Level (8-12 years experience):</b> Can expect to earn between <b>₹25 Lakhs and ₹45 Lakhs LPA</b>.</li><li><b>Senior Finance Manager (12+ years experience):</b> For professionals managing a larger team or a more complex business unit, compensation often ranges from <b>₹40 Lakhs to ₹70 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size of the company, industry, city of employment (metro cities pay more), and the candidate's qualifications (a CA with a top MBA will command a premium).</i></p>"
+        }
+      ]
+    }
+  ]
+}
