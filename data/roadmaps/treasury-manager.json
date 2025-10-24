@@ -2,7 +2,7 @@
   "title": "Treasury Manager - India Roadmap",
   "description": "A strategic roadmap for a career in Treasury Management in India, detailing the dual paths in Corporate Treasury and Bank Treasury, covering cash management, FX risk, investment strategies, and the regulatory landscape governed by the RBI.",
   "category": "Banking & Financial Services",
-  "slug": "treasury-manager-india",
+  "slug": "treasury-manager",
   "stages": [
     {
       "title": "Introduction to the Profession",
@@ -46,9 +46,15 @@
       "title": "Career Path & Compensation",
       "nodes": [
         {
-          "id": "job-roles-and-salary-tm",
-          "label": "What types of jobs they can do?",
-          "description": "<p>A career in treasury offers a path to senior leadership roles in finance.</p><ul><li><b>Career Path:</b> The typical progression is: <i>Finance Executive → Treasury Analyst → Assistant Treasury Manager → Treasury Manager → Head of Treasury / Treasurer → Chief Financial Officer (CFO).</i></li><li><b>Employers:</b></li><ul><li><b>Corporates:</b> The treasury departments of large Indian conglomerates (Tata Group, Aditya Birla Group, Reliance Industries), major IT companies (TCS, Infosys, Wipro), manufacturing and pharma giants, and the Indian operations of multinational corporations.</li><li><b>Banks:</b> The treasury departments of all major Public Sector Banks, Private Sector Banks, and Foreign Banks in India.</li><li><b>Consulting:</b> Big 4 accounting firms also have treasury advisory practices that consult clients on treasury and risk management.</li></ul></ul><br><h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Treasury is a high-skill function, and compensation reflects this, especially for qualified professionals.</p><ul><li><b>Entry-Level (Analyst, CA/MBA fresher):</b> <b>₹8 Lakhs to ₹15 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (Manager with 5-10 years experience):</b> <b>₹20 Lakhs to ₹40 Lakhs LPA</b>.</li><li><b>Senior Level (Head of Treasury/Treasurer in a large corporate):</b> Can command salaries from <b>₹50 Lakhs to over ₹1 Crore+ LPA</b>, often with significant performance-based bonuses and stock options.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size of the company, the complexity of its treasury operations (e.g., extent of international business), and the individual's qualifications and experience.</i></p>",
+          "id": "job-roles-and-progression-tm",
+          "label": "Career Progression & Job Opportunities",
+          "description": "<p>A career in treasury offers a path to senior leadership roles in finance.</p><ul><li><b>Career Path:</b> The typical progression is: <i>Finance Executive → Treasury Analyst → Assistant Treasury Manager → Treasury Manager → Head of Treasury / Treasurer → Chief Financial Officer (CFO).</i></li><li><b>Employers:</b></li><ul><li><b>Corporates:</b> The treasury departments of large Indian conglomerates (Tata Group, Aditya Birla Group, Reliance Industries), major IT companies (TCS, Infosys, Wipro), manufacturing and pharma giants, and the Indian operations of multinational corporations.</li><li><b>Banks:</b> The treasury departments of all major Public Sector Banks, Private Sector Banks, and Foreign Banks in India.</li><li><b>Consulting:</b> Big 4 accounting firms also have treasury advisory practices that consult clients on treasury and risk management.</li></ul></ul>",
+          "bulletPoints": []
+        },
+        {
+          "id": "salary-tm",
+          "label": "Salary Package (Treasury Management)",
+          "description": "<h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Treasury is a high-skill function, and compensation reflects this, especially for qualified professionals.</p><ul><li><b>Entry-Level (Analyst, CA/MBA fresher):</b> <b>₹8 Lakhs to ₹15 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (Manager with 5-10 years experience):</b> <b>₹20 Lakhs to ₹40 Lakhs LPA</b>.</li><li><b>Senior Level (Head of Treasury/Treasurer in a large corporate):</b> Can command salaries from <b>₹50 Lakhs to over ₹1 Crore+ LPA</b>, often with significant performance-based bonuses and stock options.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size of the company, the complexity of its treasury operations (e.g., extent of international business), and the individual's qualifications and experience.</i></p>",
           "bulletPoints": []
         }
       ]

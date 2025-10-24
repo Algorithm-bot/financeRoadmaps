@@ -2,14 +2,14 @@
   "title": "Trade Finance Specialist - India Roadmap",
   "description": "A specialized roadmap for a career in Trade Finance in India, covering foundational knowledge of international trade, key products like Letters of Credit and Bank Guarantees, regulatory compliance under RBI and FEMA, and career paths in banking operations and advisory.",
   "category": "Banking & Financial Services",
-  "slug": "trade-finance-specialist-india",
+  "slug": "trade-finance-specialist",
   "stages": [
     {
       "title": "Introduction to the Profession",
       "nodes": [
         {
           "id": "what-is-trade-finance-specialist",
-          "label": "Trade Finance Specialist and their Responsibilities",
+          "label": "What is a Trade Finance Specialist",
           "description": "<p>A <b>Trade Finance Specialist</b> is a banking professional who facilitates international trade transactions for importers and exporters. Their primary role is to mitigate the risks involved when two parties in different countries, who may not know each other, engage in business. They use specialized financial instruments to ensure that exporters get paid for their goods and importers receive what they have paid for.</p><p>In the Indian context, this role is critical for supporting the country's vast import and export activity. Key responsibilities include:</p><ul><li><b>Document Scrutiny:</b> Meticulously examining complex trade documents (like Bills of Lading, Invoices, Certificates of Origin) against the terms of a Letter of Credit (LC) to identify discrepancies. This requires extremely high attention to detail.</li><li><b>Issuing & Advising Trade Products:</b> Handling the issuance of LCs and Bank Guarantees (BGs) on behalf of importers, and advising LCs received from foreign banks for Indian exporters.</li><li><b>Regulatory Compliance:</b> Ensuring all transactions comply with the guidelines set by the <b>Reserve Bank of India (RBI)</b> and the rules under the <b>Foreign Exchange Management Act (FEMA), 1999</b>. This is a non-negotiable part of the job.</li><li><b>Liaison with Stakeholders:</b> Coordinating with clients (importers/exporters), correspondent banks in other countries, shipping companies, and customs authorities to ensure the smooth flow of transactions.</li><li><b>Risk Management:</b> Assessing and managing various risks, including counterparty risk (the risk of the other party defaulting), country risk, and operational risk.</li></ul><p>This is a highly technical, back-office operations role that requires deep domain knowledge rather than sales skills.</p>",
           "bulletPoints": [],
           "resources": []
@@ -49,9 +49,15 @@
       "title": "Career Progression & Job Opportunities",
       "nodes": [
         {
-          "id": "job-roles-and-salary-tfs",
-          "label": "Job Opportunities and salary",
-          "description": "<p>A career in trade finance offers a stable and niche growth path.</p><ul><li><b>Career Path:</b> The typical progression starts in operations and can lead to more senior or advisory roles: <i>Trade Finance Officer (Operations) → Senior Officer / Document Checker → Team Leader (Trade Operations) → Product Manager (Trade Finance) → Head of Trade Finance.</i></li><li><b>Job Roles:</b></li><ul><li><b>Trade Finance Operations:</b> The most common role, focused on the back-office processing of transactions.</li><li><b>Trade Finance Sales/Advisory:</b> A more client-facing role, advising corporate clients on how to structure their trade transactions and selling trade finance solutions.</li><li><b>Corporate Treasury:</b> Large export-import companies also hire trade finance experts in their treasury departments to manage their banking relationships and trade documentation.</li></ul><li><b>Employers:</b> Major employers include the international trade finance departments of <b>Public Sector Banks</b> (like SBI, Bank of Baroda), <b>Private Sector Banks</b> (ICICI, HDFC, Axis, Kotak), and especially <b>Foreign Banks</b> (like HSBC, Standard Chartered, Citibank) which have large trade finance operations in India.</li></ul><br><h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Salaries are competitive, reflecting the specialized skills required.</p><ul><li><b>Entry-Level (1-3 years experience):</b> <b>₹5 Lakhs to ₹9 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (4-8 years experience, especially with CDCS):</b> <b>₹10 Lakhs to ₹18 Lakhs LPA</b>.</li><li><b>Senior Level (Team Lead/Product Manager):</b> Can range from <b>₹18 Lakhs to ₹30 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative. Professionals with the CDCS certification and experience in large foreign banks often command a significant salary premium.</i></p>",
+          "id": "job-roles-and-progression-tfs",
+          "label": "Career Progression & Job Opportunities",
+          "description": "<p>A career in trade finance offers a stable and niche growth path.</p><ul><li><b>Career Path:</b> The typical progression starts in operations and can lead to more senior or advisory roles: <i>Trade Finance Officer (Operations) → Senior Officer / Document Checker → Team Leader (Trade Operations) → Product Manager (Trade Finance) → Head of Trade Finance.</i></li><li><b>Job Roles:</b></li><ul><li><b>Trade Finance Operations:</b> The most common role, focused on the back-office processing of transactions.</li><li><b>Trade Finance Sales/Advisory:</b> A more client-facing role, advising corporate clients on how to structure their trade transactions and selling trade finance solutions.</li><li><b>Corporate Treasury:</b> Large export-import companies also hire trade finance experts in their treasury departments to manage their banking relationships and trade documentation.</li></ul><li><b>Employers:</b> Major employers include the international trade finance departments of <b>Public Sector Banks</b> (like SBI, Bank of Baroda), <b>Private Sector Banks</b> (ICICI, HDFC, Axis, Kotak), and especially <b>Foreign Banks</b> (like HSBC, Standard Chartered, Citibank) which have large trade finance operations in India.</li></ul>",
+          "bulletPoints": []
+        },
+        {
+          "id": "salary-tfs",
+          "label": "Salary Package (Trade Finance)",
+          "description": "<h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Salaries are competitive, reflecting the specialized skills required.</p><ul><li><b>Entry-Level (1-3 years experience):</b> <b>₹5 Lakhs to ₹9 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (4-8 years experience, especially with CDCS):</b> <b>₹10 Lakhs to ₹18 Lakhs LPA</b>.</li><li><b>Senior Level (Team Lead/Product Manager):</b> Can range from <b>₹18 Lakhs to ₹30 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative. Professionals with the CDCS certification and experience in large foreign banks often command a significant salary premium.</i></p>",
           "bulletPoints": []
         }
       ]

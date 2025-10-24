@@ -2,14 +2,14 @@
   "title": "Derivatives Trader - India Roadmap",
   "description": "A high-intensity roadmap for a career as a Derivatives Trader in India, focusing on the quantitative skills, market knowledge (NSE F&O), pricing models, risk management techniques, and the lucrative career paths in proprietary trading firms and institutional desks.",
   "category": "Capital Markets & Investment",
-  "slug": "derivatives-trader-india",
+  "slug": "derivatives-trader",
   "stages": [
     {
       "title": "Introduction to the Profession",
       "nodes": [
         {
           "id": "what-is-derivatives-trader",
-          "label": "What is a Derivatives Trader and their Responsibilities?",
+          "label": "What is a Derivatives Trader",
           "description": "<p>A <b>Derivatives Trader</b> is a highly specialized professional who buys and sells financial derivatives with the goal of generating a profit. Derivatives are contracts whose value is derived from an underlying asset, such as a stock, index, currency, or commodity. In India, this primarily involves trading futures and options (F&O) on exchanges like the <b>National Stock Exchange (NSE)</b> and <b>BSE</b>.</p><p>There are two main types of traders:</p><ul><li><b>Proprietary ('Prop') Traders:</b> They trade using the firm's own capital, taking on direct risk for potentially high returns. These roles are extremely competitive and quantitative.</li><li><b>Institutional Traders:</b> They work on the trading desks of banks, brokerage houses, or asset management companies, executing trades for clients or for the institution's own hedging/investment purposes.</li></ul><p><b>Core Responsibilities include:</b></p><ul><li><b>Market Analysis:</b> Constantly analyzing market data, news flow, and macroeconomic trends to identify trading opportunities.</li><li><b>Strategy Development:</b> Designing and back-testing trading strategies. This can range from directional bets to complex strategies based on volatility (vega), time decay (theta), or price spreads.</li><li><b>Execution:</b> Placing buy and sell orders with precision and speed, often using sophisticated trading software and algorithms.</li><li><b>Risk Management:</b> This is the most critical function. It involves continuously monitoring the risk of their open positions using metrics like 'the Greeks' (Delta, Gamma, Vega), setting strict stop-losses, and ensuring they operate within the firm's risk limits.</li></ul><p>This is a high-pressure, results-driven role that demands a unique combination of analytical prowess, discipline, and emotional control.</p>",
           "bulletPoints": [],
           "resources": []
