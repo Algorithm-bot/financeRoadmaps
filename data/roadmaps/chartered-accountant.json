@@ -2,7 +2,7 @@
   "title": "Chartered Accountant (CA) India",
   "description": "A comprehensive roadmap to becoming a Chartered Accountant (CA) in India. This guide covers the official ICAI pathway, including exam levels, the mandatory articleship training, and the final steps to membership.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "chartered-accountant-india",
+  "slug": "chartered-accountant",
   "stages": [
     {
       "title": "Introduction & Entry Routes",
@@ -68,6 +68,21 @@
           "id": "icai-membership",
           "label": "ICAI Membership",
           "description": "<div><p>After successfully passing both groups of the CA Final examination and completing the three-year articleship, a candidate becomes eligible to be formally admitted as a member of the ICAI. Upon submitting the required documents and paying the fees, they earn the right to use the prestigious 'CA' designation. At this point, they can either join a company in the industry or apply for a <strong>Certificate of Practice (COP)</strong>. The COP grants them the legal authority to start their own firm and sign official documents like audit reports.</p></div>"
+        }
+      ]
+    },
+    {
+      "title": "Career & Opportunities",
+      "nodes": [
+        {
+          "id": "ca-job-opportunities",
+          "label": "Job Opportunities",
+          "description": "<div><p>Chartered Accountants in India can explore a wide range of career options:</p><ul><li><b>Audit & Assurance:</b> Working with audit firms or corporates to ensure financial transparency.</li><li><b>Taxation:</b> Handling direct and indirect taxes, tax planning, and representation before tax authorities.</li><li><b>Corporate Finance:</b> Roles in investment banking, valuations, mergers & acquisitions, and capital raising.</li><li><b>Consulting & Advisory:</b> Guiding businesses on compliance, restructuring, and financial strategies.</li><li><b>Industry Roles:</b> Joining corporates in positions like CFO, finance controller, or compliance head.</li><li><b>Independent Practice:</b> Starting a CA firm with authority to sign audit reports, tax filings, and advisory mandates.</li></ul></div>"
+        },
+        {
+          "id": "ca-salary-india",
+          "label": "Salary Ranges in India",
+          "description": "<div><p>CA salaries in India vary widely by experience, skillset, and industry:</p><ul><li><b>Fresher / Newly Qualified CA:</b> ₹7 – 10 LPA (higher in Big 4 firms and MNCs).</li><li><b>2–5 Years Experience:</b> ₹12 – 20 LPA depending on specialization (tax, audit, corporate finance).</li><li><b>Mid-Level Roles:</b> ₹20 – 30 LPA in managerial or senior consultant positions.</li><li><b>Senior Roles (CFO, Partner, Director):</b> ₹40 LPA+ depending on company size and sector.</li><li><b>Independent Practice:</b> Earnings vary; successful CA firms and partners often earn ₹50 LPA+.</li></ul><p>Overall, the CA designation offers one of the most lucrative and stable careers in finance and business in India.</p></div>"
         }
       ]
     }

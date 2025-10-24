@@ -2,7 +2,7 @@
   "title": "Cost and Management Accountant (CMA) - Indian Aspirant Roadmap",
   "description": "A comprehensive guide to becoming a Cost and Management Accountant (CMA) in India through the Institute of Cost Accountants of India (ICMAI). This roadmap covers the job profile, a detailed breakdown of the three-level examination structure (Foundation, Intermediate, Final) including all subjects and passing criteria, and the career paths available after qualification.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "cost-and-management-accountant-india",
+  "slug": "cost-and-management-accountant",
   "stages": [
     {
       "title": "Introduction to the CMA Profession in India",
@@ -85,7 +85,13 @@
               "url": "https://icmai.in/studentswebsite/exam.php"
             }
           ]
+        },
+        {
+          "id": "cma-salary",
+          "label": "Salary & Career Outlook",
+          "description": "<div><p>The salary of a Cost and Management Accountant (CMA) in India varies based on experience, industry, company size, and location:</p><ul><li><b>Entry-Level (0–2 years):</b> ₹4–7 LPA, typically in finance, costing, or management accounting roles.</li><li><b>Mid-Level (3–7 years):</b> ₹7–15 LPA, handling budgeting, financial planning, and internal auditing responsibilities.</li><li><b>Senior-Level / Manager / CMA:</b> ₹15–30 LPA, with strategic roles in financial management, cost control, and corporate planning.</li><li><b>Top Roles / CFO or Head of Finance:</b> ₹30 LPA+ in large corporates, MNCs, or manufacturing companies.</li></ul><br><p><strong>Disclaimer:</strong> Salaries are indicative and may vary depending on company, sector, location, individual skills, and negotiation.</p></div>"
         }
+        
       ]
     }
   ]

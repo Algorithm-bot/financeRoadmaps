@@ -1,6 +1,6 @@
 {
   "title": "Actuary",
-  "description": "<div><p>This roadmap provides a comprehensive guide to pursuing a career as an actuary in India. An actuary is a business professional who analyzes the financial consequences of risk, using mathematics, statistics, and financial theory. This journey involves a rigorous series of examinations conducted by the <strong>Institute of Actuaries of India (IAI)</strong>, a deep understanding of mathematical concepts, and the application of these skills in domains like insurance, pensions, and finance. We will cover the certification pathway, core technical skills, areas of practice, and career progression in this challenging and highly rewarding profession. 📊</p></div>",
+  "description": "<div><p>A roadmap to becoming an actuary in India—mastering risk analysis through math, statistics, and finance, with IAI exams guiding the journey toward careers in insurance, pensions, and finance.</p></div>",
   "category": "Professional Certifications & Specialist Roles",
   "slug": "actuary",
   "stages": [
@@ -12,7 +12,7 @@
           
             "id": "what-is-actuary",
             "label": "What is an Actuary?",
-            "description": "<div><p>An <b>actuary</b> is a professional who acts as the financial architect of the insurance and pension industries. They use a powerful blend of <strong>mathematics, statistics, and financial theory</strong> to analyze and manage the financial consequences of risk and uncertainty. Think of them as 'risk engineers' who calculate the financial strength a company needs to withstand future unpredictable events. 🎲</p><p>Their primary role is to ensure that insurance companies and pension funds remain financially sound and can fulfill their long-term promises to customers.</p><h3>What They Do</h3><ul><li><b>Product Pricing:</b> They are the masterminds who calculate insurance premiums. By analyzing historical data and probabilities, they determine how much to charge for a policy to cover future claims, expenses, and a profit margin.</li><li><b>Financial Stability:</b> Actuaries calculate the amount of money (known as 'reserves') an insurer must hold to be able to pay all future claims, ensuring the company's solvency.</li><li><b>Risk Management:</b> They identify, analyze, and create strategies to mitigate risks that could threaten a company's financial health, from economic downturns to the impact of a pandemic.</li></ul><h3>Where They Work</h3><p>Actuaries are in high demand in any industry where risk needs to be managed, primarily:</p><ul><li>Insurance (Life, Health, and General)</li><li>Pension and Retirement Funds</li><li>Consulting Firms</li><li>Government Bodies (for social security schemes)</li><li>Finance and Investment Banking</li></ul></div>"
+            "description": "<div><p>An <b>actuary</b> is a professional who acts as the financial architect of the insurance and pension industries. They use a powerful blend of <strong>mathematics, statistics, and financial theory</strong> to analyze and manage the financial consequences of risk and uncertainty. Think of them as 'risk engineers' who calculate the financial strength a company needs to withstand future unpredictable events. 🎲</p><p>Their primary role is to ensure that insurance companies and pension funds remain financially sound and can fulfill their long-term promises to customers.</p><br><h3>What They Do:</h3><ul><li><b>Product Pricing:</b> They are the masterminds who calculate insurance premiums. By analyzing historical data and probabilities, they determine how much to charge for a policy to cover future claims, expenses, and a profit margin.</li><li><b>Financial Stability:</b> Actuaries calculate the amount of money (known as 'reserves') an insurer must hold to be able to pay all future claims, ensuring the company's solvency.</li><li><b>Risk Management:</b> They identify, analyze, and create strategies to mitigate risks that could threaten a company's financial health, from economic downturns to the impact of a pandemic.</li></ul><br><h3>Where They Work?</h3><p>Actuaries are in high demand in any industry where risk needs to be managed, primarily:</p><ul><li>Insurance (Life, Health, and General)</li><li>Pension and Retirement Funds</li><li>Consulting Firms</li><li>Government Bodies (for social security schemes)</li><li>Finance and Investment Banking</li></ul></div>"
           
         },
         {
@@ -36,7 +36,7 @@
         {
           "id": "actuarial-models",
           "label": "Actuarial Models",
-          "description": "<div><p>Actuaries build sophisticated mathematical models to represent real-world uncertainties, enabling them to price products and estimate future liabilities accurately.</p><ul><li><b>Life Contingencies & Survival Models:</b> These models use historical data and <strong>mortality tables</strong> to calculate the probabilities of events like death, sickness, or retirement at various ages. This is the foundation for pricing life insurance and pension plans.</li><li><b>Loss Distributions:</b> Used primarily in general insurance to model the potential frequency and severity of claims (e.g., the cost of car accident repairs or damage from a natural catastrophe).</li><li><b>Stochastic Modeling & Markov Models:</b> These are advanced techniques that incorporate randomness to model complex, dynamic systems. For example, a Markov model can be used to track the movement of a policyholder between states like 'Healthy,' 'Sick,' and 'Deceased.'</li></ul></div>"
+          "description": "<div><p>Actuaries build sophisticated mathematical models to represent real-world uncertainties, enabling them to price products and estimate future liabilities accurately.</p><ul><li><b>Life Contingencies & Survival Models:</b> These models use historical data and mortality tables to calculate the probabilities of events like death, sickness, or retirement at various ages. This is the foundation for pricing life insurance and pension plans.</li><li><b>Loss Distributions:</b> Used primarily in general insurance to model the potential frequency and severity of claims (e.g., the cost of car accident repairs or damage from a natural catastrophe).</li><li><b>Stochastic Modeling & Markov Models:</b> These are advanced techniques that incorporate randomness to model complex, dynamic systems. For example, a Markov model can be used to track the movement of a policyholder between states like 'Healthy,' 'Sick,' and 'Deceased.'</li></ul></div>"
         },
         {
           "id": "tools-programming",
@@ -58,12 +58,19 @@
     {
       "title": "Exams & Career",
       "nodes": [
-        {
-          "id": "career-growth",
-          "label": "Internships & Career Growth",
-          "description": "<div><p>Parallel to clearing exams, gaining practical industry experience is crucial for career progression. The typical career path looks like this:</p><ul><li><b>Internships and Entry-Level Roles:</b> While studying for the initial papers, students often start as interns or actuarial trainees in insurance companies, consulting firms, or reinsurance companies.</li><li><b>Actuarial Analyst:</b> After clearing the Core Principles papers, you can secure roles as an analyst, working in teams focused on pricing, valuation, or modeling.</li><li><b>Progression to Associate & Fellow:</b> With each exam passed and years of experience gained, you move up the ladder to senior analyst and management roles. Achieving the <strong>Associate</strong> and then the <strong>Fellow (FIAI)</strong> designation qualifies you for senior leadership positions.</li><li><b>Networking:</b> Attending events and seminars organized by the <strong>IAI</strong> is vital for networking with senior professionals and staying updated on industry trends.</li></ul></div>"
-        }
-      ]
+  {
+    "id": "career-growth",
+    "label": "Job Opportunities & Roles",
+    "description": "<div><p>Actuaries have a wide range of opportunities across industries, depending on the exams cleared and experience gained:</p><ul><li><b>Insurance Sector:</b> Roles in life insurance, health insurance, and general insurance involving pricing policies, risk assessment, and claims analysis.</li><li><b>Pension & Retirement Funds:</b> Designing pension schemes, evaluating liabilities, and ensuring long-term financial sustainability.</li><li><b>Consulting Firms:</b> Providing advisory services in risk management, mergers & acquisitions, and financial modeling for clients across sectors.</li><li><b>Reinsurance Companies:</b> Assessing and managing large-scale risks shared between insurers globally.</li><li><b>Investment & Banking:</b> Involvement in asset management, risk analysis, capital modeling, and financial forecasting.</li><li><b>Government & Regulation:</b> Working with regulatory bodies to frame policies, monitor compliance, and strengthen financial stability.</li><li><b>Emerging Fields:</b> Opportunities in data analytics, predictive modeling, and enterprise risk management as industries increasingly rely on actuarial expertise.</li></ul></div>"
+  },
+  {
+    "id": "salary-ranges",
+    "label": "Salary Ranges in India",
+    "description": "<div><p>Actuarial salaries in India vary based on exams cleared, experience, and sector of employment. Approximate ranges are:</p><ul><li><b>Intern / Actuarial Trainee:</b> ₹3 – 6 LPA while pursuing initial exams.</li><li><b>Actuarial Analyst:</b> ₹6 – 10 LPA after clearing a few Core Principles papers.</li><li><b>Senior Analyst / Associate Actuary:</b> ₹10 – 18 LPA with 4–6 exams cleared and 3–5 years of experience.</li><li><b>Assistant Manager / Manager:</b> ₹15 – 25 LPA for mid-level roles, often after clearing Core Practices papers.</li><li><b>Fellow Actuary (FIAI):</b> ₹30 LPA+ with 8–10 years’ experience, handling leadership and strategic decision-making roles.</li><li><b>Specialized Roles (Reinsurance, Consulting, Risk Management):</b> Compensation may exceed ₹40–50 LPA depending on expertise and employer.</li></ul><p>Note: Salaries increase significantly as candidates clear more IAI/IFoA exams and gain niche domain knowledge.</p></div>"
+  }
+  
+]
+
     }
   ]
 }

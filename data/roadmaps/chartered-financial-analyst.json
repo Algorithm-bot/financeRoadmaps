@@ -2,7 +2,7 @@
   "title": "Chartered Financial Analyst (CFA) for Indian Aspirants",
   "description": "A detailed roadmap to earning the CFA charter, the global gold standard for the investment management profession. This guide is tailored for candidates in India, covering the program's structure, core concepts, and career applications.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "chartered-financial-analyst-india",
+  "slug": "chartered-financial-analyst",
   "stages": [
     {
       "title": "Introduction to the CFA Program",
@@ -33,13 +33,28 @@
           "id": "cfa-exam-strategy",
           "label": "Exam Strategy & Preparation",
           "description": "<div><p>Preparing for the CFA exams requires a disciplined approach and careful planning. Each level of the CFA exam is challenging, covering a broad curriculum that requires months of dedicated study. The CFA Institute recommends at least <strong>300 hours of study per level</strong>, though many candidates spend 400-500 hours to ensure thorough preparation.</p><p>Key preparation strategies include:</p><ul><li><b>Consistent Study Plan:</b> Break down the syllabus into daily or weekly study targets to cover all topics systematically over several months.</li><li><b>Practice Questions:</b> Solve thousands of questions from the CFA Institute Learning Ecosystem and other reputable study materials. Practicing questions helps you apply concepts and identify weak areas.</li><li><b>Case Study Practice:</b> For Level II and III, work on integrated case studies to simulate real-world investment decision-making.</li><li><b>Mock Exams:</b> Take multiple full-length timed mock exams to build stamina, improve time management, and develop exam-day confidence.</li><li><b>Focus on Ethics:</b> Ethics and professional standards are critical and can be a deciding factor in passing borderline scores. Review them carefully for all three levels.</li></ul><p>Success requires steady progress, not last-minute cramming. By following a structured plan, practicing extensively, and staying disciplined, candidates improve their chances of passing all three levels and ultimately earning the CFA charter.</p></div>",
-        "resources":[
+          "resources":[
             {
               "type": "article",
-              "title": "CFA exam registeration and Schedule",
+              "title": "CFA exam registration and Schedule",
               "url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/exam-registration-scheduling-guide"
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "Career & Opportunities",
+      "nodes": [
+        {
+          "id": "cfa-job-opportunities",
+          "label": "Job Opportunities",
+          "description": "<div><p>CFA charterholders in India can pursue diverse roles in investment management and finance:</p><ul><li><b>Equity Research Analyst:</b> Research companies and provide buy/sell recommendations.</li><li><b>Portfolio Manager / Fund Manager:</b> Manage investment portfolios for clients or institutions.</li><li><b>Investment Banker:</b> Advise on M&A, capital raising, and restructuring deals.</li><li><b>Risk Analyst:</b> Assess financial risk for banks, insurance firms, and corporates.</li><li><b>Financial Consultant / Advisor:</b> Provide wealth management and planning services to high-net-worth individuals.</li><li><b>Corporate Finance Roles:</b> Work in treasury, strategic finance, or business development departments.</li></ul></div>"
+        },
+        {
+          "id": "cfa-salary-india",
+          "label": "Salary & Career Outlook",
+          "description": "<div><p>CFA charterholders' salaries in India vary by experience and role:</p><ul><li><b>Entry-Level / Analyst (0–2 years):</b> ₹6–12 LPA</li><li><b>Mid-Level / Associate (3–5 years):</b> ₹12–25 LPA</li><li><b>Senior-Level / Portfolio Manager:</b> ₹25–50 LPA+</li><li><b>Top Roles / Fund Manager / Director:</b> ₹50 LPA+ depending on firm and assets under management</li></ul><p>The demand for CFA charterholders is growing due to expanding asset management, private equity, and investment advisory markets in India. Opportunities abroad, particularly in the UAE, Singapore, and UK, often offer higher pay and tax benefits.</p></div>"
         }
       ]
     }

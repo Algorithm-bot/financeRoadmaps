@@ -2,7 +2,7 @@
   "title": "Financial Risk Manager (FRM) - Indian Aspirant Roadmap",
   "description": "<div><p>A detailed guide for Indian aspirants on becoming a certified <strong>Financial Risk Manager (FRM)</strong>. This roadmap explains the FRM's role, the structure of the two-part examination administered by the Global Association of Risk Professionals (GARP), including all subjects and passing criteria, and the significant career opportunities in India's financial sector.</p></div>",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "financial-risk-manager-india",
+  "slug": "financial-risk-manager",
   "stages": [
     {
       "title": "Introduction to the FRM Profession",
@@ -66,7 +66,13 @@
               "url": "https://www.garp.org/frm/fees-payments"
           }
         ]
+        },
+        {
+          "id": "frm-salary",
+          "label": "Salary & Career Outlook",
+          "description": "<div><p>The salary of a Financial Risk Manager (FRM) in India varies depending on experience, industry, and organization size:</p><ul><li><b>Entry-Level (0–2 years):</b> ₹6–10 LPA, typically in risk analysis, credit risk, or operational risk roles.</li><li><b>Mid-Level (3–7 years):</b> ₹10–25 LPA, handling market risk, credit risk, and portfolio risk management.</li><li><b>Senior-Level / Risk Manager:</b> ₹25–50 LPA, leading risk teams, implementing risk frameworks, and advising senior management.</li><li><b>Top Roles / Head of Risk / CRO:</b> ₹50 LPA+ in large banks, financial institutions, or multinational firms.</li></ul><br><p><strong>Disclaimer:</strong> Salaries are indicative and can vary widely depending on company, sector, location, skills, and negotiation.</p></div>"
         }
+        
       ]
     }
   ]

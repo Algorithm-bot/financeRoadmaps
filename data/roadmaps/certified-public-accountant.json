@@ -2,7 +2,7 @@
   "title": "US CPA for Indian Professionals: A Global Career Roadmap",
   "description": "A tailored guide for Indian aspirants on how to become a U.S. Certified Public Accountant (CPA). This roadmap covers the specific eligibility and scheduling steps for Indians, the exam structure, and how to leverage the CPA qualification for international job opportunities.",
   "category": "Professional Certifications & Specialist Roles",
-  "slug": "cpa-for-indians-global-career",
+  "slug": "certified-public-accountant",
   "stages": [
     {
       "title": "Introduction & Eligibility",
@@ -48,6 +48,11 @@
           "id": "experience-for-licensure",
           "label": "Experience Requirement for International Jobs",
           "description": "<div><p>Passing the exams is a huge achievement and can be listed on your resume immediately to apply for jobs abroad. To become fully <b>licensed</b>, however, you need work experience.</p><ul><li><b>Verification:</b> You need 1-2 years of relevant accounting experience verified by a licensed U.S. CPA.</li><li><b>Pathways for Indians:</b> You can often get this experience by working at a Big Four firm or a large MNC in India under a U.S. CPA. Alternatively, many candidates pass the exams first, get a job abroad, and then fulfill the experience requirement there.</li><li><b>Exam Passed vs. Licensed:</b> Even just passing the exams significantly boosts your profile for global employers.</li></ul></div>"
+        },
+        {
+          "id": "cpa-salary",
+          "label": "Salary & Career Outlook",
+          "description": "<div><p>The salary of a CPA in India or abroad varies depending on experience, role, and organization:</p><ul><li><b>Entry-Level (0–2 years):</b> ₹6–12 LPA in India, $50k–$70k abroad.</li><li><b>Mid-Level / Manager (3–7 years):</b> ₹12–25 LPA in India, $70k–$120k abroad.</li><li><b>Senior-Level / Director:</b> ₹25–50 LPA in India, $120k–$200k+ abroad.</li><li><b>Top Roles / CFO / Partner:</b> ₹50 LPA+ in India, $200k+ internationally.</li></ul><p><br><strong>Disclaimer:</strong> Salaries vary widely based on company, industry, country, location, experience, and negotiation.</p></div>"
         }
       ]
     }
