@@ -1,18 +1,26 @@
 {
-  "title": "Equity Research Analyst - India Roadmap",
-  "description": "A comprehensive roadmap for a career in Equity Research in India, detailing the paths on the sell-side and buy-side, the essential skills of financial modeling and valuation, mandatory SEBI certifications, and the lucrative career progression.",
-  "category": "Capital Markets & Investment",
-  "slug": "equity-research-analyst",
+  "title": "Credit Rating Analyst - India Roadmap 🏛️",
+  "description": "A comprehensive roadmap for a career in Credit Rating Analysis in India.",
+  "category": "Debt Capital Markets & Fixed Income",
+  "slug": "credit-rating-analyst",
   "stages": [
     {
       "title": "Introduction to the Profession",
       "nodes": [
         {
-          "id": "what-is-equity-research-analyst",
-          "label": "What is an Equity Research Analyst and their Responsibilities?",
-          "description": "<p>An <b>Equity Research Analyst</b> is a financial professional who studies stocks and other securities to provide investment recommendations to investors. Their core job is to determine the intrinsic value of a company and predict its future performance, culminating in a 'Buy', 'Sell', or 'Hold' recommendation on its stock.</p><p>In India, the role is primarily split into two categories:</p><ul><li><b>Sell-Side Analyst:</b> Works for a brokerage firm (e.g., Kotak Securities, Motilal Oswal, J.P. Morgan). They create detailed research reports which are then 'sold' to institutional clients like mutual funds and insurance companies. Their goal is to provide valuable insights that encourage clients to trade through their firm, thus generating brokerage commissions.</li><li><b>Buy-Side Analyst:</b> Works for an asset management company (e.g., HDFC Mutual Fund), insurance company (e.g., LIC), or a hedge fund. Their research is used internally by fund managers to make direct investment decisions for the fund's portfolio. The research is proprietary and not published for the public.</li></ul><p><b>Key Responsibilities include:</b></p><ul><li><b>Financial Modeling:</b> Building intricate financial models in Excel to forecast a company's income statement, balance sheet, and cash flow statement. This is the most fundamental skill.</li><li><b>Valuation:</b> Using techniques like Discounted Cash Flow (DCF) and Relative Valuation (P/E, EV/EBITDA ratios) to estimate a stock's target price.</li><li><b>Industry Analysis:</b> Becoming an expert in a specific sector (e.g., IT, Banking, Auto, Pharma). This involves understanding the competitive landscape, regulatory environment, and growth drivers.</li><li><b>Report Writing:</b> Authoring detailed research reports, including 'Initiating Coverage' reports, quarterly earnings updates, and thematic reports.</li><li><b>Interacting with Management:</b> Attending company analyst meets, quarterly earnings calls, and directly engaging with the top management (CEOs, CFOs) to understand their strategy and outlook.</li></ul>",
-          "bulletPoints": [],
-          "resources": []
+          "id": "what-is-credit-rating-analyst",
+          "label": "What is a Credit Rating Analyst?",
+          "description": "<p>A Credit Rating Analyst evaluates the creditworthiness of companies, banks, NBFCs, and government bodies issuing debt. The output of this evaluation is a credit rating (AAA, AA, BBB, D).</p><p>Analysts work mainly in SEBI-registered Credit Rating Agencies like CRISIL, ICRA, CARE Ratings, and India Ratings.</p>"
+        },
+        {
+          "id": "core-responsibilities-cra",
+          "label": "Core Responsibilities",
+          "description": "<ul><li>Analyze financial statements: leverage ratios, profitability, DSCR.</li><li>Assess business risk, competitive position, management quality.</li><li>Build projections & stress-test scenarios.</li><li>Prepare rating reports & present to Rating Committee.</li><li>Do ongoing surveillance for upgrades/downgrades.</li><li>Meet CFO/CEO teams for discussions on performance.</li></ul>"
+        },
+        {
+          "id": "4cs-of-credit",
+          "label": "The 4 Cs of Credit",
+          "description": "<p>Analysts use the classic 4 Cs:</p><ul><li><b>Character:</b> Governance, transparency, track record.</li><li><b>Capacity:</b> Cash flows & debt servicing ability.</li><li><b>Capital:</b> Net worth, leverage strength.</li><li><b>Collateral:</b> Assets backing the debt.</li></ul>"
         }
       ]
     },
@@ -20,29 +28,69 @@
       "title": "Education & Mandatory Certifications",
       "nodes": [
         {
-          "id": "educational-qualifications-era",
-          "label": "Core Educational Background",
-          "description": "<p>A strong academic background in finance and accounting is non-negotiable for this role.</p><ol><li><b>Chartered Accountant (CA):</b> This is considered the gold standard qualification in India for equity research, especially on the sell-side. The rigorous curriculum in accounting and financial management provides an ideal foundation.</li><li><b>MBA in Finance:</b> A full-time MBA from a top-tier business school (IIMs, ISB, FMS, XLRI etc.) is another primary route into this profession, particularly for buy-side roles.</li><li><b>CFA (Chartered Financial Analyst):</b> The CFA Charter is the most globally recognized and respected credential for investment management professionals. It is almost a prerequisite for long-term growth in this career, and many analysts pursue the charter while working.</li></ol>",
-          "bulletPoints": []
+          "id": "educational-qualifications-overview",
+          "label": "Educational Requirements",
+          "description": "<p>A strong background in accounting and corporate finance is essential.</p><ul><li>CA (Highly preferred)</li><li>MBA Finance (Top B-schools)</li><li>CFA (Especially Levels 1 and 2)</li></ul>"
         },
         {
-          "id": "essential-certifications-era",
-          "label": "Mandatory SEBI Certification",
-          "description": "<p>Beyond academic qualifications, there is a mandatory regulatory requirement to work as a research analyst in India.</p><ul><li><b>NISM-Series-XV: Research Analyst Certification Examination:</b> As per SEBI (Securities and Exchange Board of India) regulations, it is <b>mandatory</b> for any individual acting as a research analyst to pass this certification exam. This exam covers the regulatory framework and best practices.</li></ul><p>Without this NISM certification, one cannot legally author and publish a research report with a stock recommendation in India.</p>",
-          "resources": [
-            { "type": "tool", "title": "SEBI's NISM Research Analyst Certification", "url": "https://www.nism.ac.in/certifications/nism-series-xv-research-analyst-certification-examination/" }
-          ]
+          "id": "technical-foundations-cra",
+          "label": "Technical Knowledge Required",
+          "description": "<ul><li>Financial reporting standards (Ind-AS/IFRS)</li><li>Corporate finance & valuation</li><li>Fixed income basics: bonds, debentures, CP, NCDs</li><li>Understanding cash flow drivers</li></ul>"
+        },
+        {
+          "id": "regulatory-framework-cra",
+          "label": "Regulatory Framework (SEBI & RBI)",
+          "description": "<ul><li>SEBI Credit Rating Agencies Regulations, 1999</li><li>RBI guidelines for bank exposures</li><li>Disclosure norms, compliance requirements</li></ul>"
+        },
+        {
+          "id": "useful-certifications-cra",
+          "label": "Useful but Non-Mandatory Certifications",
+          "description": "<ul><li>NISM-Series-III-A (Compliance focus)</li><li>Internal CRA training modules</li><li>CFA Fixed Income modules</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Progression & Job Opportunities",
+      "title": "Core Skills & On-the-Job Experience",
       "nodes": [
         {
-          "id": "job-roles-and-salary-era",
-          "label": "What types of jobs they can do?",
-          "description": "<p>Equity research offers a clear and rewarding career trajectory for high performers.</p><ul><li><b>Career Path:</b> The typical path is: <i>Research Associate → Analyst/Associate Analyst (covering a few stocks) → Senior Analyst (leading coverage for a sector) → Head of Research.</i> A very common and lucrative exit opportunity is to move from the sell-side to a buy-side role as an analyst or even a Fund Manager.</li><li><b>Employers in India:</b></li><ul><li><b>Sell-Side (Brokerages):</b> Domestic firms like <b>Kotak Institutional Equities, Motilal Oswal, IIFL, JM Financial</b>, and international giants like <b>J.P. Morgan, Morgan Stanley, CLSA, Goldman Sachs, and Nomura</b>.</li><li><b>Buy-Side (Asset Management):</b> All major mutual fund houses like <b>HDFC AMC, ICICI Prudential AMC, SBI Funds Management, Axis AMC</b>, and Portfolio Management Services (PMS) providers.</li><li><b>KPOs (Knowledge Process Outsourcing):</b> Firms like <b>CRISIL, ICRA, and Evalueserve</b> also have equity research divisions that provide services to global clients.</li></ul></ul><br><h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Compensation is competitive and heavily linked to performance and the analyst's reputation.</p><ul><li><b>Entry-Level (CA/MBA fresher from a top institution):</b> <b>₹12 Lakhs to ₹25 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (3-7 years experience with sector expertise):</b> <b>₹25 Lakhs to ₹50 Lakhs LPA</b>.</li><li><b>Senior Level (Lead Analyst at a top firm):</b> Can range from <b>₹60 Lakhs to ₹1.5 Crore+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative. The variable bonus component is significant and depends on the quality of the analyst's research and the accuracy of their stock recommendations. Buy-side compensation, especially at hedge funds, can be substantially higher.</i></p>",
-          "bulletPoints": []
+          "id": "financial-analysis-skills",
+          "label": "Financial Analysis Skills",
+          "description": "<ul><li>Reading balance sheet, P&L, and cash flow statements</li><li>Debt analysis: maturity profile, interest cost, covenants</li><li>Ratio analysis: DSCR, Debt/EBITDA, coverage ratios</li></ul>"
+        },
+        {
+          "id": "industry-analysis-skills",
+          "label": "Industry & Macro Skills",
+          "description": "<ul><li>Sector specialization (Infra, Power, Real Estate)</li><li>Understanding interest rate impacts</li><li>Regulatory environment knowledge (RBI/SEBI/MCA)</li></ul>"
+        },
+        {
+          "id": "communication-skills-cra",
+          "label": "Communication Skills",
+          "description": "<ul><li>Writing rating press releases</li><li>Defending ratings in committee</li><li>Conducting structured management interviews</li></ul>"
+        },
+        {
+          "id": "practical-experience",
+          "label": "Gaining Practical Experience",
+          "description": "<ul><li>Corporate lending teams in banks</li><li>Credit teams in NBFCs</li><li>Fixed income research at AMCs</li><li>Audit/Advisory (Big 4)</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Path & Compensation",
+      "nodes": [
+        {
+          "id": "career-path-cra",
+          "label": "Career Path Inside CRAs",
+          "description": "<p>Typical growth:</p><ul><li>Trainee</li><li>Associate Analyst</li><li>Analyst</li><li>Senior Analyst</li><li>Associate Director</li><li>Director / Head of Ratings</li></ul>"
+        },
+        {
+          "id": "exit-options-cra",
+          "label": "Exit Options",
+          "description": "<ul><li>Fixed Income Portfolio Manager</li><li>Credit Risk roles in banks/NBFCs</li><li>Corporate Banking RM</li><li>Treasury & Debt Capital Markets roles</li></ul>"
+        },
+        {
+          "id": "salary-india-cra",
+          "label": "Salary Range (India)",
+          "description": "<ul><li>Entry (CA/MBA): ₹8–15 LPA</li><li>Mid-level (3–7 yrs): ₹20–45 LPA</li><li>Senior: ₹50L–₹1 Cr+</li></ul>"
         }
       ]
     }
