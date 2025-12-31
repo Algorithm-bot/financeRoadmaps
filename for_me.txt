@@ -1,1 +1,120 @@
-start with equity-research-analyst.json file
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You Wall</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        /* Custom styles to complement Tailwind */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a; /* slate-900 */
+            background-image: radial-gradient(circle at 1px 1px, rgba(255,255,255,0.05) 1px, transparent 0);
+            background-size: 20px 20px;
+        }
+
+        /* A subtle glow effect for the header */
+        .text-glow {
+            text-shadow: 0 0 8px rgba(56, 189, 248, 0.4), 0 0 20px rgba(56, 189, 248, 0.2);
+        }
+
+        /* Custom animation for the progress bar fill */
+        @keyframes fill-progress {
+            from { width: 0%; }
+            to { width: 6.83%; } /* Calculated: (850 / 3000) * 100 */
+        }
+
+        .progress-bar-fill {
+            animation: fill-progress 1.5s ease-in-out forwards;
+        }
+
+        /* Card hover effect */
+        .contributor-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+        }
+
+        .contributor-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+            border-color: #22d3ee; /* cyan-400 */
+        }
+    </style>
+</head>
+<body class="text-gray-200">
+
+    <div class="container mx-auto px-4 py-8 md:py-16">
+        <!-- Header Section -->
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-5xl font-extrabold text-white text-glow mb-2">Thank You Wall</h1>
+            <p class="text-lg text-slate-400"> Manually updated every 30 days</p>
+
+        </header>
+
+        <!-- Progress Bar Section -->
+        <div class="max-w-2xl mx-auto mb-16">
+            <div class="flex justify-between items-center mb-2 text-sm font-medium text-slate-300">
+                <span>Raised: <span class="font-bold text-white">₹410</span></span>
+                <span>Goal: <span class="font-bold text-white">₹6,000</span></span>
+            </div>
+            <!-- Progress Bar -->
+            <div class="w-full bg-slate-700 rounded-full h-4 shadow-inner">
+                <div class="progress-bar-fill bg-gradient-to-r from-cyan-400 to-sky-500 h-4 rounded-full" style="width: 6.83%;"></div>
+            </div>
+            <div class="text-center mt-2 text-sm font-medium text-cyan-300">
+                6.83% of the way there!
+            </div>
+        </div>
+
+        <!-- Contributors Wall -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl mx-auto">
+            
+            
+            
+            <div class="contributor-card bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-700 text-center">
+                <p class="text-xl font-bold text-white mb-1">Ad Revenue</p>
+                <p class="text-2xl font-semibold text-cyan-400">₹0</p>
+            </div>
+
+            
+            
+            <!-- Contributor Card 1 -->
+            <div class="contributor-card bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-700 text-center">
+                <p class="text-xl font-bold text-white mb-1">Suraj More</p>
+                <p class="text-2xl font-semibold text-cyan-400">₹150</p>
+            </div>
+
+            <!-- Contributor Card 2 -->
+            <div class="contributor-card bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-700 text-center">
+                <p class="text-xl font-bold text-white mb-1">Ananya Singh</p>
+                <p class="text-2xl font-semibold text-cyan-400">₹100</p>
+            </div>
+
+            <!-- Contributor Card 3 -->
+            <div class="contributor-card bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-700 text-center">
+                <p class="text-xl font-bold text-white mb-1">Mr.Robot</p>
+                <p class="text-2xl font-semibold text-cyan-400">₹50</p>
+            </div>
+
+              <!-- Contributor Card 4 -->
+              <div class="contributor-card bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-700 text-center">
+                <p class="text-xl font-bold text-white mb-1">Utkarsh Pandey</p>
+                <p class="text-2xl font-semibold text-cyan-400">₹70</p>
+            </div>
+            
+              <!-- Contributor Card 4 -->
+              <div class="contributor-card bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-700 text-center">
+                <p class="text-xl font-bold text-white mb-1">Mayuresh</p>
+                <p class="text-2xl font-semibold text-cyan-400">₹40</p>
+            </div>
+           
+        </div>
+    </div>
+
+</body>
+</html>

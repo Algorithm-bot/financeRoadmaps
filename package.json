@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3000",
+    "dev": "next dev -p 3001",
     "build": "next build",
-    "start": "next start -p 3000",
+    "start": "next start -p 3001",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
@@ -13,7 +13,9 @@
     "@xyflow/react": "^12.8.3",
     "clsx": "^2.1.1",
     "dompurify": "^3.2.6",
+    "firebase": "^12.6.0",
     "html-react-parser": "^5.2.6",
+    "mongodb": "^7.0.0",
     "next": "^14.2.5",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",

@@ -1,7 +1,9 @@
 "use client";
-import React, { useMemo, useState } from "react";
+import React, { useMemo, useState, useEffect, useCallback, useRef } from "react";
 import type { Roadmap } from "@/types/roadmap";
 import { sanitizeAndParseHTML } from "@/lib/utils";
+import { useAuth } from "./AuthProvider";
+import { loadUserProgress, updateNodeStatus, type NodeStatus } from "@/lib/firestore";
 
 // A helper component for animated paths
 const AnimatedPath = ({
@@ -29,8 +31,7 @@ const AnimatedPath = ({
 };
 
 export default function StaticRoadmap({ roadmap }: { roadmap: Roadmap }) {
-  type NodeStatus = "inprogress" | "done" | "skip";
-
+  const { user, loading: authLoading } = useAuth();
   const [selectedNode, setSelectedNode] = useState<{
     id: string;
     label: string;
@@ -40,10 +41,116 @@ export default function StaticRoadmap({ roadmap }: { roadmap: Roadmap }) {
 
   // Status per node id (default: "inprogress")
   const [nodeStatus, setNodeStatus] = useState<Record<string, NodeStatus>>({});
+  const [loadingProgress, setLoadingProgress] = useState(true);
+  const [hasLoadedOnce, setHasLoadedOnce] = useState(false);
+  const saveTimeoutRef = useRef<Record<string, NodeJS.Timeout>>({});
+  const lastLoadedSlugRef = useRef<string | null>(null);
 
-  const getStatus = (id: string): NodeStatus => nodeStatus[id] ?? "inprogress";
-  const setStatus = (id: string, status: NodeStatus) =>
-    setNodeStatus((prev) => ({ ...prev, [id]: status }));
+  // Load saved progress when user is authenticated
+  useEffect(() => {
+    if (authLoading) {
+      console.log('[RoadmapDiagram] Auth still loading, skipping MongoDB load');
+      return;
+    }
+
+    // Prevent loading the same roadmap twice (unless roadmap slug changed)
+    const shouldSkip = hasLoadedOnce && lastLoadedSlugRef.current === roadmap.slug && user;
+    if (shouldSkip) {
+      console.log('[RoadmapDiagram] Already loaded this roadmap, skipping');
+      return;
+    }
+
+    const loadProgress = async () => {
+      if (user) {
+        try {
+          setLoadingProgress(true);
+          console.log('[RoadmapDiagram] Loading progress for user:', user.uid, 'roadmap:', roadmap.slug);
+          const savedStatuses = await loadUserProgress(user, roadmap.slug);
+          console.log('[RoadmapDiagram] Loaded statuses:', savedStatuses, 'Type:', typeof savedStatuses, 'Is object:', savedStatuses && typeof savedStatuses === 'object');
+          
+          // Update state with saved statuses
+          // If savedStatuses is null, it means no document exists - keep defaults
+          // If savedStatuses is an object (even if empty), use it to ensure consistency
+          if (savedStatuses !== null && typeof savedStatuses === 'object') {
+            console.log('[RoadmapDiagram] Setting nodeStatus with', Object.keys(savedStatuses).length, 'statuses:', savedStatuses);
+            setNodeStatus(savedStatuses);
+          } else {
+            console.log('[RoadmapDiagram] No saved statuses found (null or invalid), keeping defaults');
+            // Only reset to empty object if this is a new roadmap (slug changed)
+            if (lastLoadedSlugRef.current !== roadmap.slug) {
+              setNodeStatus({});
+            }
+          }
+          // Always mark as loaded once, even if no saved data exists
+          setHasLoadedOnce(true);
+          lastLoadedSlugRef.current = roadmap.slug;
+        } catch (error) {
+          console.error("[RoadmapDiagram] Error loading progress:", error);
+          // Mark as loaded even on error to prevent infinite loading state
+          setHasLoadedOnce(true);
+          lastLoadedSlugRef.current = roadmap.slug;
+        } finally {
+          setLoadingProgress(false);
+        }
+      } else {
+        // No user - no need to load, allow defaults immediately
+        console.log('[RoadmapDiagram] No user, skipping MongoDB load');
+        setLoadingProgress(false);
+        setHasLoadedOnce(true);
+        lastLoadedSlugRef.current = roadmap.slug;
+      }
+    };
+
+    loadProgress();
+  }, [user, roadmap.slug, authLoading]);
+
+  // Cleanup timeouts on unmount
+  useEffect(() => {
+    return () => {
+      Object.values(saveTimeoutRef.current).forEach((timeout) => {
+        if (timeout) clearTimeout(timeout);
+      });
+    };
+  }, []);
+
+  // Determine if we should show loading state
+  // Show loading overlay when: (auth is loading) OR (user exists AND we're loading progress AND haven't loaded once)
+  const isLoading = authLoading || (loadingProgress && user !== null && !hasLoadedOnce);
+  
+  const getStatus = (id: string): NodeStatus => {
+    // After loading completes (or no user), return saved status or default
+    return nodeStatus[id] ?? "inprogress";
+  };
+  
+  const setStatus = useCallback((id: string, status: NodeStatus) => {
+    setNodeStatus((prev) => {
+      const updated = { ...prev, [id]: status };
+      console.log('[RoadmapDiagram] Setting status for node', id, 'to', status, 'Updated state:', updated);
+      
+      // Save to MongoDB if user is authenticated
+      if (user && !authLoading) {
+        // Clear any pending save for this node
+        if (saveTimeoutRef.current[id]) {
+          clearTimeout(saveTimeoutRef.current[id]);
+        }
+        
+        // Debounce the save operation
+        saveTimeoutRef.current[id] = setTimeout(async () => {
+          try {
+            console.log('[RoadmapDiagram] Saving status to MongoDB:', id, status);
+            await updateNodeStatus(user, roadmap.slug, id, status);
+            console.log('[RoadmapDiagram] Successfully saved status to MongoDB');
+          } catch (error) {
+            console.error("[RoadmapDiagram] Error saving progress:", error);
+          }
+        }, 500); // 500ms debounce
+      } else {
+        console.log('[RoadmapDiagram] Not saving to MongoDB - user:', !!user, 'authLoading:', authLoading);
+      }
+      
+      return updated;
+    });
+  }, [user, roadmap.slug, authLoading]);
 
   const allNodes = useMemo(() => {
     const nodes: Array<{
@@ -152,6 +259,19 @@ export default function StaticRoadmap({ roadmap }: { roadmap: Roadmap }) {
   return (
     <div className="w-full max-w-6xl mx-auto p-4 sm:p-6 bg-gradient-to-br from-indigo-50 to-white dark:from-gray-900 dark:to-black">
       <div className="rounded-2xl border border-indigo-200 dark:border-gray-700 bg-white dark:bg-black shadow-xl p-6 flex justify-center relative">
+        {/* Loading overlay when fetching MongoDB data */}
+        {isLoading && (
+          <div className="absolute inset-0 z-50 flex items-center justify-center bg-white/80 dark:bg-black/80 backdrop-blur-sm rounded-2xl">
+            <div className="flex flex-col items-center gap-2">
+              <svg className="animate-spin h-8 w-8 text-indigo-600 dark:text-indigo-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+              </svg>
+              <p className="text-sm text-slate-600 dark:text-slate-400">Loading your progress...</p>
+            </div>
+          </div>
+        )}
+        
         <div className="pointer-events-none absolute inset-0">
           <div className="absolute inset-0 rounded-2xl overflow-hidden">
             <div className="absolute inset-0 bg-[radial-gradient(circle,rgba(0,0,0,0.05)_1px,transparent_1px)] [background-size:24px_24px]" />
