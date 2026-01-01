@@ -9,38 +9,58 @@
       "nodes": [
         {
           "id": "what-is-quant",
-          "label": "What is a Quantitative Analyst and their Responsibilities?",
-          "description": "<p>A <b>Quantitative Analyst (Quant)</b> is a specialist who applies advanced mathematical and statistical methods to financial and risk management problems. They are the architects of the complex algorithms and models that drive modern finance, particularly in trading. In the Indian context, as markets become more sophisticated, the demand for quants has surged, especially in high-frequency trading (HFT) firms and the derivatives desks of large banks.</p><p>Key responsibilities are deeply technical and analytical:</p><ul><li><b>Model Development:</b> Designing and implementing complex mathematical models for pricing financial derivatives, assessing risk, or predicting market movements.</li><li><b>Algorithmic Trading Strategy:</b> Researching, developing, and backtesting automated trading strategies, often operating on very short time scales (microseconds).</li><li><b>Portfolio Optimization:</b> Using statistical techniques to construct and manage investment portfolios that maximize returns for a given level of risk.</li><li><b>Data Analysis & Machine Learning:</b> Applying cutting-edge machine learning and statistical analysis to vast datasets to find profitable trading signals.</li><li><b>Software Development:</b> Writing high-performance, low-latency code (often in C++) to execute trading strategies.</li></ul>"
+          "label": "What is a Quantitative Analyst?",
+          "description": "<p>A <b>Quantitative Analyst (Quant)</b> is the 'Rocket Scientist' of finance. They don't look at company balance sheets; they look at mathematical patterns.</p>  <p>In India, Quants are the brains behind <b>High-Frequency Trading (HFT)</b>, where algorithms buy and sell stocks in microseconds (millionths of a second) to make a profit.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Model Development:</b> Creating complex mathematical formulas to price derivatives (Options/Futures) that no human could calculate manually.</li><li><b>Alpha Generation:</b> Finding 'signals' in data (e.g., <i>'If the Nifty falls 1% and Gold rises 0.5%, then buy Stock X'</i>).</li><li><b>Algorithmic Trading:</b> Writing code that executes trades automatically without human intervention.</li><li><b>Risk Management:</b> Using statistical models (Monte Carlo Simulations) to predict the worst-case scenario for a bank's portfolio.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to a Quant Career",
+      "title": "Education & Background",
       "nodes": [
         {
           "id": "educational-path-quant",
-          "label": "Essential Qualifications & Rigorous Skills",
-          "description": "<p>The path to becoming a Quant is one of the most academically demanding in all of finance.</p><ul><li><b>Educational Background:</b> A postgraduate degree (Master's or PhD) in a highly quantitative field is almost always a prerequisite. Top fields include <b>Computational Finance, Financial Engineering, Mathematics, Physics, Statistics, and Computer Science</b> from elite institutions like the <b>IITs, Indian Statistical Institute (ISI), or Chennai Mathematical Institute (CMI)</b>.</li><li><b>Core Skills:</b><ul><li><b>Advanced Mathematics:</b> Deep knowledge of probability theory, stochastic calculus, linear algebra, and partial differential equations.</li><li><b>Statistics & Econometrics:</b> Expertise in time-series analysis, statistical inference, and machine learning techniques.</li><li><b>Programming Excellence:</b> High-level proficiency in <b>C++</b> is essential for performance-critical roles in HFT. Strong skills in <b>Python</b> (with libraries like NumPy, Pandas, Scikit-learn) are required for research and data analysis.</li><li><b>Financial Knowledge:</b> While secondary to quantitative skills, a solid understanding of financial markets, derivatives, and asset pricing is necessary.</li></ul></li></ul>"
+          "label": "Education: The Academic Elite",
+          "description": "<p>This is arguably the hardest field to enter. 'Average' usually doesn't cut it here.</p><ul><li><b>Target Institutes:</b> Recruiters focus heavily on <b>IITs (Bombay, Delhi, Kanpur, Madras)</b>, <b>ISI (Indian Statistical Institute)</b>, <b>CMI (Chennai Mathematical Institute)</b>, and <b>IISc</b>.</li><li><b>Preferred Degrees:</b></li><ul><li><b>B.Tech in Computer Science:</b> For execution/developer roles.</li><li><b>M.Stat / M.Math / Physics:</b> For research/modeling roles.</li><li><b>PhD:</b> Often required for the most senior research roles at global banks.</li></ul><li><b>Certifications:</b> <b>CQF (Certificate in Quantitative Finance)</b> is the most respected global certification for working professionals.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-quant",
+          "label": "The Quant Stack: Math + Code",
+          "description": "<p>You need to be a mathematician and a software engineer rolled into one.</p>  <ul><li><b>Mathematics (The Core):</b></li><ul><li><b>Stochastic Calculus:</b> The math of random processes (essential for Black-Scholes models).</li><li><b>Linear Algebra & Probability:</b> Used for portfolio optimization.</li></ul><li><b>Programming (The Tool):</b></li><ul><li><b>C++ (Low Latency):</b> Essential for HFTs. You need to write code that runs in microseconds.</li><li><b>Python (Research):</b> Used for backtesting strategies using libraries like <b>NumPy, Pandas, and Scikit-Learn</b>.</li></ul><li><b>Financial Knowledge:</b> Understanding <b>Derivatives (Options Greeks)</b> and <b>Market Microstructure</b> (how an order book works).</li></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-quant",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>Quant roles in India are concentrated in a few elite segments of the financial industry.</p><ul><li><b>High-Frequency Trading (HFT) Firms:</b> These are the premier employers of quants and are known for their intense, fast-paced environments. Major global HFT firms with a significant presence in India include <b>Tower Research Capital, Jane Street, Optiver, and WorldQuant</b>. Prominent Indian firms include <b>Graviton Research Capital</b>.</li><li><b>Investment Banks:</b> The quantitative modeling and analytics teams at global investment banks hire quants for derivatives pricing, risk management, and algorithmic trading. Key recruiters include <b>Goldman Sachs, J.P. Morgan, Morgan Stanley, and Barclays</b>.</li><li><b>Hedge Funds & AIFs:</b> A growing number of quantitative hedge funds and Alternative Investment Funds (AIFs) in India are hiring quants to develop their investment strategies.</li></ul>"
+          "label": "Who Hires Quants?",
+          "description": "<p>The industry is split between 'Buy Side' (Prop Trading) and 'Sell Side' (Banks).</p><ul><li><b>HFT Firms (The Paymasters):</b> <b>Tower Research, Graviton, Jane Street, Optiver, NK Securities</b>. These firms trade their own money and pay the highest bonuses.</li><li><b>Investment Banks (The Modelers):</b> <b>Goldman Sachs (Strats Team), JPMorgan (QR), Morgan Stanley</b>. They hire quants to price products for clients and manage risk.</li><li><b>Hedge Funds:</b> <b>D.E. Shaw, WorldQuant, Millennium</b>. Focus on longer-term statistical arbitrage strategies.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
       "nodes": [
         {
-          "id": "salary-package-quant",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation for Quants is among the highest in the entire financial industry, with a very large performance-based bonus component.</p><ul><li><b>Junior Quant (often fresh PhD/Master's graduates):</b> The annual compensation, including a joining bonus, can range from <b>₹40 Lakhs to ₹1 Crore+ LPA</b>.</li><li><b>Mid-Level Quant (3-7 years experience):</b> Can expect to earn between <b>₹1 Crore and ₹3 Crores+ LPA</b>, heavily dependent on performance.</li><li><b>Senior Quant / Portfolio Manager (7+ years experience):</b> For experienced professionals who run their own trading books, compensation can be exceptionally high, often exceeding <b>₹3 Crores to ₹10 Crores+ LPA</b>, with the bonus making up the vast majority of the pay.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and vary dramatically. HFT firms generally pay significantly more than investment banks. Compensation is directly tied to the profitability of the strategies developed, making bonuses highly variable year to year.</i></p>"
+          "id": "career-progression-quant",
+          "label": "Career Path",
+          "description": "<p>The hierarchy is flat but meritocratic.</p><ol><li><b>Quant Developer:</b> Implementing the models in C++/Python. Optimizing code speed.</li><li><b>Quant Researcher:</b> Reading academic papers and testing new trading ideas (Backtesting).</li><li><b>Desk Quant / Trader:</b> Managing the live trading system and tweaking parameters in real-time.</li><li><b>Portfolio Manager (PM):</b> Running your own 'Book' (Allocation of capital). You eat what you kill (keep a % of profits).</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-quant",
+          "label": "Salary & The 'Bonus' Culture",
+          "description": "<p>Quants are the highest-paid professionals in finance, often out-earning CEOs.</p><ul><li><b>Entry-Level (Fresh IIT Grad at HFT):</b><br><b>₹40 Lakhs to ₹80 Lakhs per annum (LPA)</b>.<br><i>Top firms like Graviton or Tower Research often offer ₹1 Crore+ packages to freshers including bonuses.</i></li><li><b>Mid-Level (3-5 Years):</b><br><b>₹1 Crore to ₹3 Crores LPA</b>.<br><i>A significant portion (50%+) of this is the year-end performance bonus.</i></li><li><b>Senior Portfolio Manager:</b><br><b>₹5 Crores to ₹10 Crores+ LPA</b>.<br><i>At this level, income is theoretically unlimited as it is a percentage of the trading profits generated.</i></li></ul>"
         }
       ]
     }

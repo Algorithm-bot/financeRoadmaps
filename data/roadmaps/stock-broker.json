@@ -9,7 +9,7 @@
       "nodes": [
         {
           "id": "what-is-stock-broker",
-          "label": "What is a Stock Broker and their Responsibilities?",
+          "label": "Stock Broker and their Responsibilities?",
           "description": "<p>A <b>Stock Broker</b> is a licensed professional or a firm that acts as an intermediary to buy and sell securities (like stocks, futures, and options) on a stock exchange on behalf of investors. They are the gateway for retail and institutional clients to access the capital markets. The entire industry is regulated by the <b>Securities and Exchange Board of India (SEBI)</b>.</p><p>In modern India, the role has evolved significantly. While the traditional image is of a person shouting trades, today's brokers are sophisticated professionals working in various capacities.</p><p><b>Core Responsibilities include:</b></p><ul><li><b>Client Onboarding & KYC:</b> Acquiring new clients and ensuring all Know Your Client (KYC) and regulatory documentation is complete.</li><li><b>Order Execution:</b> Placing buy and sell orders accurately and efficiently on trading terminals as per client instructions.</li><li><b>Advisory & Relationship Management:</b> For full-service brokers, this involves providing clients with research reports, market insights, and investment or trading advice.</li><li><b>Risk Management:</b> Monitoring client positions, managing margin requirements, and making margin calls when necessary to mitigate risk for both the client and the broking firm.</li><li><b>Compliance:</b> Adhering strictly to all rules and regulations set by SEBI and the stock exchanges (NSE, BSE).</li></ul>"
         }
       ]
@@ -27,18 +27,52 @@
           "label": "Essential SEBI/NISM Certifications",
           "description": "<p>This is the most critical and mandatory step. To work in the Indian securities market, specific certifications from the <b>National Institute of Securities Markets (NISM)</b> are required by SEBI.</p><ul><li><b>NISM-Series-VIII: Equity Derivatives Certification Examination:</b> This is the fundamental and most commonly required certification. It is mandatory for any professional involved in the equity derivatives segment (futures & options), which is where most of the trading volume lies.</li><li><b>NISM-Series-VII: Securities Operations and Risk Management Certification Examination:</b> This is often required for individuals working in dealing, operations, and back-office roles within a broking firm.</li></ul><p><b>Without the relevant NISM certifications, it is not possible to work in a client-facing or dealing role at a registered broking firm in India.</b></p>",
           "resources": [
-            { "type": "tool", "title": "NISM Equity Derivatives Certification", "url": "https://www.nism.ac.in/certifications/nism-series-viii-equity-derivatives-certification-examination/" }
+            {
+              "type": "official website",
+              "title": "NISM-Series-VIII: Equity Derivatives Certification Examination",
+              "url": "https://www.nism.ac.in/equity-derivatives/"
+            },
+            {
+              "type": "official website",
+              "title": "NISM Securities Operations and Risk Management Certification",
+              "url": "https://www.nism.ac.in/securities-operations-and-risk-management/"
+            }
           ]
         }
       ]
     },
     {
-      "title": "Career Opportunities & Compensation",
+      "title": "Skills & Tools",
       "nodes": [
         {
-          "id": "job-roles-and-salary-sb",
-          "label": "What types of jobs they can do?",
-          "description": "<p>The broking industry offers a variety of roles, especially within full-service brokerage firms.</p><ul><li><b>Job Roles:</b></li><ul><li><b>Dealer / Equity Trader:</b> Works on a trading terminal, executing trades for multiple clients. This role requires speed, accuracy, and a good understanding of trading software.</li><li><b>Relationship Manager (RM):</b> Manages a portfolio of clients, acting as their primary point of contact, providing them with service, advice, and product information.</li><li><b>Technical Analyst / Research Analyst:</b> Provides trading and investment calls to clients based on technical chart patterns or fundamental research.</li><li><b>Sub-broker / Authorized Person:</b> An entrepreneur who partners with a larger broking house to acquire and service their own clients.</li></ul><li><b>Employers in India:</b></li><ul><li><b>Full-Service Brokers:</b> This is where most jobs are. Firms like <b>ICICI Securities, HDFC Securities, Motilal Oswal, Angel One, Sharekhan, and Kotak Securities</b> hire in large numbers.</li><li><b>Discount Brokers:</b> Firms like <b>Zerodha, Groww, and Upstox</b> have fewer traditional RM/Dealer roles, but they hire for customer support, operations, and technology.</li><li><b>Institutional Broking:</b> These firms cater to large clients like mutual funds and FIIs and hire experienced dealers and sales traders.</li></ul></ul><br><h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Compensation in broking is heavily performance-linked. The fixed salary is often modest, but the potential to earn through incentives, commissions, and bonuses is very high for successful individuals.</p><ul><li><b>Entry-Level (Dealer/Junior RM):</b> Fixed salary of <b>₹3 Lakhs to ₹6 Lakhs per annum (LPA)</b>. The variable component can significantly increase total earnings.</li><li><b>Experienced RM / Senior Dealer:</b> Fixed salary of <b>₹7 Lakhs to ₹15 Lakhs LPA</b>. A top-performing RM can easily earn over <b>₹25-₹30 Lakhs LPA</b> with incentives.</li><li><b>Institutional Dealer / Head of a Branch:</b> Compensation can be very lucrative, with salaries often ranging from <b>₹20 Lakhs to over ₹50 Lakhs LPA</b>.</li></ul>"
+          "id": "essential-skills-tools-sb",
+          "label": "Required Skills & Trading Terminals",
+          "description": "<p>Being a successful broker requires a mix of soft skills and technical proficiency with trading software.</p><ul><li><b>Soft Skills:</b></li><ul><li><b>Stress Tolerance:</b> The market is volatile and clients can panic. A broker must remain calm under pressure.</li><li><b>Communication & Sales:</b> For Relationship Managers, the ability to articulate market views and cross-sell financial products is vital.</li><li><b>Mathematical Aptitude:</b> Quick mental math is required to calculate margins, brokerage, and break-even points on the fly.</li></ul><li><b>Technical Tools:</b></li><ul><li><b>Trading Terminals:</b> Proficiency in standard terminals like <b>ODIN (Diet), NSE NEAT, or Bolt+</b>. Understanding shortcut keys (F1, F2) to punch orders in milliseconds is a specific skill for dealers.</li><li><b>Excel:</b> Used extensively for maintaining client ledgers, calculating P&L, and tracking portfolio performance.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
+      "nodes": [
+        {
+          "id": "job-roles-sb",
+          "label": "Job Roles & Top Employers",
+          "description": "<p>The broking industry offers a variety of roles, categorized broadly by the type of brokerage firm.</p>  <ul><li><b>Job Roles:</b></li><ul><li><b>Dealer / Equity Trader:</b> Works on a trading terminal, executing trades for multiple clients. This role requires speed and accuracy.</li><li><b>Relationship Manager (RM):</b> Manages a portfolio of clients, serving as their primary contact for advice and products.</li><li><b>Technical / Research Analyst:</b> Provides trading calls based on chart patterns or fundamental research.</li><li><b>Authorized Person (Sub-broker):</b> An entrepreneur who partners with a larger broking house to acquire and service their own clients on a revenue-sharing basis.</li></ul><li><b>Employers in India:</b></li><ul><li><b>Full-Service Brokers:</b> (High hiring volume for RMs/Dealers) <b>ICICI Securities, HDFC Securities, Motilal Oswal, Angel One, Sharekhan, Kotak Securities.</b></li><li><b>Discount Brokers:</b> (Hire for Support/Ops/Tech) <b>Zerodha, Groww, Upstox.</b></li><li><b>Institutional Broking:</b> (Hire elite dealers) Firms catering to Mutual Funds and FIIs.</li></ul></ul>"
+        },
+        {
+          "id": "career-progression-sb",
+          "label": "Career Progression Path",
+          "description": "<p>A typical career path for an employee in a retail broking firm follows this trajectory:</p><ol><li><b>Equity Dealer / Trainee:</b> Entry-level role focused on punching orders and learning the terminal.</li><li><b>Senior Dealer / Relationship Manager:</b> Handling High Net-worth Individuals (HNIs) and advising on trades.</li><li><b>Team Leader:</b> Managing a team of 5-10 dealers/RMs.</li><li><b>Branch Manager:</b> Responsible for the P&L of a specific branch location.</li><li><b>Cluster/Regional Head:</b> Overseeing operations and sales for a larger geographical area.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-sb",
+          "label": "Salary Structure & Incentives",
+          "description": "<p>Compensation in the Indian broking industry is unique because it is heavily <b>performance-linked</b>. While fixed salaries may seem modest initially, the 'Variable Pay' or 'Incentive' component can often exceed the fixed salary for high performers.</p><ul><li><b>Entry-Level (Dealer/Junior RM):</b><br>Fixed Salary: <b>₹2.5 Lakhs to ₹4.5 Lakhs per annum (LPA)</b>.<br><i>Note: Freshers are often judged on their ability to generate brokerage revenue.</i></li><li><b>Experienced RM / Senior Dealer (3-5 Years):</b><br>Fixed Salary: <b>₹6 Lakhs to ₹12 Lakhs LPA</b>.<br>Top performers in this bracket can earn an additional ₹2L-₹5L in annual incentives.</li><li><b>Branch Manager / Institutional Dealer:</b><br>Fixed Salary: <b>₹15 Lakhs to ₹30 Lakhs+ LPA</b>.</li><li><b>The 'Authorized Person' (Business Model):</b><br>For those who choose the sub-broker route, there is no salary. Instead, they earn a <b>revenue share (typically 50% to 70%)</b> of the brokerage generated by their clients.</li></ul>"
         }
       ]
     }

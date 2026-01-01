@@ -9,28 +9,53 @@
       "nodes": [
         {
           "id": "what-is-economist",
-          "label": "What is an Economist and their Responsibilities?",
-          "description": "<p>An <b>Economist</b> is a highly trained expert who studies the production and distribution of resources, goods, and services. They analyze data, research trends, and evaluate economic issues to advise businesses, governments, and other organizations. In the Indian context, economists play a pivotal role in shaping public policy and corporate strategy.</p><p>Their work is less about the stock market and more about the big picture: understanding inflation, forecasting GDP growth, analyzing the impact of government policies like the Union Budget, and studying societal issues like poverty and unemployment through a quantitative lens.</p><p><b>Core Responsibilities include:</b></p><ul><li><b>Data Analysis & Econometrics:</b> Using statistical methods (econometrics) and software (like Stata, R, or Python) to analyze economic data and test hypotheses.</li><li><b>Forecasting:</b> Developing models to predict future economic trends, such as inflation rates, interest rates, and consumer spending.</li><li><b>Research & Reporting:</b> Conducting in-depth research on specific economic topics and presenting the findings in research papers, policy briefs, or reports for management.</li><li><b>Policy Advisory:</b> Advising government bodies like the <b>Reserve Bank of India (RBI)</b> or the <b>Ministry of Finance</b> on monetary and fiscal policy decisions.</li></ul>"
+          "label": "Economist and their Responsibilities",
+          "description": "<p>An <b>Economist</b> is a specialist who studies how society uses resources. In the Indian context, they are the architects behind public policy (like the Union Budget) and corporate strategy.</p>  <p>Their work is less about watching stock prices and more about understanding the 'Big Picture'—Inflation, GDP Growth, Employment, and Monetary Policy.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Data Analysis & Econometrics:</b> Using complex statistical models to test theories. For example, <i>'How will a 0.5% hike in repo rate impact car sales in rural India?'</i></li><li><b>Forecasting:</b> Predicting future economic trends (inflation, currency rates) to help businesses plan ahead.</li><li><b>Policy Advisory:</b> Advising the government (via NITI Aayog or Finance Ministry) or corporate boards on strategy.</li><li><b>Research:</b> Writing white papers and reports that influence decision-making at the highest levels.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Academic Gauntlet: Education & Skills",
+      "title": "The Academic Gauntlet",
       "nodes": [
         {
           "id": "educational-path-economist",
-          "label": "The Rigorous Educational Pathway",
-          "description": "<p>Unlike many other finance professions, a career as an economist is built almost entirely on a strong academic foundation. A postgraduate degree is the minimum requirement.</p><ul><li><b>Bachelor's Degree:</b> A <b>B.A. (Hons) or B.Sc. (Hons) in Economics</b> is the starting point. Aspiring economists must target top-tier colleges like St. Stephen's, SRCC in Delhi, Presidency University in Kolkata, or St. Xavier's in Mumbai.</li><li><b>Master's Degree (The Gold Standard):</b> A Master's in Economics is non-negotiable. The entrance exams are highly competitive. The most prestigious institutions are the <b>Delhi School of Economics (DSE)</b> and the <b>Indian Statistical Institute (ISI)</b>. Graduates from these two institutions are aggressively recruited for top roles. Other excellent options include JNU and IGIDR.</li><li><b>Ph.D. (For Top Research Roles):</b> For a career in academia or senior research roles at institutions like the World Bank, IMF, or the RBI's research department, a Ph.D. in Economics (often from a reputed international university) is essential.</li></ul><p><b>Crucial Skills:</b> A strong command of economic theory, mathematics, statistics, and econometrics is vital. Proficiency in statistical software like <b>Stata, R, or Python</b> is now a standard requirement.</p>"
+          "label": "Education: The Critical Path",
+          "description": "<p>Unlike other finance roles, you cannot 'network' your way into an Economist role; you must have the academic credentials. A Master's degree is the absolute minimum.</p><ul><li><b>Master's Degree (The Gold Standard):</b> In India, brand matters immensely. Graduates from the <b>Delhi School of Economics (DSE)</b> and <b>Indian Statistical Institute (ISI)</b> are recruited directly by global banks and the RBI. Other top institutes include <b>IGIDR (Mumbai)</b>, <b>JNU</b>, and <b>MSE (Chennai)</b>.</li><li><b>Ph.D. (The Research Route):</b> For roles at the World Bank, IMF, or as a Chief Economist, a Ph.D. is often mandatory.</li><li><b>Indian Economic Service (IES):</b> A prestigious 'Group A' central government service. Selection is through a rigorous exam conducted by the <b>UPSC</b>.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Opportunities & Compensation",
+      "title": "Skills & Tools",
       "nodes": [
         {
-          "id": "job-roles-and-salary-economist",
-          "label": "What types of jobs they can do?",
-          "description": "<p>Economists are employed in a wide range of sectors where high-level analytical skills are valued.</p><ul><li><b>Government & Public Service:</b></li><ul><li><b>Reserve Bank of India (RBI):</b> The RBI is a top employer for economists, hiring them for its research, monetary policy, and supervision departments.</li><li><b>Indian Economic Service (IES):</b> A prestigious central government service for which UPSC conducts an annual exam. IES officers work in various ministries, including the Ministry of Finance and NITI Aayog.</li></ul><li><b>Corporate Sector:</b></li><ul><li>Large banks (like HDFC, ICICI), financial institutions, and rating agencies (like CRISIL) have economic research teams.</li><li>Major conglomerates (like the Tata Group, Mahindra Group) employ economists to advise on business strategy and forecasting.</li></ul><li><b>Academia & Think Tanks:</b> Professorships at universities and IIMs, or research roles at policy think tanks.</li><li><b>International Organizations:</b> Roles at the World Bank, IMF, and Asian Development Bank, though these are highly competitive and usually require a Ph.D.</li></ul><br><h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Salaries for economists are directly correlated with their educational qualifications. Graduates from premier institutions like DSE and ISI command a significant premium.</p><ul><li><b>Entry-Level (Post-Master's):</b> <b>₹12 Lakhs to ₹25 Lakhs per annum (LPA)</b>. RBI Grade B officers also start in a similar range.</li><li><b>Mid-Career (5-10 years experience):</b> <b>₹30 Lakhs to ₹60 Lakhs LPA</b>.</li><li><b>Senior-Level (Ph.D. or 10+ years experience):</b> Can range from <b>₹70 Lakhs to over ₹2 Crores LPA</b> for a Chief Economist at a major corporation or financial institution.</li></ul>"
+          "id": "essential-skills-tools-economist",
+          "label": "Required Skills & Software",
+          "description": "<p>Modern economics is heavily quantitative. It sits at the intersection of social science and mathematics.</p><ul><li><b>Hard Skills:</b></li><ul><li><b>Econometrics:</b> The ability to apply statistical methods to economic data. This is the core skill that separates an Economist from a general analyst.</li><li><b>Macroeconomic Modeling:</b> Understanding DSGE (Dynamic Stochastic General Equilibrium) models used by central banks.</li><li><b>Writing:</b> The ability to translate complex data into a readable policy brief for non-experts (politicians or CEOs).</li></ul><li><b>Technical Tools:</b></li><ul><li><b>Stata:</b> The standard software for academic research and development economics.</li><li><b>R & Python:</b> Rapidly becoming the industry standard for data cleaning and forecasting in the corporate sector.</li><li><b>EViews:</b> Commonly used for time-series forecasting in banks.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
+      "nodes": [
+        {
+          "id": "job-roles-economist",
+          "label": "Job Roles & Sectors",
+          "description": "<p>Economists have distinct paths in the public and private sectors.</p><ul><li><b>Government & Public Policy:</b></li><ul><li><b>Reserve Bank of India (RBI):</b> The <b>Grade B (DEPR)</b> exam recruits specialist economists for the RBI's research wing.</li><li><b>NITI Aayog / Finance Ministry:</b> Role involves designing policies like PLI schemes or welfare programs.</li></ul><li><b>Corporate Sector:</b></li><ul><li><b>Banking & Finance:</b> HDFC, ICICI, Axis Bank (all have Chief Economists to track interest rates).</li><li><b>Crisil / ICRA / Care:</b> Rating agencies hire economists to analyze sector risks.</li></ul><li><b>Development Sector:</b></li><ul><li><b>Think Tanks:</b> CPR, ICRIER, NCAER (Focus on research papers and advocacy).</li><li><b>Multilaterals:</b> World Bank, UN, ADB (Usually require a PhD).</li></ul></ul>"
+        },
+        {
+          "id": "career-progression-economist",
+          "label": "Career Progression Path",
+          "description": "<p>The growth path relies heavily on expertise and publication record.</p><ol><li><b>Research Analyst / Associate:</b> Data cleaning, literature review, and running basic regressions.</li><li><b>Economist:</b> Independent research, writing reports, and owning specific sectors (e.g., 'Auto Sector Expert').</li><li><b>Senior Economist:</b> Managing a team of analysts, interacting with media, and presenting to clients.</li><li><b>Chief Economist:</b> The face of the organization. Frequently appears on TV (CNBC/ET Now) to give views on the Budget or RBI policy.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-economist",
+          "label": "Salary Structure",
+          "description": "<p>Salaries are bi-modal: huge premiums for top-tier college grads, and average pay for others.</p><ul><li><b>Entry-Level (DSE/ISI/IGIDR Grads):</b><br><b>₹15 Lakhs to ₹25 Lakhs per annum (LPA)</b>.<br><i>Top recruiters include American Express, JPMorgan, and Citi.</i></li><li><b>Entry-Level (Tier-2 Colleges):</b><br><b>₹6 Lakhs to ₹10 Lakhs LPA</b>.<br>Often in roles labeled 'Data Analyst' rather than 'Economist'.</li><li><b>Government (RBI Grade B / IES):</b><br><b>₹18 Lakhs to ₹24 Lakhs LPA</b> (including perks and housing).<br>Offers immense job security and power.</li><li><b>Chief Economist (Corporate/Bank):</b><br><b>₹80 Lakhs to ₹2 Crores+ LPA</b>.<br>This is a C-Suite level role in large financial institutions.</li></ul>"
         }
       ]
     }

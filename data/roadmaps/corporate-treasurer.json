@@ -9,38 +9,58 @@
       "nodes": [
         {
           "id": "what-is-corporate-treasurer",
-          "label": "What is a Corporate Treasurer and their Responsibilities?",
-          "description": "<p>A <b>Corporate Treasurer</b> is a senior finance executive responsible for managing a company's liquidity, capital, and financial risks. While the CFO has a broad strategic view, the Treasurer's role is highly specialized, focusing on the day-to-day and long-term management of the company's cash and financial assets. In the Indian corporate context, this role is crucial for optimizing the balance sheet, managing relationships with banks, and navigating volatile financial markets.</p><p>Key responsibilities are highly analytical and market-facing, including:</p><ul><li><b>Liquidity Management:</b> Ensuring the company has enough cash to meet its daily operational and debt obligations through effective cash flow forecasting.</li><li><b>Capital Markets & Funding:</b> Raising capital by issuing debt (bonds, commercial papers) or managing credit facilities with banks. They also manage the company's credit rating.</li><li><b>Financial Risk Management:</b> Hedging against risks related to foreign exchange (forex) fluctuations, interest rate changes, and commodity price volatility.</li><li><b>Investment Management:</b> Investing the company's surplus cash in safe, liquid, and yield-generating instruments.</li><li><b>Bank Relationship Management:</b> Acting as the primary point of contact for all banking partners.</li></ul>"
+          "label": "What is a Corporate Treasurer?",
+          "description": "<p>A <b>Corporate Treasurer</b> is the guardian of a company's cash. While the CFO looks at the 'Accounting Profit', the Treasurer focuses on 'Real Cash'.</p>  <p>In India, where currency volatility (USD-INR) and interest rates fluctuate, this role is critical. They ensure the company always has enough money to pay salaries and bills, while investing surplus cash to earn returns.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Liquidity Management:</b> Ensuring the company doesn't run out of cash. This involves forecasting daily cash flows.</li><li><b>Financial Risk Management (Forex):</b> Managing the risk of the Rupee falling against the Dollar (crucial for IT exporters like TCS or importers like Oil companies).</li><li><b>Fundraising:</b> Negotiating with banks for loans, issuing Commercial Papers (CPs), or Bonds to raise capital at the lowest interest rate.</li><li><b>Investment:</b> Parking surplus cash in Liquid Mutual Funds or Fixed Deposits to earn safe returns.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to the Treasury Function",
+      "title": "Education & Qualifications",
       "nodes": [
         {
           "id": "educational-path-treasurer",
-          "label": "Essential Qualifications & Career Progression",
-          "description": "<p>A career in corporate treasury requires a strong foundation in finance, capital markets, and risk management.</p><ul><li><b>Chartered Accountant (CA) / MBA (Finance):</b> This combination is the gold standard. A CA provides the technical accounting and financial acumen, while an MBA from a top-tier B-school (IIMs, ISB, FMS) provides strategic thinking and market knowledge.</li><li><b>Relevant Experience:</b> Professionals often transition into corporate treasury after gaining 5-10 years of experience in related fields such as commercial banking, credit rating agencies, or other corporate finance roles.</li><li><b>Career Path:</b> The journey typically starts as a Treasury Analyst or Manager, responsible for specific areas like cash management or forex. With experience, one progresses to Senior Manager, and eventually to the <b>Head of Treasury</b> or <b>Group Treasurer</b>, who reports directly to the CFO.</li></ul>"
+          "label": "Education & Certifications",
+          "description": "<p>This is a specialized finance role that requires deep technical knowledge.</p><ul><li><b>Chartered Accountant (CA):</b> The most common background for Treasurers in India. It provides the necessary understanding of tax, accounting, and compliance.</li><li><b>MBA (Finance):</b> Graduates from top B-Schools (IIMs, ISB, XLRI) are highly sought after for their strategic understanding of banking and markets.</li><li><b>Specialized Certifications:</b><ul><li><b>CFA (Chartered Financial Analyst):</b> Highly valued for investment management roles within treasury.</li><li><b>ACT (Association of Corporate Treasurers):</b> A UK-based global certification that is increasingly recognized by Indian MNCs.</li></ul></li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-treasurer",
+          "label": "Dealing Room Tools & Skills",
+          "description": "<p>A Treasurer often sits in a 'Dealing Room' and uses sophisticated tools to track markets in real-time.</p><ul><li><b>Tech Stack:</b></li><ul><li><b>Bloomberg Terminal / Refinitiv Eikon:</b> The standard tools for tracking live currency rates (USD/INR), bond yields, and news.</li><li><b>Treasury Management Systems (TMS):</b> Software like <b>SAP Treasury (TRM), FIS, or Kyriba</b> used to automate cash operations.</li><li><b>FxAll / 360T:</b> Platforms used for executing foreign exchange trades electronically.</li></ul><li><b>Hard Skills:</b></li><ul><li><b>Hedging Strategies:</b> Knowing when to use Forwards, Options, or Swaps to protect the company from losses.</li><li><b>Negotiation:</b> Bargaining with banks to get the lowest interest rate on loans (spread compression).</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-treasurer",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>Sophisticated treasury functions are typically found in large, complex organizations with significant financial operations.</p><ul><li><b>Large Indian Conglomerates:</b> Companies with extensive national and international operations like <b>Reliance Industries, Tata Steel, Mahindra & Mahindra, and Aditya Birla Group</b> have large and powerful treasury teams to manage their complex funding and risk management needs.</li><li><b>IT & Export-Oriented Companies:</b> Major IT exporters like <b>TCS, Infosys, and Wipro</b> have very active treasury departments focused on managing their vast foreign currency earnings and hedging forex risk.</li><li><b>Multinational Corporations (MNCs):</b> The Indian arms of large MNCs also have significant treasury functions to manage local operations and repatriate funds.</li><li><b>Large Banks:</b> While they have their own Treasury department for managing the bank's own funds (a different role), they also hire Relationship Managers who specifically cater to the needs of Corporate Treasurers.</li></ul>"
+          "label": "Where do Treasurers Work?",
+          "description": "<p>Not every company needs a Treasurer. This role exists primarily in cash-rich or trade-heavy organizations.</p><ul><li><b>IT & Pharma (Exporters):</b> <b>TCS, Infosys, Sun Pharma</b>. These companies earn billions in Dollars and need huge treasury teams to manage forex risk.</li><li><b>Conglomerates (Capital Heavy):</b> <b>Reliance, Tata Steel, Adani Group</b>. These firms constantly raise huge debt (loans) and need treasurers to manage repayments and interest rates.</li><li><b>MNC Subsidiaries:</b> <b>Unilever, Nestle, Siemens</b>. Managing cash repatriation to the parent company.</li><li><b>Banking:</b> Many corporate treasurers transition to working <i>for</i> banks as 'Corporate Sales Dealers'.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
+      "nodes": [
+        {
+          "id": "career-progression-treasurer",
+          "label": "Career Ladder",
+          "description": "<p>The path is linear and highly specialized.</p><ol><li><b>Treasury Analyst:</b> Preparing the daily 'Cash Position' report (how much money is in the bank today).</li><li><b>Treasury Manager / Dealer:</b> Executing forex trades, placing FD investments, and talking to bankers.</li><li><b>Assistant VP (AVP) Treasury:</b> Managing a specific desk (e.g., Forex Desk or Domestic Cash Desk).</li><li><b>Group Treasurer / Head of Treasury:</b> Responsible for the entire group's liquidity and risk. Reports to the CFO.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
       "nodes": [
         {
           "id": "salary-package-treasurer",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation in corporate treasury is very competitive, reflecting the high level of responsibility and specialized skills required.</p><ul><li><b>Manager Level (5-10 years experience):</b> The annual compensation typically ranges from <b>₹20 Lakhs to ₹40 Lakhs LPA</b>.</li><li><b>Senior Manager / AVP Level (10-15 years experience):</b> Can expect to earn between <b>₹40 Lakhs and ₹75 Lakhs LPA</b>.</li><li><b>Head of Treasury / Group Treasurer (15+ years experience):</b> For a large, listed company, the total compensation for the head of the function often ranges from <b>₹80 Lakhs to ₹2 Crores+ LPA</b>, including performance-based bonuses.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size and complexity of the company's treasury operations, the industry, and individual experience and qualifications.</i></p>"
+          "label": "Salary Structure",
+          "description": "<p>Treasurers are paid well because a single mistake in hedging can cost the company Crores.</p><ul><li><b>Entry-Level (Analyst - 0-3 Years):</b><br><b>₹8 Lakhs to ₹15 Lakhs per annum (LPA)</b>.<br><i>Typically CA freshers or MBA grads.</i></li><li><b>Mid-Level (Manager/Dealer - 4-8 Years):</b><br><b>₹20 Lakhs to ₹40 Lakhs LPA</b>.<br><i>Bonuses are significant here if the dealer manages the portfolio well.</i></li><li><b>Senior-Level (Group Treasurer):</b><br><b>₹80 Lakhs to ₹2.5 Crores+ LPA</b>.<br>In top conglomerates (like Reliance or Tata), the Treasurer is a key strategic leader with compensation rivaling the CEO of smaller firms.</li></ul>"
         }
       ]
     }

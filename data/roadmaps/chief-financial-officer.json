@@ -9,8 +9,8 @@
       "nodes": [
         {
           "id": "what-is-cfo",
-          "label": "What is a Chief Financial Officer and their Responsibilities?",
-          "description": "<p>The <b>Chief Financial Officer (CFO)</b> is a C-suite executive and one of the most critical leaders in an organization, responsible for overseeing the entire financial health of the company. In the modern Indian corporate landscape, the CFO has evolved from a traditional accountant to a strategic partner to the CEO, deeply involved in shaping the company's future. They are the primary spokesperson for the company's financial performance to investors, the board of directors, and regulatory bodies like SEBI.</p><p>Key responsibilities are broad and strategic, including:</p><ul><li><b>Corporate Strategy:</b> Playing a key role in developing the company's long-term strategic plans, including mergers and acquisitions (M&A), and capital allocation.</li><li><b>Financial Stewardship:</b> Ensuring robust financial controls, accurate reporting (as per Ind AS), and effective risk management across the organization.</li><li><b>Capital Management:</b> Managing the company's capital structure, including raising funds through debt or equity, and managing investor relations.</li><li><b>Leadership:</b> Leading and mentoring the entire finance function, which includes treasury, financial planning & analysis (FP&A), accounting, and tax departments.</li></ul>"
+          "label": "What is a Chief Financial Officer?",
+          "description": "<p>The <b>Chief Financial Officer (CFO)</b> is the co-pilot of the CEO. In modern Indian corporate history, the CFO has evolved from a 'Bean Counter' to a 'Strategic Partner'.</p>  <p>They are the face of the company for investors, banks, and the stock market. Their signature is on the Balance Sheet, making them legally responsible for the company's financial truth.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Capital Allocation:</b> Deciding where to spend the company's money. Should we build a new factory, buy a competitor (M&A), or give dividends to shareholders?</li><li><b>Fundraising:</b> Leading the roadshows to raise money via IPOs, QIPs, or Debt Bonds.</li><li><b>Investor Relations (IR):</b> explaining the company's quarterly performance to analysts and institutional investors.</li><li><b>Governance:</b> Ensuring the company strictly follows SEBI, MCA, and RBI regulations to avoid scandals.</li></ul>"
         }
       ]
     },
@@ -19,28 +19,48 @@
       "nodes": [
         {
           "id": "educational-path-cfo",
-          "label": "Essential Qualifications & Career Progression",
-          "description": "<p>The path to becoming a CFO is a long-term journey that requires a stellar track record and deep expertise.</p><ul><li><b>Chartered Accountant (CA):</b> In India, a CA qualification from the Institute of Chartered Accountants of India (ICAI) is almost a mandatory prerequisite for a credible CFO.</li><li><b>MBA (Finance):</b> A postgraduate degree or MBA from a top-tier institution like the IIMs or ISB is highly common and provides the necessary strategic and leadership skills.</li><li><b>Extensive Experience:</b> A CFO typically has <b>15-20+ years</b> of progressive experience. The career path usually involves starting in a role like audit or accounting, then moving up through various finance leadership positions such as Financial Controller, Head of FP&A, or Treasurer.</li><li><b>Cross-Functional Exposure:</b> Aspiring CFOs need broad experience across different facets of finance and ideally, exposure to business operations to develop a holistic understanding of the company.</li></ul>"
+          "label": "Education & Experience",
+          "description": "<p>You cannot hack your way to this role; it requires decades of proven integrity and competence.</p><ul><li><b>Chartered Accountant (CA):</b> In India, 80-90% of CFOs are CAs. It is the gold standard because it ensures you know tax, audit, and compliance inside out.</li><li><b>MBA (Finance):</b> An MBA from a top IIM or ISB is the accelerator. It helps technical accountants understand strategy, marketing, and leadership.</li><li><b>Experience Requirement:</b> A typical CFO has <b>15 to 20+ years</b> of experience. You usually need to have survived a few financial crises to be trusted with this seat.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-cfo",
+          "label": "The CFO Toolkit",
+          "description": "<p>At this level, you don't use Excel much; you use judgment.</p><ul><li><b>Strategic Skills:</b></li><ul><li><b>Storytelling:</b> The ability to narrate the company's growth story to investors during an Earnings Call.</li><li><b>Risk Management:</b> Identifying threats (e.g., currency fluctuation, geopolitical war) before they hit the P&L.</li><li><b>M&A Negotiation:</b> The ability to close deals and integrate new companies.</li></ul><li><b>Tech & Tools:</b></li><ul><li><b>ERP Systems:</b> Oversight of <b>SAP S/4HANA or Oracle</b> implementation to ensure real-time data flow.</li><li><b>Board Reporting Tools:</b> Platforms like <b>Diligent</b> for secure communication with the Board of Directors.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-cfo",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>The CFO position exists in every medium to large-scale company, making it a universal role in the corporate world.</p><ul><li><b>Listed Indian Companies & Conglomerates:</b> The most prominent CFO roles are with India's largest listed companies, such as <b>Reliance Industries, Tata Group companies (TCS, Tata Motors), HDFC Bank, and Infosys</b>.</li><li><b>Multinational Corporations (MNCs):</b> The India CFO of large global companies like <b>Hindustan Unilever, Microsoft India, or Amazon India</b> is a highly prestigious role.</li><li><b>Private Equity Backed Companies & Startups:</b> The role of the CFO in high-growth startups is crucial for managing cash flow, fundraising, and preparing the company for a potential IPO.</li><li><b>Career Progression:</b> A successful CFO is often considered for the <b>Chief Executive Officer (CEO)</b> role or may take up board positions as an Independent Director in other companies after their executive career.</li></ul>"
+          "label": "Types of CFO Roles",
+          "description": "<p>The CFO role exists in every medium-to-large company, but the flavor changes.</p><ul><li><b>The 'Startup' CFO:</b> Focuses on <b>Fundraising</b> (Series A/B/C) and managing 'Burn Rate'. Often acts as HR and Admin head too.</li><li><b>The 'Public Company' CFO:</b> Focuses on <b>Quarterly Results</b>, SEBI Compliance, and managing the share price expectation.</li><li><b>The 'Turnaround' CFO:</b> Hired when a company is dying. Focuses on cutting costs, restructuring debt, and saving cash.</li><li><b>Top Employers:</b> <b>Reliance, Tata Group, HDFC Bank, Infosys, HUL</b>. These are the most prestigious seats in Indian finance.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
       "nodes": [
         {
-          "id": "salary-package-cfo",
-          "label": "Salary Package & Compensation",
-          "description": "<p>As a C-suite executive, the CFO's compensation is among the highest in any organization and is heavily tied to the company's performance.</p><ul><li><b>Mid-Sized Companies:</b> The annual compensation can range from <b>₹70 Lakhs to ₹2 Crores</b>.</li><li><b>Large Listed Companies:</b> For a CFO of a large, well-established company in India, the total compensation is typically in the range of <b>₹3 Crores to ₹10 Crores LPA</b>.</li><li><b>Top-Tier NIFTY 50 Companies:</b> For the largest and most complex businesses, total compensation, including substantial stock options (ESOPs), can exceed <b>₹15-20 Crores per annum</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and vary greatly based on the company's size, industry, profitability, and stock performance. A significant portion of a CFO's compensation is variable and linked to long-term value creation.</i></p>"
+          "id": "career-progression-cfo",
+          "label": "The Climb to the Top",
+          "description": "<p>The typical ladder to the corner office looks like this:</p><ol><li><b>Management Trainee / Analyst:</b> Learning the ropes in Audit or FP&A.</li><li><b>Finance Manager / Controller:</b> Ensuring the books are closed on time and accurate.</li><li><b>VP of Finance / Head of Treasury:</b> Managing relationships with banks and handling tax strategies.</li><li><b>CFO:</b> The ultimate finance boss.</li><li><b>CEO:</b> Many modern CEOs (like Indra Nooyi) started as CFOs because they understand the business metrics better than anyone else.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-cfo",
+          "label": "Salary, ESOPs & Perks",
+          "description": "<p>CFO compensation is complex. The 'Fixed Salary' is often just 50% of the total earnings.</p><ul><li><b>Mid-Sized / Series B Startup CFO:</b><br><b>₹60 Lakhs to ₹1.5 Crores per annum (LPA)</b>.<br><i>Plus significant ESOPs (Stock Options) that can be worth Crores on exit.</i></li><li><b>Large Listed Company (CFO):</b><br><b>₹3 Crores to ₹8 Crores LPA</b>.</li><li><b>NIFTY 50 CFO (The Elite):</b><br><b>₹10 Crores to ₹20 Crores+ LPA</b>.<br><i>For example, the CFOs of giants like Reliance or HDFC Bank are among the highest-paid employees in the country.</i></li></ul>"
         }
       ]
     }

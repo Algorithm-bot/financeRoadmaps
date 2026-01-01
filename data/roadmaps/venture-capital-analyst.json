@@ -9,28 +9,53 @@
       "nodes": [
         {
           "id": "what-is-vc-analyst",
-          "label": "What is a Venture Capital Analyst and their Responsibilities?",
-          "description": "<p>A <b>Venture Capital (VC) Analyst</b> or Associate is an investment professional who works for a VC fund. These funds raise capital from investors (Limited Partners or LPs) to invest in early-stage, high-potential, high-risk startup companies. Unlike Private Equity which focuses on established companies, VC is all about identifying and funding the 'next big thing'—the future unicorns of India's vibrant startup ecosystem.</p><p>A VC's job is not just to provide money; they act as partners to founders, providing guidance, strategic advice, and access to their network to help the startup grow exponentially.</p><p><b>Core Responsibilities of an Analyst/Associate:</b></p><ul><li><b>Deal Sourcing:</b> This is the lifeblood of VC. Analysts spend a huge amount of time networking, attending startup events, and building relationships to find promising startups before anyone else does.</li><li><b>Market Research & Thesis Building:</b> Conducting deep research into specific sectors (like FinTech, SaaS, HealthTech) to form an investment thesis about where the next wave of innovation will come from.</li><li><b>Due Diligence:</b> When a potential investment is found, the analyst dives deep. This involves analyzing the product, talking to customers, assessing the size of the market (TAM/SAM/SOM), and most importantly, evaluating the strength and vision of the founding team.</li><li><b>Financial & Metrics Analysis:</b> While less about complex LBO models, they heavily analyze startup metrics like Unit Economics (LTV/CAC), cohort analysis, burn rate, and capitalization tables (cap tables).</li><li><b>Portfolio Support:</b> After investing, VCs work closely with their portfolio companies, helping them with hiring, strategy, and raising future rounds of funding.</li></ul>"
+          "label": "Venture Capital Analyst and their Responsibilities",
+          "description": "<p>A <b>Venture Capital (VC) Analyst</b> is an investment professional who works for a VC fund. These funds raise capital from Limited Partners (LPs) to invest in early-stage, high-potential, high-risk startup companies.</p>  <p>Unlike Private Equity, which focuses on established companies with cash flows, VC is about identifying the 'next big thing'—the future unicorns of India's startup ecosystem.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Deal Sourcing:</b> The lifeblood of an analyst's role. It involves networking, attending events, and cold-calling founders to find promising startups before other funds do.</li><li><b>Market Research & Thesis Building:</b> conducting deep dives into sectors (e.g., GenAI, D2C, Fintech) to form an investment 'thesis'.</li><li><b>Due Diligence (DD):</b> Evaluating a startup's product, market size (TAM/SAM/SOM), and most importantly, the founder's vision and capability.</li><li><b>Portfolio Management:</b> Supporting companies the fund has already invested in with hiring, strategy, and tracking monthly metrics (MIS).</li></ul>"
         }
       ]
     },
     {
-      "title": "The Diverse Path to Venture Capital",
+      "title": "Entry Pathways",
       "nodes": [
         {
           "id": "educational-and-experience-vc",
-          "label": "Unique Educational & Experience Pathways",
-          "description": "<p>Venture Capital has one of the most diverse entry paths in finance. While a top-tier education is a huge plus (IITs for tech, IIMs/ISB for business), what you've *done* is often more important than what you've studied.</p><ol><li><b>The Startup Operator (Most Respected Path):</b> The most common and valued entry point in India is having worked at a well-known, high-growth startup (e.g., Flipkart, Swiggy, Zerodha, Freshworks). Experience in roles like <b>Product Management, Growth, or Strategy</b> gives you firsthand understanding of how startups are built.</li><li><b>The Founder:</b> Having founded a startup yourself—even if it failed—is considered invaluable experience. It shows you understand the founder's journey and have real-world grit.</li><li><b>Investment Banking / Consulting:</b> While a valid path, it's less of a direct feeder than for PE. The analytical rigor is valued, but candidates need to demonstrate a genuine passion for startups and technology.</li><li><b>Technical Background:</b> An engineering degree, especially in Computer Science from a top IIT, combined with some work experience, is a powerful combination as it helps in evaluating deep-tech startups.</li></ol><p><b>Key takeaway:</b> VC firms hire for passion, network, and unique insights into technology and startups, not just for financial modeling skills.</p>"
+          "label": "Education & Experience Pathways",
+          "description": "<p>Venture Capital has one of the most diverse entry paths in finance. What you have *built* or *operated* is often more important than just what you have studied.</p><ul><li><b>The Startup Operator (Gold Standard):</b> Experience working at a high-growth startup (e.g., Swiggy, Zepto, Cred) in roles like <b>Product Management, Growth, or Chief of Staff</b> is highly valued. It proves you understand the chaos of building a company.</li><li><b>The Former Founder:</b> Having founded a startup—even if it failed—is considered invaluable. It gives you 'founder empathy' and the ability to spot real grit in others.</li><li><b>IB / Consulting Route:</b> Analysts from top Investment Banks or Consulting firms (McKinsey, BCG) are hired for their analytical rigor, though they must demonstrate a passion for tech.</li><li><b>Educational Pedigree:</b> While not a strict rule, top funds in India heavily recruit from <b>IITs (for technical insight)</b> and <b>IIMs/ISB (for business network)</b>.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Progression & Compensation",
+      "title": "Skills & Tools",
       "nodes": [
         {
-          "id": "job-roles-and-salary-vc",
-          "label": "What types of jobs they can do?",
-          "description": "<p>The career ladder in Venture Capital is about building credibility and a track record of successful investments.</p><ul><li><b>Career Path:</b> <i>Analyst → Associate → Principal → Partner / Managing Director.</i> Moving up depends on your ability to source great deals that generate returns for the fund.</li><li><b>Employers in India:</b> The Indian VC ecosystem is mature with many global and homegrown funds.<ul><li><b>Global Funds with Indian Presence:</b> Peak XV Partners (formerly Sequoia India), Accel, Lightspeed Venture Partners, Tiger Global, Andreessen Horowitz (a16z).</li><li><b>Top Indian Funds:</b> Elevation Capital, Blume Ventures, Chiratae Ventures, Matrix Partners India, Nexus Venture Partners, Kalaari Capital.</li><li><b>Corporate VC (CVC):</b> Investment arms of large corporations like Reliance (JioGenNext), Google (Google for Startups), and others.</li></ul></ul><br><h4><b>Salary & Compensation (Approximate figures in INR):</b></h4><p>VC compensation is structured to reward long-term success. It includes a base salary, a bonus, and 'carried interest' for senior members.</p><ul><li><b>Analyst / Associate:</b> Base salary of <b>₹25 Lakhs - ₹50 Lakhs LPA</b> plus a bonus of 20-50%. Total compensation can be in the <b>₹35 Lakhs to ₹70 Lakhs</b> range.</li><li><b>Principal / Vice President (VP):</b> All-in compensation typically ranges from <b>₹80 Lakhs to ₹2 Crores+ LPA</b>. They also start participating in the fund's carried interest.</li><li><b>Partner:</b> The base salary and bonus are high, but the vast majority of a Partner's wealth comes from 'carried interest'. A single successful investment (like an early check into a company that becomes a unicorn) can result in a multi-crore payout for the partners when the fund exits the investment years later.</li></ul><p><i><b>Disclaimer:</b> VC is a high-risk, high-reward game. It's an apprenticeship model where you learn by doing. The work is less about spreadsheets and more about people, ideas, and relentless networking.</i></p>"
+          "id": "essential-skills-tools-vc",
+          "label": "Required Skills & Tool Stack",
+          "description": "<p>A VC Analyst needs a unique blend of networking hustler and financial analyst.</p>  <ul><li><b>Hard Skills:</b></li><ul><li><b>Market Sizing:</b> Ability to estimate the Total Addressable Market (TAM) using Fermi problems and bottom-up analysis.</li><li><b>Startup Metrics:</b> Deep understanding of SaaS and consumer metrics like <b>CAC, LTV, Churn, ARR, Burn Rate, and MoM Growth</b>.</li><li><b>Cap Table Math:</b> Understanding dilution, pre-money vs. post-money valuation, and liquidation preferences.</li></ul><li><b>Tools of the Trade:</b></li><ul><li><b>Market Intelligence:</b> <b>Tracxn</b> (widely used in India), <b>Crunchbase</b>, and <b>PitchBook</b> for tracking funding rounds.</li><li><b>Productivity:</b> <b>Notion</b> (for investment memos), <b>Excel</b> (for light modeling), and <b>LinkedIn/Twitter</b> (for sourcing and personal branding).</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
+      "nodes": [
+        {
+          "id": "job-roles-vc",
+          "label": "Types of Funds & Employers",
+          "description": "<p>The Indian VC ecosystem is mature, hosting both global giants and homegrown funds.</p><ul><li><b>Top Tier Global Funds:</b> <b>Peak XV Partners (formerly Sequoia India), Accel, Lightspeed, Matrix Partners.</b> These funds write large checks and have structured analyst programs.</li><li><b>Top Indian Funds:</b> <b>Blume Ventures, Elevation Capital, Chiratae Ventures, Nexus Venture Partners.</b></li><li><b>Micro VCs & Early Stage:</b> Funds like <b>Better Capital, Titan Capital, and 3one4 Capital</b>. Teams are smaller here, so Analysts get more exposure to Partners.</li><li><b>Corporate VC (CVC):</b> Investment arms of large companies, such as <b>Google Ventures or Reliance JioGenNext</b>.</li></ul>"
+        },
+        {
+          "id": "career-progression-vc",
+          "label": "Career Progression Path",
+          "description": "<p>The ladder in VC is steep and narrow. Moving up requires not just smarts, but a track record of sourcing 'winners'.</p><ol><li><b>Analyst (2-3 Years):</b> Focus on sourcing, market research, and first-level screening of startups.</li><li><b>Associate / Senior Associate:</b> Leads the due diligence process, writes Investment Memos, and manages portfolio relationships.</li><li><b>Principal / Vice President:</b> Starts leading deals independently, sits on company boards, and builds their own brand in the ecosystem.</li><li><b>Partner / General Partner (GP):</b> The decision-maker. Responsible for fundraising from LPs and making the final 'Yes/No' on investments.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-vc",
+          "label": "Salary, Bonus & Carried Interest",
+          "description": "<p>VC compensation is structured for the long term. The real wealth is not in the salary, but in the 'Carry'.</p><ul><li><b>Analyst / Senior Analyst:</b><br>Fixed Salary: <b>₹18 Lakhs to ₹30 Lakhs LPA</b>.<br><i>Note: At this level, you generally do not get Carried Interest.</i></li><li><b>Associate:</b><br>Fixed Salary: <b>₹35 Lakhs to ₹60 Lakhs LPA</b> + Performance Bonus.</li><li><b>Principal / VP:</b><br>Fixed Salary: <b>₹80 Lakhs to ₹1.5 Crores LPA</b>.<br><i>Carry:</i> They may start receiving small points of 'Carry'.</li><li><b>What is Carried Interest ('Carry')?</b><br>This is the share of profits the investment team gets if the fund performs well. For Partners, this can amount to <b>Crores of Rupees</b> in a single payout, but it takes 7-10 years (the lifecycle of a fund) to realize these gains.</li></ul>"
         }
       ]
     }

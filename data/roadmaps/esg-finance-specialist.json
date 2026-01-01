@@ -9,38 +9,58 @@
       "nodes": [
         {
           "id": "what-is-esg-specialist",
-          "label": "What is an ESG Finance Specialist and their Responsibilities?",
-          "description": "<p>An <b>ESG Finance Specialist</b> is a professional who integrates environmental, social, and governance factors into financial analysis and investment decision-making. They help companies and investors understand and manage the risks and opportunities associated with sustainability issues. In the Indian context, this role has gained immense importance due to regulatory pushes like SEBI's Business Responsibility and Sustainability Reporting (BRSR) framework, which is mandatory for the top 1000 listed companies.</p><p>Key responsibilities are a mix of data analysis, strategic thinking, and regulatory compliance:</p><ul><li><b>ESG Data Analysis:</b> Collecting, cleaning, and analyzing complex ESG data from various sources to assess a company's performance.</li><li><b>Regulatory Reporting:</b> Preparing and managing disclosures as per frameworks like SEBI's BRSR, ensuring compliance and accuracy.</li><li><b>Investment Integration:</b> Assisting asset managers in integrating ESG criteria into their investment portfolios, from screening to active engagement.</li><li><b>Stakeholder Engagement:</b> Communicating with investors, rating agencies, and internal business teams on ESG strategy and performance.</li><li><b>Risk Management:</b> Identifying physical and transition risks related to climate change and other ESG factors that could impact the company's financial health.</li></ul>"
+          "label": "What is an ESG Specialist?",
+          "description": "<p>An <b>ESG Finance Specialist</b> bridges the gap between 'Profit' and 'Planet'. They analyze non-financial risks that can destroy a company's value.</p>  <p>In India, this role has exploded because <b>SEBI</b> made it mandatory for the top 1,000 listed companies to publish a 'Business Responsibility and Sustainability Report' (BRSR).</p><p><b>Core Responsibilities:</b></p><ul><li><b>ESG Integration:</b> Helping Fund Managers decide: <i>'Should we invest in this cement company given its high carbon footprint?'</i></li><li><b>Regulatory Reporting:</b> Collecting data on water usage, gender diversity, and board independence to file the <b>BRSR</b> report.</li><li><b>Green Financing:</b> Structuring 'Green Bonds' where the money raised is used only for renewable energy projects.</li><li><b>Carbon Accounting:</b> Calculating the company's Scope 1, 2, and 3 emissions.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to a Sustainable Career",
+      "title": "Education & Certifications",
       "nodes": [
         {
           "id": "educational-path-esg",
-          "label": "Essential Qualifications & Skill Development",
-          "description": "<p>The path to an ESG career is multi-disciplinary, valuing a blend of financial, analytical, and sustainability knowledge.</p><ul><li><b>Educational Background:</b> A strong academic background in Finance (<b>MBA, CA, CFA</b>), Economics, Environmental Science, or Sustainability is highly advantageous.</li><li><b>Professional Certifications:</b> specialized certifications are becoming increasingly important. Key global certifications include the <b>CFA Institute's Certificate in ESG Investing</b>, certifications from the <b>Global Reporting Initiative (GRI)</b>, and the <b>SASB FSA Credential</b>.</li><li><b>Regulatory Knowledge:</b> Deep familiarity with Indian regulations, especially <b>SEBI's BRSR framework</b>, is a must for roles based in India. Understanding global standards like TCFD and ISSB is also crucial.</li><li><b>Analytical Skills:</b> Proficiency in data analysis tools, including advanced Excel and familiarity with ESG data platforms, is required to manage and interpret sustainability data effectively.</li></ul>"
+          "label": "Education: The Green Badge",
+          "description": "<p>You need a mix of Finance and Sustainability knowledge.</p><ul><li><b>Base Degree:</b> <b>MBA (Finance), CA, or CFA</b>. Pure Environmental Science grads often struggle with the 'Finance' part of the job.</li><li><b>The Gold Standard: CFA Institute Certificate in ESG Investing:</b> This is the most recognized global certification for finance professionals entering this space.</li><li><b>Other Certifications:</b> <b>GARP SCR (Sustainability and Climate Risk)</b> for risk professionals, and <b>FSA (SASB)</b> for reporting specialists.</li><li><b>Knowledge of Frameworks:</b> Deep understanding of <b>GRI (Global Reporting Initiative)</b>, <b>TCFD (Climate-related Financial Disclosures)</b>, and <b>BRSR (India specific)</b>.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-esg",
+          "label": "The Sustainability Toolkit",
+          "description": "<p>ESG is data-heavy. You are not planting trees; you are auditing spreadsheets.</p><ul><li><b>Hard Skills:</b></li><ul><li><b>Carbon Accounting:</b> The ability to convert 'Litres of Diesel burnt' into 'Tonnes of CO2 equivalent' using emission factors.</li><li><b>Green Taxonomy:</b> Knowing what counts as 'Green' under EU and Indian regulations to prevent 'Greenwashing'.</li></ul><li><b>Tools of the Trade:</b></li><ul><li><b>ESG Data Platforms:</b> <b>MSCI ESG Manager, Sustainalytics, Bloomberg Terminal (ESG function)</b>.</li><li><b>Reporting Software:</b> <b>Workiva</b> or <b>Salesforce Net Zero Cloud</b> used by large companies to track emissions.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-esg",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>The demand for ESG specialists in India is rapidly growing across various sectors.</p><ul><li><b>Large Listed Corporations:</b> Top Indian companies, especially those in the NIFTY 50/100 like the <b>Tata Group, Reliance Industries, and Infosys</b>, have dedicated sustainability and ESG teams to manage their reporting and strategy.</li><li><b>Asset Management Companies (AMCs):</b> As ESG-themed mutual funds gain popularity, AMCs like <b>SBI Mutual Fund, HDFC AMC, and UTI AMC</b> are hiring ESG analysts for their investment teams.</li><li><b>Consulting Firms:</b> The Big 4 (<b>PwC, Deloitte, EY, KPMG</b>) and other major consulting firms (<b>BCG, McKinsey</b>) have rapidly expanding sustainability and ESG advisory practices.</li><li><b>ESG Rating Agencies:</b> Firms like <b>CRISIL (an S&P Global company), MSCI, and Sustainalytics</b> have large teams in India that rate companies on their ESG performance.</li><li><b>Stock Exchanges:</b> The <b>National Stock Exchange (NSE)</b> and <b>BSE</b> also have departments focused on ESG indices and corporate governance.</li></ul>"
+          "label": "Who Hires ESG Specialists?",
+          "description": "<p>Demand currently exceeds supply in India.</p><ul><li><b>Consulting (The Big 4):</b> <b>EY, PwC, Deloitte, KPMG</b>. They have massive 'Climate Change and Sustainability Services' (CC&SS) teams that help clients write BRSR reports.</li><li><b>Rating Agencies:</b> <b>CRISIL, ICRA, MSCI (Mumbai office)</b>. They hire analysts to grade companies on their ESG performance.</li><li><b>Corporates:</b> <b>Tata Steel, Reliance, ITC</b>. Large companies have in-house Sustainability Offices to manage their net-zero targets.</li><li><b>Asset Managers (AMCs):</b> <b>SBI MF, HDFC AMC, Kotak MF</b>. Hiring ESG analysts to manage 'ESG-Themed Mutual Funds'.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
       "nodes": [
         {
-          "id": "salary-package-esg",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation for ESG professionals in India is becoming increasingly competitive as the demand for skilled talent outpaces supply.</p><ul><li><b>Junior/Entry-Level Analyst (0-4 years experience):</b> The annual compensation typically ranges from <b>₹8 Lakhs to ₹18 Lakhs LPA</b>.</li><li><b>Mid-Level Manager (5-10 years experience):</b> Can expect to earn between <b>₹20 Lakhs and ₹40 Lakhs LPA</b>.</li><li><b>Senior Leader / Head of Sustainability (10+ years experience):</b> For experienced professionals leading the ESG function, compensation often ranges from <b>₹45 Lakhs to ₹90 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size and type of the company (e.g., a consulting firm may pay more than a corporate role), the city of employment, and the candidate's specific qualifications and international certifications.</i></p>"
+          "id": "career-progression-esg",
+          "label": "Career Path",
+          "description": "<p>The ladder moves from data collection to strategy.</p><ol><li><b>ESG Analyst:</b> Collecting data (e.g., electricity bills, HR data) and mapping it to GRI standards.</li><li><b>Sustainability Manager:</b> Managing the annual reporting cycle (BRSR) and coordinating with auditors.</li><li><b>Head of ESG / Chief Sustainability Officer (CSO):</b> Setting the company's 2030 Net Zero strategy and presenting to the Board.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-esg",
+          "label": "Salary & The 'Green Premium'",
+          "description": "<p>Because this is a niche skill, professionals often command a premium over traditional finance roles.</p><ul><li><b>Entry-Level (Analyst - 0-3 Years):</b><br><b>₹8 Lakhs to ₹15 Lakhs per annum (LPA)</b>.<br><i>Big 4 consulting firms are the best paymasters at this level.</i></li><li><b>Mid-Level (Manager - 4-8 Years):</b><br><b>₹18 Lakhs to ₹35 Lakhs LPA</b>.<br><i>Professionals with the CFA ESG certificate often sit at the top of this band.</i></li><li><b>Senior-Level (Head of ESG):</b><br><b>₹50 Lakhs to ₹1 Crore+ LPA</b>.<br><i>As companies race to meet Net Zero targets, CSOs are becoming key strategic hires.</i></li></ul>"
         }
       ]
     }

@@ -2,6 +2,7 @@ import '../styles/globals.css'
 import type { Metadata } from 'next'
 import { ReactNode } from 'react'
 import ClientProviders from '@/components/ClientProviders'
+import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'Finance Roadmaps',
@@ -14,6 +15,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <body>
         <ClientProviders>
           {children}
+          <Footer />
         </ClientProviders>
       </body>
     </html>

@@ -9,36 +9,55 @@
       "nodes": [
         {
           "id": "what-is-forensic-accountant",
-          "label": "What is a Forensic Accountant and their Responsibilities?",
-          "description": "<p>A <b>Forensic Accountant</b> is a financial investigator. They combine their accounting and auditing knowledge with investigative skills to examine financial records in order to uncover fraud, financial irregularities, and other white-collar crimes. Their work is often used in legal proceedings, making them a crucial link between the worlds of finance and law.</p><p>In India, with the increasing complexity of business and a strong regulatory focus on corporate governance, the demand for forensic accountants has skyrocketed. They are the ones called in when a company suspects a major financial fraud, during shareholder disputes, or in large-scale insolvency cases under the <b>Insolvency and Bankruptcy Code (IBC)</b>.</p><p><b>Core Responsibilities include:</b></p><ul><li><b>Fraud Investigation:</b> Investigating schemes like asset misappropriation (siphoning of funds), financial statement fraud (inflating profits), and corruption (bribery and kickbacks).</li><li><b>Litigation Support:</b> Working with lawyers to quantify economic damages in legal disputes and serving as expert witnesses in court.</li><li><b>Data Forensics:</b> Using specialized software to recover and analyze electronic data from computers and smartphones to find evidence of wrongdoing.</li><li><b>Due Diligence:</b> Conducting forensic due diligence during mergers and acquisitions to identify hidden liabilities or integrity issues.</li></ul>"
+          "label": "What is a Forensic Accountant?",
+          "description": "<p>A <b>Forensic Accountant</b> is often called the 'Sherlock Holmes' of the finance world. They combine accounting knowledge with investigative skills to uncover financial crimes, fraud, and irregularities.</p>  <p>In India, with the rise of complex corporate structures and the <b>Insolvency and Bankruptcy Code (IBC)</b>, they are the first responders when money goes missing.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Fraud Investigation:</b> detecting 'cooking of books' (financial statement fraud), bribery, kickbacks, and asset misappropriation.</li><li><b>Asset Tracing:</b> Hunting down funds that have been siphoned off to shell companies or offshore havens.</li><li><b>Litigation Support:</b> Acting as an <b>Expert Witness</b> in court to explain complex financial data to judges and lawyers.</li><li><b>Digital Forensics:</b> Analyzing terabytes of email and chat data to find the 'smoking gun' evidence of intent.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to Becoming a Financial Investigator",
+      "title": "Education & Certifications",
       "nodes": [
         {
           "id": "educational-path-fa",
-          "label": "Essential Educational & Professional Qualifications",
-          "description": "<p>A career in forensic accounting is built on a rock-solid foundation of accounting principles and a keen, analytical mindset.</p><ul><li><b>Chartered Accountant (CA):</b> This is the undisputed gold standard and the primary qualification for forensic accountants in India. The rigorous training in accounting, audit, and law provided by the ICAI curriculum is the perfect launchpad.</li><li><b>Specialized Certifications:</b> To stand out, pursuing a specialization is key.<ul><li><b>Certified Fraud Examiner (CFE):</b> A globally recognized certification from the ACFE, highly respected by employers.</li><li><b>Certified Forensic Accounting Professional (CFAP):</b> An India-specific certification offered by Indiaforensic.</li><li><b>Diploma in Information System Audit (DISA):</b> Offered by the ICAI, this is extremely valuable as most financial fraud today has a digital component.</li></ul></li><li><b>Other Useful Degrees:</b> A degree in Law (LLB) or an MBA in Finance can be a powerful addition to the core CA qualification.</li></ul>"
+          "label": "Education & Key Certifications",
+          "description": "<p>Forensic Accounting is a post-qualification specialization. You need a strong base in audit first.</p><ul><li><b>Chartered Accountant (CA):</b> The <b>Primary Qualification</b>. 90% of forensic professionals in India are CAs because you need to know how books are <i>made</i> to understand how they are <i>manipulated</i>.</li><li><b>Certified Fraud Examiner (CFE):</b> The <b>Global Gold Standard</b> from the ACFE (USA). It is highly recognized by Big 4 firms and MNCs in India.</li><li><b>Post-Qualification Courses:</b> The ICAI offers a <b>Certificate Course on Forensic Accounting and Fraud Detection (FAFD)</b> which is a great starting point for CAs.</li><li><b>Tech Qualifications:</b> A <b>DISA (Diploma in Information System Audit)</b> is crucial as most modern fraud is digital.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Compensation",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-fa",
+          "label": "Investigative Skills & Tech Stack",
+          "description": "<p>The days of manual checking are over. Modern forensics is heavy on data analytics and psychology.</p>  <ul><li><b>Hard Skills:</b></li><ul><li><b>Data Analytics:</b> Using SQL, Python, or Tableau to identify patterns (e.g., duplicate payments, round-number transactions) in millions of rows of data.</li><li><b>Interviewing:</b> The ability to conduct non-confrontational interviews to get suspects to confess or witnesses to talk.</li><li><b>eDiscovery:</b> Reviewing emails and chats using keywords to find evidence of collusion.</li></ul><li><b>Tools of the Trade:</b></li><ul><li><b>Forensic Software:</b> <b>Relativity</b> or <b>Nuix</b> (for processing emails/documents), <b>EnCase</b> (for imaging hard drives).</li><li><b>Analytics:</b> <b>Alteryx</b> and <b>PowerBI</b> are standard for visualizing fund flows.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-fa",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>Forensic accountants are in high demand across a variety of prestigious organizations.</p><ul><li><b>The 'Big Four' & Consulting Firms:</b> Deloitte, PwC, EY, and KPMG have large, dedicated forensic advisory or 'Risk Advisory' departments that are the biggest recruiters of forensic talent in India. Grant Thornton and BDO also have strong forensic teams.</li><li><b>Regulatory & Enforcement Agencies:</b> Experienced professionals can find opportunities with bodies like the <b>Serious Fraud Investigation Office (SFIO)</b> and the <b>Enforcement Directorate (ED)</b>.</li><li><b>Law Firms:</b> Top corporate law firms hire forensic accountants to support their litigation and dispute resolution practices.</li><li><b>Banks & Financial Institutions:</b> Large banks have internal teams to investigate complex fraud cases.</li><li><b>Large Corporations:</b> Major companies are now building in-house forensic teams to conduct internal investigations and proactively manage fraud risk.</li></ul>"
+          "label": "Job Roles & Employers",
+          "description": "<p>Forensic accountants are hired to solve high-stakes problems.</p><ul><li><b>Top Employers:</b></li><ul><li><b>The Big 4 (Deloitte, KPMG, EY, PwC):</b> They have the largest 'Forensic & Integrity Services' practices in India.</li><li><b>Boutique Firms:</b> <b>Alvarez & Marsal (A&M), Kroll, FTI Consulting.</b> These firms handle the most sensitive and high-value restructuring and fraud cases.</li><li><b>Law Firms:</b> Top firms like <b>Cyril Amarchand Mangaldas</b> or <b>AZB</b> hire forensic experts to support their legal teams.</li><li><b>Regulators:</b> <b>SFIO (Serious Fraud Investigation Office)</b> and <b>ED (Enforcement Directorate)</b>.</li></ul></ul>"
         },
         {
-          "id": "salary-package-fa",
-          "label": "Salary Package & Compensation",
-          "description": "<p>This is a premium, specialized field, and the compensation reflects that. Salaries are generally higher than in traditional audit or tax roles.</p><ul><li><b>Entry-Level (Fresh CA):</b> A newly qualified CA starting in the forensic department of a Big Four can expect a starting package of <b>₹10 Lakhs to ₹15 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (Manager with 4-7 years experience):</b> <b>₹25 Lakhs to ₹45 Lakhs LPA</b>. Having a CFE or other specialized certification is expected at this level.</li><li><b>Senior-Level (Director/Partner):</b> <b>₹60 Lakhs to well over ₹1.5 Crores LPA</b>. Partners in Big Four forensic practices are among the highest-paid professionals in the advisory space.</li></ul>"
+          "id": "career-progression-fa",
+          "label": "Career Progression Path",
+          "description": "<p>The ladder is similar to Audit but with more specialized exit options.</p><ol><li><b>Associate / Consultant:</b> Fieldwork, data cleaning, and document review.</li><li><b>Senior Consultant:</b> Leading small workstreams, conducting initial interviews, and drafting report sections.</li><li><b>Manager:</b> Managing client relationships, planning the investigation scope, and signing off on deliverables.</li><li><b>Director / Partner:</b> Bringing in business (sales), testifying in court, and managing high-profile crises.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-fa",
+          "label": "Salary & The 'Specialist Premium'",
+          "description": "<p>Forensic Accounting pays a premium over statutory audit because it requires a niche skillset and involves higher pressure.</p><ul><li><b>Entry-Level (Fresh CA):</b><br><b>₹9 Lakhs to ₹14 Lakhs per annum (LPA)</b>.<br><i>Note: Big 4 Forensic practices generally pay 10-20% higher than their Audit counterparts.</i></li><li><b>Mid-Level (Manager - 5-7 Years):</b><br><b>₹25 Lakhs to ₹40 Lakhs LPA</b>.<br>Certification (CFE) and data analytics skills are major boosters here.</li><li><b>Senior-Level (Director/Partner):</b><br><b>₹60 Lakhs to ₹1.5 Crores+ LPA</b>.<br>Partners at boutique firms like A&M or Kroll can earn significantly more, often rivaling Investment Bankers.</li></ul>"
         }
       ]
     }
   ]
 }
-

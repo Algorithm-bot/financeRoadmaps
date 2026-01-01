@@ -1,6 +1,6 @@
 {
   "title": "Mutual Fund Manager - India Roadmap",
-  "description": "A definitive roadmap for a career as a Mutual Fund Manager in India, outlining the essential buy-side experience, mandatory SEBI certifications, fiduciary responsibilities, and the career progression from a research analyst to managing public money.",
+  "description": "A definitive roadmap for a career as a Mutual Fund Manager in India, outlining the essential buy-side experience, mandatory SEBI certifications, fiduciary responsibilities, public accountability, and the structured career progression within Asset Management Companies (AMCs).",
   "category": "Capital Markets & Investment",
   "slug": "mutual-fund-manager",
   "stages": [
@@ -9,39 +9,61 @@
       "nodes": [
         {
           "id": "what-is-mutual-fund-manager",
-          "label": "What is a Mutual Fund Manager and their Responsibilities?",
-          "description": "<p>A <b>Mutual Fund Manager</b>, also known as a Portfolio Manager, is a highly experienced investment professional responsible for managing a mutual fund's portfolio. They have a <b>fiduciary duty</b>, meaning they must act in the best financial interests of the unitholders (the people who have invested in the fund). Their job is to implement the fund's specific investment strategy and manage its holdings to achieve the stated objectives, such as capital appreciation or income generation.</p><p>In India, the mutual fund industry is regulated by the <b>Securities and Exchange Board of India (SEBI)</b>, and every fund manager must operate strictly within the guidelines set by SEBI and the rules defined in the fund's <b>Scheme Information Document (SID)</b>.</p><p><b>Core Responsibilities include:</b></p><ul><li><b>Portfolio Construction & Management:</b> Making all the buy, sell, and hold decisions for the securities (stocks, bonds, etc.) in the portfolio.</li><li><b>Adherence to Mandate:</b> Strictly following the fund's investment mandate. For example, a 'Large Cap Fund' manager can only invest in the top 100 companies by market capitalization.</li><li><b>Risk Management:</b> Ensuring the portfolio's risk profile is aligned with the fund's objectives and adhering to all regulatory limits on stock and sector concentration.</li><li><b>Performance Benchmarking:</b> The primary goal is to generate returns that outperform the fund's designated benchmark index (e.g., the NIFTY 50 for a large-cap fund) over the long term.</li><li><b>Communication:</b> Articulating the investment strategy and market outlook to distributors, institutional investors, and the media. They are the public face of the fund.</li></ul><p>This is a position of immense responsibility, as their decisions directly impact the financial well-being of millions of retail and institutional investors.</p>",
-          "bulletPoints": [],
-          "resources": []
+          "label": "Mutual Fund Manager and Their Responsibilities",
+          "description": "<p>A <b>Mutual Fund Manager</b>, also known as a Portfolio Manager, is responsible for managing public money on behalf of millions of investors. They operate under a strict <b>fiduciary responsibility</b>, meaning investor interest must always come before personal or institutional gain.</p><p>In India, mutual funds are regulated by the <b>Securities and Exchange Board of India (SEBI)</b>. Every decision must comply with SEBI regulations and the fund’s <b>Scheme Information Document (SID)</b>, which legally defines what the fund can and cannot do.</p><ul><li><b>Portfolio Construction:</b> Selecting stocks or bonds aligned with the fund’s mandate.</li><li><b>Mandate Compliance:</b> Ensuring strict adherence to category rules (large-cap, mid-cap, debt, hybrid, etc.).</li><li><b>Risk Management:</b> Managing sector limits, stock concentration, liquidity, and volatility.</li><li><b>Benchmark Outperformance:</b> Delivering consistent alpha over the benchmark index.</li><li><b>Public Communication:</b> Explaining performance, outlook, and decisions to investors and media.</li></ul><p>This role carries enormous responsibility as underperformance directly affects retail investors’ savings.</p>"
         }
       ]
     },
     {
-      "title": "Education, Certification & The Path to the Role",
+      "title": "Education, Certification & Skill Foundation",
       "nodes": [
         {
           "id": "educational-qualifications-mfm",
           "label": "Essential Academic Qualifications",
-          "description": "<p>A top-tier academic background is a prerequisite for a career in fund management.</p><ol><li><b>MBA in Finance:</b> A full-time MBA from premier institutions like the IIMs (Ahmedabad, Bangalore, Calcutta), ISB, FMS, or XLRI is the most common and direct educational path.</li><li><b>Chartered Accountant (CA):</b> CAs are highly sought after for their expert-level understanding of financial statements, accounting standards, and corporate governance.</li><li><b>CFA (Chartered Financial Analyst):</b> The CFA charter is the global gold standard for the investment management industry. It is considered almost essential for long-term career growth, and most professionals in the field either have the charter or are pursuing it.</li></ol>"
+          "description": "<p>A strong academic foundation is a key filter in the mutual fund industry.</p><ul><li><b>MBA in Finance:</b> From top institutions such as IIMs, ISB, FMS, XLRI.</li><li><b>Chartered Accountant (CA):</b> Highly valued for accounting depth and governance understanding.</li><li><b>CFA Charter:</b> Considered the global benchmark for investment professionals and almost mandatory for long-term growth.</li></ul><p>Most fund managers possess at least one professional qualification alongside years of experience.</p>"
         },
         {
           "id": "work-experience-and-certifications-mfm",
-          "label": "Mandatory Experience & SEBI Certifications",
-          "description": "<p>Becoming a fund manager is not an entry-level job. It typically requires <b>10-15 years of dedicated experience</b> in the investment field.</p><ul><li><b>The Classic Career Path:</b> The most common route is to join an Asset Management Company (AMC) as a <b>Buy-Side Equity Research Analyst</b>. In this role, you spend several years covering a specific sector (like Banking, IT, or Pharma), building financial models, and providing stock recommendations to the existing fund managers. After demonstrating a consistent ability to pick winning stocks over 7-10 years, an analyst may be promoted to Assistant Fund Manager and eventually graduate to a full Fund Manager role.</li><li><b>SEBI Certification:</b> To act as a portfolio manager, individuals are required to pass the <b>NISM-Series-XXI-B: Portfolio Managers Certification Examination</b>. This is a regulatory mandate to ensure professionals have the necessary knowledge of the legal and operational aspects of portfolio management in India.</li></ul>",
+          "label": "Buy-Side Experience & Mandatory SEBI Certifications",
+          "description": "<p>Becoming a Mutual Fund Manager is not an entry-level role and typically requires <b>10–15 years</b> of buy-side investment experience.</p><ul><li><b>Classic Career Path:</b> Equity Research Analyst → Assistant Fund Manager → Fund Manager.</li><li><b>Sector Specialization:</b> Analysts usually cover one or two sectors for several years, developing deep domain expertise.</li><li><b>Track Record:</b> Career progression depends on the analyst’s ability to consistently identify outperforming stocks and manage risk across market cycles.</li><li><b>Mandatory Certification:</b> Passing the <b>NISM-Series-XXI-B: Portfolio Managers Certification Examination</b> is required under SEBI regulations for individuals acting as portfolio managers.</li></ul><p><b>Eligibility Criteria for NISM-Series-XXI-B:</b></p><ul><li>There is <b>no minimum educational qualification</b> required to appear for the exam.</li><li>The examination is open to <b>any individual</b> interested in portfolio management or working in investment roles.</li><li>However, appointment as a <b>Fund Manager or Portfolio Manager</b> by a SEBI-registered AMC additionally requires meeting SEBI’s prescribed qualification and experience norms.</li></ul><p>The certification is valid for <b>3 years</b> and must be renewed to continue operating in regulated portfolio management roles.</p>",
           "resources": [
-             { "type": "tool", "title": "NISM Portfolio Managers Certification", "url": "https://www.nism.ac.in/certifications/nism-series-xxi-b-portfolio-managers-certification-examination/" }
+            {
+              "type": "official website",
+              "title": "NISM-Series-XXI-B: Portfolio Managers Certification Examination",
+              "url": "https://www.nism.ac.in/certifications/nism-series-xxi-b-portfolio-managers-certification-examination/"
+            }
           ]
+        }
+        
+      ]
+    },
+    {
+      "title": "Operating Constraints & Performance Evaluation",
+      "nodes": [
+        {
+          "id": "regulatory-and-performance-constraints-mfm",
+          "label": "SEBI Rules, Public Scrutiny & Performance Measurement",
+          "description": "<p>Unlike hedge funds, mutual fund managers operate under heavy regulatory and public scrutiny.</p><ul><li><b>Investment Restrictions:</b> Limits on stock exposure, sector allocation, and leverage.</li><li><b>Daily NAV Disclosure:</b> Portfolio value is published daily, leaving no room for opacity.</li><li><b>Benchmark Comparison:</b> Performance is continuously compared to indices and peer funds.</li><li><b>Fund House Committees:</b> Investment decisions are often reviewed by internal risk and investment committees.</li><li><b>Reputation Risk:</b> Prolonged underperformance can lead to fund closure or reassignment.</li></ul><p>This structure prioritizes stability, transparency, and investor protection over aggressive risk-taking.</p>"
         }
       ]
     },
     {
-      "title": "Career Opportunities & Compensation",
+      "title": "Career Progression & Roles",
       "nodes": [
         {
-          "id": "job-roles-and-salary-mfm",
-          "label": "What types of jobs they can do?",
-          "description": "<p>The career is focused within the asset management industry with a clear hierarchy.</p><ul><li><b>Career Path:</b> <i>Research Analyst → Assistant Fund Manager → Fund Manager → Head of Equities/Debt → Chief Investment Officer (CIO).</i> The CIO is the head of the entire investment team of the AMC.</li><li><b>Job Roles:</b></li><ul><li><b>Fund Manager (Equity):</b> Manages various types of equity schemes (e.g., Large Cap, Mid Cap, Flexi Cap, Thematic).</li><li><b>Fund Manager (Debt):</b> Manages fixed-income schemes (e.g., Liquid Funds, Corporate Bond Funds, Gilt Funds).</li><li><b>Chief Investment Officer (CIO):</b> Oversees all the fund managers and sets the overall investment strategy and risk management framework for the entire AMC.</li></ul><li><b>Employers in India:</b></li><ul><li>All licensed Asset Management Companies (AMCs) in India. This includes bank-sponsored AMCs like <b>HDFC AMC, ICICI Prudential AMC, SBI Funds Management, Kotak Mahindra AMC</b>, as well as other major players like <b>Mirae Asset, Nippon India Mutual Fund, and DSP Mutual Fund</b>.</li></ul></ul><br><h4><b>Salary Package (Approximate figures in INR):</b></h4><p>Compensation is excellent and is composed of a high fixed salary and a significant performance-linked bonus tied to the fund's performance against its benchmark.</p><ul><li><b>Assistant/Junior Fund Manager:</b> <b>₹40 Lakhs to ₹80 Lakhs per annum (LPA)</b>.</li><li><b>Experienced Fund Manager (at a large AMC):</b> <b>₹1 Crore to ₹5 Crores LPA</b>.</li><li><b>Star Fund Managers & CIOs:</b> For the most respected and top-performing managers at the largest AMCs, compensation can range from <b>₹5 Crores to over ₹20 Crores LPA</b>.</li></ul><p><i><b>Disclaimer:</b> Senior management compensation in the mutual fund industry is a matter of public record and is often reported in the media. It is directly correlated with the manager's ability to generate returns and grow their Assets Under Management (AUM).</i></p>",
-          "bulletPoints": []
+          "id": "career-roles-mfm",
+          "label": "Career Path and Job Roles",
+          "description": "<p>The mutual fund industry offers a clearly defined hierarchy.</p><ul><li><b>Career Progression:</b> Research Analyst → Assistant Fund Manager → Fund Manager → Head of Equities/Debt → Chief Investment Officer (CIO).</li><li><b>Fund Manager (Equity):</b> Manages equity-oriented schemes.</li><li><b>Fund Manager (Debt):</b> Manages fixed-income and money market schemes.</li><li><b>CIO:</b> Sets investment philosophy and oversees all fund managers at the AMC.</li></ul><p>Careers are long-term and reputation-driven, with promotions earned through consistency rather than short-term returns.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation Structure",
+      "nodes": [
+        {
+          "id": "compensation-mfm",
+          "label": "Salary & Incentive Structure",
+          "description": "<p>Compensation in mutual funds is stable but highly performance-linked.</p><ul><li><b>Structure:</b> High fixed salary + annual performance bonus.</li><li><b>Bonus Drivers:</b> Benchmark outperformance, AUM growth, risk-adjusted returns, and consistency.</li></ul><ul><li><b>Assistant / Junior Fund Manager:</b> ₹40–80 LPA.</li><li><b>Experienced Fund Manager:</b> ₹1–5 Crores LPA.</li><li><b>Top CIOs / Star Managers:</b> ₹5–20+ Crores LPA.</li></ul><p><i>Unlike hedge funds, mutual fund managers do not earn a direct share of profits. Compensation is capped and regulated to protect investors.</i></p>"
         }
       ]
     }

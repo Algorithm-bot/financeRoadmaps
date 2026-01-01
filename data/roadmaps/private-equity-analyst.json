@@ -1,6 +1,6 @@
 {
   "title": "Private Equity Analyst - India Roadmap",
-  "description": "An elite roadmap for a career in Private Equity (PE) in India, detailing the non-negotiable 'feeder' roles in Investment Banking or Management Consulting, the mastery of LBO modeling, and the path to becoming a partner in a top-tier global or domestic fund.",
+  "description": "An elite roadmap for a career in Private Equity (PE) in India, detailing mandatory feeder roles, deal execution skills, LBO mastery, and the long-term path from analyst to partner in global and domestic PE funds.",
   "category": "Capital Markets & Investment",
   "slug": "private-equity-analyst",
   "stages": [
@@ -9,28 +9,48 @@
       "nodes": [
         {
           "id": "what-is-pe-analyst",
-          "label": "What is a Private Equity Analyst and their Responsibilities?",
-          "description": "<p>A <b>Private Equity (PE) Analyst</b> or Associate is an investment professional who works for a PE fund. These funds raise large pools of capital from institutions and wealthy individuals to buy significant, often controlling, stakes in private companies (or take public companies private). The goal is not just to invest, but to actively work with the company's management over several years to improve its operations, grow its profits, and then sell the improved company for a substantial return—a process called an 'exit'.</p><p>The role is one of the most coveted in all of finance because it combines deep financial analysis with strategic business operations.</p><p><b>Core Responsibilities of an Analyst/Associate:</b></p><ul><li><b>Deal Sourcing & Screening:</b> Actively looking for potential companies to invest in by talking to investment bankers, consultants, and industry contacts. They screen hundreds of companies to find a few that fit their fund's investment thesis.</li><li><b>Financial Modeling & Valuation:</b> This is the core technical skill. They build complex financial models, most notably <b>Leveraged Buyout (LBO) models</b>, to determine the potential returns of an investment.</li><li><b>Due Diligence:</b> Once a target company is identified, the analyst performs intense due diligence—a deep investigation into the company's finances, market position, management team, and legal standing to identify any risks.</li><li><b>Deal Execution:</b> They prepare detailed presentations and memos for the fund's Investment Committee and assist senior members in negotiating and structuring the deal.</li><li><b>Portfolio Company Monitoring:</b> After an investment is made, they work with the portfolio company, monitoring its performance and helping with strategic projects.</li></ul>"
+          "label": "Private Equity Analyst and Their Responsibilities",
+          "description": "<p>A <b>Private Equity (PE) Analyst or Associate</b> is an investment professional working at a PE fund that acquires significant or controlling stakes in companies with the objective of improving performance and exiting at a higher valuation.</p><p>Unlike public market roles, PE investing is long-term, illiquid, and highly hands-on. Analysts and associates are deeply involved in evaluating businesses, executing transactions, and working with portfolio companies over multiple years.</p><ul><li><b>Deal Sourcing & Screening:</b> Identifying potential acquisition targets through bankers, consultants, and industry networks.</li><li><b>Financial Modeling:</b> Building detailed valuation models, especially <b>Leveraged Buyout (LBO)</b> models.</li><li><b>Due Diligence:</b> Deep analysis of financials, operations, industry structure, management quality, and risks.</li><li><b>Investment Committee Support:</b> Preparing IC memos and presentations.</li><li><b>Portfolio Monitoring:</b> Tracking KPIs, supporting strategic initiatives, and value-creation projects.</li></ul><p>This role blends finance, strategy, and operational thinking.</p>"
         }
       ]
     },
     {
-      "title": "The Entry Gauntlet: Education & Feeder Roles",
+      "title": "Education & Mandatory Feeder Roles",
       "nodes": [
         {
-          "id": "educational-and-experience-pe",
-          "label": "Elite Education & Mandatory 'Feeder' Experience",
-          "description": "<p>Private Equity is almost never an entry-level job straight out of college in India. It requires a specific and highly competitive track record.</p><ol><li><b>Academic Pedigree:</b> An absolutely stellar academic background is a non-negotiable filter. This means graduating from a top-tier institution:<ul><li><b>Undergraduate:</b> IITs, top NITs, SRCC, St. Stephen's, LSR.</li><li><b>Postgraduate (MBA):</b> IIMs (specifically Ahmedabad, Bangalore, Calcutta), ISB, FMS. An MBA is the most common entry point for associate-level roles. A CA qualification is also highly regarded.</li></ul></li><li><b>The Feeder Track (2-3 Years of Pre-PE Experience):</b> PE funds hire individuals who have already been trained in the high-pressure world of finance or strategy. The two primary feeder tracks are:<ul><li><b>Investment Banking (Bulge Bracket/Top Boutiques):</b> This is the most common path. Analysts spend 2-3 years at firms like Goldman Sachs, Morgan Stanley, J.P. Morgan, or top domestic firms like Kotak Investment Banking or Avendus Capital. They gain mastery in financial modeling, valuation, and deal execution.</li><li><b>Top-Tier Management Consulting:</b> Associates from firms like McKinsey & Company, Boston Consulting Group (BCG), and Bain & Company are also hired for their deep strategic thinking and operational due diligence skills.</li></ul></ol><p><b>There is no substitute for this 'feeder' experience. PE funds do not train analysts from scratch; they hire already trained, proven high-performers.</b></p>"
+          "id": "education-and-feeder-pe",
+          "label": "Elite Education & Non-Negotiable Feeder Experience",
+          "description": "<p>Private Equity is almost never an entry-level role in India. Funds hire only candidates who are already trained in deal-making or strategy.</p><ul><li><b>Academic Pedigree:</b> Strong filtering based on institutions.</li><ul><li><b>Undergraduate:</b> IITs, top NITs, SRCC, St. Stephen’s, LSR.</li><li><b>Postgraduate:</b> IIM A/B/C, ISB, FMS. A CA qualification is also highly respected.</li></ul><li><b>Feeder Roles (2–3 Years):</b></li><ul><li><b>Investment Banking:</b> Bulge bracket or elite domestic firms (Goldman Sachs, Morgan Stanley, J.P. Morgan, Kotak IB, Avendus).</li><li><b>Management Consulting:</b> McKinsey, BCG, Bain for strategy and operational due diligence.</li></ul></ul><p><b>PE funds do not train freshers.</b> They hire candidates already battle-tested in modeling, execution, and high-pressure environments.</p>"
         }
       ]
     },
     {
-      "title": "Career Progression & Compensation",
+      "title": "Deal Lifecycle & Skill Mastery",
       "nodes": [
         {
-          "id": "job-roles-and-salary-pe",
-          "label": "What types of jobs they can do?",
-          "description": "<p>The career path in Private Equity is very structured and leads to some of the highest compensation in the finance industry.</p><ul><li><b>Career Path:</b> <i>Analyst (pre-MBA) → Associate (post-MBA or post-IB) → Vice President (VP) → Principal → Managing Director (MD) / Partner.</i></li><li><b>Employers in India:</b> The PE landscape includes global mega-funds and strong domestic players.<ul><li><b>Global Funds:</b> Blackstone, KKR, TPG, The Carlyle Group, General Atlantic, Advent International.</li><li><b>Top Indian Funds:</b> ChrysCapital, Multiples Alternate Asset Management, Kedaara Capital, True North, Everstone Group.</li></ul><li><b>Exit Opportunities:</b> While many aim to become a Partner, professionals can also move to corporate strategy roles, become a CXO at a portfolio company, or start their own ventures.</li></ul><br><h4><b>Salary & Compensation (Approximate figures in INR):</b></h4><p>PE compensation is legendary. It consists of a high base salary, a large annual bonus, and for senior members, a share in the fund's profits called 'carried interest'.</p><ul><li><b>Analyst / Associate (First year out of IB/Consulting):</b> Base salary of <b>₹35 Lakhs - ₹60 Lakhs LPA</b> plus a bonus of 50-100%+. Total first-year compensation can be <b>₹60 Lakhs to over ₹1 Crore</b>.</li><li><b>Vice President (VP):</b> All-in compensation typically ranges from <b>₹1.5 Crores to ₹4 Crores+ LPA</b>.</li><li><b>Managing Director / Partner:</b> This is where life-changing wealth is created. In addition to a multi-crore salary and bonus, they receive 'carried interest'. A successful fund exit can result in a payout of <b>tens or even hundreds of crores</b> for a single partner over the life of the fund.</li></ul><p><i><b>Disclaimer:</b> The work is extremely demanding with very long hours, and the hiring process is intensely competitive. The rewards are high, but they are commensurate with the extreme selectivity and high-pressure nature of the job.</i></p>"
+          "id": "deal-skills-pe",
+          "label": "Core Skills Required to Succeed in PE",
+          "description": "<p>Success in PE depends on mastering the full deal lifecycle.</p><ul><li><b>Advanced Financial Modeling:</b> LBO models, scenario analysis, IRR & MOIC calculations.</li><li><b>Valuation:</b> Comparable companies, precedent transactions, and downside protection.</li><li><b>Commercial Due Diligence:</b> Market sizing, competitive dynamics, pricing power.</li><li><b>Operational Analysis:</b> Cost structures, working capital, capital efficiency.</li><li><b>Investment Committee Writing:</b> Clear articulation of risks, returns, and value-creation levers.</li><li><b>Exit Planning:</b> IPO, strategic sale, or secondary buyout.</li></ul><p>PE professionals must think like owners, not traders.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Career Progression & Roles",
+      "nodes": [
+        {
+          "id": "career-roles-pe",
+          "label": "Career Path and Opportunities",
+          "description": "<p>Private Equity follows a structured, tournament-style career path.</p><ul><li><b>Career Path:</b> Analyst (pre-MBA) → Associate (post-MBA / post-IB) → Vice President (VP) → Principal → Managing Director / Partner.</li><li><b>Employers in India:</b></li><ul><li><b>Global Funds:</b> Blackstone, KKR, Carlyle, TPG, Advent, General Atlantic.</li><li><b>Indian Funds:</b> ChrysCapital, Multiples, Kedaara, True North, Everstone.</li></ul><li><b>Exit Options:</b> CXO roles at portfolio companies, corporate strategy, hedge funds, entrepreneurship.</li></ul><p>Only a small percentage reach Partner, but those who do control large pools of capital.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Compensation & Fund Economics",
+      "nodes": [
+        {
+          "id": "compensation-pe",
+          "label": "Salary, Bonus & Carried Interest",
+          "description": "<p>Private Equity compensation is among the highest in finance.</p><ul><li><b>Analyst / Associate:</b> Base ₹35–60 LPA + 50–100% bonus. Total ₹60L–₹1Cr+.</li><li><b>Vice President:</b> ₹1.5–4 Cr+ all-in compensation.</li><li><b>Principal:</b> Multi-crore salary + early carry participation.</li><li><b>Partner / MD:</b> Salary + bonus + <b>carried interest</b> (share of fund profits).</li></ul><p><b>Carried Interest:</b> Partners typically receive 15–20% of fund profits after returning capital to investors. A single successful exit can generate <b>tens or hundreds of crores</b> for senior partners.</p><p><i>Work hours are extreme and performance pressure is relentless. The upside reflects the risk and selectivity.</i></p>"
         }
       ]
     }

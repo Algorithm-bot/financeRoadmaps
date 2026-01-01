@@ -1,6 +1,6 @@
 {
   "title": "Blockchain & Crypto Analyst - India Roadmap",
-  "description": "A comprehensive roadmap to becoming a Blockchain & Crypto Analyst in India, focusing on the unique skills required in Web3, the dynamic career path, and the opportunities within India's burgeoning crypto ecosystem.",
+  "description": "A comprehensive roadmap to becoming a Blockchain & Crypto Analyst in India, focusing on the unique skills required in Web3 (like on-chain analytics), the dynamic career path, and the opportunities within India's burgeoning crypto ecosystem.",
   "category": "Fintech & Emerging Roles",
   "slug": "blockchain-crypto-analyst",
   "stages": [
@@ -9,38 +9,58 @@
       "nodes": [
         {
           "id": "what-is-crypto-analyst",
-          "label": "What is a Blockchain & Crypto Analyst and their Responsibilities?",
-          "description": "<p>A <b>Blockchain & Crypto Analyst</b> is a specialized research professional who analyzes decentralized networks, crypto assets, and Web3 projects to generate insights. This is a multi-disciplinary role that blends finance, economics, computer science, and data analytics. In the fast-paced Indian crypto market, these analysts are crucial for helping investors, exchanges, and builders navigate the complex and volatile landscape.</p><p>Key responsibilities are highly analytical and forward-looking:</p><ul><li><b>On-Chain Analysis:</b> Using tools like Dune Analytics or Nansen to analyze transaction data directly from blockchains to gauge network health and user activity.</li><li><b>Tokenomics Research:</b> Deeply evaluating the economic design of a cryptocurrency ('tokenomics'), including its supply, distribution, and incentive mechanisms.</li><li><b>Market Intelligence:</b> Tracking market trends, new project launches (DeFi, NFTs, Gaming), and competitor analysis.</li><li><b>Protocol & dApp Due Diligence:</b> Assessing the technical architecture, security, and potential of decentralized applications (dApps) and blockchain protocols.</li><li><b>Risk Assessment:</b> Identifying potential risks in smart contracts, economic models, and regulatory changes in India.</li></ul>"
+          "label": "What is a Blockchain Analyst?",
+          "description": "<p>A <b>Blockchain & Crypto Analyst</b> is a financial detective in the Wild West of Web3. Unlike traditional finance, where data is hidden in quarterly reports, crypto data is public but hard to read.</p>  <p>These analysts bridge the gap between complex code and investment decisions. They work for Exchanges, Venture Capital funds, and Web3 protocols.</p><p><b>Core Responsibilities:</b></p><ul><li><b>On-Chain Analysis:</b> Investigating the 'Blockchain Ledger' to see where the 'Whales' (large investors) are moving their money.</li><li><b>Tokenomics Research:</b> Analyzing the supply and demand of a token. <i>Is the inflation rate too high? Are the incentives sustainable?</i></li><li><b>Due Diligence:</b> Reading 'Whitepapers' and auditing the team's background to spot scams or 'Rug Pulls'.</li><li><b>Governance Participation:</b> Voting on proposals in DAOs (Decentralized Autonomous Organizations) to shape the future of a protocol.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to Web3 Finance",
+      "title": "Education & 'Proof of Work'",
       "nodes": [
         {
           "id": "educational-path-crypto",
-          "label": "Essential Qualifications & Skill Development",
-          "description": "<p>Unlike traditional finance roles, the path to becoming a crypto analyst is less about specific degrees and more about demonstrable skills and passion.</p><ul><li><b>Educational Background:</b> Graduates from Engineering (especially Computer Science), Finance (B.Com, BBA), or Economics streams have a strong foundational advantage.</li><li><b>Self-Learning is Key:</b> The space evolves too quickly for traditional curricula. Aspiring analysts must be proactive learners, consuming content from sources like Twitter, project whitepapers, research forums, and online courses on platforms like Coursera or Moralis Academy.</li><li><b>Build a Public Portfolio:</b> The best way to get noticed is to publish your own research. This can be in the form of Twitter threads, blog posts on Mirror.xyz, or creating public dashboards on Dune Analytics. This demonstrates your analytical ability far more than a CV.</li><li><b>Technical Skills:</b> Proficiency in SQL (for on-chain data), Python (for data analysis), and advanced Excel is highly valued.</li></ul>"
+          "label": "Education vs. Portfolio",
+          "description": "<p>In Crypto, your degree matters less than your 'Proof of Work'.</p><ul><li><b>Traditional Background:</b> A degree in <b>Computer Science (B.Tech)</b> or <b>Economics/Finance</b> is a strong foundation. Engineers who understand 'Smart Contracts' are highly valued.</li><li><b>Self-Learning (The Real School):</b> The industry moves too fast for colleges. You must learn from:<ul><li><b>Twitter/X & Substack:</b> Following top researchers.</li><li><b>Project Whitepapers:</b> Reading the documentation of Bitcoin, Ethereum, and Uniswap.</li></ul></li><li><b>The 'Public Portfolio':</b> This is your resume. Publishing <b>Twitter Threads, Substack Articles, or Dune Dashboards</b> analyzing a protocol is the best way to get hired.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-crypto",
+          "label": "The Web3 Analyst Stack",
+          "description": "<p>You need a mix of Data Science and Economic Theory.</p><ul><li><b>Hard Skills:</b></li><ul><li><b>SQL:</b> The #1 skill. You need SQL to query blockchain data from Dune Analytics or Flipside Crypto.</li><li><b>Tokenomics:</b> Understanding <b>Vesting Schedules, Staking Yields, and Burn Mechanisms</b>.</li><li><b>Smart Contract Literacy:</b> You don't need to code, but you must be able to read Solidity code on GitHub to check for basic risks.</li></ul><li><b>Tools of the Trade:</b></li><ul><li><b>On-Chain Analytics:</b> <b>Dune Analytics</b> (for custom queries), <b>Nansen</b> (for tracking wallet labels), <b>Glassnode</b> (for macro data).</li><li><b>Market Data:</b> <b>Coingecko, Messari, TradingView</b>.</li><li><b>Explorers:</b> Proficiency in navigating <b>Etherscan, Solscan, and BscScan</b>.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-crypto",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>India has a vibrant and rapidly growing crypto and Web3 ecosystem with a variety of employers.</p><ul><li><b>Indian Crypto Exchanges:</b> Major platforms like <b>CoinDCX, WazirX, and CoinSwitch Kuber</b> have research and analytics teams to support their product listings and provide market insights to their users.</li><li><b>Web3 & Blockchain Startups:</b> India is a global hub for Web3 development. Companies like <b>Polygon</b> are major employers. Numerous other startups in DeFi, NFT gaming, and infrastructure are constantly hiring analysts.</li><li><b>Crypto-focused Venture Capital Funds:</b> Indian VCs that are active in the Web3 space, such as <b>Peak XV Partners (formerly Sequoia India), Lightspeed India, and specialized funds like Blume Ventures or 3one4 Capital</b>, hire analysts for deal sourcing and due diligence.</li><li><b>Research & Data Firms:</b> Global crypto data firms often hire remote analysts from India's strong talent pool.</li></ul>"
+          "label": "Who Hires Crypto Analysts?",
+          "description": "<p>India is a global hub for Web3 talent.</p><ul><li><b>Indian Exchanges:</b> <b>CoinDCX, CoinSwitch Kuber, WazirX</b>. They hire analysts to decide which new tokens to list on their platform.</li><li><b>Global Protocols (Remote):</b> Many Indian analysts work remotely for global giants like <b>Polygon (founded in India), Solana Foundation, or Uniswap</b>.</li><li><b>Crypto VC Funds:</b> <b>Woodstock Fund, Hashed (India presence), CoinFund</b>. These funds hire analysts to find the next unicorn before anyone else.</li><li><b>Research Firms:</b> <b>Messari, The Block, Delphi Digital</b>. They often hire remote contributors from India.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
       "nodes": [
         {
-          "id": "salary-package-crypto",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation in the crypto industry is highly competitive due to the high demand for specialized talent. It often includes a mix of fiat salary and project tokens.</p><ul><li><b>Junior/Entry-Level Analyst (0-3 years experience):</b> The annual compensation typically ranges from <b>₹8 Lakhs to ₹20 Lakhs LPA</b>.</li><li><b>Mid-Level Analyst (3-6 years experience):</b> Can expect to earn between <b>₹20 Lakhs and ₹45 Lakhs LPA</b>.</li><li><b>Senior Analyst / Research Lead (6+ years experience):</b> For experienced professionals, compensation often ranges from <b>₹45 Lakhs to ₹80 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative. Salaries in crypto can vary dramatically based on the company's funding, the market cycle (bull vs. bear), and the value of any token-based compensation, which can be highly volatile.</i></p>"
+          "id": "career-progression-crypto",
+          "label": "Career Path",
+          "description": "<p>The ladder is short but dynamic.</p><ol><li><b>Junior Analyst / Contributor:</b> Writing daily market updates and creating basic dashboards.</li><li><b>Research Analyst:</b> Publishing deep-dive reports on specific sectors (e.g., 'DeFi Analyst' or 'NFT Analyst').</li><li><b>Research Lead / Principal:</b> Managing the firm's investment thesis and leading a team of analysts.</li><li><b>Head of Tokenomics / Partner:</b> Designing the economic structure for new projects or becoming a Partner in a VC fund.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-crypto",
+          "label": "Salary & Token Incentives",
+          "description": "<p>Salaries are high, but often volatile. Compensation is usually a mix of <b>Fiat (Cash) + Tokens</b>.</p><ul><li><b>Entry-Level (0-2 Years):</b><br><b>₹8 Lakhs to ₹15 Lakhs per annum (LPA)</b>.<br><i>Talented SQL writers on Dune can earn more via bounties.</i></li><li><b>Mid-Level (Research Analyst):</b><br><b>₹20 Lakhs to ₹45 Lakhs LPA</b>.<br><i>Remote roles for US/EU firms often pay in USDC/USDT, significantly increasing purchasing power in India.</i></li><li><b>Senior-Level (Lead / Head):</b><br><b>₹50 Lakhs to ₹1 Crore+ LPA</b>.<br><i>Note: Token allocations (vested over 4 years) can turn into multi-crore windfalls during a Bull Market, but can be worth zero in a Bear Market.</i></li></ul>"
         }
       ]
     }

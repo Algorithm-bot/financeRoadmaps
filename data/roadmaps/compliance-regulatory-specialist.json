@@ -9,38 +9,58 @@
       "nodes": [
         {
           "id": "what-is-compliance-specialist",
-          "label": "What is a Compliance & Regulatory Specialist and their Responsibilities?",
-          "description": "<p>A <b>Compliance & Regulatory Specialist</b> is a professional who ensures that a financial services company operates in full compliance with the laws and regulations laid down by governing bodies, primarily SEBI and the RBI in India. This role acts as a crucial bridge between the business and the regulators, interpreting complex legal jargon and implementing it into the company's day-to-day processes. They are the guardians of the company's license to operate, protecting it from regulatory penalties and reputational damage.</p><p>Key responsibilities are detail-oriented and require constant vigilance:</p><ul><li><b>Regulatory Interpretation:</b> Reading, understanding, and interpreting new circulars, notifications, and master directions from SEBI and RBI.</li><li><b>Policy Formulation:</b> Drafting and maintaining the company's internal policies and procedures to reflect regulatory requirements.</li><li><b>Statutory Filings:</b> Ensuring all periodic reports and returns are filed accurately and on time with the regulators.</li><li><b>Liaison with Regulators:</b> Managing all communication, queries, and inspections from SEBI and RBI officials.</li><li><b>Compliance Monitoring & Testing:</b> Conducting regular internal checks and reviews to ensure that business processes are adhering to the established compliance policies.</li></ul>"
+          "label": "What is a Regulatory Specialist?",
+          "description": "<p>A <b>Compliance & Regulatory Specialist</b> is the bridge between a financial company and the law. They ensure the company doesn't accidentally break rules set by <b>SEBI</b> (Capital Markets) or <b>RBI</b> (Banking).</p>  <p>In India, regulations change frequently. A specialist interprets complex circulars and converts them into simple business rules. They are the guardians of the company's license.</p><p><b>Core Responsibilities:</b></p><ul><li><b>Regulatory Watch:</b> Waking up every morning and checking the RBI/SEBI websites for new 'Master Directions' or 'Circulars'.</li><li><b>Liaisoning:</b> Acting as the face of the company when meeting with regulators or responding to 'Show Cause Notices'.</li><li><b>Reporting:</b> Filing mandatory reports (like the Half-Yearly Compliance Report) accurately and on time.</li><li><b>Advisory:</b> Telling the business team <i>'No, you can't launch this product because it violates Section 45 of the RBI Act'</i>.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to a Regulatory Career",
+      "title": "Education & Qualifications",
       "nodes": [
         {
           "id": "educational-path-compliance",
-          "label": "Essential Qualifications & Career Progression",
-          "description": "<p>The path to a career in regulatory compliance is built on a foundation of specific professional qualifications and a deep understanding of Indian corporate and financial laws.</p><ul><li><b>Key Qualifications:</b> The most direct and sought-after qualifications for this role are <b>Company Secretary (CS)</b> and a Bachelor of Laws (<b>LLB</b>). A <b>Chartered Accountant (CA)</b> qualification is also highly valued, especially in roles with a financial reporting compliance angle.</li><li><b>Continuous Learning:</b> The regulatory landscape is constantly changing. A successful compliance specialist must have a habit of staying updated with the latest circulars on the SEBI and RBI websites.</li><li><b>Career Progression:</b> The journey typically starts as a Compliance Executive or Analyst. With 3-5 years of experience, one can become an Assistant Manager, progressing to a <b>Compliance Manager</b> (8-12 years), and eventually aiming for the senior leadership role of <b>Head of Compliance</b> or <b>Chief Compliance Officer</b>.</li></ul>"
+          "label": "Education: The CS/Law Dominance",
+          "description": "<p>This role requires the ability to read and interpret the law.</p><ul><li><b>Company Secretary (CS):</b> The <b>Gold Standard</b>. A CS is trained specifically in corporate governance and compliance, making them the default choice for these roles.</li><li><b>Law (LLB/LLM):</b> Extremely valuable. A law degree helps in interpreting complex statutes like <b>FEMA (Foreign Exchange Management Act)</b> or <b>PMLA (Money Laundering Act)</b>.</li><li><b>Chartered Accountant (CA):</b> Preferred for roles involving <b>Financial Regulatory Reporting</b> (e.g., submitting capital adequacy data to RBI).</li><li><b>Certifications:</b> <b>CAMS (Anti-Money Laundering)</b> or <b>NISM (Securities Market)</b> certifications add significant value.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-compliance",
+          "label": "Regulatory Tools & Portals",
+          "description": "<p>A specialist must master the government's digital portals.</p>  <ul><li><b>Government Portals:</b></li><ul><li><b>SEBI SCORES:</b> The platform for handling investor grievances.</li><li><b>RBI e-Kuber / XBRL:</b> The core banking solution and reporting platform for submitting data to the Reserve Bank.</li><li><b>FIU-IND (FINNET):</b> The portal for reporting suspicious transactions (STRs) related to money laundering.</li></ul><li><b>Hard Skills:</b></li><ul><li><b>Drafting:</b> Writing clear, unambiguous policies and responses to regulatory queries.</li><li><b>Interpretation:</b> The ability to read a 50-page notification and summarize the 3 action items for the CEO.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-compliance",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>Compliance specialists are in high demand across the entire spectrum of the Indian financial services industry.</p><ul><li><b>Banks & NBFCs:</b> All major banks (<b>HDFC Bank, ICICI Bank, SBI</b>) and Non-Banking Financial Companies (<b>Bajaj Finserv, Shriram Finance</b>) have large compliance teams to manage RBI regulations.</li><li><b>Brokerage Firms & Stock Exchanges:</b> Companies like <b>Zerodha, Angel One</b>, and the exchanges themselves (<b>NSE, BSE</b>) require strong compliance teams to adhere to SEBI rules.</li><li><b>Asset Management Companies (AMCs):</b> Mutual fund houses like <b>HDFC AMC, ICICI Prudential AMC</b>, are strictly regulated by SEBI and are major employers of compliance professionals.</li><li><b>Fintech Companies:</b> India's leading fintech players (<b>Paytm, Razorpay, PhonePe</b>) operate under various RBI and SEBI licenses and have a critical need for skilled compliance specialists to navigate the complex regulatory environment.</li><li><b>Law Firms & Consulting:</b> Top corporate law firms and Big 4 consulting firms have specialized regulatory advisory practices that hire these professionals.</li></ul>"
+          "label": "Where do they work?",
+          "description": "<p>Demand is high because every financial entity needs a license to operate.</p><ul><li><b>Banks & NBFCs (RBI Focus):</b> <b>HDFC, ICICI, Bajaj Finance</b>. Focus on lending norms, KYC, and NPA classification.</li><li><b>Capital Markets (SEBI Focus):</b> <b>Zerodha, Groww, Mutual Funds (AMCs)</b>. Focus on insider trading, front-running, and broker regulations.</li><li><b>FinTechs:</b> <b>Paytm, PhonePe, Razorpay</b>. They hire aggressively to navigate the grey areas of digital payments and lending.</li><li><b>Consulting (Big 4):</b> <b>Deloitte, EY, KPMG</b>. They have 'Regulatory Advisory' teams that help clients prepare for RBI/SEBI inspections.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
       "nodes": [
         {
-          "id": "salary-package-compliance",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation for compliance professionals is strong and stable, reflecting the critical nature of their work and the high demand for their skills.</p><ul><li><b>Junior/Entry-Level Specialist (0-4 years experience):</b> The annual compensation typically ranges from <b>₹7 Lakhs to ₹15 Lakhs LPA</b>.</li><li><b>Compliance Manager (5-10 years experience):</b> Can expect to earn between <b>₹18 Lakhs and ₹35 Lakhs LPA</b>.</li><li><b>Head of Compliance / Senior Leader (12+ years experience):</b> For professionals leading the compliance function, compensation often ranges from <b>₹40 Lakhs to ₹80 Lakhs+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the size and complexity of the organization, the city of employment, and the candidate's specific qualifications (e.g., a CS with an LLB from a top law school will command a premium).</i></p>"
+          "id": "career-progression-compliance",
+          "label": "Career Ladder",
+          "description": "<p>The path leads to the C-Suite, with high responsibility.</p><ol><li><b>Compliance Executive / Analyst:</b> Monitoring alerts, filing basic returns, and doing KYC checks.</li><li><b>Compliance Manager:</b> Handling a specific regulation (e.g., 'Manager - SEBI Compliance'). Interacting with regulatory officers.</li><li><b>VP / Head of Regulatory Affairs:</b> Strategizing with the CEO on new business licenses.</li><li><b>Chief Compliance Officer (CCO):</b> A 'Key Managerial Personnel' (KMP). They report directly to the Board and can be held personally liable for non-compliance.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
+      "nodes": [
+        {
+          "id": "salary-compensation-compliance",
+          "label": "Salary & The 'Risk Premium'",
+          "description": "<p>Salaries have skyrocketed as regulators have become stricter. Companies pay a premium for 'safety'.</p><ul><li><b>Entry-Level (0-4 Years):</b><br><b>₹7 Lakhs to ₹15 Lakhs per annum (LPA)</b>.<br><i>Fresh CS/LLBs in FinTechs often start higher than in traditional banks.</i></li><li><b>Mid-Level (Manager - 5-10 Years):</b><br><b>₹18 Lakhs to ₹35 Lakhs LPA</b>.<br><i>Specialists in 'FEMA' or 'Digital Lending' command the highest pay here.</i></li><li><b>Senior-Level (Head/CCO):</b><br><b>₹50 Lakhs to ₹1.2 Crores+ LPA</b>.<br>The CCO of a large bank or unicorn startup is a highly paid strategic leader.</li></ul>"
         }
       ]
     }

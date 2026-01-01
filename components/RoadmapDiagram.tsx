@@ -444,26 +444,47 @@ export default function StaticRoadmap({ roadmap }: { roadmap: Roadmap }) {
           </div>
         </div>
       </div>
+      {selectedNode && (
+  <div
+    className="fixed inset-0 z-20 bg-black/20 backdrop-blur-sm"
+    onClick={() => setSelectedNode(null)}
+  />
+)}
 
-      {/* Details drawer */}
-      <div
-        className={`fixed right-0 top-0 z-30 h-full w-[800px] max-w-[95vw] transform border-l border-indigo-200 dark:border-gray-700 bg-white dark:bg-black shadow-xl transition-transform duration-300 translate-x-0' ${
+
+{/* Details drawer */}
+<div
+        className={`fixed right-0 top-0 z-[100] h-full w-[800px] max-w-[95vw] transform border-l border-indigo-200 dark:border-gray-700 bg-white dark:bg-black shadow-2xl transition-transform duration-300 ${
           selectedNode ? "translate-x-0" : "translate-x-full"
         }`}
       >
-        <div className="flex items-center justify-between border-b border-indigo-100 dark:border-gray-700 p-3">
-          <div className="text-base font-medium text-slate-800 dark:text-gray-200">
-            Details
-          </div>
+        {/* Header Section */}
+        <div className="flex items-center justify-between border-b border-indigo-100 dark:border-gray-700 p-4 bg-white/50 dark:bg-black/50 backdrop-blur-sm">
+          <h3 className="text-lg font-bold text-slate-800 dark:text-gray-100">
+          Step Overview
+          </h3>
+
+          {/* Close Button - Using SVG and z-index fix */}
           <button
             type="button"
             onClick={() => setSelectedNode(null)}
-            className="rounded-md border border-slate-300 dark:border-gray-600 px-2 py-1 text-xs text-slate-700 dark:text-gray-300 hover:bg-slate-50 dark:hover:bg-gray-700"
+            className="rounded-full p-2 text-slate-500 hover:bg-slate-100 hover:text-red-600 dark:text-slate-400 dark:hover:bg-slate-800 dark:hover:text-red-400 transition-colors"
+            aria-label="Close details"
           >
-            Close
+            <svg 
+              className="h-6 w-6" 
+              fill="none" 
+              viewBox="0 0 24 24" 
+              stroke="currentColor" 
+              strokeWidth="2.5"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+            </svg>
           </button>
         </div>
-        <div className="h-[calc(100%-44px)] overflow-y-auto p-4">
+
+        {/* Content Section */}
+        <div className="h-[calc(100%-65px)] overflow-y-auto p-6">
           {selectedNode ? (
             <NodeDetails
               node={selectedNode}
@@ -474,6 +495,7 @@ export default function StaticRoadmap({ roadmap }: { roadmap: Roadmap }) {
           ) : null}
         </div>
       </div>
+
     </div>
   );
 }

@@ -9,38 +9,53 @@
       "nodes": [
         {
           "id": "what-is-claims-manager",
-          "label": "What is a Claims Manager and their Responsibilities?",
-          "description": "<p>A <b>Claims Manager</b> is a seasoned insurance professional who oversees the entire claims process, from the moment a customer reports a loss to the final settlement. This role is the operational core of any insurance company, as it directly impacts customer satisfaction, profitability, and the company's reputation. In India, the role is heavily governed by the regulations set by the <b>Insurance Regulatory and Development Authority of India (IRDAI)</b> to ensure fair and timely settlement of claims.</p><p>Their primary responsibility is to ensure that genuine claims are paid promptly and accurately while protecting the company from fraudulent claims. Key responsibilities include:</p><ul><li><b>Claim Investigation:</b> Overseeing the investigation of claims, which may involve appointing external surveyors, investigators, or medical experts to assess the validity and value of the loss.</li><li><b>Policy Interpretation:</b> Analyzing the insurance policy terms and conditions to determine if the reported loss is covered.</li><li><b>Reserving & Settlement:</b> Setting aside an adequate financial reserve for the claim and negotiating a fair settlement with the policyholder or their representatives.</li><li><b>Team Management:</b> Leading and training a team of claims executives and officers to handle claims efficiently and empathetically.</li></ul>"
+          "label": "What is a Claims Manager?",
+          "description": "<p>A <b>Claims Manager</b> handles the 'Moment of Truth' in insurance—when a customer actually faces a loss (accident, hospitalization, death) and needs money.</p>  <p>In India, this role is the operational core of companies like <b>LIC, HDFC ERGO, or Star Health</b>. The manager's job is to balance two opposing forces: paying genuine claims fast (Customer Satisfaction) while rejecting fake ones (Fraud Control).</p><p><b>Core Responsibilities:</b></p><ul><li><b>Investigation:</b> Determining if the fire was accidental or arson, or if the hospital bill is inflated.</li><li><b>Policy Interpretation:</b> Reading the 'fine print'. Does the policy cover a pre-existing disease? Is water damage covered in the car insurance policy?</li><li><b>Reserving:</b> Estimating how much money the company needs to set aside immediately when a disaster happens.</li><li><b>Negotiation:</b> Settling with policyholders or lawyers on the final payout amount.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to Becoming a Claims Professional",
+      "title": "Education & Certifications",
       "nodes": [
         {
           "id": "educational-path-claims",
-          "label": "Essential Educational & Professional Qualifications",
-          "description": "<p>A career in claims management requires a blend of analytical, legal, and interpersonal skills.</p><ul><li><b>Core Education:</b> A bachelor's degree in any field (like Commerce, Arts, or Science) is the minimum requirement. For specialized fields like engineering or marine insurance, a degree in a relevant technical field is often preferred.</li><li><b>Industry-Specific Qualifications:</b> This is what truly sets a candidate apart in the Indian insurance industry. The certifications from the <b>Insurance Institute of India (III)</b> are considered essential for career growth. The typical progression is:<ul><li><b>Licentiate:</b> The foundational qualification.</li><li><b>Associate:</b> A highly respected and often required qualification for management roles.</li><li><b>Fellowship:</b> The highest level of professional qualification from the III.</li></ul></li><li><b>Postgraduate Studies:</b> A postgraduate diploma or an MBA in Insurance from institutions like the National Insurance Academy (NIA), Pune, can provide a significant career boost.</li></ul>"
+          "label": "Education & The III Exams",
+          "description": "<p>You don't need a specific degree, but you do need industry certifications.</p><ul><li><b>Bachelor's Degree:</b> Any stream works (B.Com/B.A./B.Sc). For <b>Health Insurance</b>, a background in Pharmacy/BAMS/Nursing is a huge advantage. For <b>Motor/Engineering</b> claims, a B.Tech is preferred.</li><li><b>The Industry Standard: Insurance Institute of India (III):</b> Just like CAs have ICAI, insurers have the III. Passing these exams is often linked to promotions.<ul><li><b>Licentiate:</b> The basic level.</li><li><b>Associate (AIII):</b> The standard for managers.</li><li><b>Fellow (FIII):</b> The expert level.</li></ul></li><li><b>Specialized Institutes:</b> A PG Diploma from the <b>National Insurance Academy (NIA), Pune</b> is the most prestigious qualification in this sector.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-claims",
+          "label": "Required Skills & Tech Stack",
+          "description": "<p>Claims management is becoming increasingly digital to speed up turn-around time (TAT).</p><ul><li><b>Key Skills:</b></li><ul><li><b>Empathy:</b> Dealing with people who have just lost a car, a house, or a loved one.</li><li><b>Fraud Detection:</b> Spotting red flags (e.g., 'staging' an accident or fake hospital bills).</li><li><b>Medical/Technical Knowledge:</b> Understanding medical codes (ICD-10) for health claims or car parts depreciation for motor claims.</li></ul><li><b>Tools & Technology:</b></li><ul><li><b>Core Insurance Platforms:</b> Proficiency in systems like <b>TCS BaNCS</b> or <b>Guidewire</b> used by major insurers.</li><li><b>IIB Database:</b> Using the <b>Insurance Information Bureau</b> portal to check if the same claim has been made to multiple insurers.</li><li><b>MS Excel:</b> Heavily used for tracking Loss Ratios and 'Incurred But Not Reported' (IBNR) data.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-claims",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>Claims professionals are the backbone of the insurance industry and are employed across various sectors.</p><ul><li><b>Public Sector General Insurers:</b> Companies like <b>New India Assurance, United India Insurance, and The Oriental Insurance Company</b> are massive employers of claims professionals across India.</li><li><b>Private Sector Insurers (General & Health):</b> Major players like <b>ICICI Lombard, Bajaj Allianz General Insurance, HDFC ERGO, and Star Health Insurance</b> have large and sophisticated claims departments.</li><li><b>Life Insurers:</b> Both public (<b>LIC of India</b>) and private (<b>HDFC Life, ICICI Prudential Life</b>) companies have claims teams that handle maturity, death, and disability claims.</li><li><b>Third-Party Administrators (TPAs):</b> Companies like <b>Medi Assist, Vidal Health, and Family Health Plan (FHPL)</b> specialize in processing health insurance claims on behalf of insurance companies and are major employers.</li></ul>"
+          "label": "Employers & Job Roles",
+          "description": "<p>The industry is split between the companies taking the risk and the companies processing the paperwork.</p><ul><li><b>The Insurers (Risk Carriers):</b></li><ul><li><b>Public Sector (PSU):</b> New India Assurance, LIC, Oriental Insurance. (Stable jobs, recruitment via exams).</li><li><b>Private Sector:</b> ICICI Lombard, Bajaj Allianz, Tata AIG. (Higher pay, faster growth).</li></ul><li><b>Third-Party Administrators (TPAs):</b> Companies like <b>Medi Assist, Vidal Health, MDIndia</b>. They process millions of health claims for insurers. They are the biggest recruiters for entry-level roles.</li><li><b>Surveyors & Loss Assessors:</b> Independent professionals licensed by IRDAI who go to the accident site to assess damage.</li></ul>"
+        },
+        {
+          "id": "career-progression-claims",
+          "label": "Career Progression Path",
+          "description": "<p>Growth in claims is based on 'Authority Limits'—how much money you are allowed to approve.</p><ol><li><b>Claims Executive / Processor:</b> Checks documents, enters data. Authority: ₹0 (Recommendation only).</li><li><b>Claims Manager:</b> Investigates cases, manages a team of executives. Authority: Up to ₹5 Lakhs.</li><li><b>Regional Claims Head:</b> Manages all claims in a state. Authority: Up to ₹50 Lakhs.</li><li><b>National Claims Head / CCO:</b> Sets the company's claims philosophy. Authority: Unlimited (Jointly with Committee).</li></ol>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Salary & Compensation",
       "nodes": [
         {
           "id": "salary-package-claims",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation in claims management is stable and grows steadily with experience and professional qualifications.</p><ul><li><b>Entry-Level (Claims Executive/Officer):</b> A graduate joining an insurance company or TPA can expect a starting salary of <b>₹3 Lakhs to ₹6 Lakhs per annum (LPA)</b>.</li><li><b>Mid-Level (Assistant/Claims Manager with 5-10 years experience & III qualifications):</b> Typically earns between <b>₹8 Lakhs and ₹18 Lakhs LPA</b>.</li><li><b>Senior-Level (Head of Claims/Chief Claims Officer):</b> A senior leader in a large insurance company is a critical role and can command a salary from <b>₹40 Lakhs to over ₹1 Crore LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on factors such as the type of insurer (public vs. private), location, professional qualifications (an III Fellow will earn more), and the line of business (e.g., complex commercial claims vs. retail motor claims).</i></p>"
+          "label": "Salary Structure",
+          "description": "<p>Salaries vary wildly between TPAs (Processors) and Insurers (Decision Makers).</p><ul><li><b>Entry-Level (TPA / BPO):</b><br><b>₹2.5 Lakhs to ₹4 Lakhs per annum (LPA)</b>.<br><i>Often involves night shifts or high-volume processing.</i></li><li><b>Entry-Level (Direct Insurer):</b><br><b>₹4.5 Lakhs to ₹7 Lakhs LPA</b>.<br>Hired from MBA campuses or NIA Pune.</li><li><b>Mid-Level (Manager with FIII certification):</b><br><b>₹12 Lakhs to ₹22 Lakhs LPA</b>.<br><i>Note: Technical claims managers (like Marine/Cyber) earn more than Motor/Health managers.</i></li><li><b>Senior-Level (Head of Claims):</b><br><b>₹50 Lakhs to ₹1.2 Crores+ LPA</b>.<br>Responsible for the company's profitability (Loss Ratio).</li></ul>"
         }
       ]
     }

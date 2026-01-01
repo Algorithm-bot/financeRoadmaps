@@ -9,38 +9,58 @@
       "nodes": [
         {
           "id": "what-is-fintech-pm",
-          "label": "What is a Fintech Product Manager and their Responsibilities?",
-          "description": "<p>A <b>Fintech Product Manager (PM)</b> is the strategic driver behind a financial technology product. They are responsible for the product's entire lifecycle, from ideation and development to launch and growth. In the vibrant Indian fintech landscape, this means creating products that leverage unique infrastructures like UPI and Aadhaar to solve financial problems for millions of users. They act as the CEO of their product, balancing user needs, business goals, and technological feasibility.</p><p>Key responsibilities are a dynamic mix of strategy, execution, and collaboration:</p><ul><li><b>User Research & Strategy:</b> Conducting deep user research to identify pain points and defining the product vision, strategy, and roadmap.</li><li><b>Execution & Delivery:</b> Writing detailed Product Requirement Documents (PRDs), creating user stories, and working closely with engineering and design teams in an agile environment to build and ship products.</li><li><b>Regulatory Understanding:</b> Working alongside compliance teams to ensure the product adheres to the guidelines set by regulators like the <b>RBI and NPCI</b>.</li><li><b>Growth & Analytics:</b> Defining and analyzing metrics (like activation, retention, and monetization) to make data-driven decisions for product improvement.</li><li><b>Stakeholder Management:</b> Communicating the product roadmap and progress to all stakeholders, including senior leadership, marketing, and operations.</li></ul>"
+          "label": "What is a Fintech Product Manager?",
+          "description": "<p>A <b>Fintech Product Manager (PM)</b> is the CEO of a financial product. They sit at the intersection of <b>Tech, Business, and Regulation</b>.</p>  <p>In India, this means building on top of the 'India Stack' (UPI, Aadhaar). You aren't just building a button; you are building a button that moves money, which means it must be secure, compliant, and instant.</p><p><b>Core Responsibilities:</b></p><ul><li><b>User Research:</b> Understanding why a shopkeeper prefers a Soundbox over a QR code.</li><li><b>Roadmapping:</b> Deciding what to build next (e.g., 'Should we launch BNPL or a Credit Card?').</li><li><b>Regulatory Navigation:</b> Working with Legal/Compliance to ensure the product doesn't violate <b>RBI</b> or <b>NPCI</b> guidelines.</li><li><b>Execution:</b> Writing PRDs (Product Requirement Documents) and guiding engineers to ship features on time.</li></ul>"
         }
       ]
     },
     {
-      "title": "The Path to a Product Career",
+      "title": "Education & Entry",
       "nodes": [
         {
           "id": "educational-path-fintech-pm",
-          "label": "Essential Qualifications & Core Skills",
-          "description": "<p>The path to a Fintech PM role is highly competitive and values both technical and business expertise.</p><ul><li><b>Educational Background:</b> A Bachelor's degree in Engineering (<b>B.E./B.Tech</b>) or Computer Science is a very common starting point, as it provides a strong technical foundation. This is often complemented by a Master's in Business Administration (<b>MBA</b>) from a top-tier institution, which builds business acumen.</li><li><b>Key Skills:</b><ul><li><b>Product Management Fundamentals:</b> Mastery of concepts like user personas, journey mapping, prioritization frameworks, and agile methodologies.</li><li><b>Technical Acumen:</b> A strong understanding of technology, including system architecture and APIs. You don't need to be a coder, but you must be able to communicate effectively with engineers.</li><li><b>Data Analysis:</b> Proficiency in using data to make decisions. Skills in SQL and experience with analytics tools are highly valued.</li><li><b>Domain Knowledge:</b> Deep curiosity and understanding of the financial services domain, including payments (UPI, cards), lending, or investments.</li></ul></li></ul>"
+          "label": "Education: The MBA/Tech Combo",
+          "description": "<p>Fintech is complex, so employers look for smart generalists.</p><ul><li><b>B.Tech + MBA:</b> The most common profile. Engineering helps you understand APIs, and an MBA (from IIMs/ISB) helps you understand Business Models.</li><li><b>The APM Route:</b> Top companies like <b>Flipkart, Cred, and Razorpay</b> hire fresh graduates for <b>Associate Product Manager (APM)</b> programs. This is the 'Golden Ticket' entry.</li><li><b>Domain Switch:</b> Many PMs transition from <b>Software Engineering</b> or <b>Management Consulting</b> roles.</li></ul>"
         }
       ]
     },
     {
-      "title": "Career Path & Top Employers",
+      "title": "Skills & Tools",
+      "nodes": [
+        {
+          "id": "essential-skills-tools-fintech-pm",
+          "label": "The Fintech PM Stack",
+          "description": "<p>You need to speak the language of developers and bankers.</p><ul><li><b>Hard Skills:</b></li><ul><li><b>API Literacy:</b> Understanding how APIs work (REST/JSON) is crucial. You must know how to read <b>API Documentation</b> to integrate payment gateways.</li><li><b>SQL:</b> You cannot rely on analysts for everything. You need to write queries to check transaction failure rates.</li><li><b>Regulatory Knowledge:</b> Deep understanding of <b>KYC, AML, UPI Flow, and PPI (Prepaid Instruments)</b> guidelines.</li></ul><li><b>Tools of the Trade:</b></li><ul><li><b>Postman:</b> For testing APIs.</li><li><b>Figma:</b> For creating wireframes and prototypes.</li><li><b>Mixpanel / Amplitude:</b> For tracking user behavior (e.g., 'Where do users drop off during the KYC process?').</li><li><b>Jira:</b> For managing engineering sprints.</li></ul></ul>"
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities",
       "nodes": [
         {
           "id": "job-opportunities-fintech-pm",
-          "label": "Job Opportunities & Key Employers",
-          "description": "<p>Fintech Product Managers are among the most in-demand professionals in India's technology sector.</p><ul><li><b>Payments Companies:</b> India's payment giants are the biggest recruiters. This includes <b>Paytm, PhonePe, Google Pay, and Razorpay</b>.</li><li><b>Neobanks & Digital Banks:</b> Challenger banks like <b>Jupiter, Fi, and Niyo</b> are constantly hiring PMs to build innovative banking products.</li><li><b>Wealth-Tech & Brokerage:</b> Platforms like <b>Groww, Zerodha, and Upstox</b> hire PMs to build intuitive investment and trading experiences.</li><li><b>Lending-Tech:</b> Companies in the digital lending space, such as <b>CRED, Slice, and various NBFCs' digital arms</b>, are major employers.</li><li><b>Global Capability Centers (GCCs):</b> The India innovation centers for global firms like <b>J.P. Morgan, Goldman Sachs, and Visa</b> also have significant product management teams.</li></ul>"
+          "label": "Who Hires Fintech PMs?",
+          "description": "<p>Fintech is the hottest hiring sector in India.</p><ul><li><b>Payments Giants:</b> <b>PhonePe, Google Pay, Paytm, Razorpay</b>. Focus on high-volume transaction reliability.</li><li><b>Lending Tech:</b> <b>CRED, Slice, Navi</b>. Focus on credit scoring models and user retention.</li><li><b>Wealth Tech:</b> <b>Zerodha, Groww, Smallcase</b>. Focus on simplifying complex stock market data for retail users.</li><li><b>Neo-Banks:</b> <b>Jupiter, Fi</b>. Focus on building a better UI/UX than traditional banks.</li></ul>"
         }
       ]
     },
     {
-      "title": "Compensation",
+      "title": "Career Progression",
+      "nodes": [
+        {
+          "id": "career-progression-fintech-pm",
+          "label": "The Product Ladder",
+          "description": "<p>The path is fast-paced and high-visibility.</p><ol><li><b>Associate Product Manager (APM):</b> Execution focus. Fixing bugs and shipping small features.</li><li><b>Product Manager (PM):</b> Owning a specific feature (e.g., 'The Checkout Page'). Responsible for metrics like Conversion Rate.</li><li><b>Senior PM / Group PM:</b> Managing a product line (e.g., 'Lending Vertical') and mentoring junior PMs.</li><li><b>Director of Product / CPO:</b> Strategy focus. Deciding the future of the company and managing the P&L.</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Salary & Compensation",
       "nodes": [
         {
           "id": "salary-package-fintech-pm",
-          "label": "Salary Package & Compensation",
-          "description": "<p>Compensation for Fintech Product Managers in India is at the top end of the tech industry salary spectrum, often including lucrative stock options (ESOPs).</p><ul><li><b>Associate / Product Manager (1-4 years experience):</b> The annual compensation typically ranges from <b>₹18 Lakhs to ₹35 Lakhs LPA</b>.</li><li><b>Senior Product Manager (5-8 years experience):</b> Can expect to earn between <b>₹40 Lakhs and ₹70 Lakhs LPA</b>.</li><li><b>Group PM / Director of Product (8+ years experience):</b> For experienced professionals leading multiple product lines, compensation often ranges from <b>₹80 Lakhs to ₹1.5 Crore+ LPA</b>.</li></ul><p><i><b>Disclaimer:</b> These figures are indicative and can vary significantly based on the company's funding stage (well-funded startups and established tech giants pay a premium), the city of employment (Bengaluru, Mumbai, and Gurgaon are top markets), and the candidate's educational background and past experience.</i></p>"
+          "label": "Salary & ESOPs",
+          "description": "<p>Fintech PMs are among the highest-paid professionals in India, often out-earning engineers.</p><ul><li><b>Entry-Level (APM):</b><br><b>₹15 Lakhs to ₹25 Lakhs per annum (LPA)</b>.<br><i>Top startups (like CRED) are known to pay even higher for APMs.</i></li><li><b>Mid-Level (PM - 3-6 Years):</b><br><b>₹30 Lakhs to ₹55 Lakhs LPA</b>.<br><i>Experience in 'Payments' or 'Lending' commands a premium.</i></li><li><b>Senior-Level (Group PM / Director):</b><br><b>₹70 Lakhs to ₹1.5 Crores+ LPA</b>.<br><i>At this level, ESOPs (Stock Options) are a massive component, potentially worth crores during an IPO or buyout.</i></li></ul>"
         }
       ]
     }
