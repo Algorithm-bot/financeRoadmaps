@@ -7,7 +7,7 @@ export default function Footer() {
           
           {/* Main Copyright / Brand Line */}
           <p className="text-xm font-medium text-slate-900 dark:text-slate-200">
-            © {currentYear} FinanceBlueprint. All rights reserved.
+            © {currentYear} FinRasta. All rights reserved.
           </p>
   
           {/* Disclaimer Section */}

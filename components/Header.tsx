@@ -1,5 +1,6 @@
 "use client"
 import Link from 'next/link'
+import Image from 'next/image'
 import { useTheme } from 'next-themes'
 import { useEffect, useState } from 'react'
 import { useAuth } from './AuthProvider'
@@ -81,12 +82,16 @@ export default function Header() {
           onClick={() => setIsMobileMenuOpen(false)}
           className="flex items-center gap-2.5 font-bold tracking-tight text-slate-900 transition-opacity hover:opacity-80 dark:text-white"
         >
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-blue-600 to-emerald-500 shadow-sm shadow-emerald-500/20">
-            <svg className="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
-            </svg>
+          <div className="flex h-8 w-8 items-center justify-center rounded-lg overflow-hidden">
+            <Image 
+              src="/favicon.png" 
+              alt="FinRasta Logo" 
+              width={32} 
+              height={32}
+              className="object-contain"
+            />
           </div>
-          <span className="text-lg">FinanceBlueprint</span>
+          <span className="text-lg">FinRasta</span>
         </Link>
 
         {/* --- Right Actions (Desktop & Mobile) --- */}
